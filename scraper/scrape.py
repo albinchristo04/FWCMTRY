@@ -12,31 +12,16 @@ from scraper.normalizer import build_output, normalize_match
 SOURCE_URL = "https://icdb.tv/"
 OUTPUT_PATH = Path("data/matches.json")
 
-# CSS selectors must be verified against live icdb.tv HTML on first run.
-# Open DevTools -> Elements, find the repeating match container, and update
-# baseSelector and field selectors to match the actual DOM structure.
 _SCHEMA = {
     "name": "matches",
-    "baseSelector": ".match-row, .fixture-item, tr.match, .match-card",
+    "baseSelector": ".match-row",
     "fields": [
-        {"name": "title", "selector": ".match-title, .fixture-name, h3, h2", "type": "text"},
-        {"name": "date", "selector": ".match-date, .date, time", "type": "text"},
-        {"name": "time", "selector": ".match-time, .time, .fixture-time", "type": "text"},
-        {"name": "tournament", "selector": ".tournament, .competition, .league", "type": "text"},
-        {"name": "venue", "selector": ".venue, .ground, .stadium", "type": "text"},
-        {
-            "name": "channels",
-            "selector": ".channel, .broadcaster, .channel-name",
-            "type": "text",
-            "multiple": True,
-        },
-        {
-            "name": "commentators",
-            "selector": ".commentator, .commenter, .commentator-name",
-            "type": "text",
-            "multiple": True,
-        },
-        {"name": "match_url", "selector": "a", "type": "attribute", "attribute": "href"},
+        {"name": "title", "selector": ".col-match a", "type": "text"},
+        {"name": "datetime", "selector": ".col-date .local-time", "type": "text"},
+        {"name": "tournament", "selector": ".col-comp", "type": "text"},
+        {"name": "channels", "selector": ".col-chan", "type": "text"},
+        {"name": "commentators", "selector": ".col-contrib", "type": "text"},
+        {"name": "match_url", "selector": ".col-match a", "type": "attribute", "attribute": "href"},
     ],
 }
 
@@ -44,7 +29,7 @@ _SCHEMA = {
 async def scrape() -> list[dict]:
     browser_cfg = BrowserConfig(browser_type="chromium", headless=True)
     run_cfg = CrawlerRunConfig(
-        wait_for="css:.match-row, .fixture-item, tr.match, .match-card",
+        wait_for="css:#resultsdata",
         extraction_strategy=JsonCssExtractionStrategy(_SCHEMA),
     )
 

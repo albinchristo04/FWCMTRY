@@ -9,17 +9,37 @@ def normalize_match(raw: dict, source_url: str) -> dict:
     title = (raw.get("title") or "").strip()
     if title:
         match["title"] = title
-        parts = re.split(r"\s+vs\.?\s+", title, flags=re.IGNORECASE)
+        # icdb.tv uses "Team v Team"; also handle "Team vs Team" for other sources
+        parts = re.split(r"\s+vs?\.?\s+", title, flags=re.IGNORECASE)
         if len(parts) == 2:
             match["teams"] = [p.strip() for p in parts]
 
-    for field in ("date", "time", "tournament", "venue"):
+    # Handle combined datetime field from icdb.tv ("28/06/2026 05:00")
+    datetime_str = (raw.get("datetime") or "").strip()
+    if datetime_str:
+        dt_parts = datetime_str.split(" ", 1)
+        match["date"] = dt_parts[0]
+        if len(dt_parts) == 2:
+            match["time"] = dt_parts[1]
+    else:
+        for field in ("date", "time"):
+            val = (raw.get(field) or "").strip()
+            if val:
+                match[field] = val
+
+    for field in ("tournament", "venue"):
         val = (raw.get(field) or "").strip()
         if val:
             match[field] = val
 
     for field in ("channels", "commentators"):
-        items = [s.strip() for s in (raw.get(field) or []) if (s or "").strip()]
+        val = raw.get(field)
+        if isinstance(val, str):
+            items = [s.strip() for s in val.split(",") if s.strip()]
+        elif isinstance(val, list):
+            items = [s.strip() for s in val if (s or "").strip()]
+        else:
+            items = []
         if items:
             match[field] = items
 
