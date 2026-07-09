@@ -1,8 +1,39 @@
 {
-  "scraped_at": "2026-07-08T21:05:57.008791+00:00",
+  "scraped_at": "2026-07-09T02:44:09.524279+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 15,
+  "total_matches": 10,
   "matches": [
+    {
+      "title": "Spain v Belgium",
+      "teams": [
+        "Spain",
+        "Belgium"
+      ],
+      "date": "10/07/2026",
+      "time": "19:00",
+      "tournament": "FIFA WORLD CUP 2026",
+      "channels": [
+        "RTÉ 2 Ireland / HD",
+        "RTÉ Player (geo/R)",
+        "World Feed",
+        "talkSPORT",
+        "BBC RADIO 5 LIVE",
+        "talkSPORT App",
+        "BBC Sounds APP",
+        "RTVE Play ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "BBC Sport Online (Audio)",
+        "TVE La 1 HD España",
+        "RTVE La 2Cat",
+        "DAZN For Business Italia / HD"
+      ],
+      "commentators": [
+        "Crowe24",
+        "Guest-SC",
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/314945-Spain-v-Belgium"
+    },
     {
       "title": "France v Morocco",
       "teams": [
@@ -13,17 +44,17 @@
       "time": "20:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "DAZN For Business Italia / HD",
-        "DAZN Italia ($/geo/R)",
         "RTÉ 2 Ireland / HD",
         "RTÉ Player (geo/R)",
-        "World Feed",
         "beIN Sports France 1 HD",
+        "World Feed",
         "talkSPORT",
-        "talkSPORT App"
+        "BBC RADIO 5 LIVE",
+        "talkSPORT App",
+        "BBC Sounds APP",
+        "DAZN Italia ($/geo/R)",
+        "BBC Sport Online (Audio)",
+        "DAZN For Business Italia / HD"
       ],
       "commentators": [
         "Crowe24",
@@ -58,10 +89,12 @@
       "tournament": "UEFA U-19 Championships",
       "channels": [
         "Sportdigital FUSSBALL HD",
+        "World Feed",
         "RTL+ Deutschland (geo/R)",
         "DFB-TV"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315134-Ukraine-U19-v-Germany-U19"
@@ -101,6 +134,23 @@
       "match_url": "https://icdb.tv/match/315061-Vitebsk-v-Universitatea-Craiova"
     },
     {
+      "title": "Austria Vienna v Dunajská Streda",
+      "teams": [
+        "Austria Vienna",
+        "Dunajská Streda"
+      ],
+      "date": "08/07/2026",
+      "time": "16:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Krone.tv"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315349-Austria-Vienna-v-Dunajsk-Streda"
+    },
+    {
       "title": "Flora Tallinn v Iberia 1999",
       "teams": [
         "Flora Tallinn",
@@ -128,9 +178,11 @@
       "tournament": "UEFA U-19 Championships",
       "channels": [
         "Sportdigital FUSSBALL HD",
+        "World Feed",
         "FlashScore Croatia"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "kurtogen"
       ],
@@ -154,240 +206,6 @@
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/315345-Kairat-Almaty-v-Sutjeska"
-    },
-    {
-      "title": "Switzerland v Colombia",
-      "teams": [
-        "Switzerland",
-        "Colombia"
-      ],
-      "date": "07/07/2026",
-      "time": "20:00",
-      "tournament": "FIFA WORLD CUP 2026",
-      "channels": [
-        "NRK Sport",
-        "NRK TV ($/geo/R)",
-        "TSN Canada 4 / HD",
-        "América Peru HD",
-        "TSN Canada 1 / HD",
-        "NHK BS Premium 4K",
-        "TVRI Sport / HD",
-        "Chilevisión",
-        "GEN (Paraguay)",
-        "World Feed",
-        "RAI 4K UHD",
-        "FlashScore Brazil",
-        "NHK General TV (Japan)",
-        "FlashScore France",
-        "Trece (Paraguay)",
-        "FlashScore Romania",
-        "Azteca 7",
-        "DAZN Italia ($/geo/R)",
-        "DR tv [$] (geo/R)",
-        "FlashScore (audio) and73more channels"
-      ],
-      "commentators": [
-        "Bksm",
-        "Bwfcol",
-        "Crowe24",
-        "FlashscoreDE",
-        "Guest-SC",
-        "HWP",
-        "ImpactPlayaz",
-        "SYLVESTRE",
-        "SergioPerez",
-        "apltle12",
-        "ethanh05",
-        "kmw",
-        "kurtogen",
-        "luca80sp",
-        "markasack",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/314542-Switzerland-v-Colombia"
-    },
-    {
-      "title": "Germany U-19 v Austria U-19",
-      "teams": [
-        "Germany U-19",
-        "Austria U-19"
-      ],
-      "date": "07/07/2026",
-      "time": "18:00",
-      "tournament": "UEFA Womens U-19 Championship",
-      "channels": [
-        "Sportdigital FUSSBALL HD",
-        "World Feed",
-        "ORF Sport+ Austria HD",
-        "Sport.tvp.pl [$]",
-        "RTL+ Deutschland (geo/R)",
-        "DFB-TV"
-      ],
-      "commentators": [
-        "HWP",
-        "ethanh05",
-        "kmw",
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/315129-Germany-U19-v-Austria-U19"
-    },
-    {
-      "title": "Shelbourne v Celtic",
-      "teams": [
-        "Shelbourne",
-        "Celtic"
-      ],
-      "date": "07/07/2026",
-      "time": "17:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "Premier Sports 2 HD",
-        "Premier Sports Player UK (£/geo/R)"
-      ],
-      "commentators": [
-        "HWP",
-        "SonnyCorry"
-      ],
-      "match_url": "https://icdb.tv/match/314764-Shelbourne-v-Celtic"
-    },
-    {
-      "title": "Ararat-Armenia v FC Riga",
-      "teams": [
-        "Ararat-Armenia",
-        "FC Riga"
-      ],
-      "date": "07/07/2026",
-      "time": "16:00",
-      "tournament": "UEFA Champions League",
-      "channels": [
-        "ESPN Unlimited (US)",
-        "ESPN+ USA ($/geo/R)",
-        "World Feed"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/315278-AraratArmenia-v-FC-Riga"
-    },
-    {
-      "title": "Argentina v Egypt",
-      "teams": [
-        "Argentina",
-        "Egypt"
-      ],
-      "date": "07/07/2026",
-      "time": "16:00",
-      "tournament": "FIFA WORLD CUP 2026",
-      "channels": [
-        "Disney+ Argentina ($/geo/R)",
-        "Telemundo (usa)",
-        "YLE TV2 Suomi HD",
-        "TV Globo",
-        "ITV1 / HD",
-        "FlashScore Italia",
-        "D Sports (Argentina)",
-        "Telefe (argentina) / HD",
-        "RTVE Play ($/geo/R)",
-        "talkSPORT",
-        "Rádio Gaúcha",
-        "Caracol Televisión",
-        "JTBC (South Korea)",
-        "Teleamazonas",
-        "Rádio Bandeirantes",
-        "SBS On Demand (AUS)",
-        "Flashscore UK",
-        "World Feed",
-        "ORF 1 Austria HD",
-        "RTÉ Player (geo/R) and82more channels"
-      ],
-      "commentators": [
-        "Bksm",
-        "Bwfcol",
-        "Crowe24",
-        "FlashscoreDE",
-        "Guest-SC",
-        "HWP",
-        "ImpactPlayaz",
-        "Johnny17",
-        "Mikhail17",
-        "SYLVESTRE",
-        "apltle12",
-        "ethanh05",
-        "kmw",
-        "kurtogen",
-        "luca80sp",
-        "markasack",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/314541-Argentina-v-Egypt"
-    },
-    {
-      "title": "Spain U-19 v Sweden U-19",
-      "teams": [
-        "Spain U-19",
-        "Sweden U-19"
-      ],
-      "date": "07/07/2026",
-      "time": "14:00",
-      "tournament": "UEFA Womens U-19 Championship",
-      "channels": [
-        "Sportdigital FUSSBALL HD",
-        "World Feed",
-        "Sport.tvp.pl [$]"
-      ],
-      "commentators": [
-        "HWP",
-        "ethanh05",
-        "kmw"
-      ],
-      "match_url": "https://icdb.tv/match/315127-Spain-U19-v-Sweden-U19"
-    },
-    {
-      "title": "United States v Belgium",
-      "teams": [
-        "United States",
-        "Belgium"
-      ],
-      "date": "07/07/2026",
-      "time": "00:00",
-      "tournament": "FIFA WORLD CUP 2026",
-      "channels": [
-        "BBC iPlayer (geo/R)",
-        "Vix Premium (México)",
-        "DAZN Italia ($/geo/R)",
-        "JTBC (South Korea)",
-        "DAZN España ($/geo/R)",
-        "Rádio Bandeirantes",
-        "FlashScore (audio)",
-        "DAZN For Business Italia / HD",
-        "TyC Sports (argentina)",
-        "D Sports (South America)",
-        "talkRadio",
-        "MTV 3 Suomi HD",
-        "Fox (USA)",
-        "Rádio Gaúcha",
-        "RTÉ Player (geo/R)",
-        "BBC Sport Online",
-        "TV4 Sverige HD",
-        "World Feed",
-        "Telemundo (usa)",
-        "RTS 2 Suisse HD and47more channels"
-      ],
-      "commentators": [
-        "Crowe24",
-        "Guest-SC",
-        "ImpactPlayaz",
-        "JACKLUFC",
-        "RussVMedia",
-        "SYLVESTRE",
-        "apltle12",
-        "kmw",
-        "kurtogen",
-        "kuyachris93",
-        "luca80sp",
-        "markasack"
-      ],
-      "match_url": "https://icdb.tv/match/314540-United-States-v-Belgium"
     }
   ]
 }
