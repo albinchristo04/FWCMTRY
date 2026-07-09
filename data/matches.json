@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-09T08:26:42.529147+00:00",
+  "scraped_at": "2026-07-09T12:46:34.041819+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 11,
+  "total_matches": 12,
   "matches": [
     {
       "title": "Spain v Belgium",
@@ -13,24 +13,27 @@
       "time": "19:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "DAZN For Business Italia / HD",
+        "DAZN Italia ($/geo/R)",
+        "Peacock USA ($/geo/R)",
+        "RTVE La 2Cat",
+        "RTVE Play ($/geo/R)",
         "RTÉ 2 Ireland / HD",
         "RTÉ Player (geo/R)",
+        "TVE La 1 HD España",
+        "Telemundo (usa)",
         "World Feed",
         "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "talkSPORT App",
-        "BBC Sounds APP",
-        "RTVE Play ($/geo/R)",
-        "DAZN Italia ($/geo/R)",
-        "BBC Sport Online (Audio)",
-        "TVE La 1 HD España",
-        "RTVE La 2Cat",
-        "DAZN For Business Italia / HD"
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kmw"
       ],
       "match_url": "https://icdb.tv/match/314945-Spain-v-Belgium"
     },
@@ -44,24 +47,33 @@
       "time": "20:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "DAZN For Business Italia / HD",
-        "DAZN Italia ($/geo/R)",
-        "RTÉ 2 Ireland / HD",
-        "RTÉ Player (geo/R)",
-        "World Feed",
-        "beIN Max 1",
-        "beIN Sports France 1 HD",
+        "TVP Sport Polska HD",
         "talkSPORT",
-        "talkSPORT App"
+        "ITV X (geo/R)",
+        "talkSPORT App",
+        "RTÉ Player (geo/R)",
+        "ORF 1 Austria HD",
+        "TRT 1 Türkiye HD",
+        "BBC RADIO 5 LIVE",
+        "RTS 2 Suisse HD",
+        "BBC Sport Online (Audio)",
+        "TV4 Sverige HD",
+        "BBC Sounds APP",
+        "STV (Scotland) / HD",
+        "TVP 1 Polska HD",
+        "Telemundo (usa)",
+        "beIN Max 1",
+        "STV Player (geo/R)",
+        "RTÉ 2 Ireland / HD",
+        "World Feed",
+        "Tabii Spor Türkiye ($/geo/R) and8more channels"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
         "ImpactPlayaz",
         "SYLVESTRE",
+        "kmw",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/314944-France-v-Morocco"
@@ -225,6 +237,23 @@
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/315345-Kairat-Almaty-v-Sutjeska"
+    },
+    {
+      "title": "PFA v UNFP",
+      "teams": [
+        "PFA",
+        "UNFP"
+      ],
+      "date": "08/07/2026",
+      "time": "11:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "YouTube: The PFA"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315400-PFA-v-UNFP"
     }
   ]
 }
