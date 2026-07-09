@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-09T02:44:09.524279+00:00",
+  "scraped_at": "2026-07-09T08:26:42.529147+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 10,
+  "total_matches": 11,
   "matches": [
     {
       "title": "Spain v Belgium",
@@ -44,23 +44,25 @@
       "time": "20:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "DAZN For Business Italia / HD",
+        "DAZN Italia ($/geo/R)",
         "RTÉ 2 Ireland / HD",
         "RTÉ Player (geo/R)",
-        "beIN Sports France 1 HD",
         "World Feed",
+        "beIN Max 1",
+        "beIN Sports France 1 HD",
         "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "talkSPORT App",
-        "BBC Sounds APP",
-        "DAZN Italia ($/geo/R)",
-        "BBC Sport Online (Audio)",
-        "DAZN For Business Italia / HD"
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
         "ImpactPlayaz",
-        "SYLVESTRE"
+        "SYLVESTRE",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/314944-France-v-Morocco"
     },
@@ -115,6 +117,23 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/315336-Fenerbahe-v-Admira-Wacker"
+    },
+    {
+      "title": "Connah's Quay v Ballkani",
+      "teams": [
+        "Connah's Quay",
+        "Ballkani"
+      ],
+      "date": "08/07/2026",
+      "time": "17:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "Cymru Football TV [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315012-Connahs-Quay-v-Ballkani"
     },
     {
       "title": "Vitebsk v Universitatea Craiova",
