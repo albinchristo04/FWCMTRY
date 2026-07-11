@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11T11:03:43.758572+00:00",
+  "scraped_at": "2026-07-11T15:54:37.762142+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 19,
+  "total_matches": 32,
   "matches": [
     {
       "title": "Seattle Reign v Portland Thorns",
@@ -33,26 +33,26 @@
       "time": "01:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "BBC Sounds APP",
-        "STV (Scotland) / HD",
-        "RTÉ Player (geo/R)",
-        "Telemundo (usa)",
-        "ITV X (geo/R)",
-        "RTS 2 Suisse HD",
-        "Fox Sports App (US)",
-        "Servus TV Österreich HD",
         "DAZN Italia ($/geo/R)",
+        "DR1 / HD (Denmark)",
+        "talkRadio",
+        "Fox Sports App (US)",
         "talkSPORT",
-        "ITV1 / HD",
         "ITV (highlights)",
-        "STV Player (geo/R)",
-        "BBC Sport Online (Audio)",
-        "Magenta Sport ($/geo/R)",
-        "Peacock USA ($/geo/R)",
-        "FOX ONE (USA) [$] (geo/R)",
+        "talkSPORT App",
         "SRF Zwei Schweiz HD",
-        "World Feed",
-        "talkRadio and10more channels"
+        "RSI La 2 Svizzera HD",
+        "Servus TV Österreich HD",
+        "SVTplay.se",
+        "TVP 1 Polska HD",
+        "BBC RADIO 5 LIVE",
+        "Peacock USA ($/geo/R)",
+        "MTV Urheilu 1 Suomi HD",
+        "STV Player (geo/R)",
+        "ITV1 / HD",
+        "Magenta Sport ($/geo/R)",
+        "SVT 1 Sverige HD",
+        "TVP Sport Polska HD and22more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -75,26 +75,26 @@
       "time": "21:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "STV Player (geo/R)",
-        "BBC (highlights)",
-        "MagentaSport+ Taktik-Feed",
-        "CTV Canada HD",
-        "RTS 2 Suisse HD",
-        "SBS (AUS)",
-        "SBS On Demand (AUS)",
-        "NRK Sport",
-        "beINSportsFrance 1 HD",
-        "Crave",
-        "RAI 1 Italia HD",
-        "ITV (highlights)",
+        "DAZN Italia ($/geo/R)",
         "BBC RADIO 5 LIVE",
-        "talkRadio",
-        "TSN Canada 4 / HD",
+        "Magenta Sport + Taktik-Feed",
+        "RTÉ 2 Ireland / HD",
         "STV (Scotland) / HD",
-        "Fox Sports SiriusXM",
-        "ITV X (geo/R)",
-        "Sky Sports News / HD",
-        "TSN Canada 3 / HD and26more channels"
+        "talkSPORT App",
+        "RTÉ Player (geo/R)",
+        "talkSPORT",
+        "BBC (highlights)",
+        "P4 Norge",
+        "TV4 Sverige HD",
+        "TRT 1 Türkiye HD",
+        "Peacock USA ($/geo/R)",
+        "Fox Sports App (US)",
+        "beIN Sports France 1 HD",
+        "YLE TV2 Suomi HD",
+        "TSN Canada 3 / HD",
+        "TVP Sport Polska HD",
+        "DAZN Japan ($/geo/R)",
+        "BBC Sport Online (Audio) and37more channels"
       ],
       "commentators": [
         "Bksm",
@@ -126,12 +126,14 @@
       "channels": [
         "Sportdigital FUSSBALL HD",
         "DFB.TV Germany",
+        "Sport.tvp.pl [$]",
         "RTL+ Deutschland (geo/R)",
         "RTL Schweiz HD",
         "RTL Deutschland HD",
         "RTL Österreich HD"
       ],
       "commentators": [
+        "kmw",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315069-Spain-U19-v-Germany-U19"
@@ -159,6 +161,24 @@
       "match_url": "https://icdb.tv/match/314552-Stirling-Albion-v-Dundee-United"
     },
     {
+      "title": "Tromsø v Vålerenga",
+      "teams": [
+        "Tromsø",
+        "Vålerenga"
+      ],
+      "date": "11/07/2026",
+      "time": "16:00",
+      "tournament": "Norwegian Eliteserien",
+      "channels": [
+        "TV2 Sport 1 Norge HD",
+        "TV2 Play Norge ($/geo/R)"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/315482-Troms-v-Vlerenga"
+    },
+    {
       "title": "Stranraer v Ayr United",
       "teams": [
         "Stranraer",
@@ -176,6 +196,43 @@
       "match_url": "https://icdb.tv/match/315603-Stranraer-v-Ayr-United"
     },
     {
+      "title": "Aalesund v Molde",
+      "teams": [
+        "Aalesund",
+        "Molde"
+      ],
+      "date": "11/07/2026",
+      "time": "14:00",
+      "tournament": "Norwegian Eliteserien",
+      "channels": [
+        "TV2 Sport 1 Norge HD",
+        "TV2 Play Norge ($/geo/R)",
+        "NRK Sport"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/315480-Aalesund-v-Molde"
+    },
+    {
+      "title": "Dumbarton v St Mirren",
+      "teams": [
+        "Dumbarton",
+        "St Mirren"
+      ],
+      "date": "11/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "Premier Sports Player UK (£/geo/R)",
+        "St Mirren TV ($/geo/R)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/314550-Dumbarton-v-St-Mirren"
+    },
+    {
       "title": "Dundee v Airdrieonians",
       "teams": [
         "Dundee",
@@ -186,15 +243,156 @@
       "tournament": "Scottish League Cup",
       "channels": [
         "BBC Radio Scotland",
+        "Diamonds TV [$]",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "Diamonds TV [$]"
+        "Premier Sports Player UK (£/geo/R)",
+        "DeeTV (Dundee)"
       ],
       "commentators": [
         "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/314549-Dundee-v-Airdrieonians"
+    },
+    {
+      "title": "East Kilbride v Dunfermline Athletic",
+      "teams": [
+        "East Kilbride",
+        "Dunfermline Athletic"
+      ],
+      "date": "11/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/314548-East-Kilbride-v-Dunfermline-Athletic"
+    },
+    {
+      "title": "Edinburgh City v Falkirk",
+      "teams": [
+        "Edinburgh City",
+        "Falkirk"
+      ],
+      "date": "11/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "BBC Radio Scotland",
+        "Falkirk TV [$]",
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/314547-Edinburgh-City-v-Falkirk"
+    },
+    {
+      "title": "Wisla Kraków v Wrexham",
+      "teams": [
+        "Wisla Kraków",
+        "Wrexham"
+      ],
+      "date": "11/07/2026",
+      "time": "13:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Canal+ Sport 1 Polska HD"
+      ],
+      "commentators": [
+        "kmw"
+      ],
+      "match_url": "https://icdb.tv/match/315253-Wisla-Krakw-v-Wrexham"
+    },
+    {
+      "title": "Linfield v Aberdeen",
+      "teams": [
+        "Linfield",
+        "Aberdeen"
+      ],
+      "date": "11/07/2026",
+      "time": "13:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Red TV ($/geo/R)",
+        "NIFL TV ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315252-Linfield-v-Aberdeen"
+    },
+    {
+      "title": "Gütersloh v Schalke 04",
+      "teams": [
+        "Gütersloh",
+        "Schalke 04"
+      ],
+      "date": "11/07/2026",
+      "time": "12:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Sky Sport Bundesliga 1 HD",
+        "Sky Sport News Deutsch HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315605-Gtersloh-v-Schalke-04"
+    },
+    {
+      "title": "Fredrikstad v Lillestrøm",
+      "teams": [
+        "Fredrikstad",
+        "Lillestrøm"
+      ],
+      "date": "11/07/2026",
+      "time": "12:00",
+      "tournament": "Norwegian Eliteserien",
+      "channels": [
+        "TV2 Play Norge ($/geo/R)",
+        "NRK Sport"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/315475-Fredrikstad-v-Lillestrm"
+    },
+    {
+      "title": "Leicester City v Northampton Town",
+      "teams": [
+        "Leicester City",
+        "Northampton Town"
+      ],
+      "date": "11/07/2026",
+      "time": "11:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Foxes Hub"
+      ],
+      "commentators": [
+        "Penfold1982"
+      ],
+      "match_url": "https://icdb.tv/match/315607-Leicester-City-v-Northampton-Town"
+    },
+    {
+      "title": "BBC 5 Live Sport",
+      "date": "11/07/2026",
+      "time": "11:00",
+      "tournament": "FIFA WORLD CUP 2026",
+      "channels": [
+        "BBC RADIO 5 LIVE"
+      ],
+      "commentators": [
+        "Bwfcol"
+      ],
+      "match_url": "https://icdb.tv/match/315606-BBC-5-Live-Sport"
     },
     {
       "title": "Utah Royals v Gotham FC",
@@ -289,26 +487,26 @@
       "time": "19:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "talkSPORT App",
-        "RAI 1 Italia HD",
-        "Vix Premium (México)",
-        "DAZN Italia ($/geo/R)",
-        "FlashScore Italia",
-        "SVT 1 Sverige HD",
-        "TV2 Direkte Norge HD",
-        "BBC One / HD",
-        "SBT (Brazil)",
-        "BBC Sport Online",
-        "Magenta Sport + Taktik-Feed",
-        "BBC Sport Online (Audio)",
-        "Televen (Venezuela)",
-        "MATCH! Premier HD",
-        "RTS 2 Suisse HD",
-        "MTV Urheilu 1 Suomi HD",
-        "SporTV Brazil HD",
+        "TVP Sport Polska HD",
         "M6 France HD",
-        "FlashScore App",
-        "América Peru HD and86more channels"
+        "FlashScore Romania",
+        "FlashScore Slovakia",
+        "MTV 3 Suomi HD",
+        "globoplay",
+        "N Sports",
+        "BBC Sport Online",
+        "Kan 11 Israel HD",
+        "FlashScore España",
+        "FOX ONE (USA) [$] (geo/R)",
+        "D Sports (Argentina)",
+        "beIN Sports",
+        "FlashScore (audio)",
+        "Sporty TV Africa",
+        "DAZN Japan ($/geo/R)",
+        "Vix Premium (México)",
+        "TRT 1 Türkiye HD",
+        "Rádio CBN",
+        "DAZN España ($/geo/R) and88more channels"
       ],
       "commentators": [
         "Bksm",
@@ -348,6 +546,23 @@
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/314500-Waterford-v-St-Patricks-Athletic"
+    },
+    {
+      "title": "Livingston v Hearts",
+      "teams": [
+        "Livingston",
+        "Hearts"
+      ],
+      "date": "10/07/2026",
+      "time": "18:45",
+      "tournament": "Testimonial Match",
+      "channels": [
+        "Livingston TV ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315604-Livingston-v-Hearts"
     },
     {
       "title": "Linfield v Glentoran",
@@ -418,6 +633,23 @@
       "match_url": "https://icdb.tv/match/315471-Moyola-Park-v-Ballymena-United"
     },
     {
+      "title": "FC Schwülper v Braunschweig",
+      "teams": [
+        "FC Schwülper",
+        "Braunschweig"
+      ],
+      "date": "10/07/2026",
+      "time": "16:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Braunschweiger Zeitung"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315608-FC-Schwlper-v-Braunschweig"
+    },
+    {
       "title": "Germany U-19 v Spain U-19",
       "teams": [
         "Germany U-19",
@@ -427,19 +659,20 @@
       "time": "16:00",
       "tournament": "UEFA Womens U-19 Championship",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "UEFA.TV [online] (geo/R)",
+        "DFB.TV Germany",
+        "Nitro (Schweiz)",
         "Nitro Deutschland HD",
         "Nitro Österreich",
-        "World Feed",
-        "DFB.TV Germany",
-        "beIN Sports MENA English 2 HD",
-        "Sport.tvp.pl [$]",
         "RTL+ Deutschland (geo/R)",
-        "Nitro (Schweiz)"
+        "Sport.tvp.pl [$]",
+        "Sportdigital FUSSBALL HD",
+        "UEFA.TV [online] (geo/R)",
+        "World Feed",
+        "beIN Sports MENA English 2 HD"
       ],
       "commentators": [
         "HWP",
+        "ethanh05",
         "kmw",
         "kurtogen"
       ],
