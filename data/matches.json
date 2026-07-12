@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11T20:44:33.177575+00:00",
+  "scraped_at": "2026-07-12T02:31:40.657749+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 32,
+  "total_matches": 24,
   "matches": [
     {
       "title": "Seattle Reign v Portland Thorns",
@@ -33,26 +33,26 @@
       "time": "01:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "Chilevisión",
-        "DAZN Japan ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "SRF Zwei Schweiz HD",
+        "Servus TV Österreich HD",
         "beIN Max 2",
-        "beIN Sports France 1 HD",
-        "ITV (highlights)",
-        "ITV X (geo/R)",
-        "Unicanal (Paraguay)",
-        "Fox Sports SiriusXM",
-        "BBC RADIO 5 LIVE",
-        "Fox (USA)",
-        "Caracol Televisión",
-        "Rádio Itatiaia",
-        "Vix Premium (México)",
-        "CNN International",
-        "DAZN For Business Italia / HD",
-        "TVP 1 Polska HD",
         "RAI 4K UHD",
+        "MTV Katsomon+ ($/geo/R)",
+        "RTÉ 2 Ireland / HD",
+        "Teleamazonas",
+        "TRT 1 Türkiye HD",
+        "BBC RADIO 5 LIVE",
+        "Unicanal (Paraguay)",
+        "TVPSportPolska HD",
+        "Trece (Paraguay)",
+        "TVP 1 Polska HD",
+        "FOX ONE (USA) [$] (geo/R)",
         "talkRadio",
-        "BBC Sport Online (Audio)",
-        "DAZN Italia ($/geo/R) and49more channels"
+        "DSports(Colombia)",
+        "TVRI / HD",
+        "Energia 97",
+        "TV Pública (argentina) / HD and55more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -63,10 +63,56 @@
         "kmw",
         "kurtogen",
         "luca80sp",
+        "markasack",
         "mvjr4",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/314952-Argentina-v-Switzerland"
+    },
+    {
+      "title": "San Diego Wave v Angel City",
+      "teams": [
+        "San Diego Wave",
+        "Angel City"
+      ],
+      "date": "12/07/2026",
+      "time": "00:45",
+      "tournament": "National Women's Soccer League (NWSL)",
+      "channels": [
+        "Ion Television (USA)",
+        "NWSL+ [app] (geo/R)",
+        "Stan Sport Australia ($/geo/R)",
+        "World Feed",
+        "iHeart Radio"
+      ],
+      "commentators": [
+        "AndyRoo_0860",
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/315616-San-Diego-Wave-v-Angel-City"
+    },
+    {
+      "title": "North Carolina Courage v Washington Spirit",
+      "teams": [
+        "North Carolina Courage",
+        "Washington Spirit"
+      ],
+      "date": "11/07/2026",
+      "time": "22:30",
+      "tournament": "National Women's Soccer League (NWSL)",
+      "channels": [
+        "Ion Television (USA)",
+        "NWSL+ [app] (geo/R)",
+        "OneSoccer",
+        "Stan Sport Australia ($/geo/R)",
+        "SuperSport ESPN HD",
+        "World Feed"
+      ],
+      "commentators": [
+        "AndyRoo_0860",
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/314553-North-Carolina-Courage-v-Washington-Spirit"
     },
     {
       "title": "Norway v England",
@@ -78,28 +124,29 @@
       "time": "21:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "RTÉ Player (geo/R)",
-        "Rádio Jovem Pan",
-        "NHK General TV (Japan)",
-        "TV2 Play Norge ($/geo/R)",
-        "BBC RADIO 5 LIVE",
-        "TV2 Direkte Norge HD",
-        "TUDN (México)",
-        "RAI 4K UHD",
-        "ITV1 / HD",
-        "beIN Sports MENA Max 5 HD",
-        "Sky Sports News / HD",
-        "CazéTV",
+        "talkRadio",
+        "NHK BS Premium 4K",
+        "CTV Canada HD",
+        "ITV (highlights)",
+        "GEN (Paraguay)",
+        "TVRI / HD",
+        "World Feed",
+        "FlashScore España",
         "Rádio BandNews FM",
-        "ITV X (geo/R)",
-        "P4 Norge",
-        "Rádio TMC",
-        "Peacock USA ($/geo/R)",
-        "Energia 97",
-        "NRK 1 Norge HD",
-        "Canal 5 Mexico HD and58more channels"
+        "FlashScore (audio)",
+        "Servus TV Österreich HD",
+        "beIN Sports",
+        "FlashScore Germany",
+        "Unicanal (Paraguay)",
+        "beIN Max 1",
+        "Rádio Jovem Pan",
+        "YLE TV2 Suomi HD",
+        "FlashScore Italia",
+        "DAZN For Business Italia / HD",
+        "beIN Sports France 1 HD and75more channels"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Bksm",
         "Bwfcol",
         "Crowe24",
@@ -112,6 +159,7 @@
         "SonnyCorry",
         "Ste",
         "apltle12",
+        "ethanh05",
         "kmw",
         "kurtogen",
         "luca80sp",
@@ -183,9 +231,9 @@
       "time": "16:00",
       "tournament": "Norwegian Eliteserien",
       "channels": [
-        "NRK Sport",
+        "TV2 Sport 1 Norge HD",
         "TV2 Play Norge ($/geo/R)",
-        "TV2 Sport 1 Norge HD"
+        "NRK Sport"
       ],
       "commentators": [
         "Bksm"
@@ -490,224 +538,6 @@
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/315498-Orlando-Pride-v-Kansas-City-Current"
-    },
-    {
-      "title": "Spain v Belgium",
-      "teams": [
-        "Spain",
-        "Belgium"
-      ],
-      "date": "10/07/2026",
-      "time": "19:00",
-      "tournament": "FIFA WORLD CUP 2026",
-      "channels": [
-        "FlashScore Romania",
-        "BBC One / HD",
-        "CazéTV",
-        "DAZN Italia ($/geo/R)",
-        "Sporty TV Africa",
-        "SRF Zwei Schweiz HD",
-        "DR tv [$] (geo/R)",
-        "beIN Sports France 1 HD",
-        "Rádio CBN SP",
-        "MATCH! Futbol 1 HD",
-        "RAI 1 Italia HD",
-        "BBC Sport Online",
-        "FlashScore España",
-        "Vix Premium (México)",
-        "Rádio Bandeirantes",
-        "Rádio TMC",
-        "RTVE Play ($/geo/R)",
-        "talkSPORT App",
-        "Flashscore UK",
-        "TV2 Direkte Norge HD and88more channels"
-      ],
-      "commentators": [
-        "Bksm",
-        "Bwfcol",
-        "Crowe24",
-        "FlashscoreDE",
-        "Guest-SC",
-        "HWP",
-        "ImpactPlayaz",
-        "Mikhail17",
-        "SYLVESTRE",
-        "apltle12",
-        "ethanh05",
-        "kmw",
-        "kurtogen",
-        "luca80sp",
-        "markasack",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/314945-Spain-v-Belgium"
-    },
-    {
-      "title": "Waterford v St Patrick's Athletic",
-      "teams": [
-        "Waterford",
-        "St Patrick's Athletic"
-      ],
-      "date": "10/07/2026",
-      "time": "19:00",
-      "tournament": "Irish Premier Division",
-      "channels": [
-        "Virgin Media Three",
-        "Virgin Media Play (geo/R)",
-        "Virgin Media Audio Description"
-      ],
-      "commentators": [
-        "ImpactPlayaz"
-      ],
-      "match_url": "https://icdb.tv/match/314500-Waterford-v-St-Patricks-Athletic"
-    },
-    {
-      "title": "Livingston v Hearts",
-      "teams": [
-        "Livingston",
-        "Hearts"
-      ],
-      "date": "10/07/2026",
-      "time": "18:45",
-      "tournament": "Testimonial Match",
-      "channels": [
-        "Livingston TV ($/geo/R)"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/315604-Livingston-v-Hearts"
-    },
-    {
-      "title": "Linfield v Glentoran",
-      "teams": [
-        "Linfield",
-        "Glentoran"
-      ],
-      "date": "10/07/2026",
-      "time": "18:45",
-      "tournament": "Northern Ireland W/Premiership",
-      "channels": [
-        "NIFL TV ($/geo/R)"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/315470-Linfield-v-Glentoran"
-    },
-    {
-      "title": "Bray Wanderers v U.C.D.",
-      "teams": [
-        "Bray Wanderers",
-        "U.C.D."
-      ],
-      "date": "10/07/2026",
-      "time": "18:45",
-      "tournament": "Irish First Division",
-      "channels": [
-        "LOI TV ($/geo/R)"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/314496-Bray-Wanderers-v-UCD"
-    },
-    {
-      "title": "Dundalk v Drogheda United",
-      "teams": [
-        "Dundalk",
-        "Drogheda United"
-      ],
-      "date": "10/07/2026",
-      "time": "18:45",
-      "tournament": "Irish Premier Division",
-      "channels": [
-        "LOI TV ($/geo/R)"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/314494-Dundalk-v-Drogheda-United"
-    },
-    {
-      "title": "Moyola Park v Ballymena United",
-      "teams": [
-        "Moyola Park",
-        "Ballymena United"
-      ],
-      "date": "10/07/2026",
-      "time": "18:30",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "NIFL TV ($/geo/R)"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/315471-Moyola-Park-v-Ballymena-United"
-    },
-    {
-      "title": "FC Schwülper v Braunschweig",
-      "teams": [
-        "FC Schwülper",
-        "Braunschweig"
-      ],
-      "date": "10/07/2026",
-      "time": "16:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "Braunschweiger Zeitung"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/315608-FC-Schwlper-v-Braunschweig"
-    },
-    {
-      "title": "Germany U-19 v Spain U-19",
-      "teams": [
-        "Germany U-19",
-        "Spain U-19"
-      ],
-      "date": "10/07/2026",
-      "time": "16:00",
-      "tournament": "UEFA Womens U-19 Championship",
-      "channels": [
-        "DFB.TV Germany",
-        "Nitro (Schweiz)",
-        "Nitro Deutschland HD",
-        "Nitro Österreich",
-        "RTL+ Deutschland (geo/R)",
-        "Sport.tvp.pl [$]",
-        "Sportdigital FUSSBALL HD",
-        "UEFA.TV [online] (geo/R)",
-        "World Feed",
-        "beIN Sports MENA English 2 HD"
-      ],
-      "commentators": [
-        "HWP",
-        "ethanh05",
-        "kmw",
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/315138-Germany-U19-v-Spain-U19"
-    },
-    {
-      "title": "Birmingham City v Huddersfield Town",
-      "teams": [
-        "Birmingham City",
-        "Huddersfield Town"
-      ],
-      "date": "10/07/2026",
-      "time": "10:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "HTTV ($/geo/R)"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/315469-Birmingham-City-v-Huddersfield-Town"
     }
   ]
 }
