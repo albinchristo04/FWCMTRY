@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-15T11:27:56.112830+00:00",
+  "scraped_at": "2026-07-15T16:20:34.647650+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 17,
+  "total_matches": 21,
   "matches": [
     {
       "title": "Gotham FC v Washington Spirit",
@@ -10,7 +10,7 @@
         "Washington Spirit"
       ],
       "date": "16/07/2026",
-      "time": "00:15",
+      "time": "00:00",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
         "ESPN (US)",
@@ -50,26 +50,26 @@
       "time": "19:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "Fox Sports App (US)",
-        "DAZN Italia ($/geo/R)",
-        "Azteca Deportes ($/geo/R)",
+        "Fox Sports SiriusXM",
+        "El Nueve",
+        "SRF Zwei Schweiz HD",
         "TVE La 1 HD España",
         "iHeart Radio",
-        "SRF Zwei Schweiz HD",
-        "talkSPORT App",
-        "Fox Sports SiriusXM",
-        "BBC Sounds APP",
-        "RTVE La 2Cat",
-        "talkSPORT",
-        "beIN Max 1",
-        "Telemundo (usa)",
-        "Azteca 7",
-        "El Nueve",
-        "DAZN For Business Italia / HD",
-        "Canal 5 Mexico HD",
+        "TV4 Sverige HD",
+        "RAI 4K UHD",
+        "BBC RADIO 5 LIVE",
+        "Magenta Sport ($/geo/R)",
+        "MTV Urheilu 1 Suomi HD",
+        "ARD Das Erste / HD",
+        "DAZN Japan ($/geo/R)",
         "beIN Sports MENA Max 5 HD",
-        "TUDN (México)",
-        "RTÉ 2 Ireland / HD and25more channels"
+        "MTV 3 Suomi HD",
+        "World Feed",
+        "M6 France HD",
+        "BBC Sport Online (Audio)",
+        "beIN Max 1",
+        "Servus TV Österreich HD",
+        "talkSPORT and38more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -90,6 +90,37 @@
       "match_url": "https://icdb.tv/match/314955-England-v-Argentina"
     },
     {
+      "title": "BBC 5 Live Sport",
+      "date": "15/07/2026",
+      "time": "12:00",
+      "tournament": "FIFA WORLD CUP 2026",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/315860-BBC-5-Live-Sport"
+    },
+    {
+      "title": "Larne v Tre Fiori",
+      "teams": [
+        "Larne",
+        "Tre Fiori"
+      ],
+      "date": "14/07/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "NIFL TV ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315503-Larne-v-Tre-Fiori"
+    },
+    {
       "title": "France v Spain",
       "teams": [
         "France",
@@ -99,31 +130,32 @@
       "time": "19:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "Las Estrellas",
-        "Fox (USA)",
-        "Disney+ Venezuela [$]",
-        "FlashScore Portugal",
-        "FlashScore Croatia",
-        "TeleAmazonas Ecuador",
-        "RTÉ Player (geo/R)",
-        "Tabii Spor Türkiye ($/geo/R)",
-        "Fox Sports SiriusXM",
-        "TRT Radyo 1",
-        "Rádio BandNews FM",
-        "D Sports Radio FM 103.1 Buenos Aires",
+        "talkSPORT App",
         "Rádio Gaúcha",
-        "RAI 1 Italia HD",
-        "FlashScore Slovakia",
-        "GEN (Paraguay)",
-        "Magenta Sport + Taktik-Feed",
-        "The Commentary Hub",
+        "World Feed",
+        "RTVE La 2Cat",
+        "NTV (Japan)",
+        "M6+ (geo/R)",
+        "Rádio TMC",
+        "Flashscore UK",
         "DAZN For Business Italia / HD",
-        "BBC Sport Online (Audio) and100more channels"
+        "Televen (Venezuela)",
+        "TRT 1 Türkiye HD",
+        "Azteca 7",
+        "TV2 Direkte Norge HD",
+        "ITV1 / HD",
+        "beIN Sports France 1 HD",
+        "RTVE Play ($/geo/R)",
+        "Kinopoisk (geo/R)",
+        "beIN Max 1",
+        "RAI 4K UHD",
+        "Rádio Itatiaia and101more channels"
       ],
       "commentators": [
         "Bksm",
         "Crowe24",
         "Djazz",
+        "FlashscoreDE",
         "Guest-SC",
         "Harrycain214",
         "ImpactPlayaz",
@@ -231,6 +263,23 @@
       "match_url": "https://icdb.tv/match/314875-Kilmarnock-v-Raith-Rovers"
     },
     {
+      "title": "Arbroath v Hearts",
+      "teams": [
+        "Arbroath",
+        "Hearts"
+      ],
+      "date": "14/07/2026",
+      "time": "18:30",
+      "tournament": "Testimonial Match",
+      "channels": [
+        "Arbroath FC TV [$]"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315861-Arbroath-v-Hearts"
+    },
+    {
       "title": "Bristol Rovers v Leicester City",
       "teams": [
         "Bristol Rovers",
@@ -331,6 +380,23 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/315419-Sporting-Lisbon-v-Celtic"
+    },
+    {
+      "title": "Braunschweig v TSV Havelse",
+      "teams": [
+        "Braunschweig",
+        "TSV Havelse"
+      ],
+      "date": "14/07/2026",
+      "time": "16:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Braunschweiger Zeitung"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315865-Braunschweig-v-TSV-Havelse"
     },
     {
       "title": "Spartak Trnava v Besiktas",
