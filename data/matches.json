@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-17T11:20:44.339951+00:00",
+  "scraped_at": "2026-07-17T16:14:26.822444+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 27,
+  "total_matches": 31,
   "matches": [
     {
       "title": "France v England",
@@ -13,26 +13,26 @@
       "time": "21:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "SRF Zwei Schweiz HD",
-        "Sky Sports News / HD",
-        "BBC iPlayer (geo/R)",
-        "ORF Eins (highlights)",
-        "RTÉ Player (geo/R)",
-        "M6 France 4K UHD",
-        "Sky News",
-        "RAI 1 Italia HD",
         "beIN Sports France 1 HD",
-        "RTÉ 2 Ireland / HD",
-        "BBC One / HD",
-        "BBC Sport Online",
-        "DAZN For Business Italia / HD",
+        "Sky News",
         "Magenta Sport + Taktik-Feed",
+        "M6 France 4K UHD",
+        "BBC Sport Online",
         "talkRadio",
-        "M6 France HD",
-        "Magenta Sport ($/geo/R)",
+        "RTÉ Player (geo/R)",
         "RTS 2 Suisse HD",
+        "RAI 1 Italia HD",
+        "RTÉ 2 Ireland / HD",
+        "DAZN For Business Italia / HD",
+        "Magenta Sport ($/geo/R)",
+        "SRF Zwei Schweiz HD",
         "Servus TV Österreich HD",
-        "talkSPORT App and4more channels"
+        "RAI 4K UHD",
+        "World Feed",
+        "BBC One / HD",
+        "DAZN Italia ($/geo/R)",
+        "talkSPORT App",
+        "BBC iPlayer (geo/R) and4more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -115,6 +115,23 @@
       "match_url": "https://icdb.tv/match/315768-Bologna-v-Arminia-Bielefeld"
     },
     {
+      "title": "River Plate v Aldosivi",
+      "teams": [
+        "River Plate",
+        "Aldosivi"
+      ],
+      "date": "18/07/2026",
+      "time": "00:45",
+      "tournament": "Argentinean Cup (Copa Argentina)",
+      "channels": [
+        "TyC Sports (argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/316093-River-Plate-v-Aldosivi"
+    },
+    {
       "title": "Kansas City Current v San Diego Wave",
       "teams": [
         "Kansas City Current",
@@ -135,6 +152,23 @@
       "match_url": "https://icdb.tv/match/316010-Kansas-City-Current-v-San-Diego-Wave"
     },
     {
+      "title": "Mirassol v Grêmio",
+      "teams": [
+        "Mirassol",
+        "Grêmio"
+      ],
+      "date": "17/07/2026",
+      "time": "23:00",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Premiere (Brazil)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/316091-Mirassol-v-Grmio"
+    },
+    {
       "title": "Fluminense v Bragantino",
       "teams": [
         "Fluminense",
@@ -144,12 +178,50 @@
       "time": "23:00",
       "tournament": "Brazilian Série A",
       "channels": [
+        "Premiere (Brazil)",
+        "Rádio CBN",
+        "Rádio Tupi",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/315142-Fluminense-v-Bragantino"
+    },
+    {
+      "title": "San Lorenzo v Deportivo Riestra",
+      "teams": [
+        "San Lorenzo",
+        "Deportivo Riestra"
+      ],
+      "date": "17/07/2026",
+      "time": "21:45",
+      "tournament": "Argentinean Cup (Copa Argentina)",
+      "channels": [
+        "TyC Sports (argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/316092-San-Lorenzo-v-Deportivo-Riestra"
+    },
+    {
+      "title": "St Patrick's Athletic v Wexford",
+      "teams": [
+        "St Patrick's Athletic",
+        "Wexford"
+      ],
+      "date": "17/07/2026",
+      "time": "18:45",
+      "tournament": "Irish FAI Cup",
+      "channels": [
+        "LOI TV ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315028-St-Patricks-Athletic-v-Wexford"
     },
     {
       "title": "Seattle Sounders v Portland Timbers",
@@ -259,9 +331,11 @@
         "Rádio Bandeirantes",
         "Rádio TMC",
         "Rádio Tupi",
-        "Sportdigital FUSSBALL HD"
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "ethanh05",
         "luca80sp"
       ],
