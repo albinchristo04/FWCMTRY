@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-18T07:00:12.914764+00:00",
+  "scraped_at": "2026-07-18T11:03:04.418156+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 44,
+  "total_matches": 50,
   "matches": [
     {
       "title": "Spain v Argentina",
@@ -13,26 +13,26 @@
       "time": "19:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "Fox (USA)",
-        "World Feed",
-        "iHeart Radio",
-        "BBC (highlights)",
-        "talkSPORT App",
-        "ITV (highlights)",
-        "M6 France HD",
-        "RTÉ Player (geo/R)",
-        "RTVE La 2Cat",
-        "DAZN Italia ($/geo/R)",
-        "BBC Sport Online (Audio)",
-        "BBC Sounds APP",
-        "ITV1 / HD",
-        "DAZN Mundial Espana HD",
-        "RTÉ 2 Ireland / HD",
-        "SBT (Brazil)",
-        "talkRadio",
-        "GE TV",
+        "BBC RADIO 5 LIVE",
+        "TVE La 1 HD España",
         "BBC One / HD",
-        "TV Globo and37more channels"
+        "BBC Sport Online (Audio)",
+        "GE TV",
+        "RTVE Play ($/geo/R)",
+        "M6 France HD",
+        "SBT (Brazil)",
+        "BBC *RED Button HD",
+        "Fox Sports SiriusXM",
+        "LiveScore [app] (geo/R)",
+        "Magenta Sport ($/geo/R)",
+        "N Sports",
+        "ZDF / HD",
+        "Fox Sports App (US)",
+        "talkSPORT App",
+        "ORF 1 Austria HD",
+        "TV Globo",
+        "TVP 1 Polska HD",
+        "talkRadio and37more channels"
       ],
       "commentators": [
         "CommServ",
@@ -115,7 +115,7 @@
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
         "Ion Television (USA)",
-        "Scripps Sports Network",
+        "ScrippsSportsNetwork",
         "iHeart Radio"
       ],
       "commentators": [
@@ -133,26 +133,26 @@
       "time": "21:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "beIN Sports France 1 HD",
-        "Magenta Sport ($/geo/R)",
-        "RAI 4K UHD",
-        "Fox Sports App (US)",
-        "TVP Sport Polska HD",
-        "Telemundo (usa)",
-        "FOX ONE (USA) [$] (geo/R)",
-        "BBC iPlayer (geo/R)",
-        "Sky Sports News / HD",
-        "M6 France 4K UHD",
-        "Peacock USA ($/geo/R)",
-        "ORF Eins (highlights)",
-        "BBC Sport Online",
+        "Fox Sports SiriusXM",
+        "RTS 2 Suisse HD",
         "talkSPORT App",
-        "World Feed",
-        "TVP 1 Polska HD",
+        "M6 France 4K UHD",
+        "Servus TV Österreich HD",
+        "FOX ONE (USA) [$] (geo/R)",
+        "MagentaSport+ Taktik-Feed",
+        "DAZN For Business Italia / HD",
+        "RTÉ Player (geo/R)",
         "BBC One / HD",
-        "Energia 97",
-        "M6 France HD",
-        "RTÉ Player (geo/R) and15more channels"
+        "beIN Max 2",
+        "World Feed",
+        "iHeart Radio",
+        "Telemundo (usa)",
+        "RAI 1 Italia HD",
+        "Sky Sports News / HD",
+        "BBC Sport Online",
+        "TVP 1 Polska HD",
+        "Magenta Sport ($/geo/R)",
+        "Energia 97 and15more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -216,9 +216,14 @@
       "time": "18:00",
       "tournament": "Scottish League Cup",
       "channels": [
-        "Sportdigital FUSSBALL HD"
+        "Premier Sports 2 HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
+        "SonnyCorry",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315100-Dundee-United-v-Arbroath"
@@ -251,12 +256,37 @@
       "time": "16:00",
       "tournament": "Scottish League Cup",
       "channels": [
-        "Sportdigital FUSSBALL HD"
+        "BBC Radio Scotland",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Premier Sports 2 HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
+        "SonnyCorry",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315096-Aberdeen-v-Queens-Park"
+    },
+    {
+      "title": "Baldoyle United v Longford Town",
+      "teams": [
+        "Baldoyle United",
+        "Longford Town"
+      ],
+      "date": "18/07/2026",
+      "time": "16:00",
+      "tournament": "Irish FAI Cup",
+      "channels": [
+        "LOI TV ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315095-Baldoyle-United-v-Longford-Town"
     },
     {
       "title": "Torino v ** T.B.D. **",
@@ -288,6 +318,77 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/316111-talkSPORT-GameDay-Live"
+    },
+    {
+      "title": "Ross County v Clyde",
+      "teams": [
+        "Ross County",
+        "Clyde"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "Clyde TV Live ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316003-Ross-County-v-Clyde"
+    },
+    {
+      "title": "Cove Rangers v St Mirren",
+      "teams": [
+        "Cove Rangers",
+        "St Mirren"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "Premier Sports Player UK (£/geo/R)",
+        "St Mirren TV ($/geo/R)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/315091-Cove-Rangers-v-St-Mirren"
+    },
+    {
+      "title": "Livingston v Partick Thistle",
+      "teams": [
+        "Livingston",
+        "Partick Thistle"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "BBC Radio Scotland",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/315089-Livingston-v-Partick-Thistle"
+    },
+    {
+      "title": "St Johnstone v Greenock Morton",
+      "teams": [
+        "St Johnstone",
+        "Greenock Morton"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "BBC Radio Scotland"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/315088-St-Johnstone-v-Greenock-Morton"
     },
     {
       "title": "Basel v Juventus",
@@ -645,6 +746,23 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/315025-FCSB-v-Arges"
+    },
+    {
+      "title": "St Gallen v Norwich City",
+      "teams": [
+        "St Gallen",
+        "Norwich City"
+      ],
+      "date": "17/07/2026",
+      "time": "18:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Canaries TV"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316257-St-Gallen-v-Norwich-City"
     },
     {
       "title": "talkSPORT Kick Off",
