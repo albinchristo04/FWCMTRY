@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-18T11:03:04.418156+00:00",
+  "scraped_at": "2026-07-18T15:55:08.603197+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 50,
+  "total_matches": 65,
   "matches": [
     {
       "title": "Spain v Argentina",
@@ -13,26 +13,26 @@
       "time": "19:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "TVE La 1 HD España",
-        "BBC One / HD",
-        "BBC Sport Online (Audio)",
-        "GE TV",
-        "RTVE Play ($/geo/R)",
-        "M6 France HD",
-        "SBT (Brazil)",
-        "BBC *RED Button HD",
-        "Fox Sports SiriusXM",
-        "LiveScore [app] (geo/R)",
+        "iHeart Radio",
+        "DAZN Mundial Espana HD",
         "Magenta Sport ($/geo/R)",
-        "N Sports",
-        "ZDF / HD",
-        "Fox Sports App (US)",
-        "talkSPORT App",
-        "ORF 1 Austria HD",
+        "DAZN Italia ($/geo/R)",
+        "Magenta Sport + Taktik-Feed",
+        "Sky Sports News / HD",
+        "DR tv [$] (geo/R)",
+        "SporTV 4K (Brazil)",
+        "ITV (highlights)",
+        "talkRadio",
+        "ITV1 / HD",
+        "BBC Sport Online",
+        "TVE La 1 HD España",
+        "RTÉ (Highlights)",
+        "RTVE Play ($/geo/R)",
+        "TV4 Sverige HD",
+        "SRF Zwei Schweiz HD",
         "TV Globo",
-        "TVP 1 Polska HD",
-        "talkRadio and37more channels"
+        "BBC Sport Online (Audio)",
+        "Fox Sports App (US) and43more channels"
       ],
       "commentators": [
         "CommServ",
@@ -44,6 +44,7 @@
         "SYLVESTRE",
         "SonnyCorry",
         "apltle12",
+        "kmw",
         "kurtogen",
         "luca80sp"
       ],
@@ -115,7 +116,7 @@
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
         "Ion Television (USA)",
-        "ScrippsSportsNetwork",
+        "Scripps Sports Network",
         "iHeart Radio"
       ],
       "commentators": [
@@ -133,30 +134,31 @@
       "time": "21:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "Fox Sports SiriusXM",
-        "RTS 2 Suisse HD",
-        "talkSPORT App",
-        "M6 France 4K UHD",
-        "Servus TV Österreich HD",
-        "FOX ONE (USA) [$] (geo/R)",
-        "MagentaSport+ Taktik-Feed",
-        "DAZN For Business Italia / HD",
-        "RTÉ Player (geo/R)",
-        "BBC One / HD",
-        "beIN Max 2",
-        "World Feed",
-        "iHeart Radio",
-        "Telemundo (usa)",
         "RAI 1 Italia HD",
-        "Sky Sports News / HD",
+        "DAZN Japan ($/geo/R)",
+        "iHeart Radio",
+        "DAZN Italia ($/geo/R)",
         "BBC Sport Online",
-        "TVP 1 Polska HD",
+        "beIN Max 2",
+        "BBC RADIO 5 LIVE",
+        "RTS 2 Suisse HD",
+        "BBC *RED Button HD",
+        "NHK General TV (Japan)",
+        "Fox Sports SiriusXM",
+        "MTV 3 Suomi HD",
+        "BBC iPlayer (geo/R)",
+        "DR tv [$] (geo/R)",
+        "SVT 1 Sverige HD",
+        "BBC Sounds APP",
+        "Magenta Sport + Taktik-Feed",
         "Magenta Sport ($/geo/R)",
-        "Energia 97 and15more channels"
+        "1116 SEN",
+        "SEN 1170 and38more channels"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
+        "HWP",
         "ImpactPlayaz",
         "LukeA206",
         "SYLVESTRE",
@@ -216,10 +218,10 @@
       "time": "18:00",
       "tournament": "Scottish League Cup",
       "channels": [
-        "Premier Sports 2 HD",
-        "Premier Sports Player UK (£/geo/R)",
         "Sportdigital FUSSBALL HD",
-        "World Feed"
+        "Premier Sports 2 HD",
+        "World Feed",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
         "HWP",
@@ -227,6 +229,42 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315100-Dundee-United-v-Arbroath"
+    },
+    {
+      "title": "Rapid Vienna v Hamburg",
+      "teams": [
+        "Rapid Vienna",
+        "Hamburg"
+      ],
+      "date": "18/07/2026",
+      "time": "17:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "ORF Sport+ Austria HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/315784-Rapid-Vienna-v-Hamburg"
+    },
+    {
+      "title": "Zenit St Petersburg v Spartak Moscow",
+      "teams": [
+        "Zenit St Petersburg",
+        "Spartak Moscow"
+      ],
+      "date": "18/07/2026",
+      "time": "16:30",
+      "tournament": "Russian Super Cup",
+      "channels": [
+        "MATCH! TV [online] ($/geo/R)",
+        "MATCH! Premier HD",
+        "MATCH! Russia HD"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/315439-Zenit-St-Petersburg-v-Spartak-Moscow"
     },
     {
       "title": "Gotham FC v Seattle Reign",
@@ -320,6 +358,77 @@
       "match_url": "https://icdb.tv/match/316111-talkSPORT-GameDay-Live"
     },
     {
+      "title": "Borussia Dortmund v Rot-Weiss Oberhausen",
+      "teams": [
+        "Borussia Dortmund",
+        "Rot-Weiss Oberhausen"
+      ],
+      "date": "18/07/2026",
+      "time": "15:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315381-Borussia-Dortmund-v-RotWeiss-Oberhausen"
+    },
+    {
+      "title": "Notts County v Nottingham Forest",
+      "teams": [
+        "Notts County",
+        "Nottingham Forest"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Unknown Broadcaster",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316299-Notts-County-v-Nottingham-Forest"
+    },
+    {
+      "title": "Linfield v Doncaster Rovers",
+      "teams": [
+        "Linfield",
+        "Doncaster Rovers"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "NIFL TV ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316275-Linfield-v-Doncaster-Rovers"
+    },
+    {
+      "title": "Falkirk v Racing Genk",
+      "teams": [
+        "Falkirk",
+        "Racing Genk"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Falkirk TV [$]",
+        "KRC Genk TV"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316134-Falkirk-v-Racing-Genk"
+    },
+    {
       "title": "Ross County v Clyde",
       "teams": [
         "Ross County",
@@ -337,6 +446,42 @@
       "match_url": "https://icdb.tv/match/316003-Ross-County-v-Clyde"
     },
     {
+      "title": "Alloa Athletic v Stranraer",
+      "teams": [
+        "Alloa Athletic",
+        "Stranraer"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "Stranraer FC LIVE ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315781-Alloa-Athletic-v-Stranraer"
+    },
+    {
+      "title": "Celtic v Middlesbrough",
+      "teams": [
+        "Celtic",
+        "Middlesbrough"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Boro Live",
+        "Celtic Player ($/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315378-Celtic-v-Middlesbrough"
+    },
+    {
       "title": "Cove Rangers v St Mirren",
       "teams": [
         "Cove Rangers",
@@ -346,13 +491,30 @@
       "time": "14:00",
       "tournament": "Scottish League Cup",
       "channels": [
-        "Premier Sports Player UK (£/geo/R)",
-        "St Mirren TV ($/geo/R)"
+        "St Mirren TV ($/geo/R)",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/315091-Cove-Rangers-v-St-Mirren"
+    },
+    {
+      "title": "Elgin City v Kilmarnock",
+      "teams": [
+        "Elgin City",
+        "Kilmarnock"
+      ],
+      "date": "18/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315090-Elgin-City-v-Kilmarnock"
     },
     {
       "title": "Livingston v Partick Thistle",
@@ -366,9 +528,11 @@
       "channels": [
         "BBC Radio Scotland",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/315089-Livingston-v-Partick-Thistle"
@@ -383,12 +547,32 @@
       "time": "14:00",
       "tournament": "Scottish League Cup",
       "channels": [
-        "BBC Radio Scotland"
+        "BBC Radio Scotland",
+        "Premier Sports Player UK (£/geo/R)",
+        "SaintsTV (St Johnstone)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/315088-St-Johnstone-v-Greenock-Morton"
+    },
+    {
+      "title": "LASK Linz v Fortuna Düsseldorf",
+      "teams": [
+        "LASK Linz",
+        "Fortuna Düsseldorf"
+      ],
+      "date": "18/07/2026",
+      "time": "13:30",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Laola1 TV Austria/Germany"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/316002-LASK-Linz-v-Fortuna-Dsseldorf"
     },
     {
       "title": "Basel v Juventus",
@@ -400,12 +584,103 @@
       "time": "13:30",
       "tournament": "Friendly Club Match",
       "channels": [
+        "Blue ZOOM F Suisse",
+        "Blue ZOOM D Schweiz",
         "DAZN Italia ($/geo/R)"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315735-Basel-v-Juventus"
+    },
+    {
+      "title": "Real Betis v Sportfreunde Lotte",
+      "teams": [
+        "Real Betis",
+        "Sportfreunde Lotte"
+      ],
+      "date": "18/07/2026",
+      "time": "13:30",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Premier Sports 2 HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315377-Real-Betis-v-Sportfreunde-Lotte"
+    },
+    {
+      "title": "Dundee v Everton",
+      "teams": [
+        "Dundee",
+        "Everton"
+      ],
+      "date": "18/07/2026",
+      "time": "13:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "DeeTV (Dundee)",
+        "EvertonFC.com"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316269-Dundee-v-Everton"
+    },
+    {
+      "title": "BBC 5 Live Sport",
+      "date": "18/07/2026",
+      "time": "12:20",
+      "tournament": "FIFA WORLD CUP 2026",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316258-BBC-5-Live-Sport"
+    },
+    {
+      "title": "Burton Albion v Leicester City",
+      "teams": [
+        "Burton Albion",
+        "Leicester City"
+      ],
+      "date": "18/07/2026",
+      "time": "12:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Leicester City TV ($/geo/R)",
+        "Foxes Hub"
+      ],
+      "commentators": [
+        "Penfold1982"
+      ],
+      "match_url": "https://icdb.tv/match/315777-Burton-Albion-v-Leicester-City"
+    },
+    {
+      "title": "HamKam v Tromsø",
+      "teams": [
+        "HamKam",
+        "Tromsø"
+      ],
+      "date": "18/07/2026",
+      "time": "12:00",
+      "tournament": "Norwegian Eliteserien",
+      "channels": [
+        "TV2 Sport 1 Norge HD",
+        "DirekteSport.no [$] (geo/R)",
+        "TV2 Play Norge ($/geo/R)"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/315516-HamKam-v-Troms"
     },
     {
       "title": "Bologna v Arminia Bielefeld",
@@ -455,10 +730,10 @@
       "time": "02:25",
       "tournament": "Major League Soccer (MLS)",
       "channels": [
-        "Apple TV",
-        "FOX ONE (USA) [$] (geo/R)",
+        "TSN Canada 2 HD",
         "Fox (USA)",
-        "TSN Canada 2 HD"
+        "Apple TV",
+        "FOX ONE (USA) [$] (geo/R)"
       ],
       "commentators": [
         "kmw"
@@ -531,11 +806,11 @@
       "time": "00:10",
       "tournament": "Major League Soccer (MLS)",
       "channels": [
-        "Apple TV",
         "FOX Deportes",
-        "FOX ONE (USA) [$] (geo/R)",
+        "TSN Canada 2 HD",
         "Fox (USA)",
-        "TSN Canada 2 HD"
+        "Apple TV",
+        "FOX ONE (USA) [$] (geo/R)"
       ],
       "commentators": [
         "kmw"
@@ -592,14 +867,14 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Fanatiz EU ($/geo/R)",
-        "FlashScore Brazil",
-        "Premiere (Brazil)",
-        "Rádio CBN",
+        "Sportdigital FUSSBALL HD",
+        "SporTV Brazil HD",
+        "World Feed",
         "Rádio Tupi",
         "SporTV 4K (Brazil)",
-        "SporTV Brazil HD",
-        "Sportdigital FUSSBALL HD",
-        "World Feed"
+        "Premiere (Brazil)",
+        "Rádio CBN",
+        "FlashScore Brazil"
       ],
       "commentators": [
         "HWP",
