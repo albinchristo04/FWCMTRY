@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-20T16:23:41.016188+00:00",
+  "scraped_at": "2026-07-20T21:10:31.550890+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 28,
+  "total_matches": 33,
   "matches": [
     {
       "title": "Kilmarnock v Hamilton Academical",
@@ -30,9 +30,14 @@
       "time": "18:30",
       "tournament": "UEFA Champions League",
       "channels": [
-        "ORF 1 Austria HD"
+        "ORF 1 Austria HD",
+        "Premier Sports 1 HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "Radio Clyde 1"
       ],
       "commentators": [
+        "HWP",
+        "SonnyCorry",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315266-Sturm-Graz-v-Hearts"
@@ -67,6 +72,91 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315827-Thun-v-Dinamo-Zagreb"
+    },
+    {
+      "title": "Ferroviária v São Paulo",
+      "teams": [
+        "Ferroviária",
+        "São Paulo"
+      ],
+      "date": "20/07/2026",
+      "time": "23:00",
+      "tournament": "Brazilian Women's Cup (Copa do Brasil Feminina)",
+      "channels": [
+        "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/316639-Ferroviria-v-So-Paulo"
+    },
+    {
+      "title": "Sporting Lisbon v Strasbourg",
+      "teams": [
+        "Sporting Lisbon",
+        "Strasbourg"
+      ],
+      "date": "20/07/2026",
+      "time": "19:15",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "FlashScore Portugal"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315532-Sporting-Lisbon-v-Strasbourg"
+    },
+    {
+      "title": "Coritiba v Internacional",
+      "teams": [
+        "Coritiba",
+        "Internacional"
+      ],
+      "date": "20/07/2026",
+      "time": "19:00",
+      "tournament": "Brazilian Women's Cup (Copa do Brasil Feminina)",
+      "channels": [
+        "N Sports"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/316638-Coritiba-v-Internacional"
+    },
+    {
+      "title": "Rapid Bucharest v Sepsi OSK",
+      "teams": [
+        "Rapid Bucharest",
+        "Sepsi OSK"
+      ],
+      "date": "20/07/2026",
+      "time": "18:30",
+      "tournament": "Romanian Superliga",
+      "channels": [
+        "FlashScore Romania"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315218-Rapid-Bucharest-v-Sepsi-OSK"
+    },
+    {
+      "title": "Kalmar v Malmö FF",
+      "teams": [
+        "Kalmar",
+        "Malmö FF"
+      ],
+      "date": "20/07/2026",
+      "time": "17:00",
+      "tournament": "Swedish Allsvenskan",
+      "channels": [
+        "TV4 Fotboll HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315216-Kalmar-v-Malm-FF"
     },
     {
       "title": "Lazio v Lazio U-19",
@@ -113,26 +203,26 @@
       "time": "19:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "Magenta Sport ($/geo/R)",
-        "Las Estrellas",
-        "Telemundo (usa)",
-        "América Peru HD",
-        "FlashScore (audio)",
-        "TVRI Sport / HD",
+        "SporTV Brazil HD",
+        "Kan 11 Israel HD",
+        "ITV (highlights)",
+        "Chilevisión",
+        "ETV+ Estonia",
         "Fox Sports SiriusXM",
-        "TSN Canada 1 / HD",
-        "BNT 1 Bulgaria HD",
-        "GB Vision Europe",
-        "Telefe (argentina) / HD",
-        "RTBF La Une HD",
-        "BBC (highlights)",
-        "Rádio Jovem Pan",
-        "FlashScore France",
-        "NRK 1 Norge HD",
-        "beIN Sports France 1 HD",
-        "Popu TV (Paraguay)",
-        "M6+ (geo/R)",
-        "ITV1 / HD and163more channels"
+        "Rádio Itatiaia",
+        "BBC World Service (Across Africa)",
+        "ERT 1 Hellas HD",
+        "TSN Canada 4 / HD",
+        "DR tv [$] (geo/R)",
+        "Disney+ South America [$]",
+        "TVRI Sport / HD",
+        "TVNZ 1",
+        "Fútbol de Primera Radio",
+        "Rádio Bandeirantes",
+        "Win+ Fútbol (Colombia)",
+        "TRT 1 Türkiye HD",
+        "ERT 2 Sport Hellas HD",
+        "Tabii Spor Türkiye ($/geo/R) and163more channels"
       ],
       "commentators": [
         "Bksm",
