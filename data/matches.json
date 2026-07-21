@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-20T21:10:31.550890+00:00",
+  "scraped_at": "2026-07-21T02:27:08.876386+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 33,
+  "total_matches": 39,
   "matches": [
     {
       "title": "Kilmarnock v Hamilton Academical",
@@ -74,6 +74,20 @@
       "match_url": "https://icdb.tv/match/315827-Thun-v-Dinamo-Zagreb"
     },
     {
+      "title": "BBC Manchester Total Sport",
+      "date": "21/07/2026",
+      "time": "17:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "BBC Radio Manchester",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316642-BBC-Manchester-Total-Sport"
+    },
+    {
       "title": "Ferroviária v São Paulo",
       "teams": [
         "Ferroviária",
@@ -100,9 +114,11 @@
       "time": "19:15",
       "tournament": "Friendly Club Match",
       "channels": [
-        "FlashScore Portugal"
+        "FlashScore Portugal",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/315532-Sporting-Lisbon-v-Strasbourg"
@@ -140,6 +156,76 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/315218-Rapid-Bucharest-v-Sepsi-OSK"
+    },
+    {
+      "title": "BBC Monday Night Club",
+      "date": "20/07/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316644-BBC-Monday-Night-Club"
+    },
+    {
+      "title": "talkSPORT Kick Off",
+      "date": "20/07/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "talkSPORT",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316643-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "BBC Lancashire Sport",
+      "date": "20/07/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio Lancashire",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316648-BBC-Lancashire-Sport"
+    },
+    {
+      "title": "BBC Manchester Total Sport",
+      "date": "20/07/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio Manchester",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316646-BBC-Manchester-Total-Sport"
+    },
+    {
+      "title": "BBC Merseyside Sport",
+      "date": "20/07/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio Merseyside",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316645-BBC-Merseyside-Sport"
     },
     {
       "title": "Kalmar v Malmö FF",
@@ -203,26 +289,26 @@
       "time": "19:00",
       "tournament": "FIFA WORLD CUP 2026",
       "channels": [
-        "SporTV Brazil HD",
-        "Kan 11 Israel HD",
-        "ITV (highlights)",
-        "Chilevisión",
-        "ETV+ Estonia",
-        "Fox Sports SiriusXM",
-        "Rádio Itatiaia",
-        "BBC World Service (Across Africa)",
+        "The Commentary Hub",
+        "Canal 5 Mexico HD",
+        "NRK 1 Norge HD",
+        "RTBF La Une HD",
+        "Futbol TV Uzbekistan",
+        "JOJ Šport SVK HD",
+        "JOJ Play ($/geo/R)",
+        "BNT 3 Bulgaria HD",
+        "Arena Sport 1 Slovenija HD",
+        "Televen (Venezuela)",
         "ERT 1 Hellas HD",
-        "TSN Canada 4 / HD",
+        "BBC News",
+        "ORF 1 Austria HD",
+        "BBC World Service (Across Africa)",
         "DR tv [$] (geo/R)",
-        "Disney+ South America [$]",
-        "TVRI Sport / HD",
-        "TVNZ 1",
+        "DR1 / HD (Denmark)",
         "Fútbol de Primera Radio",
-        "Rádio Bandeirantes",
-        "Win+ Fútbol (Colombia)",
-        "TRT 1 Türkiye HD",
-        "ERT 2 Sport Hellas HD",
-        "Tabii Spor Türkiye ($/geo/R) and163more channels"
+        "FlashScore España",
+        "Unicanal (Paraguay)",
+        "FlashScore Brazil and163more channels"
       ],
       "commentators": [
         "Bksm",
