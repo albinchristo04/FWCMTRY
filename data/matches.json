@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-21T16:22:38.710449+00:00",
+  "scraped_at": "2026-07-21T21:06:57.678925+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 29,
+  "total_matches": 40,
   "matches": [
     {
       "title": "Queen of the South v Aberdeen",
@@ -112,12 +112,67 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "Disney+ Brazil [$]",
+        "ESPN (Brazil)",
         "SBT (Brazil)"
       ],
       "commentators": [
-        "Mikhail17"
+        "Mikhail17",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/315337-Universidad-Central-v-Santos"
+    },
+    {
+      "title": "Atlético Mineiro v Bahia",
+      "teams": [
+        "Atlético Mineiro",
+        "Bahia"
+      ],
+      "date": "21/07/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Premiere (Brazil)",
+        "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/316753-Atltico-Mineiro-v-Bahia"
+    },
+    {
+      "title": "Fluminense v Cruzeiro",
+      "teams": [
+        "Fluminense",
+        "Cruzeiro"
+      ],
+      "date": "21/07/2026",
+      "time": "19:30",
+      "tournament": "Brazilian Women's Cup (Copa do Brasil Feminina)",
+      "channels": [
+        "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/316752-Fluminense-v-Cruzeiro"
+    },
+    {
+      "title": "Larne v Red Star Belgrade",
+      "teams": [
+        "Larne",
+        "Red Star Belgrade"
+      ],
+      "date": "21/07/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "FlashScore Croatia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316602-Larne-v-Red-Star-Belgrade"
     },
     {
       "title": "Kilmarnock v Hamilton Academical",
@@ -129,12 +184,32 @@
       "time": "18:45",
       "tournament": "Scottish League Cup",
       "channels": [
+        "BBC Radio Scotland",
         "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/315272-Kilmarnock-v-Hamilton-Academical"
+    },
+    {
+      "title": "St Mirren v East Kilbride",
+      "teams": [
+        "St Mirren",
+        "East Kilbride"
+      ],
+      "date": "21/07/2026",
+      "time": "18:45",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "St Mirren TV ($/geo/R)",
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/315270-St-Mirren-v-East-Kilbride"
     },
     {
       "title": "Sturm Graz v Hearts",
@@ -147,9 +222,15 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "Premier Sports 1 HD",
+        "World Feed",
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
         "STV News",
         "Radio Clyde 1",
+        "BBC Radio Scotland Extra",
         "ORF 1 Austria HD",
+        "ESPN+ USA ($/geo/R)",
+        "BBC Sport Online (Audio)",
         "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
@@ -158,6 +239,23 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315266-Sturm-Graz-v-Hearts"
+    },
+    {
+      "title": "Forest Green Rovers v Bristol Rovers",
+      "teams": [
+        "Forest Green Rovers",
+        "Bristol Rovers"
+      ],
+      "date": "21/07/2026",
+      "time": "18:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "FGR Live ($/geo/R)"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/316751-Forest-Green-Rovers-v-Bristol-Rovers"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -183,12 +281,32 @@
       "time": "18:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "FlashScore Croatia",
         "SRF Zwei Schweiz HD"
       ],
       "commentators": [
+        "Johnny17",
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315827-Thun-v-Dinamo-Zagreb"
+    },
+    {
+      "title": "Fenerbahçe v Górnik Zabrze",
+      "teams": [
+        "Fenerbahçe",
+        "Górnik Zabrze"
+      ],
+      "date": "21/07/2026",
+      "time": "18:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "FlashScore Poland"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315452-Fenerbahe-v-Grnik-Zabrze"
     },
     {
       "title": "BBC Manchester Total Sport",
@@ -203,6 +321,41 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/316642-BBC-Manchester-Total-Sport"
+    },
+    {
+      "title": "AGF Aarhus v Lech Poznan",
+      "teams": [
+        "AGF Aarhus",
+        "Lech Poznan"
+      ],
+      "date": "21/07/2026",
+      "time": "17:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "TVP Sport Polska HD",
+        "FlashScore Poland"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315261-AGF-Aarhus-v-Lech-Poznan"
+    },
+    {
+      "title": "Eintracht Berglern v 1860 Munich",
+      "teams": [
+        "Eintracht Berglern",
+        "1860 Munich"
+      ],
+      "date": "21/07/2026",
+      "time": "16:30",
+      "tournament": "German Regional Cup",
+      "channels": [
+        "DF1 Deutschland HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316145-Eintracht-Berglern-v-1860-Munich"
     },
     {
       "title": "Iberia 1999 v Slovan Bratislava",
@@ -222,6 +375,24 @@
       "match_url": "https://icdb.tv/match/316652-Iberia-1999-v-Slovan-Bratislava"
     },
     {
+      "title": "Ararat-Armenia v Shamrock Rovers",
+      "teams": [
+        "Ararat-Armenia",
+        "Shamrock Rovers"
+      ],
+      "date": "21/07/2026",
+      "time": "16:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "World Feed",
+        "ESPN+ USA ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316650-AraratArmenia-v-Shamrock-Rovers"
+    },
+    {
       "title": "Bayswater City v Sydney FC",
       "teams": [
         "Bayswater City",
@@ -239,6 +410,41 @@
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/316745-Bayswater-City-v-Sydney-FC"
+    },
+    {
+      "title": "Jeonbuk Motors v Daejeon Citizen",
+      "teams": [
+        "Jeonbuk Motors",
+        "Daejeon Citizen"
+      ],
+      "date": "21/07/2026",
+      "time": "10:30",
+      "tournament": "South Korean K-League",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316599-Jeonbuk-Motors-v-Daejeon-Citizen"
+    },
+    {
+      "title": "Ulsan Horang-i v Incheon United",
+      "teams": [
+        "Ulsan Horang-i",
+        "Incheon United"
+      ],
+      "date": "21/07/2026",
+      "time": "10:30",
+      "tournament": "South Korean K-League",
+      "channels": [
+        "World Feed",
+        "Stan Sport Australia ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315793-Ulsan-Horangi-v-Incheon-United"
     },
     {
       "title": "Cumberland United v Heidelberg United",
