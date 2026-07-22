@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-22T02:26:09.714055+00:00",
+  "scraped_at": "2026-07-22T07:33:40.634098+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 44,
+  "total_matches": 48,
   "matches": [
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -244,10 +244,12 @@
         "Rádio CBN",
         "Rádio Jovem Pan",
         "Rádio TMC",
-        "SBT (Brazil)"
+        "SBT (Brazil)",
+        "World Feed"
       ],
       "commentators": [
         "Mikhail17",
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/315337-Universidad-Central-v-Santos"
@@ -366,9 +368,11 @@
         "ESPN Bolivia",
         "ESPN Paraguay",
         "ESPN Peru",
-        "ESPN Uruguay"
+        "ESPN Uruguay",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/316754-Nacional-Montevideo-v-Tigre"
@@ -426,6 +430,42 @@
       "match_url": "https://icdb.tv/match/316602-Larne-v-Red-Star-Belgrade"
     },
     {
+      "title": "Dundee United v Spartans",
+      "teams": [
+        "Dundee United",
+        "Spartans"
+      ],
+      "date": "21/07/2026",
+      "time": "18:45",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "DUTV [$] (geo/R)",
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315274-Dundee-United-v-Spartans"
+    },
+    {
+      "title": "Inverness CT v St Johnstone",
+      "teams": [
+        "Inverness CT",
+        "St Johnstone"
+      ],
+      "date": "21/07/2026",
+      "time": "18:45",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "Premier Sports Player UK (£/geo/R)",
+        "SaintsTV (St Johnstone)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315273-Inverness-CT-v-St-Johnstone"
+    },
+    {
       "title": "Kilmarnock v Hamilton Academical",
       "teams": [
         "Kilmarnock",
@@ -443,6 +483,23 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/315272-Kilmarnock-v-Hamilton-Academical"
+    },
+    {
+      "title": "Ross County v Dundee",
+      "teams": [
+        "Ross County",
+        "Dundee"
+      ],
+      "date": "21/07/2026",
+      "time": "18:45",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315271-Ross-County-v-Dundee"
     },
     {
       "title": "St Mirren v East Kilbride",
@@ -478,6 +535,24 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/315269-Loughgall-v-Dungannon-Swifts"
+    },
+    {
+      "title": "Alloa Athletic v Falkirk",
+      "teams": [
+        "Alloa Athletic",
+        "Falkirk"
+      ],
+      "date": "21/07/2026",
+      "time": "18:45",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "Falkirk TV [$]",
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315267-Alloa-Athletic-v-Falkirk"
     },
     {
       "title": "Sturm Graz v Hearts",
@@ -723,6 +798,9 @@
       "date": "21/07/2026",
       "time": "10:30",
       "tournament": "South Korean K-League",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "HWP"
       ],
