@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-23T16:27:25.801930+00:00",
+  "scraped_at": "2026-07-23T21:02:11.873220+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 74,
+  "total_matches": 99,
   "matches": [
     {
       "title": "Pogon Szczecin v Legia Warsaw",
@@ -55,6 +55,47 @@
       "match_url": "https://icdb.tv/match/316784-Luckenwalde-v-Lok-Leipzig"
     },
     {
+      "title": "Defensa y Justicia v Aldosivi",
+      "teams": [
+        "Defensa y Justicia",
+        "Aldosivi"
+      ],
+      "date": "24/07/2026",
+      "time": "00:45",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "ESPN Premium (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317024-Defensa-y-Justicia-v-Aldosivi"
+    },
+    {
+      "title": "Independiente Santa Fé v Caracas",
+      "teams": [
+        "Independiente Santa Fé",
+        "Caracas"
+      ],
+      "date": "24/07/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "D Sports (Argentina)",
+        "D Sports (Chile)",
+        "D Sports (Peru)",
+        "D Sports (Uruguay)",
+        "Disney+ Central America [$]",
+        "ESPN (Colombia)",
+        "ESPN Ecuador",
+        "ESPN Venezuela"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317025-Independiente-Santa-F-v-Caracas"
+    },
+    {
       "title": "Boca Juniors v O'Higgins",
       "teams": [
         "Boca Juniors",
@@ -64,12 +105,161 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "D Sports (Chile)",
+        "D Sports (Peru)",
+        "D Sports (Uruguay)",
+        "Disney+ Brazil [$]",
+        "ESPN (Argentina)",
+        "ESPN (Brazil)",
+        "ESPN 2 (Colombia)",
+        "ESPN 2 (Ecuador)",
+        "ESPN 2 (Venezuela)",
+        "ESPN 3 (Centroamérica)",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/315455-Boca-Juniors-v-OHiggins"
+    },
+    {
+      "title": "Cuiabá v Atlético Goainiense",
+      "teams": [
+        "Cuiabá",
+        "Atlético Goainiense"
+      ],
+      "date": "23/07/2026",
+      "time": "23:30",
+      "tournament": "Brazilian Série B",
+      "channels": [
+        "Disney+ Brazil [$]"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317035-Cuiab-v-Atltico-Goainiense"
+    },
+    {
+      "title": "Botafogo v Vitória Bahia",
+      "teams": [
+        "Botafogo",
+        "Vitória Bahia"
+      ],
+      "date": "23/07/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "CazéTV",
+        "RecordTV",
+        "Rádio CBN",
+        "Rádio TMC"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317033-Botafogo-v-Vitria-Bahia"
+    },
+    {
+      "title": "Sarmiento v Argentinos Juniors",
+      "teams": [
+        "Sarmiento",
+        "Argentinos Juniors"
+      ],
+      "date": "23/07/2026",
+      "time": "22:30",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "ESPN Premium (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317023-Sarmiento-v-Argentinos-Juniors"
+    },
+    {
+      "title": "Belgrano v Rosario Central",
+      "teams": [
+        "Belgrano",
+        "Rosario Central"
+      ],
+      "date": "23/07/2026",
+      "time": "22:30",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "HBO Max Argentina [$/geo/R]",
+        "TNTSportsPremium (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317022-Belgrano-v-Rosario-Central"
+    },
+    {
+      "title": "Corinthians v Remo",
+      "teams": [
+        "Corinthians",
+        "Remo"
+      ],
+      "date": "23/07/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Energia 97",
+        "Premiere (Brazil)",
+        "Rádio BandNews FM",
+        "Rádio Bandeirantes",
+        "Rádio CBN",
+        "Rádio TMC",
+        "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317021-Corinthians-v-Remo"
+    },
+    {
+      "title": "Bolívar v Grêmio",
+      "teams": [
+        "Bolívar",
+        "Grêmio"
+      ],
+      "date": "23/07/2026",
+      "time": "22:00",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "D Sports (Colombia)",
+        "D Sports (Ecuador)",
+        "Dsports(Venezuela)",
+        "ESPN 2 (Argentina)",
+        "ESPN 2 (Chile)",
+        "ESPN Bolivia",
+        "ESPN Paraguay",
+        "ESPN Peru",
+        "ESPN Uruguay",
+        "Paramount+ BRA ($/geo/R)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317026-Bolvar-v-Grmio"
+    },
+    {
+      "title": "Hajduk Split v Pafos FC",
+      "teams": [
+        "Hajduk Split",
+        "Pafos FC"
+      ],
+      "date": "23/07/2026",
+      "time": "19:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "FlashScore Croatia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316778-Hajduk-Split-v-Pafos-FC"
     },
     {
       "title": "Motherwell v HB Tórshavn",
@@ -81,14 +271,84 @@
       "time": "18:45",
       "tournament": "UEFA Conference League",
       "channels": [
-        "BBC Radio Scotland Extra",
         "BBC Sounds APP",
+        "BBC Radio Scotland Extra",
         "BBCSportOnline (Audio)"
       ],
       "commentators": [
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/316775-Motherwell-v-HB-Trshavn"
+    },
+    {
+      "title": "Rijeka v Derry City",
+      "teams": [
+        "Rijeka",
+        "Derry City"
+      ],
+      "date": "23/07/2026",
+      "time": "18:45",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Croatia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316419-Rijeka-v-Derry-City"
+    },
+    {
+      "title": "MSK Zilina v GKS Katowice",
+      "teams": [
+        "MSK Zilina",
+        "GKS Katowice"
+      ],
+      "date": "23/07/2026",
+      "time": "18:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "TVP Sport Polska HD",
+        "FlashScore Poland",
+        "FlashScore Slovakia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316606-MSK-Zilina-v-GKS-Katowice"
+    },
+    {
+      "title": "Paks v Panathinaikos",
+      "teams": [
+        "Paks",
+        "Panathinaikos"
+      ],
+      "date": "23/07/2026",
+      "time": "18:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "Xsports (Brazil)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317032-Paks-v-Panathinaikos"
+    },
+    {
+      "title": "Twente v Ferencváros",
+      "teams": [
+        "Twente",
+        "Ferencváros"
+      ],
+      "date": "23/07/2026",
+      "time": "18:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "YouTube: UOL Esporte"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317031-Twente-v-Ferencvros"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -105,6 +365,24 @@
       "match_url": "https://icdb.tv/match/316637-talkSPORT-The-Transfer-Insiders"
     },
     {
+      "title": "Paks v Panathinaikos",
+      "teams": [
+        "Paks",
+        "Panathinaikos"
+      ],
+      "date": "23/07/2026",
+      "time": "18:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "World Feed",
+        "ESPN+ USA ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316418-Paks-v-Panathinaikos"
+    },
+    {
       "title": "Besiktas v Midtjylland",
       "teams": [
         "Besiktas",
@@ -114,10 +392,12 @@
       "time": "18:00",
       "tournament": "UEFA Europa League",
       "channels": [
+        "Sport 1 Germany HD",
         "S Sport+ Streaming"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/315830-Besiktas-v-Midtjylland"
     },
@@ -131,12 +411,32 @@
       "time": "18:00",
       "tournament": "UEFA Europa League",
       "channels": [
-        "SRF Zwei Schweiz HD"
+        "Polsat Sport 1 HD",
+        "SRF Zwei Schweiz HD",
+        "FlashScore Portugal"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315828-St-Gallen-v-Benfica"
+    },
+    {
+      "title": "FCSB v Auda",
+      "teams": [
+        "FCSB",
+        "Auda"
+      ],
+      "date": "23/07/2026",
+      "time": "17:45",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Romania"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316682-FCSB-v-Auda"
     },
     {
       "title": "Aubstadt v Schweinfurt",
@@ -156,6 +456,40 @@
       "match_url": "https://icdb.tv/match/316680-Aubstadt-v-Schweinfurt"
     },
     {
+      "title": "FC Santa Coloma v Rapid Vienna",
+      "teams": [
+        "FC Santa Coloma",
+        "Rapid Vienna"
+      ],
+      "date": "23/07/2026",
+      "time": "17:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "Solidsport Broadcast [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316677-FC-Santa-Coloma-v-Rapid-Vienna"
+    },
+    {
+      "title": "Universitatea Cluj v Brann",
+      "teams": [
+        "Universitatea Cluj",
+        "Brann"
+      ],
+      "date": "23/07/2026",
+      "time": "17:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Romania"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316673-Universitatea-Cluj-v-Brann"
+    },
+    {
       "title": "Cagliari v Sampdoria",
       "teams": [
         "Cagliari",
@@ -173,6 +507,40 @@
       "match_url": "https://icdb.tv/match/316100-Cagliari-v-Sampdoria"
     },
     {
+      "title": "Raków Czestochowa v Valletta",
+      "teams": [
+        "Raków Czestochowa",
+        "Valletta"
+      ],
+      "date": "23/07/2026",
+      "time": "16:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Poland"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316670-Rakw-Czestochowa-v-Valletta"
+    },
+    {
+      "title": "Dunajská Streda v Velez Mostar",
+      "teams": [
+        "Dunajská Streda",
+        "Velez Mostar"
+      ],
+      "date": "23/07/2026",
+      "time": "16:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Slovakia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316669-Dunajsk-Streda-v-Velez-Mostar"
+    },
+    {
       "title": "Flora Tallinn v The New Saints",
       "teams": [
         "Flora Tallinn",
@@ -182,10 +550,13 @@
       "time": "16:00",
       "tournament": "UEFA Conference League",
       "channels": [
-        "www.cwsportradio.com"
+        "www.cwsportradio.com",
+        "BBC Radio Shropshire",
+        "YouTube: Sgorio"
       ],
       "commentators": [
-        "RussVMedia"
+        "RussVMedia",
+        "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/316666-Flora-Tallinn-v-The-New-Saints"
     },
@@ -415,6 +786,7 @@
       "time": "00:30",
       "tournament": "Brazilian Série A",
       "channels": [
+        "ECDF 3 en Vivo ($/geo/R)",
         "Premiere (Brazil)",
         "Rádio CBN",
         "TV Globo",
@@ -486,7 +858,7 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "DSports(Argentina)",
+        "D Sports (Argentina)",
         "D Sports (Chile)",
         "D Sports (Peru)",
         "D Sports (Uruguay)",
@@ -536,9 +908,6 @@
       "date": "23/07/2026",
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
-      "channels": [
-        "World Feed"
-      ],
       "commentators": [
         "apltle12"
       ],
@@ -553,6 +922,9 @@
       "date": "23/07/2026",
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "apltle12"
       ],
@@ -642,6 +1014,23 @@
       "match_url": "https://icdb.tv/match/315388-Charlotte-v-Atlanta-United"
     },
     {
+      "title": "Manta v LDU Quito",
+      "teams": [
+        "Manta",
+        "LDU Quito"
+      ],
+      "date": "23/07/2026",
+      "time": "00:00",
+      "tournament": "Ecuadorian Liga Pro Serie A",
+      "channels": [
+        "Zapping Sports (Ecuador)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317029-Manta-v-LDU-Quito"
+    },
+    {
       "title": "New England Revolution v Toronto FC",
       "teams": [
         "New England Revolution",
@@ -692,6 +1081,41 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/316888-Columbus-Crew-v-New-York-City"
+    },
+    {
+      "title": "Operário v Ponte Preta",
+      "teams": [
+        "Operário",
+        "Ponte Preta"
+      ],
+      "date": "22/07/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série B",
+      "channels": [
+        "Disney+ Brazil [$]"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317036-Operrio-v-Ponte-Preta"
+    },
+    {
+      "title": "Ceará v CRB",
+      "teams": [
+        "Ceará",
+        "CRB"
+      ],
+      "date": "22/07/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série B",
+      "channels": [
+        "Disney+ Brazil [$]",
+        "ESPN 4 (Brazil)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317034-Cear-v-CRB"
     },
     {
       "title": "Coritiba v Palmeiras",
@@ -752,6 +1176,58 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/316885-Independiente-Medelln-v-Vasco-da-Gama"
+    },
+    {
+      "title": "Independiente del Valle v Tecnico Universitario",
+      "teams": [
+        "Independiente del Valle",
+        "Tecnico Universitario"
+      ],
+      "date": "22/07/2026",
+      "time": "21:30",
+      "tournament": "Ecuadorian Liga Pro Serie A",
+      "channels": [
+        "Teleamazonas",
+        "Zapping Sports (Ecuador)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317028-Independiente-del-Valle-v-Tecnico-Universitario"
+    },
+    {
+      "title": "Electricas CSE v El Nacional",
+      "teams": [
+        "Electricas CSE",
+        "El Nacional"
+      ],
+      "date": "22/07/2026",
+      "time": "20:00",
+      "tournament": "Ecuadorian Superliga Femenina",
+      "channels": [
+        "ECDF 2 en Vivo ($/geo/R)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317030-Electricas-CSE-v-El-Nacional"
+    },
+    {
+      "title": "Macará v Deportivo Cuenca",
+      "teams": [
+        "Macará",
+        "Deportivo Cuenca"
+      ],
+      "date": "22/07/2026",
+      "time": "19:00",
+      "tournament": "Ecuadorian Liga Pro Serie A",
+      "channels": [
+        "Zapping Sports (Ecuador)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317027-Macar-v-Deportivo-Cuenca"
     },
     {
       "title": "Zeleznicar v Sporting Braga",
