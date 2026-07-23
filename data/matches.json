@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-23T07:32:07.267338+00:00",
+  "scraped_at": "2026-07-23T11:50:03.558882+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 66,
+  "total_matches": 68,
   "matches": [
     {
       "title": "Pogon Szczecin v Legia Warsaw",
@@ -112,7 +112,7 @@
       "time": "17:00",
       "tournament": "German Regionalliga: Bayern",
       "channels": [
-        "BR24 Sport [online]"
+        "BR24Sport[online]"
       ],
       "commentators": [
         "kurtogen"
@@ -415,7 +415,7 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "D Sports (Argentina)",
+        "DSports(Argentina)",
         "D Sports (Chile)",
         "D Sports (Peru)",
         "D Sports (Uruguay)",
@@ -935,6 +935,23 @@
       "match_url": "https://icdb.tv/match/316097-Torino-v-Alcione-Milano"
     },
     {
+      "title": "Tottenham Hotspur v Milton Keynes Dons",
+      "teams": [
+        "Tottenham Hotspur",
+        "Milton Keynes Dons"
+      ],
+      "date": "22/07/2026",
+      "time": "15:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "SpursPlay ($/geo/R)"
+      ],
+      "commentators": [
+        "r96"
+      ],
+      "match_url": "https://icdb.tv/match/316149-Tottenham-Hotspur-v-Milton-Keynes-Dons"
+    },
+    {
       "title": "FC Kharkiv v Schalke 04",
       "teams": [
         "FC Kharkiv",
@@ -1037,6 +1054,23 @@
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/316875-Azzurri-United-v-Macarthur-FC"
+    },
+    {
+      "title": "Blackburn Rovers v Nottingham Forest",
+      "teams": [
+        "Blackburn Rovers",
+        "Nottingham Forest"
+      ],
+      "date": "22/07/2026",
+      "time": "10:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Forest TV ($/geo/R)"
+      ],
+      "commentators": [
+        "r96"
+      ],
+      "match_url": "https://icdb.tv/match/315535-Blackburn-Rovers-v-Nottingham-Forest"
     },
     {
       "title": "Sydney United 58 v Central Coast Mariners",
@@ -1175,20 +1209,20 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "World Feed",
-        "Rádio Bandeirantes",
+        "D Sports (South America)",
+        "Disney+ Argentina ($/geo/R)",
+        "Disney+ Brazil [$]",
         "ESPN (Brazil)",
         "ESPN 2 (Argentina)",
-        "SBT (Brazil)",
-        "Rádio BandNews FM",
-        "D Sports (South America)",
-        "Disney+ Brazil [$]",
-        "Disney+ Argentina ($/geo/R)",
         "Energia 97",
+        "Rádio BandNews FM",
+        "Rádio Bandeirantes",
         "Rádio CBN",
         "Rádio Jovem Pan",
-        "Rádio TMC"
+        "Rádio TMC",
+        "SBT (Brazil)",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
         "Mikhail17",
