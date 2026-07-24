@@ -1,8 +1,62 @@
 {
-  "scraped_at": "2026-07-24T02:27:47.328963+00:00",
+  "scraped_at": "2026-07-24T07:30:34.026023+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 64,
+  "total_matches": 68,
   "matches": [
+    {
+      "title": "Standard Liège v Juventus",
+      "teams": [
+        "Standard Liège",
+        "Juventus"
+      ],
+      "date": "25/07/2026",
+      "time": "18:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Calcio HD",
+        "Sky Sport Uno Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/315802-Standard-Lige-v-Juventus"
+    },
+    {
+      "title": "Torino v Cittadella",
+      "teams": [
+        "Torino",
+        "Cittadella"
+      ],
+      "date": "25/07/2026",
+      "time": "15:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/316789-Torino-v-Cittadella"
+    },
+    {
+      "title": "Bologna v Iraklis 1908",
+      "teams": [
+        "Bologna",
+        "Iraklis 1908"
+      ],
+      "date": "25/07/2026",
+      "time": "14:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/316164-Bologna-v-Iraklis-1908"
+    },
     {
       "title": "Queens Park Rangers v Fiorentina",
       "teams": [
@@ -30,7 +84,8 @@
       "time": "14:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "DAZN Italia ($/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "Sky Sport Calcio HD"
       ],
       "commentators": [
         "Guest-SC"
@@ -98,10 +153,12 @@
       "time": "16:00",
       "tournament": "Friendly Club Match",
       "channels": [
+        "MUTV",
         "VG+ Sport Norge ($/geo/R)"
       ],
       "commentators": [
-        "Bksm"
+        "Bksm",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/315458-Rosenborg-v-Manchester-United"
     },
@@ -202,6 +259,23 @@
       "match_url": "https://icdb.tv/match/317025-Independiente-Santa-F-v-Caracas"
     },
     {
+      "title": "Independiente Santa Fé v Caracas",
+      "teams": [
+        "Independiente Santa Fé",
+        "Caracas"
+      ],
+      "date": "24/07/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/315622-Independiente-Santa-F-v-Caracas"
+    },
+    {
       "title": "Boca Juniors v O'Higgins",
       "teams": [
         "Boca Juniors",
@@ -211,21 +285,27 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "Sportdigital FUSSBALL HD",
+        "D Sports (Chile)",
+        "D Sports (Peru)",
+        "D Sports (Uruguay)",
+        "Disney+ Brazil [$]",
+        "ESPN (Argentina)",
         "ESPN (Brazil)",
         "ESPN 2 (Colombia)",
-        "ESPN 3 (Centroamérica)",
-        "ESPN (Argentina)",
-        "D Sports (Uruguay)",
-        "D Sports (Peru)",
-        "D Sports (Chile)",
         "ESPN 2 (Ecuador)",
         "ESPN 2 (Venezuela)",
-        "Disney+ Brazil [$]"
+        "ESPN 3 (Centroamérica)",
+        "Polsat Sport 1 HD",
+        "Sportdigital FUSSBALL HD",
+        "World Feed",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "apltle12",
+        "ethanh05",
         "kurtogen",
-        "luca80sp"
+        "luca80sp",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/315455-Boca-Juniors-v-OHiggins"
     },
@@ -313,9 +393,11 @@
       "tournament": "Argentinean Primera División",
       "channels": [
         "HBO Max Argentina [$/geo/R]",
-        "TNT Sports Premium (Argentina)"
+        "TNT Sports Premium (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/317022-Belgrano-v-Rosario-Central"
@@ -354,20 +436,23 @@
       "time": "22:00",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "ESPN Uruguay",
-        "ESPN Peru",
-        "ESPN 2 (Chile)",
-        "ESPN 2 (Argentina)",
-        "ESPN Paraguay",
-        "D Sports (Ecuador)",
-        "ESPN Bolivia",
-        "Paramount+ BRA ($/geo/R)",
-        "D sports (Venezuela)",
         "D Sports (Colombia)",
+        "D Sports (Ecuador)",
+        "D sports (Venezuela)",
+        "ESPN 2 (Argentina)",
+        "ESPN 2 (Chile)",
+        "ESPN Bolivia",
+        "ESPN Paraguay",
+        "ESPN Peru",
+        "ESPN Uruguay",
+        "FlashScore Brazil",
+        "Paramount+ BRA ($/geo/R)",
         "Rádio Gaúcha",
-        "FlashScore Brazil"
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "luca80sp"
       ],
@@ -383,9 +468,11 @@
       "time": "19:00",
       "tournament": "UEFA Europa League",
       "channels": [
-        "FlashScore Croatia"
+        "FlashScore Croatia",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/316778-Hajduk-Split-v-Pafos-FC"
@@ -455,9 +542,11 @@
       "time": "18:00",
       "tournament": "UEFA Conference League",
       "channels": [
+        "World Feed",
         "Xsports (Brazil)"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/317032-Paks-v-Panathinaikos"
@@ -540,13 +629,15 @@
       "time": "18:00",
       "tournament": "UEFA Europa League",
       "channels": [
+        "FlashScore Portugal",
         "Polsat Sport 1 HD",
-        "VG+ Sport Norge ($/geo/R)",
         "SRF Zwei Schweiz HD",
-        "FlashScore Portugal"
+        "VG+ Sport Norge ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "Bksm",
+        "apltle12",
         "ethanh05",
         "kurtogen"
       ],
@@ -1060,6 +1151,9 @@
       "date": "23/07/2026",
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "apltle12"
       ],
@@ -1142,6 +1236,9 @@
       "date": "23/07/2026",
       "time": "00:30",
       "tournament": "Brazilian Série A",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "apltle12"
       ],
