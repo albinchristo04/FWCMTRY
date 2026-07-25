@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-25T07:14:22.345524+00:00",
+  "scraped_at": "2026-07-25T11:08:13.295997+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 71,
+  "total_matches": 79,
   "matches": [
     {
       "title": "TalkSport Trans Europe Express",
@@ -173,9 +173,12 @@
       "time": "14:00",
       "tournament": "Scottish League Cup",
       "channels": [
+        "BBC Radio Scotland",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
         "Premier Sports 1 HD",
-        "World Feed",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "HWP",
@@ -216,7 +219,7 @@
       "channels": [
         "Ion Television (USA)",
         "NWSL+ International (geo/R)",
-        "Scripps Sports Network",
+        "ScrippsSportsNetwork",
         "World Feed"
       ],
       "commentators": [
@@ -252,7 +255,7 @@
       "tournament": "CONCACAF U-20 Championships",
       "channels": [
         "CONCACAF GO (geo/R)",
-        "Fox Soccer Plus USA",
+        "FoxSoccerPlus USA",
         "Fox Sports App (US)",
         "OneSoccer",
         "YouTube: CONCACAF (geo/R)"
@@ -295,7 +298,7 @@
       "time": "19:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "On Sport Plus"
+        "OnSportPlus"
       ],
       "commentators": [
         "ysscores"
@@ -340,6 +343,25 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/315802-Standard-Lige-v-Juventus"
+    },
+    {
+      "title": "Spartak Moscow v Rodina Moscow",
+      "teams": [
+        "Spartak Moscow",
+        "Rodina Moscow"
+      ],
+      "date": "25/07/2026",
+      "time": "17:45",
+      "tournament": "Russian Premier League",
+      "channels": [
+        "MATCH! Premier HD",
+        "MATCH! Russia HD",
+        "MATCH! TV [online] ($/geo/R)"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/316029-Spartak-Moscow-v-Rodina-Moscow"
     },
     {
       "title": "Las Palmas v Al Ittihad",
@@ -410,6 +432,24 @@
       "match_url": "https://icdb.tv/match/316165-Wacker-Innsbruck-v-Reichenau"
     },
     {
+      "title": "Fakel Voronezh v Dynamo Makhachkala",
+      "teams": [
+        "Fakel Voronezh",
+        "Dynamo Makhachkala"
+      ],
+      "date": "25/07/2026",
+      "time": "15:30",
+      "tournament": "Russian Premier League",
+      "channels": [
+        "MATCH! Premier HD",
+        "MATCH! TV [online] ($/geo/R)"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/316025-Fakel-Voronezh-v-Dynamo-Makhachkala"
+    },
+    {
       "title": "Torino v Cittadella",
       "teams": [
         "Torino",
@@ -478,6 +518,25 @@
       "match_url": "https://icdb.tv/match/315957-Queens-Park-Rangers-v-Fiorentina"
     },
     {
+      "title": "Dundee v Clyde",
+      "teams": [
+        "Dundee",
+        "Clyde"
+      ],
+      "date": "25/07/2026",
+      "time": "14:00",
+      "tournament": "Scottish League Cup",
+      "channels": [
+        "BBC Radio Scotland",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/315569-Dundee-v-Clyde"
+    },
+    {
       "title": "Celtic v AC Milan",
       "teams": [
         "Celtic",
@@ -496,6 +555,24 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/315560-Celtic-v-AC-Milan"
+    },
+    {
+      "title": "Akron v Zenit St Petersburg",
+      "teams": [
+        "Akron",
+        "Zenit St Petersburg"
+      ],
+      "date": "25/07/2026",
+      "time": "13:15",
+      "tournament": "Russian Premier League",
+      "channels": [
+        "MATCH! Premier HD",
+        "MATCH! TV [online] ($/geo/R)"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/316022-Akron-v-Zenit-St-Petersburg"
     },
     {
       "title": "AZ Alkmaar v Olympiacos",
@@ -530,6 +607,24 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315549-Erzgebirge-Aue-v-VSG-Altglienicke"
+    },
+    {
+      "title": "Dynamo Moscow v Kryliya Sovetov",
+      "teams": [
+        "Dynamo Moscow",
+        "Kryliya Sovetov"
+      ],
+      "date": "25/07/2026",
+      "time": "11:00",
+      "tournament": "Russian Premier League",
+      "channels": [
+        "MATCH! Premier HD",
+        "MATCH! TV [online] ($/geo/R)"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/316021-Dynamo-Moscow-v-Kryliya-Sovetov"
     },
     {
       "title": "Tijuana v León",
@@ -999,6 +1094,25 @@
       "match_url": "https://icdb.tv/match/315462-Pogon-Szczecin-v-Legia-Warsaw"
     },
     {
+      "title": "Winterthur v Yverdon Sport",
+      "teams": [
+        "Winterthur",
+        "Yverdon Sport"
+      ],
+      "date": "24/07/2026",
+      "time": "18:15",
+      "tournament": "Swiss Challenge League",
+      "channels": [
+        "Blue ZOOM D Schweiz",
+        "Blue ZOOM F Suisse",
+        "SRF Highlights"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/316017-Winterthur-v-Yverdon-Sport"
+    },
+    {
       "title": "Galatasaray v Monza",
       "teams": [
         "Galatasaray",
@@ -1015,6 +1129,40 @@
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/316009-Galatasaray-v-Monza"
+    },
+    {
+      "title": "Neuchâtel Xamax v Kriens",
+      "teams": [
+        "Neuchâtel Xamax",
+        "Kriens"
+      ],
+      "date": "24/07/2026",
+      "time": "17:30",
+      "tournament": "Swiss Challenge League",
+      "channels": [
+        "SRF Highlights"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/316015-Neuchtel-Xamax-v-Kriens"
+    },
+    {
+      "title": "Rapperswil-Jona v Wil 1900",
+      "teams": [
+        "Rapperswil-Jona",
+        "Wil 1900"
+      ],
+      "date": "24/07/2026",
+      "time": "17:30",
+      "tournament": "Swiss Challenge League",
+      "channels": [
+        "SRF Highlights"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/316013-RapperswilJona-v-Wil-1900"
     },
     {
       "title": "CSKA Moscow v Baltika",
