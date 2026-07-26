@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26T07:34:59.463989+00:00",
+  "scraped_at": "2026-07-26T11:18:06.303645+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 130,
+  "total_matches": 132,
   "matches": [
     {
       "title": "Antigua & Barbuda U-20 v Guatemala U-20",
@@ -251,6 +251,24 @@
       "match_url": "https://icdb.tv/match/317528-Juventude-v-Ferroviria"
     },
     {
+      "title": "Hradec Králové v Pardubice",
+      "teams": [
+        "Hradec Králové",
+        "Pardubice"
+      ],
+      "date": "26/07/2026",
+      "time": "18:00",
+      "tournament": "Czech LIGA",
+      "channels": [
+        "OnePlay Sport 1 HD",
+        "OnePlay Sport 4 HD"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315686-Hradec-Krlov-v-Pardubice"
+    },
+    {
       "title": "Napoli v Carrarese",
       "teams": [
         "Napoli",
@@ -340,6 +358,23 @@
       "match_url": "https://icdb.tv/match/315663-Lugano-v-Vaduz"
     },
     {
+      "title": "Corinthians v Vitória Bahia",
+      "teams": [
+        "Corinthians",
+        "Vitória Bahia"
+      ],
+      "date": "26/07/2026",
+      "time": "14:00",
+      "tournament": "Brazilian Feminino Série A1",
+      "channels": [
+        "TV Brasil"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317743-Corinthians-v-Vitria-Bahia"
+    },
+    {
       "title": "St Mirren v Dunfermline Athletic",
       "teams": [
         "St Mirren",
@@ -372,9 +407,13 @@
       "time": "13:00",
       "tournament": "Czech LIGA",
       "channels": [
+        "OnePlay Sport 1 HD",
+        "OnePlay Sport 3 HD",
+        "OnePlay Sport 4 HD",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
+        "HWP",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315655-Slavia-Prague-v-Slovcko"
@@ -414,6 +453,24 @@
       "match_url": "https://icdb.tv/match/317269-Greifswalder-FC-v-Hallescher-FC"
     },
     {
+      "title": "Kingborough Lions United v Melbourne Victory",
+      "teams": [
+        "Kingborough Lions United",
+        "Melbourne Victory"
+      ],
+      "date": "26/07/2026",
+      "time": "07:00",
+      "tournament": "Australian FFA Cup",
+      "channels": [
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/317741-Kingborough-Lions-United-v-Melbourne-Victory"
+    },
+    {
       "title": "Weston Bears v Melbourne City",
       "teams": [
         "Weston Bears",
@@ -430,27 +487,6 @@
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/317740-Weston-Bears-v-Melbourne-City"
-    },
-    {
-      "title": "Auckland City v Tottenham Hotspur",
-      "teams": [
-        "Auckland City",
-        "Tottenham Hotspur"
-      ],
-      "date": "26/07/2026",
-      "time": "03:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "On Sport Plus",
-        "SpursPlay ($/geo/R)",
-        "TVNZ 2",
-        "World Feed"
-      ],
-      "commentators": [
-        "apltle12",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/317562-Auckland-City-v-Tottenham-Hotspur"
     },
     {
       "title": "Tigres UANL v San Luis",
@@ -503,12 +539,19 @@
       "time": "03:00",
       "tournament": "Friendly Club Match",
       "channels": [
+        "On Sport Plus",
+        "Paramount+ AUS ($/geo/R)",
+        "SpursPlay ($/geo/R)",
+        "TVNZ 2",
         "TVNZ 2 / HD",
         "TVNZ+ (New Zealand) (geo/R)",
         "World Feed"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "apltle12",
+        "r96",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316032-Auckland-FC-v-Tottenham-Hotspur"
     },
@@ -824,6 +867,7 @@
       "tournament": "Friendly Club Match",
       "channels": [
         "ESPN+ USA ($/geo/R)",
+        "LUTV",
         "Premier Sports 2 HD",
         "Premier Sports 2 UK HD",
         "Premier Sports Player UK (£/geo/R)",
@@ -1596,9 +1640,12 @@
       "time": "15:00",
       "tournament": "Czech LIGA",
       "channels": [
+        "OnePlay Sport 1 HD",
+        "OnePlay Sport 4 HD",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
+        "HWP",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315574-Viktoria-Plzen-v-Slovan-Liberec"
@@ -1771,8 +1818,9 @@
         "BBC Radio Scotland",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "Premier Sports Player UK (£/geo/R)",
-        "DeeTV (Dundee)"
+        "Clyde TV Live ($/geo/R)",
+        "DeeTV (Dundee)",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
         "HWP",
