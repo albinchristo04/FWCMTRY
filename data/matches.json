@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26T16:00:42.395627+00:00",
+  "scraped_at": "2026-07-26T20:56:52.186712+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 147,
+  "total_matches": 155,
   "matches": [
     {
       "title": "Antigua & Barbuda U-20 v Guatemala U-20",
@@ -138,6 +138,8 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Premiere (Brazil)",
+        "Rádio Bandeirantes",
+        "Rádio Itatiaia",
         "SporTV Brazil HD"
       ],
       "commentators": [
@@ -162,6 +164,40 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/317768-Palmeiras-v-Atltico-Mineiro"
+    },
+    {
+      "title": "América Mineiro v Goiás",
+      "teams": [
+        "América Mineiro",
+        "Goiás"
+      ],
+      "date": "26/07/2026",
+      "time": "21:30",
+      "tournament": "Brazilian Série B",
+      "channels": [
+        "Rádio Itatiaia"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317791-Amrica-Mineiro-v-Gois"
+    },
+    {
+      "title": "Bragantino v Coritiba",
+      "teams": [
+        "Bragantino",
+        "Coritiba"
+      ],
+      "date": "26/07/2026",
+      "time": "21:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Premiere (Brazil)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317787-Bragantino-v-Coritiba"
     },
     {
       "title": "Londrina v Novorizontino",
@@ -191,7 +227,8 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Energia 97",
-        "Premiere (Brazil)"
+        "Premiere (Brazil)",
+        "Rádio Tupi"
       ],
       "commentators": [
         "luca80sp"
@@ -208,8 +245,9 @@
       "time": "21:30",
       "tournament": "Brazilian Série A",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "Premiere (Brazil)"
+        "Premiere (Brazil)",
+        "Rádio Gaúcha",
+        "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
         "kurtogen",
@@ -241,7 +279,7 @@
       "time": "21:00",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
-        "CBSSportsNetwork USA",
+        "CBS Sports Network USA",
         "KJR 950 AM",
         "KZJO",
         "NWSL+ International (geo/R)"
@@ -291,6 +329,23 @@
       "match_url": "https://icdb.tv/match/317423-Panama-U20-v-Canada-U20"
     },
     {
+      "title": "Brusque v Ituano",
+      "teams": [
+        "Brusque",
+        "Ituano"
+      ],
+      "date": "26/07/2026",
+      "time": "19:00",
+      "tournament": "Brazilian Série C",
+      "channels": [
+        "SportyNet"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/317790-Brusque-v-Ituano"
+    },
+    {
       "title": "São Bernardo v Ceará",
       "teams": [
         "São Bernardo",
@@ -300,6 +355,8 @@
       "time": "19:00",
       "tournament": "Brazilian Série B",
       "channels": [
+        "Premiere (Brazil)",
+        "SporTV Brazil HD",
         "TV Globo",
         "TV Verdes Mares",
         "globoplay"
@@ -309,27 +366,6 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/317209-So-Bernardo-v-Cear"
-    },
-    {
-      "title": "Cruzeiro v Botafogo",
-      "teams": [
-        "Cruzeiro",
-        "Botafogo"
-      ],
-      "date": "26/07/2026",
-      "time": "19:00",
-      "tournament": "Brazilian Série A",
-      "channels": [
-        "Premiere (Brazil)",
-        "Sportdigital FUSSBALL HD",
-        "TV Globo",
-        "globoplay"
-      ],
-      "commentators": [
-        "kurtogen",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/317208-Cruzeiro-v-Botafogo"
     },
     {
       "title": "Bahia v Corinthians",
@@ -342,16 +378,50 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Energia 97",
+        "FlashScore Brazil",
         "GE TV",
         "Premiere (Brazil)",
         "Rádio BandNews FM",
+        "Rádio Bandeirantes",
+        "Rádio Jovem Pan",
+        "Rádio Sociedade da Bahia",
+        "Rádio TMC",
         "TV Globo",
         "globoplay"
       ],
       "commentators": [
+        "Mikhail17",
+        "ethanh05",
         "luca80sp"
       ],
-      "match_url": "https://icdb.tv/match/317207-Bahia-v-Corinthians"
+      "match_url": "https://icdb.tv/match/315960-Bahia-v-Corinthians"
+    },
+    {
+      "title": "Cruzeiro v Botafogo",
+      "teams": [
+        "Cruzeiro",
+        "Botafogo"
+      ],
+      "date": "26/07/2026",
+      "time": "19:00",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "FlashScore Brazil",
+        "Premiere (Brazil)",
+        "Rádio Itatiaia",
+        "Rádio TMC",
+        "Rádio Tupi",
+        "Sportdigital FUSSBALL HD",
+        "TV Globo",
+        "globoplay"
+      ],
+      "commentators": [
+        "Mikhail17",
+        "ethanh05",
+        "kurtogen",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/315690-Cruzeiro-v-Botafogo"
     },
     {
       "title": "Wienerberg v Rapid Vienna",
@@ -369,6 +439,23 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/316041-Wienerberg-v-Rapid-Vienna"
+    },
+    {
+      "title": "Wisla Kraków v GKS Katowice",
+      "teams": [
+        "Wisla Kraków",
+        "GKS Katowice"
+      ],
+      "date": "26/07/2026",
+      "time": "18:15",
+      "tournament": "Polish Ekstraklasa",
+      "channels": [
+        "FlashScore Poland"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315687-Wisla-Krakw-v-GKS-Katowice"
     },
     {
       "title": "Atlético Tucumán v Independiente Rivadavia",
@@ -415,13 +502,50 @@
       "time": "18:00",
       "tournament": "Czech LIGA",
       "channels": [
-        "OnePlaySport1 HD",
+        "OnePlay Sport 1 HD",
         "OnePlay Sport 4 HD"
       ],
       "commentators": [
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/315686-Hradec-Krlov-v-Pardubice"
+    },
+    {
+      "title": "Csikszereda v FCSB",
+      "teams": [
+        "Csikszereda",
+        "FCSB"
+      ],
+      "date": "26/07/2026",
+      "time": "17:30",
+      "tournament": "Romanian Superliga",
+      "channels": [
+        "FlashScore Romania"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315750-Csikszereda-v-FCSB"
+    },
+    {
+      "title": "Aalesund v Viking",
+      "teams": [
+        "Aalesund",
+        "Viking"
+      ],
+      "date": "26/07/2026",
+      "time": "17:15",
+      "tournament": "Norwegian Eliteserien",
+      "channels": [
+        "TV2 Sport 1 Norge HD",
+        "DirekteSport.no [$] (geo/R)",
+        "TV2 Play Norge ($/geo/R)",
+        "NRK Sport"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/315684-Aalesund-v-Viking"
     },
     {
       "title": "Napoli v Carrarese",
@@ -475,6 +599,23 @@
       "match_url": "https://icdb.tv/match/316175-Cannes-v-Roma"
     },
     {
+      "title": "St Gallen v Zürich",
+      "teams": [
+        "St Gallen",
+        "Zürich"
+      ],
+      "date": "26/07/2026",
+      "time": "14:30",
+      "tournament": "Swiss Super League",
+      "channels": [
+        "Blue Sport D 1 HD"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/316038-St-Gallen-v-Zrich"
+    },
+    {
       "title": "Karlsruhe v Inter Milan",
       "teams": [
         "Karlsruhe",
@@ -485,10 +626,10 @@
       "tournament": "Friendly Club Match",
       "channels": [
         "DAZN Deutsch [$] (geo/R)",
-        "DAZN Italia ($/geo/R)",
+        "World Feed",
         "DAZN Schweiz [$] (geo/R)",
-        "Sky Sport Calcio HD",
-        "World Feed"
+        "DAZN Italia ($/geo/R)",
+        "Sky Sport Calcio HD"
       ],
       "commentators": [
         "Guest-SC",
@@ -507,10 +648,12 @@
       "time": "14:30",
       "tournament": "Swiss Super League",
       "channels": [
+        "Blue Sport 2 Live HD",
         "SRF Info Schweiz HD",
         "RTS 2 Suisse HD"
       ],
       "commentators": [
+        "Johnny17",
         "kmw",
         "kurtogen"
       ],
@@ -568,8 +711,8 @@
       "tournament": "Friendly Club Match",
       "channels": [
         "Premier Sports 2 HD",
-        "Premier Sports Player UK (£/geo/R)",
-        "World Feed"
+        "World Feed",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
         "HWP"
@@ -649,6 +792,23 @@
       "match_url": "https://icdb.tv/match/317269-Greifswalder-FC-v-Hallescher-FC"
     },
     {
+      "title": "Young Boys v Sion",
+      "teams": [
+        "Young Boys",
+        "Sion"
+      ],
+      "date": "26/07/2026",
+      "time": "12:00",
+      "tournament": "Swiss Super League",
+      "channels": [
+        "Blue Sport D 1 HD"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/316036-Young-Boys-v-Sion"
+    },
+    {
       "title": "Incheon United v Bucheon 1995",
       "teams": [
         "Incheon United",
@@ -658,9 +818,9 @@
       "time": "10:30",
       "tournament": "South Korean K-League",
       "channels": [
-        "Stan Sport Australia ($/geo/R)",
         "World Feed",
-        "tv.kleague.com"
+        "tv.kleague.com",
+        "Stan Sport Australia ($/geo/R)"
       ],
       "commentators": [
         "HWP"
@@ -668,23 +828,23 @@
       "match_url": "https://icdb.tv/match/315804-Incheon-United-v-Bucheon-1995"
     },
     {
-      "title": "FC Seoul v Ulsan HD",
+      "title": "FC Seoul v Ulsan Horang-i",
       "teams": [
         "FC Seoul",
-        "Ulsan HD"
+        "Ulsan Horang-i"
       ],
       "date": "26/07/2026",
       "time": "10:30",
       "tournament": "South Korean K-League",
       "channels": [
-        "Stan Sport Australia ($/geo/R)",
         "World Feed",
-        "tv.kleague.com"
+        "tv.kleague.com",
+        "Stan Sport Australia ($/geo/R)"
       ],
       "commentators": [
         "HWP"
       ],
-      "match_url": "https://icdb.tv/match/315803-FC-Seoul-v-Ulsan-HD"
+      "match_url": "https://icdb.tv/match/315803-FC-Seoul-v-Ulsan-Horangi"
     },
     {
       "title": "Kingborough Lions United v Melbourne Victory",
