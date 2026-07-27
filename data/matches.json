@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-27T02:40:53.686329+00:00",
+  "scraped_at": "2026-07-27T08:29:13.069168+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 63,
+  "total_matches": 71,
   "matches": [
     {
       "title": "Haiti U-20 v Cuba U-20",
@@ -171,9 +171,11 @@
         "ESPN (Brazil)",
         "ESPN (South America)",
         "ESPN 5 (CentroAmérica)",
-        "ESPN Premium (Argentina)"
+        "ESPN Premium (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/317771-Deportivo-Riestra-v-Boca-Juniors"
@@ -315,12 +317,19 @@
       "time": "21:30",
       "tournament": "Brazilian Série A",
       "channels": [
-        "Sportdigital FUSSBALL HD",
+        "FlashScore Brazil",
+        "Premier Sports 2 HD",
+        "Premier Sports Player UK (£/geo/R)",
         "Premiere (Brazil)",
         "Rádio Gaúcha",
-        "FlashScore Brazil"
+        "Rádio Tupi",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
+        "Mikhail17",
+        "apltle12",
         "ethanh05",
         "kurtogen",
         "luca80sp"
@@ -381,6 +390,23 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/317772-Estudiantes-LP-v-Independiente"
+    },
+    {
+      "title": "Morocco v Kenya",
+      "teams": [
+        "Morocco",
+        "Kenya"
+      ],
+      "date": "26/07/2026",
+      "time": "20:00",
+      "tournament": "CAF African Women's Cup of Nations",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/317813-Morocco-v-Kenya"
     },
     {
       "title": "Panama U-20 v Canada U-20",
@@ -482,22 +508,43 @@
       "time": "19:00",
       "tournament": "Brazilian Série A",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "Rádio Tupi",
-        "Rádio Itatiaia",
-        "TV Globo",
-        "globoplay",
+        "FlashScore Brazil",
         "Premiere (Brazil)",
+        "Rádio Itatiaia",
         "Rádio TMC",
-        "FlashScore Brazil"
+        "Rádio Tupi",
+        "Sportdigital FUSSBALL HD",
+        "TV Globo",
+        "World Feed",
+        "globoplay"
       ],
       "commentators": [
+        "HWP",
         "Mikhail17",
+        "apltle12",
         "ethanh05",
         "kurtogen",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/315690-Cruzeiro-v-Botafogo"
+    },
+    {
+      "title": "Sevilla v Ceuta",
+      "teams": [
+        "Sevilla",
+        "Ceuta"
+      ],
+      "date": "26/07/2026",
+      "time": "19:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315689-Sevilla-v-Ceuta"
     },
     {
       "title": "Wienerberg v Rapid Vienna",
@@ -585,6 +632,40 @@
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/315686-Hradec-Krlov-v-Pardubice"
+    },
+    {
+      "title": "Chojniczanka Chojnice v GKS Tychy",
+      "teams": [
+        "Chojniczanka Chojnice",
+        "GKS Tychy"
+      ],
+      "date": "26/07/2026",
+      "time": "17:30",
+      "tournament": "Polish 2. Liga",
+      "channels": [
+        "TVP 3"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317815-Chojniczanka-Chojnice-v-GKS-Tychy"
+    },
+    {
+      "title": "Puszcza Niepolomice v Polonia Warsaw",
+      "teams": [
+        "Puszcza Niepolomice",
+        "Polonia Warsaw"
+      ],
+      "date": "26/07/2026",
+      "time": "17:30",
+      "tournament": "Polish 1. Liga",
+      "channels": [
+        "Sport TVP ($/geo/R)"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315840-Puszcza-Niepolomice-v-Polonia-Warsaw"
     },
     {
       "title": "Csikszereda v FCSB",
@@ -675,6 +756,40 @@
       "match_url": "https://icdb.tv/match/316175-Cannes-v-Roma"
     },
     {
+      "title": "Widzew Lódz v Motor Lublin",
+      "teams": [
+        "Widzew Lódz",
+        "Motor Lublin"
+      ],
+      "date": "26/07/2026",
+      "time": "15:30",
+      "tournament": "Polish Ekstraklasa",
+      "channels": [
+        "TVP Sport Polska HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315678-Widzew-Ldz-v-Motor-Lublin"
+    },
+    {
+      "title": "Unia Skierniewice v Stal Mielec",
+      "teams": [
+        "Unia Skierniewice",
+        "Stal Mielec"
+      ],
+      "date": "26/07/2026",
+      "time": "15:00",
+      "tournament": "Polish 1. Liga",
+      "channels": [
+        "Sport TVP ($/geo/R)"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315839-Unia-Skierniewice-v-Stal-Mielec"
+    },
+    {
       "title": "St Gallen v Zürich",
       "teams": [
         "St Gallen",
@@ -734,6 +849,23 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315663-Lugano-v-Vaduz"
+    },
+    {
+      "title": "Avia Swidnik v Olimpia Grudziadz",
+      "teams": [
+        "Avia Swidnik",
+        "Olimpia Grudziadz"
+      ],
+      "date": "26/07/2026",
+      "time": "14:00",
+      "tournament": "Polish 2. Liga",
+      "channels": [
+        "Sport TVP ($/geo/R)"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317814-Avia-Swidnik-v-Olimpia-Grudziadz"
     },
     {
       "title": "Corinthians v Vitória Bahia",
@@ -818,6 +950,23 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315655-Slavia-Prague-v-Slovcko"
+    },
+    {
+      "title": "Termalica Nieciecza v Ruch Chorzów",
+      "teams": [
+        "Termalica Nieciecza",
+        "Ruch Chorzów"
+      ],
+      "date": "26/07/2026",
+      "time": "12:30",
+      "tournament": "Polish 1. Liga",
+      "channels": [
+        "TVP Polonia HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315838-Termalica-Nieciecza-v-Ruch-Chorzw"
     },
     {
       "title": "Brann v Vålerenga",
