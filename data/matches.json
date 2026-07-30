@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-30T16:25:46.228876+00:00",
+  "scraped_at": "2026-07-30T21:07:09.111080+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 71,
+  "total_matches": 85,
   "matches": [
     {
       "title": "El Salvador U-20 v Haiti U-20",
@@ -162,6 +162,57 @@
       "match_url": "https://icdb.tv/match/316054-OHiggins-v-Boca-Juniors"
     },
     {
+      "title": "Coritiba v Cruzeiro",
+      "teams": [
+        "Coritiba",
+        "Cruzeiro"
+      ],
+      "date": "31/07/2026",
+      "time": "00:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "FlashScore Brazil"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316053-Coritiba-v-Cruzeiro"
+    },
+    {
+      "title": "Leeds United v Sunderland",
+      "teams": [
+        "Leeds United",
+        "Sunderland"
+      ],
+      "date": "30/07/2026",
+      "time": "23:30",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "ESPN 2 (United States)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/315983-Leeds-United-v-Sunderland"
+    },
+    {
+      "title": "Corinthians v Atlético Paranaense",
+      "teams": [
+        "Corinthians",
+        "Atlético Paranaense"
+      ],
+      "date": "30/07/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "FlashScore Brazil"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/315982-Corinthians-v-Atltico-Paranaense"
+    },
+    {
       "title": "Costa Rica U-20 v Antigua & Barbuda U-20",
       "teams": [
         "Costa Rica U-20",
@@ -192,9 +243,11 @@
       "time": "22:00",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "FlashScore Brazil",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/315981-Grmio-v-Bolvar"
@@ -209,7 +262,8 @@
         "BBC Sounds APP"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/317016-BBC-5-Live-Sport"
     },
@@ -225,12 +279,30 @@
       "channels": [
         "BBC Radio Scotland Extra",
         "BBC Sounds APP",
-        "BBCSportOnline (Audio)"
+        "BBCSportOnline (Audio)",
+        "Solidsport Broadcast [$]"
       ],
       "commentators": [
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/317097-Hibernian-v-Malisheva"
+    },
+    {
+      "title": "Sporting Braga v Zeleznicar",
+      "teams": [
+        "Sporting Braga",
+        "Zeleznicar"
+      ],
+      "date": "30/07/2026",
+      "time": "19:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Portugal"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317096-Sporting-Braga-v-Zeleznicar"
     },
     {
       "title": "Benfica v St Gallen",
@@ -242,12 +314,89 @@
       "time": "19:00",
       "tournament": "UEFA Europa League",
       "channels": [
-        "SRF Zwei Schweiz HD"
+        "FlashScore Portugal",
+        "RSI La 2 Svizzera HD",
+        "SRF Zwei Schweiz HD",
+        "Youtube: Corriere dello Sport"
       ],
       "commentators": [
+        "FVG",
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/316187-Benfica-v-St-Gallen"
+    },
+    {
+      "title": "Coleraine v HJK Helsinki",
+      "teams": [
+        "Coleraine",
+        "HJK Helsinki"
+      ],
+      "date": "30/07/2026",
+      "time": "18:45",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "NIFL TV ($/geo/R)"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316610-Coleraine-v-HJK-Helsinki"
+    },
+    {
+      "title": "CFR Cluj v Alashkert",
+      "teams": [
+        "CFR Cluj",
+        "Alashkert"
+      ],
+      "date": "30/07/2026",
+      "time": "18:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Romania"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317093-CFR-Cluj-v-Alashkert"
+    },
+    {
+      "title": "Panathinaikos v Paks",
+      "teams": [
+        "Panathinaikos",
+        "Paks"
+      ],
+      "date": "30/07/2026",
+      "time": "18:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "World Feed",
+        "ESPN+ USA ($/geo/R)",
+        "ESPN Unlimited (US)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/317092-Panathinaikos-v-Paks"
+    },
+    {
+      "title": "GKS Katowice v MSK Zilina",
+      "teams": [
+        "GKS Katowice",
+        "MSK Zilina"
+      ],
+      "date": "30/07/2026",
+      "time": "18:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "TVP Sport Polska HD",
+        "FlashScore Poland",
+        "FlashScore Slovakia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316186-GKS-Katowice-v-MSK-Zilina"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -264,6 +413,62 @@
       "match_url": "https://icdb.tv/match/317985-talkSPORT-The-Transfer-Insiders"
     },
     {
+      "title": "Derry City v Rijeka",
+      "teams": [
+        "Derry City",
+        "Rijeka"
+      ],
+      "date": "30/07/2026",
+      "time": "17:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "BBC Radio Foyle",
+        "FlashScore Croatia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317086-Derry-City-v-Rijeka"
+    },
+    {
+      "title": "Valletta v Raków Czestochowa",
+      "teams": [
+        "Valletta",
+        "Raków Czestochowa"
+      ],
+      "date": "30/07/2026",
+      "time": "17:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Poland"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317085-Valletta-v-Rakw-Czestochowa"
+    },
+    {
+      "title": "The New Saints v Flora Tallinn",
+      "teams": [
+        "The New Saints",
+        "Flora Tallinn"
+      ],
+      "date": "30/07/2026",
+      "time": "17:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "BBC iPlayer (geo/R)",
+        "BBC Radio Shropshire",
+        "YouTube: Sgorio",
+        "S4C Clic ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316966-The-New-Saints-v-Flora-Tallinn"
+    },
+    {
       "title": "Clyde 1 Superscoreboard",
       "date": "30/07/2026",
       "time": "17:00",
@@ -277,6 +482,40 @@
       "match_url": "https://icdb.tv/match/318052-Clyde-1-Superscoreboard"
     },
     {
+      "title": "Pafos FC v Hajduk Split",
+      "teams": [
+        "Pafos FC",
+        "Hajduk Split"
+      ],
+      "date": "30/07/2026",
+      "time": "17:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "FlashScore Croatia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317275-Pafos-FC-v-Hajduk-Split"
+    },
+    {
+      "title": "Brann v Universitatea Cluj",
+      "teams": [
+        "Brann",
+        "Universitatea Cluj"
+      ],
+      "date": "30/07/2026",
+      "time": "17:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Romania"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317083-Brann-v-Universitatea-Cluj"
+    },
+    {
       "title": "HB Tórshavn v Motherwell",
       "teams": [
         "HB Tórshavn",
@@ -286,13 +525,15 @@
       "time": "17:00",
       "tournament": "UEFA Conference League",
       "channels": [
-        "BBC Radio Scotland Extra",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
         "Premier Sports 1 HD",
+        "BBC Sounds APP",
+        "Radio Clyde 1",
+        "BBC Radio Scotland Extra",
+        "BBC Sport Online (Audio)",
         "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/316965-HB-Trshavn-v-Motherwell"
@@ -307,15 +548,39 @@
       "time": "17:00",
       "tournament": "UEFA Europa League",
       "channels": [
+        "Disney+ Danmark ($/geo/R)",
+        "ESPN Unlimited (US)",
+        "ESPN+ USA ($/geo/R)",
         "S Sport 1 Türkiye HD",
         "S Sport+ Streaming",
-        "Sportdigital FUSSBALL HD"
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
+        "HWP",
+        "Vallis",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/316051-Midtjylland-v-Besiktas"
+    },
+    {
+      "title": "Nordsjælland v GAIS",
+      "teams": [
+        "Nordsjælland",
+        "GAIS"
+      ],
+      "date": "30/07/2026",
+      "time": "17:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "TV3+ Dansk HD",
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/315979-Nordsjlland-v-GAIS"
     },
     {
       "title": "Inter Turku v Istanbul Basaksehir",
@@ -705,7 +970,7 @@
       "time": "00:00",
       "tournament": "CONCACAF Central American Cup",
       "channels": [
-        "CBS Sports Golazo Network (US)",
+        "CBSSportsGolazo Network (US)",
         "CONCACAF GO (geo/R)",
         "OneSoccer",
         "Paramount+ USA ($/geo/R)",
@@ -732,6 +997,7 @@
         "ESPN Unlimited (US)",
         "ESPN+ USA ($/geo/R)",
         "On Sport Plus",
+        "Sharjah Sports",
         "Stan Sport Australia ($/geo/R)",
         "World Feed"
       ],
@@ -931,7 +1197,7 @@
       ],
       "date": "29/07/2026",
       "time": "20:00",
-      "tournament": "Friendly Club Match",
+      "tournament": "Como Cup",
       "channels": [
         "World Feed"
       ],
@@ -965,7 +1231,7 @@
       ],
       "date": "29/07/2026",
       "time": "18:30",
-      "tournament": "Friendly Club Match",
+      "tournament": "Como Cup",
       "channels": [
         "World Feed"
       ],
@@ -1135,7 +1401,7 @@
       ],
       "date": "29/07/2026",
       "time": "17:00",
-      "tournament": "Friendly Club Match",
+      "tournament": "Como Cup",
       "channels": [
         "World Feed"
       ],
@@ -1257,7 +1523,7 @@
       ],
       "date": "29/07/2026",
       "time": "09:45",
-      "tournament": "Friendly Club Match",
+      "tournament": "Sydney Super Cup",
       "channels": [
         "World Feed",
         "SpursPlay ($/geo/R)",
