@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-30T11:51:06.888350+00:00",
+  "scraped_at": "2026-07-30T16:25:46.228876+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 67,
+  "total_matches": 71,
   "matches": [
     {
       "title": "El Salvador U-20 v Haiti U-20",
@@ -172,8 +172,8 @@
       "tournament": "CONCACAF U-20 Championships",
       "channels": [
         "CONCACAF GO (geo/R)",
-        "Fox Soccer Plus USA",
-        "Fox Sports App (US)",
+        "FoxSoccerPlus USA",
+        "FoxSportsApp (US)",
         "OneSoccer",
         "YouTube: CONCACAF (geo/R)"
       ],
@@ -212,6 +212,25 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/317016-BBC-5-Live-Sport"
+    },
+    {
+      "title": "Hibernian v Malisheva",
+      "teams": [
+        "Hibernian",
+        "Malisheva"
+      ],
+      "date": "30/07/2026",
+      "time": "19:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "BBC Radio Scotland Extra",
+        "BBC Sounds APP",
+        "BBCSportOnline (Audio)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/317097-Hibernian-v-Malisheva"
     },
     {
       "title": "Benfica v St Gallen",
@@ -267,6 +286,9 @@
       "time": "17:00",
       "tournament": "UEFA Conference League",
       "channels": [
+        "BBC Radio Scotland Extra",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
         "Premier Sports 1 HD",
         "Premier Sports Player UK (£/geo/R)"
       ],
@@ -274,6 +296,62 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/316965-HB-Trshavn-v-Motherwell"
+    },
+    {
+      "title": "Midtjylland v Besiktas",
+      "teams": [
+        "Midtjylland",
+        "Besiktas"
+      ],
+      "date": "30/07/2026",
+      "time": "17:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "S Sport 1 Türkiye HD",
+        "S Sport+ Streaming",
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/316051-Midtjylland-v-Besiktas"
+    },
+    {
+      "title": "Inter Turku v Istanbul Basaksehir",
+      "teams": [
+        "Inter Turku",
+        "Istanbul Basaksehir"
+      ],
+      "date": "30/07/2026",
+      "time": "16:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "TRT Radyo 1",
+        "TRT 1 Türkiye HD",
+        "Tabii Spor Türkiye ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/317076-Inter-Turku-v-Istanbul-Basaksehir"
+    },
+    {
+      "title": "Auda v FCSB",
+      "teams": [
+        "Auda",
+        "FCSB"
+      ],
+      "date": "30/07/2026",
+      "time": "16:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Romania"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316708-Auda-v-FCSB"
     },
     {
       "title": "South Melbourne v Adelaide United",
@@ -477,12 +555,12 @@
       "time": "00:30",
       "tournament": "Brazilian Série A",
       "channels": [
-        "FlashScore Brazil",
-        "Premiere (Brazil)",
-        "Rádio CBN",
         "Rádio Tupi",
         "TV Globo",
-        "globoplay"
+        "globoplay",
+        "Premiere (Brazil)",
+        "Rádio CBN",
+        "FlashScore Brazil"
       ],
       "commentators": [
         "ethanh05",
@@ -500,11 +578,11 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "D Sports (Peru)",
+        "World Feed",
         "D Sports (South America)",
-        "FlashScore Brazil",
+        "D Sports (Peru)",
         "Paramount+ BRA ($/geo/R)",
-        "World Feed"
+        "FlashScore Brazil"
       ],
       "commentators": [
         "HWP",
@@ -523,16 +601,16 @@
       "time": "00:30",
       "tournament": "Brazilian Série A",
       "channels": [
-        "Energia 97",
-        "FlashScore Brazil",
-        "GE TV",
-        "Premiere (Brazil)",
-        "Rádio BandNews FM",
-        "Rádio Bandeirantes",
-        "Rádio CBN",
         "Sportdigital FUSSBALL HD",
+        "Rádio Bandeirantes",
+        "Rádio BandNews FM",
         "TV Globo",
-        "globoplay"
+        "globoplay",
+        "Premiere (Brazil)",
+        "Energia 97",
+        "Rádio CBN",
+        "GE TV",
+        "FlashScore Brazil"
       ],
       "commentators": [
         "ethanh05",
@@ -649,6 +727,8 @@
       "time": "23:30",
       "tournament": "Friendly Club Match",
       "channels": [
+        "9Go! (AUS)",
+        "9Now (Australia)",
         "ESPN Unlimited (US)",
         "ESPN+ USA ($/geo/R)",
         "On Sport Plus",
@@ -657,6 +737,7 @@
       ],
       "commentators": [
         "HWP",
+        "Jeffy_Lunantico",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/315854-Liverpool-v-Wrexham"
@@ -1130,7 +1211,8 @@
       "time": "14:30",
       "tournament": "UEFA Conference League",
       "channels": [
-        "RSI La 2 Svizzera HD"
+        "RSI La 2 Svizzera HD",
+        "SRF Highlights"
       ],
       "commentators": [
         "kurtogen"
@@ -1148,17 +1230,19 @@
       "tournament": "Friendly Club Match",
       "channels": [
         "DAZN Deutsch [$] (geo/R)",
-        "Eleven Sports 1 Polska HD",
-        "World Feed",
         "DAZN Schweiz [$] (geo/R)",
-        "YouTube: Sky Sports Football [$]",
-        "Sky Sport Top Event HD",
+        "Eleven Sports 1 Polska HD",
+        "MBC Action",
         "Sky Sport News Deutsch HD",
+        "Sky Sport Top Event HD",
+        "ViaPlay Danmark HD",
+        "World Feed",
         "YouTube: Bundesliga",
-        "MBC Action"
+        "YouTube: Sky Sports Football [$]"
       ],
       "commentators": [
         "HWP",
+        "Vallis",
         "ethanh05",
         "kurtogen",
         "ysscores"
