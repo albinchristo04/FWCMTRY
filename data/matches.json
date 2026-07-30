@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-30T07:33:18.221514+00:00",
+  "scraped_at": "2026-07-30T11:51:06.888350+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 63,
+  "total_matches": 67,
   "matches": [
     {
       "title": "El Salvador U-20 v Haiti U-20",
@@ -245,6 +245,73 @@
       "match_url": "https://icdb.tv/match/317985-talkSPORT-The-Transfer-Insiders"
     },
     {
+      "title": "Clyde 1 Superscoreboard",
+      "date": "30/07/2026",
+      "time": "17:00",
+      "tournament": "Scottish Football",
+      "channels": [
+        "Radio Clyde 1"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318052-Clyde-1-Superscoreboard"
+    },
+    {
+      "title": "HB Tórshavn v Motherwell",
+      "teams": [
+        "HB Tórshavn",
+        "Motherwell"
+      ],
+      "date": "30/07/2026",
+      "time": "17:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "Premier Sports 1 HD",
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/316965-HB-Trshavn-v-Motherwell"
+    },
+    {
+      "title": "South Melbourne v Adelaide United",
+      "teams": [
+        "South Melbourne",
+        "Adelaide United"
+      ],
+      "date": "30/07/2026",
+      "time": "09:30",
+      "tournament": "Australian FFA Cup",
+      "channels": [
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318055-South-Melbourne-v-Adelaide-United"
+    },
+    {
+      "title": "Sydney Olympic v Brisbane Roar",
+      "teams": [
+        "Sydney Olympic",
+        "Brisbane Roar"
+      ],
+      "date": "30/07/2026",
+      "time": "09:30",
+      "tournament": "Australian FFA Cup",
+      "channels": [
+        "10 Streaming (geo/R)",
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318054-Sydney-Olympic-v-Brisbane-Roar"
+    },
+    {
       "title": "Bay FC v Gotham FC",
       "teams": [
         "Bay FC",
@@ -354,27 +421,6 @@
       "match_url": "https://icdb.tv/match/317445-Canada-U20-v-Honduras-U20"
     },
     {
-      "title": "Bragantino v Sporting Cristal",
-      "teams": [
-        "Bragantino",
-        "Sporting Cristal"
-      ],
-      "date": "30/07/2026",
-      "time": "00:30",
-      "tournament": "CONMEBOL Copa Sudamericana",
-      "channels": [
-        "D Sports (Peru)",
-        "D Sports (South America)",
-        "Paramount+ BRA ($/geo/R)",
-        "World Feed"
-      ],
-      "commentators": [
-        "HWP",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318003-Bragantino-v-Sporting-Cristal"
-    },
-    {
       "title": "Cienciano v Lanús",
       "teams": [
         "Cienciano",
@@ -431,6 +477,7 @@
       "time": "00:30",
       "tournament": "Brazilian Série A",
       "channels": [
+        "FlashScore Brazil",
         "Premiere (Brazil)",
         "Rádio CBN",
         "Rádio Tupi",
@@ -438,9 +485,33 @@
         "globoplay"
       ],
       "commentators": [
+        "ethanh05",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/317996-Fluminense-v-Bahia"
+    },
+    {
+      "title": "Bragantino v Sporting Cristal",
+      "teams": [
+        "Bragantino",
+        "Sporting Cristal"
+      ],
+      "date": "30/07/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "D Sports (Peru)",
+        "D Sports (South America)",
+        "FlashScore Brazil",
+        "Paramount+ BRA ($/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP",
+        "ethanh05",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/315975-Bragantino-v-Sporting-Cristal"
     },
     {
       "title": "Vitória Bahia v Palmeiras",
@@ -452,17 +523,19 @@
       "time": "00:30",
       "tournament": "Brazilian Série A",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "Rádio Bandeirantes",
-        "Rádio BandNews FM",
-        "TV Globo",
-        "globoplay",
-        "Premiere (Brazil)",
         "Energia 97",
+        "FlashScore Brazil",
+        "GE TV",
+        "Premiere (Brazil)",
+        "Rádio BandNews FM",
+        "Rádio Bandeirantes",
         "Rádio CBN",
-        "GE TV"
+        "Sportdigital FUSSBALL HD",
+        "TV Globo",
+        "globoplay"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen",
         "luca80sp"
       ],
@@ -589,30 +662,6 @@
       "match_url": "https://icdb.tv/match/315854-Liverpool-v-Wrexham"
     },
     {
-      "title": "Internacional v Flamengo",
-      "teams": [
-        "Internacional",
-        "Flamengo"
-      ],
-      "date": "29/07/2026",
-      "time": "22:30",
-      "tournament": "Brazilian Série A",
-      "channels": [
-        "ECDF 3 en Vivo ($/geo/R)",
-        "Prime Vídeo Brasil",
-        "Rádio CBN",
-        "Rádio Gaúcha",
-        "Rádio Jovem Pan",
-        "Rádio Tupi",
-        "World Feed"
-      ],
-      "commentators": [
-        "HWP",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/317997-Internacional-v-Flamengo"
-    },
-    {
       "title": "Mirassol v Remo",
       "teams": [
         "Mirassol",
@@ -628,6 +677,32 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/317995-Mirassol-v-Remo"
+    },
+    {
+      "title": "Internacional v Flamengo",
+      "teams": [
+        "Internacional",
+        "Flamengo"
+      ],
+      "date": "29/07/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "ECDF 3 en Vivo ($/geo/R)",
+        "FlashScore Brazil",
+        "Prime Vídeo Brasil",
+        "Rádio CBN",
+        "Rádio Gaúcha",
+        "Rádio Jovem Pan",
+        "Rádio Tupi",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP",
+        "ethanh05",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/315852-Internacional-v-Flamengo"
     },
     {
       "title": "Gimnasia La Plata v River Plate",
@@ -698,14 +773,16 @@
         "ESPN (Colombia)",
         "ESPN Ecuador",
         "ESPN Venezuela",
+        "FlashScore Brazil",
         "Rádio Tupi",
         "World Feed"
       ],
       "commentators": [
         "HWP",
+        "ethanh05",
         "luca80sp"
       ],
-      "match_url": "https://icdb.tv/match/318001-Vasco-da-Gama-v-Independiente-Medelln"
+      "match_url": "https://icdb.tv/match/315850-Vasco-da-Gama-v-Independiente-Medelln"
     },
     {
       "title": "Gualaceo v Macará",
