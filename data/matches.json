@@ -1,8 +1,28 @@
 {
-  "scraped_at": "2026-07-31T16:44:18.038110+00:00",
+  "scraped_at": "2026-07-31T21:02:21.448542+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 85,
+  "total_matches": 95,
   "matches": [
+    {
+      "title": "Kansas City Current v Angel City",
+      "teams": [
+        "Kansas City Current",
+        "Angel City"
+      ],
+      "date": "01/08/2026",
+      "time": "22:30",
+      "tournament": "National Women's Soccer League (NWSL)",
+      "channels": [
+        "38 The Spot",
+        "Ion Television (USA)",
+        "NWSL+ International (geo/R)",
+        "iHeart Radio"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/318171-Kansas-City-Current-v-Angel-City"
+    },
     {
       "title": "Racing Louisville v Chicago Stars",
       "teams": [
@@ -13,7 +33,9 @@
       "time": "20:00",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
-        "CBS Sports Network USA"
+        "CBS Sports Network USA",
+        "Fox Chicago+ (WPWR)",
+        "NWSL+ International (geo/R)"
       ],
       "commentators": [
         "bigddan11"
@@ -256,17 +278,20 @@
       "time": "11:30",
       "tournament": "Friendly Club Match",
       "channels": [
-        "Sky Sport Uno Italia HD",
-        "CityTV (highlights)",
         "City+",
-        "YouTube: Man City",
+        "CityTV (highlights)",
+        "DAZN For Business Italia / HD",
         "DAZN Italia ($/geo/R)",
-        "Sky Sport Calcio HD",
+        "Inter TV HD",
+        "Inter [app] (geo/R)",
         "Sky Sport Business Italia / HD",
-        "DAZN For Business Italia / HD"
+        "Sky Sport Calcio HD",
+        "Sky Sport Uno Italia HD",
+        "YouTube: Man City"
       ],
       "commentators": [
         "Guest-SC",
+        "Mikhail17",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/316204-Manchester-City-v-Inter-Milan"
@@ -289,6 +314,47 @@
       "match_url": "https://icdb.tv/match/316819-Lazio-v-Avellino"
     },
     {
+      "title": "Juárez v Pumas UNAM",
+      "teams": [
+        "Juárez",
+        "Pumas UNAM"
+      ],
+      "date": "01/08/2026",
+      "time": "03:00",
+      "tournament": "Mexican Liga MX",
+      "channels": [
+        "Azteca 7",
+        "Azteca Deportes Network",
+        "FOX (México) [$] (geo/R)",
+        "FOX ONE (México) [$] (geo/R)",
+        "NBC Universo"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318164-Jurez-v-Pumas-UNAM"
+    },
+    {
+      "title": "San Luis v Tijuana",
+      "teams": [
+        "San Luis",
+        "Tijuana"
+      ],
+      "date": "01/08/2026",
+      "time": "03:00",
+      "tournament": "Mexican Liga MX",
+      "channels": [
+        "Disney+ Mexico [$]",
+        "ESPN Mexico",
+        "Vix Premium (México)",
+        "Vix Premium (USA)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318163-San-Luis-v-Tijuana"
+    },
+    {
       "title": "United States U-20 v Cuba U-20",
       "teams": [
         "United States U-20",
@@ -308,6 +374,43 @@
       "match_url": "https://icdb.tv/match/317897-United-States-U20-v-Cuba-U20"
     },
     {
+      "title": "Fortaleza CEIF v Pereira",
+      "teams": [
+        "Fortaleza CEIF",
+        "Pereira"
+      ],
+      "date": "01/08/2026",
+      "time": "01:00",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win Sports",
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318165-Fortaleza-CEIF-v-Pereira"
+    },
+    {
+      "title": "Puebla v Chivas Guadalajara",
+      "teams": [
+        "Puebla",
+        "Chivas Guadalajara"
+      ],
+      "date": "01/08/2026",
+      "time": "01:00",
+      "tournament": "Mexican Liga MX",
+      "channels": [
+        "Azteca 7",
+        "Azteca Deportes Network",
+        "TUDN (usa)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318162-Puebla-v-Chivas-Guadalajara"
+    },
+    {
       "title": "North Carolina Courage v Orlando Pride",
       "teams": [
         "North Carolina Courage",
@@ -317,12 +420,49 @@
       "time": "00:00",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
-        "Amazon Prime US [$]"
+        "Amazon Prime US [$]",
+        "NWSL+ International (geo/R)",
+        "SiriusXM FC"
       ],
       "commentators": [
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/318063-North-Carolina-Courage-v-Orlando-Pride"
+    },
+    {
+      "title": "Unión Magdalena v Orsomarso",
+      "teams": [
+        "Unión Magdalena",
+        "Orsomarso"
+      ],
+      "date": "31/07/2026",
+      "time": "23:00",
+      "tournament": "Colombian Categoría Primera B",
+      "channels": [
+        "Win Sports",
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318167-Unin-Magdalena-v-Orsomarso"
+    },
+    {
+      "title": "Real Santander v Patriotas Boyacá",
+      "teams": [
+        "Real Santander",
+        "Patriotas Boyacá"
+      ],
+      "date": "31/07/2026",
+      "time": "21:00",
+      "tournament": "Colombian Categoría Primera B",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318166-Real-Santander-v-Patriotas-Boyac"
     },
     {
       "title": "El Salvador U-20 v Haiti U-20",
@@ -346,6 +486,23 @@
       "match_url": "https://icdb.tv/match/317896-El-Salvador-U20-v-Haiti-U20"
     },
     {
+      "title": "Fortaleza CEIF v Independiente Medellín",
+      "teams": [
+        "Fortaleza CEIF",
+        "Independiente Medellín"
+      ],
+      "date": "31/07/2026",
+      "time": "20:15",
+      "tournament": "Colombian Liga Femenina",
+      "channels": [
+        "Win Sports"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318168-Fortaleza-CEIF-v-Independiente-Medelln"
+    },
+    {
       "title": "Dundee United v Rangers",
       "teams": [
         "Dundee United",
@@ -355,9 +512,12 @@
       "time": "19:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC RADIO 5 LIVE",
         "BBC Radio Scotland",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
+        "BBC Sportscene",
+        "DUTV [$] (geo/R)",
         "Rangers TV [$] (geo/R)",
         "Sharjah Sports 2",
         "Sky Sports (highlights)",
@@ -368,7 +528,9 @@
         "World Feed"
       ],
       "commentators": [
+        "Crowe24",
         "HWP",
+        "LukeA206",
         "M7",
         "SonnyCorry",
         "ysscores"
@@ -421,9 +583,18 @@
       "time": "18:45",
       "tournament": "Friendly Club Match",
       "channels": [
-        "Sharjah Sports"
+        "3Cat (geo/R)",
+        "FlashScore (audio)",
+        "FlashScore España",
+        "Flashscore UK",
+        "Sharjah Sports",
+        "Sky Sports News / HD",
+        "TV3 Catalunya HD"
       ],
       "commentators": [
+        "ImpactPlayaz",
+        "LukeA206",
+        "ethanh05",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317543-Birmingham-City-v-Barcelona"
@@ -446,6 +617,23 @@
       "match_url": "https://icdb.tv/match/316072-Sporting-Lisbon-v-Nottingham-Forest"
     },
     {
+      "title": "Kriens v Winterthur",
+      "teams": [
+        "Kriens",
+        "Winterthur"
+      ],
+      "date": "31/07/2026",
+      "time": "18:15",
+      "tournament": "Swiss Challenge League",
+      "channels": [
+        "Blue ZOOM D Schweiz"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/317104-Kriens-v-Winterthur"
+    },
+    {
       "title": "talkSPORT The Transfer Insiders",
       "date": "31/07/2026",
       "time": "18:00",
@@ -458,6 +646,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/317986-talkSPORT-The-Transfer-Insiders"
+    },
+    {
+      "title": "Dinamo Zagreb v Slaven Belupo",
+      "teams": [
+        "Dinamo Zagreb",
+        "Slaven Belupo"
+      ],
+      "date": "31/07/2026",
+      "time": "18:00",
+      "tournament": "Croatian HNL",
+      "channels": [
+        "FlashScore Croatia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317277-Dinamo-Zagreb-v-Slaven-Belupo"
     },
     {
       "title": "Juventus v Nice",
@@ -616,15 +821,15 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "D Sports (Argentina)",
+        "Disney+ Brazil [$]",
+        "Disney+ Mexico [$]",
+        "ESPN (Brazil)",
+        "ESPN (South America)",
+        "ESPN 4 (CentroAmérica)",
         "Polsat Sport 3 HD",
         "Sportdigital FUSSBALL HD",
-        "ESPN (South America)",
-        "ESPN (Brazil)",
-        "beIN Sports MENA 1 HD",
-        "ESPN 4 (CentroAmérica)",
-        "D Sports (Argentina)",
-        "Disney+ Mexico [$]",
-        "Disney+ Brazil [$]"
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "ethanh05",
@@ -705,6 +910,7 @@
       "channels": [
         "ESPN 2 (United States)",
         "ESPN Unlimited (US)",
+        "KTV Sport",
         "On Sport Plus",
         "World Feed"
       ],
