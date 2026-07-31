@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31T02:34:41.092750+00:00",
+  "scraped_at": "2026-07-31T07:49:47.062255+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 76,
+  "total_matches": 81,
   "matches": [
     {
       "title": "Canada U-20 v Jamaica U-20",
@@ -314,8 +314,8 @@
       "tournament": "CONCACAF U-20 Championships",
       "channels": [
         "CONCACAF GO (geo/R)",
-        "FoxSoccerPlus USA",
-        "FoxSportsApp (US)",
+        "Fox Soccer Plus USA",
+        "Fox Sports App (US)",
         "OneSoccer",
         "YouTube: CONCACAF (geo/R)"
       ],
@@ -334,19 +334,55 @@
       "time": "19:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "Sharjah Sports 2",
+        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "World Feed",
+        "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
-        "Sky Sports (highlights)",
-        "Sky Sports Main Event UHD"
+        "World Feed"
       ],
       "commentators": [
         "HWP",
         "M7",
-        "SonnyCorry"
+        "SonnyCorry",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316088-Dundee-United-v-Rangers"
+    },
+    {
+      "title": "Birmingham City v Barcelona",
+      "teams": [
+        "Birmingham City",
+        "Barcelona"
+      ],
+      "date": "31/07/2026",
+      "time": "18:45",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Sharjah Sports"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/317543-Birmingham-City-v-Barcelona"
+    },
+    {
+      "title": "Sporting Lisbon v Nottingham Forest",
+      "teams": [
+        "Sporting Lisbon",
+        "Nottingham Forest"
+      ],
+      "date": "31/07/2026",
+      "time": "18:45",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "KTV Sport"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316072-Sporting-Lisbon-v-Nottingham-Forest"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -373,7 +409,7 @@
       "tournament": "Friendly Club Match",
       "channels": [
         "DAZN Italia ($/geo/R)",
-        "SkySportCalcio HD"
+        "Sky Sport Calcio HD"
       ],
       "commentators": [
         "Guest-SC"
@@ -394,10 +430,12 @@
         "CONCACAF GO (geo/R)",
         "OneSoccer",
         "Paramount+ USA ($/geo/R)",
+        "World Feed",
         "YouTube: CONCACAF (geo/R)"
       ],
       "commentators": [
-        "bigddan11"
+        "bigddan11",
+        "icdb17"
       ],
       "match_url": "https://icdb.tv/match/317893-Municipal-v-Cartagins"
     },
@@ -498,17 +536,21 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "ESPN (South America)",
-        "ESPN (Brazil)",
-        "ESPN 4 (CentroAmérica)",
         "D Sports (Argentina)",
+        "Disney+ Brazil [$]",
         "Disney+ Mexico [$]",
-        "Disney+ Brazil [$]"
+        "ESPN (Brazil)",
+        "ESPN (South America)",
+        "ESPN 4 (CentroAmérica)",
+        "Polsat Sport 3 HD",
+        "Sportdigital FUSSBALL HD",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen",
-        "luca80sp"
+        "luca80sp",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316054-OHiggins-v-Boca-Juniors"
     },
@@ -582,11 +624,13 @@
       "tournament": "Friendly Club Match",
       "channels": [
         "ESPN 2 (United States)",
-        "ESPN Unlimited (US)"
+        "ESPN Unlimited (US)",
+        "On Sport Plus"
       ],
       "commentators": [
         "HWP",
-        "bigddan11"
+        "bigddan11",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/315983-Leeds-United-v-Sunderland"
     },
@@ -894,6 +938,23 @@
       "match_url": "https://icdb.tv/match/317092-Panathinaikos-v-Paks"
     },
     {
+      "title": "Anderlecht v Hammarby",
+      "teams": [
+        "Anderlecht",
+        "Hammarby"
+      ],
+      "date": "30/07/2026",
+      "time": "18:30",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "VTM 2 Belgium HD"
+      ],
+      "commentators": [
+        "kmw"
+      ],
+      "match_url": "https://icdb.tv/match/316816-Anderlecht-v-Hammarby"
+    },
+    {
       "title": "GKS Katowice v MSK Zilina",
       "teams": [
         "GKS Katowice",
@@ -911,6 +972,40 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/316186-GKS-Katowice-v-MSK-Zilina"
+    },
+    {
+      "title": "Austria Vienna v FK Liepaja",
+      "teams": [
+        "Austria Vienna",
+        "FK Liepaja"
+      ],
+      "date": "30/07/2026",
+      "time": "18:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "ORF 1 Austria HD"
+      ],
+      "commentators": [
+        "kmw"
+      ],
+      "match_url": "https://icdb.tv/match/316052-Austria-Vienna-v-FK-Liepaja"
+    },
+    {
+      "title": "Sion v BATE Borisov",
+      "teams": [
+        "Sion",
+        "BATE Borisov"
+      ],
+      "date": "30/07/2026",
+      "time": "18:15",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "RTS 2 Suisse HD"
+      ],
+      "commentators": [
+        "kmw"
+      ],
+      "match_url": "https://icdb.tv/match/316713-Sion-v-BATE-Borisov"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
