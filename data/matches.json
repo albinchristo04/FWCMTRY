@@ -1,8 +1,25 @@
 {
-  "scraped_at": "2026-07-31T11:58:11.950512+00:00",
+  "scraped_at": "2026-07-31T16:44:18.038110+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 84,
+  "total_matches": 85,
   "matches": [
+    {
+      "title": "Racing Louisville v Chicago Stars",
+      "teams": [
+        "Racing Louisville",
+        "Chicago Stars"
+      ],
+      "date": "01/08/2026",
+      "time": "20:00",
+      "tournament": "National Women's Soccer League (NWSL)",
+      "channels": [
+        "CBS Sports Network USA"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/318150-Racing-Louisville-v-Chicago-Stars"
+    },
     {
       "title": "Canada U-20 v Jamaica U-20",
       "teams": [
@@ -87,9 +104,11 @@
       "tournament": "Scottish Premiership",
       "channels": [
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "Hearts TV",
+        "Red TV ($/geo/R)",
+        "Sky Sports News / HD"
       ],
       "commentators": [
         "SonnyCorry"
@@ -172,11 +191,13 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sky Sports Football HD",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "Falkirk TV [$]",
+        "Sky Sports Football HD",
+        "Sky Sports News / HD",
+        "St Mirren TV ($/geo/R)"
       ],
       "commentators": [
         "HWP",
@@ -334,6 +355,10 @@
       "time": "19:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC Radio Scotland",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Rangers TV [$] (geo/R)",
         "Sharjah Sports 2",
         "Sky Sports (highlights)",
         "Sky Sports Football HD",
@@ -360,9 +385,9 @@
       "time": "19:00",
       "tournament": "Irish Premier Division",
       "channels": [
-        "Virgin Media Audio Description",
+        "Virgin Media Two HD",
         "Virgin Media Play (geo/R)",
-        "Virgin Media Two HD"
+        "Virgin Media Audio Description"
       ],
       "commentators": [
         "ImpactPlayaz"
@@ -591,15 +616,15 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "D Sports (Argentina)",
-        "Disney+ Brazil [$]",
-        "Disney+ Mexico [$]",
-        "ESPN (Brazil)",
-        "ESPN (South America)",
-        "ESPN 4 (CentroAmérica)",
         "Polsat Sport 3 HD",
         "Sportdigital FUSSBALL HD",
-        "beIN Sports MENA 1 HD"
+        "ESPN (South America)",
+        "ESPN (Brazil)",
+        "beIN Sports MENA 1 HD",
+        "ESPN 4 (CentroAmérica)",
+        "D Sports (Argentina)",
+        "Disney+ Mexico [$]",
+        "Disney+ Brazil [$]"
       ],
       "commentators": [
         "ethanh05",
@@ -680,10 +705,12 @@
       "channels": [
         "ESPN 2 (United States)",
         "ESPN Unlimited (US)",
-        "On Sport Plus"
+        "On Sport Plus",
+        "World Feed"
       ],
       "commentators": [
         "HWP",
+        "apltle12",
         "bigddan11",
         "ysscores"
       ],
@@ -712,9 +739,11 @@
         "Rádio Jovem Pan",
         "Rádio TMC",
         "Rádio TMC Curitiba",
-        "Win Sports"
+        "Win Sports",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "luca80sp"
       ],
@@ -793,20 +822,22 @@
       "time": "22:00",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "ESPN 2 (Argentina)",
-        "D Sports (Uruguay)",
-        "D Sports (Peru)",
         "D Sports (Chile)",
-        "ESPN Venezuela",
-        "ESPN Ecuador",
-        "Paramount+ BRA ($/geo/R)",
-        "ESPN (Colombia)",
+        "D Sports (Peru)",
+        "D Sports (Uruguay)",
         "Disney+ Central America [$]",
+        "ESPN (Colombia)",
+        "ESPN 2 (Argentina)",
+        "ESPN Ecuador",
+        "ESPN Venezuela",
+        "FlashScore Brazil",
+        "Paramount+ BRA ($/geo/R)",
         "Rádio Gaúcha",
-        "FlashScore Brazil"
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "kurtogen",
         "luca80sp"
