@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01T02:33:53.579973+00:00",
+  "scraped_at": "2026-08-01T07:26:33.648882+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 74,
+  "total_matches": 83,
   "matches": [
     {
       "title": "Utah Royals v Portland Thorns",
@@ -224,6 +224,21 @@
       "match_url": "https://icdb.tv/match/318169-Houston-Dash-v-Gotham-FC"
     },
     {
+      "title": "BBC Sportscene",
+      "date": "01/08/2026",
+      "time": "22:35",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "BBC One Scotland HD",
+        "BBC Sportscene",
+        "BBC iPlayer (geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318246-BBC-Sportscene"
+    },
+    {
       "title": "Kansas City Current v Angel City",
       "teams": [
         "Kansas City Current",
@@ -303,6 +318,23 @@
       "match_url": "https://icdb.tv/match/317018-BBC-Sportscene"
     },
     {
+      "title": "FC Porto v Torreense",
+      "teams": [
+        "FC Porto",
+        "Torreense"
+      ],
+      "date": "01/08/2026",
+      "time": "19:15",
+      "tournament": "Portuguese Super Cup (Super Taca)",
+      "channels": [
+        "Sharjah Sports"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316254-FC-Porto-v-Torreense"
+    },
+    {
       "title": "Leicester City v Genoa",
       "teams": [
         "Leicester City",
@@ -338,6 +370,40 @@
       "match_url": "https://icdb.tv/match/316252-Thun-v-Young-Boys"
     },
     {
+      "title": "Girona v Arsenal",
+      "teams": [
+        "Girona",
+        "Arsenal"
+      ],
+      "date": "01/08/2026",
+      "time": "18:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "AD Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316249-Girona-v-Arsenal"
+    },
+    {
+      "title": "Estrela Amadora v Al Nassr",
+      "teams": [
+        "Estrela Amadora",
+        "Al Nassr"
+      ],
+      "date": "01/08/2026",
+      "time": "17:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "STC TV App"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316978-Estrela-Amadora-v-Al-Nassr"
+    },
+    {
       "title": "Aberdeen v Hearts",
       "teams": [
         "Aberdeen",
@@ -348,14 +414,16 @@
       "tournament": "Scottish Premiership",
       "channels": [
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
         "BBC Sounds APP",
+        "BBCSportOnline (Audio)",
         "Hearts TV",
         "Red TV ($/geo/R)",
-        "BBCSportOnline (Audio)"
+        "Sharjah Sports 2",
+        "Sky Sports News / HD"
       ],
       "commentators": [
-        "SonnyCorry"
+        "SonnyCorry",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316247-Aberdeen-v-Hearts"
     },
@@ -401,10 +469,12 @@
       "time": "16:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "DAZN Italia ($/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "STC TV App"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316828-Real-Madrid-v-Fiorentina"
     },
@@ -418,10 +488,12 @@
       "time": "14:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "DAZN Italia ($/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "Sharjah Sports"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316821-Cardiff-City-v-Roma"
     },
@@ -435,17 +507,19 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sky Sports Football HD",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "St Mirren TV ($/geo/R)",
         "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
         "Falkirk TV [$]",
-        "BBC Sport Online (Audio)"
+        "Sharjah Sports 2",
+        "Sky Sports Football HD",
+        "Sky Sports News / HD",
+        "St Mirren TV ($/geo/R)"
       ],
       "commentators": [
         "HWP",
-        "SonnyCorry"
+        "SonnyCorry",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316235-Falkirk-v-St-Mirren"
     },
@@ -476,6 +550,23 @@
       "match_url": "https://icdb.tv/match/317990-Clyde-1-Superscoreboard"
     },
     {
+      "title": "Manchester United v Atlético Madrid",
+      "teams": [
+        "Manchester United",
+        "Atlético Madrid"
+      ],
+      "date": "01/08/2026",
+      "time": "13:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "AD Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316215-Manchester-United-v-Atltico-Madrid"
+    },
+    {
       "title": "talkSPORT The Saturday Session",
       "date": "01/08/2026",
       "time": "12:00",
@@ -500,23 +591,59 @@
       "time": "11:30",
       "tournament": "Friendly Club Match",
       "channels": [
-        "Sky Sport Uno Italia HD",
-        "Inter TV HD",
-        "CityTV (highlights)",
         "City+",
-        "YouTube: Man City",
-        "Inter [app] (geo/R)",
+        "CityTV (highlights)",
+        "DAZN For Business Italia / HD",
         "DAZN Italia ($/geo/R)",
-        "Sky Sport Calcio HD",
+        "Inter TV HD",
+        "Inter [app] (geo/R)",
+        "Maraya App",
         "Sky Sport Business Italia / HD",
-        "DAZN For Business Italia / HD"
+        "Sky Sport Calcio HD",
+        "Sky Sport Uno Italia HD",
+        "YouTube: Man City"
       ],
       "commentators": [
         "Guest-SC",
         "Mikhail17",
-        "apltle12"
+        "apltle12",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316204-Manchester-City-v-Inter-Milan"
+    },
+    {
+      "title": "FC Tokyo v Borussia Dortmund",
+      "teams": [
+        "FC Tokyo",
+        "Borussia Dortmund"
+      ],
+      "date": "01/08/2026",
+      "time": "10:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "MBC Action"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316197-FC-Tokyo-v-Borussia-Dortmund"
+    },
+    {
+      "title": "Chelsea v Tottenham Hotspur",
+      "teams": [
+        "Chelsea",
+        "Tottenham Hotspur"
+      ],
+      "date": "01/08/2026",
+      "time": "09:45",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Maraya App"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316195-Chelsea-v-Tottenham-Hotspur"
     },
     {
       "title": "Lazio v Avellino",
@@ -742,22 +869,23 @@
       "time": "19:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sky Sports Football HD",
-        "Sky Sports Main Event HD",
-        "Polsat Sport 2 HD",
-        "Sportdigital FUSSBALL HD",
-        "Rangers TV [$] (geo/R)",
-        "World Feed",
+        "BBC (highlights)",
         "BBC RADIO 5 LIVE",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "BBC Sportscene",
         "BBC Sounds APP",
-        "Sky Sports (highlights)",
-        "Sky Sports Main Event UHD",
         "BBC Sport Online (Audio)",
+        "BBC Sportscene",
         "DUTV [$] (geo/R)",
-        "Sharjah Sports 2"
+        "Polsat Sport 2 HD",
+        "Rangers TV [$] (geo/R)",
+        "Sharjah Sports 2",
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -836,6 +964,25 @@
       "match_url": "https://icdb.tv/match/317543-Birmingham-City-v-Barcelona"
     },
     {
+      "title": "Barry Town United v Cambrian United",
+      "teams": [
+        "Barry Town United",
+        "Cambrian United"
+      ],
+      "date": "31/07/2026",
+      "time": "18:45",
+      "tournament": "Cymru Premier",
+      "channels": [
+        "BBC iPlayer (geo/R)",
+        "S4C Clic ($/geo/R)",
+        "YouTube: Sgorio"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/316075-Barry-Town-United-v-Cambrian-United"
+    },
+    {
       "title": "Sporting Lisbon v Nottingham Forest",
       "teams": [
         "Sporting Lisbon",
@@ -868,6 +1015,25 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/318173-Stal-Stalowa-Wola-v-GKS-Tychy"
+    },
+    {
+      "title": "Club Brugge v Union St Gilloise",
+      "teams": [
+        "Club Brugge",
+        "Union St Gilloise"
+      ],
+      "date": "31/07/2026",
+      "time": "18:30",
+      "tournament": "Belgian Super Cup",
+      "channels": [
+        "DAZN Great Britain (geo/R)",
+        "DAZN Ireland ($/geo/R)",
+        "DAZN Worldwide ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/317925-Club-Brugge-v-Union-St-Gilloise"
     },
     {
       "title": "FAC Vienna v St Pölten",
