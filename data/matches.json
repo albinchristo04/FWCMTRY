@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01T07:26:33.648882+00:00",
+  "scraped_at": "2026-08-01T11:15:41.303622+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 83,
+  "total_matches": 84,
   "matches": [
     {
       "title": "Utah Royals v Portland Thorns",
@@ -270,7 +270,7 @@
       "time": "20:00",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
-        "CBSSportsNetwork USA",
+        "CBS Sports Network USA",
         "Fox Chicago+ (WPWR)",
         "NWSL+ International (geo/R)"
       ],
@@ -379,7 +379,8 @@
       "time": "18:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "AD Sports 1"
+        "AD Sports 1",
+        "On Sport Plus"
       ],
       "commentators": [
         "ysscores"
@@ -415,7 +416,7 @@
       "channels": [
         "BBC Radio Scotland",
         "BBC Sounds APP",
-        "BBCSportOnline (Audio)",
+        "BBC Sport Online (Audio)",
         "Hearts TV",
         "Red TV ($/geo/R)",
         "Sharjah Sports 2",
@@ -524,6 +525,23 @@
       "match_url": "https://icdb.tv/match/316235-Falkirk-v-St-Mirren"
     },
     {
+      "title": "Tranmere Rovers v Rochdale",
+      "teams": [
+        "Tranmere Rovers",
+        "Rochdale"
+      ],
+      "date": "01/08/2026",
+      "time": "14:00",
+      "tournament": "English League Cup",
+      "channels": [
+        "BBC Radio Manchester"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316231-Tranmere-Rovers-v-Rochdale"
+    },
+    {
       "title": "Clyde 1 Superscoreboard",
       "date": "01/08/2026",
       "time": "13:00",
@@ -557,7 +575,7 @@
       ],
       "date": "01/08/2026",
       "time": "13:00",
-      "tournament": "Friendly Club Match",
+      "tournament": "Snapdragon Cup",
       "channels": [
         "AD Sports 1"
       ],
@@ -621,9 +639,12 @@
       "time": "10:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "MBC Action"
+        "MBC Action",
+        "YouTube: Bundesliga",
+        "YouTube: Sky Sports Football [$]"
       ],
       "commentators": [
+        "r96",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316197-FC-Tokyo-v-Borussia-Dortmund"
@@ -638,9 +659,12 @@
       "time": "09:45",
       "tournament": "Friendly Club Match",
       "channels": [
+        "FlashScore (audio)",
+        "Flashscore UK",
         "Maraya App"
       ],
       "commentators": [
+        "ethanh05",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316195-Chelsea-v-Tottenham-Hotspur"
@@ -908,9 +932,9 @@
       "time": "19:00",
       "tournament": "Irish Premier Division",
       "channels": [
-        "Virgin Media Two HD",
+        "Virgin Media Audio Description",
         "Virgin Media Play (geo/R)",
-        "Virgin Media Audio Description"
+        "Virgin Media Two HD"
       ],
       "commentators": [
         "ImpactPlayaz"
