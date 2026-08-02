@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-02T02:32:06.418246+00:00",
+  "scraped_at": "2026-08-02T07:31:42.488349+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 107,
+  "total_matches": 111,
   "matches": [
     {
       "title": "Celtic v Dundee",
@@ -62,6 +62,23 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318431-Internacional-v-Corinthians"
+    },
+    {
+      "title": "River Plate v Rosario Central",
+      "teams": [
+        "River Plate",
+        "Rosario Central"
+      ],
+      "date": "02/08/2026",
+      "time": "22:15",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "Dubai Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316492-River-Plate-v-Rosario-Central"
     },
     {
       "title": "Chapecoense v Cruzeiro",
@@ -152,6 +169,40 @@
       "match_url": "https://icdb.tv/match/317019-BBC-Sportscene"
     },
     {
+      "title": "PSV Eindhoven v AZ Alkmaar",
+      "teams": [
+        "PSV Eindhoven",
+        "AZ Alkmaar"
+      ],
+      "date": "02/08/2026",
+      "time": "16:00",
+      "tournament": "Dutch Super Cup (Johan Cruijff Shield)",
+      "channels": [
+        "Dubai Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316482-PSV-Eindhoven-v-AZ-Alkmaar"
+    },
+    {
+      "title": "Sunderland v Wrexham",
+      "teams": [
+        "Sunderland",
+        "Wrexham"
+      ],
+      "date": "02/08/2026",
+      "time": "16:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "On Sport Plus"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/316481-Sunderland-v-Wrexham"
+    },
+    {
       "title": "Hibernian v Motherwell",
       "teams": [
         "Hibernian",
@@ -161,15 +212,17 @@
       "time": "15:30",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sky Sports News / HD",
-        "Hibs TV",
-        "BBC Sounds APP",
         "BBC Radio Scotland Extra",
-        "BBC Sport Online (Audio)"
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Hibs TV",
+        "Sharjah Sports",
+        "Sky Sports News / HD"
       ],
       "commentators": [
         "HWP",
-        "SonnyCorry"
+        "SonnyCorry",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316478-Hibernian-v-Motherwell"
     },
@@ -197,15 +250,17 @@
       "tournament": "Scottish Premiership",
       "channels": [
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
         "KillieTV",
         "SaintsTV (St Johnstone)",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "Sharjah Sports",
+        "Sky Sports News / HD"
       ],
       "commentators": [
         "HWP",
-        "SonnyCorry"
+        "SonnyCorry",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316463-St-Johnstone-v-Kilmarnock"
     },
@@ -219,10 +274,12 @@
       "time": "12:30",
       "tournament": "Friendly Club Match",
       "channels": [
-        "DAZN Italia ($/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "On Sport Plus"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316845-Feyenoord-v-Atalanta"
     },
@@ -408,12 +465,14 @@
       "time": "01:00",
       "tournament": "CONCACAF U-20 Championships",
       "channels": [
-        "OneSoccer",
+        "CONCACAF GO (geo/R)",
+        "FOX ONE (USA) [$] (geo/R)",
         "Fox Sports 2 (US)",
         "Fox Sports App (US)",
-        "CONCACAF GO (geo/R)",
-        "YouTube: CONCACAF (geo/R)",
-        "FOX ONE (USA) [$] (geo/R)"
+        "OneSoccer",
+        "Vix (usa)",
+        "World Feed",
+        "YouTube: CONCACAF (geo/R)"
       ],
       "commentators": [
         "bigddan11"
@@ -551,6 +610,8 @@
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
         "Energia 97",
+        "Premier Sports 2 HD",
+        "Premier Sports Player UK (£/geo/R)",
         "Rádio BandNews FM",
         "Rádio Bandeirantes",
         "Rádio CBN",
@@ -560,6 +621,7 @@
         "SporTV Brazil HD"
       ],
       "commentators": [
+        "Mikhail17",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318391-Santos-v-Remo"
@@ -874,9 +936,12 @@
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
         "GE TV",
+        "Premier Sports 2 HD",
+        "Premier Sports Player UK (£/geo/R)",
         "Prime Vídeo Brasil",
         "Rádio CBN",
         "Rádio TMC",
+        "Rádio Tupi",
         "SporTV 4K (Brazil)",
         "SporTV Brazil HD",
         "TV Globo",
@@ -884,6 +949,7 @@
         "globoplay"
       ],
       "commentators": [
+        "Mikhail17",
         "apltle12",
         "luca80sp"
       ],
@@ -936,6 +1002,22 @@
       "match_url": "https://icdb.tv/match/317898-Canada-U20-v-Jamaica-U20"
     },
     {
+      "title": "BBC Sportscene",
+      "date": "01/08/2026",
+      "time": "20:00",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "BBC One Scotland HD",
+        "BBC Scotland / HD",
+        "BBC Sportscene",
+        "BBC iPlayer (geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/317018-BBC-Sportscene"
+    },
+    {
       "title": "FC Porto v Torreense",
       "teams": [
         "FC Porto",
@@ -949,9 +1031,11 @@
         "FlashScore Portugal",
         "Sharjah Sports",
         "TVP Sport Polska HD",
-        "World Feed"
+        "World Feed",
+        "beIN Connect USA"
       ],
       "commentators": [
+        "Mikhail17",
         "apltle12",
         "ethanh05",
         "luca80sp",
@@ -1172,6 +1256,7 @@
       "time": "16:30",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC (highlights)",
         "BBC Radio Scotland",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
@@ -1425,17 +1510,18 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sky Sports Football HD",
-        "World Feed",
+        "BBC (highlights)",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "BBC Sportscene",
-        "St Mirren TV ($/geo/R)",
         "BBC Sounds APP",
-        "Sky Sports (highlights)",
-        "Falkirk TV [$]",
         "BBC Sport Online (Audio)",
-        "Sharjah Sports 2"
+        "BBC Sportscene",
+        "Falkirk TV [$]",
+        "Sharjah Sports 2",
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports News / HD",
+        "St Mirren TV ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "HWP",
