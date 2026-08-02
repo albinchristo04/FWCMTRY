@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-02T07:31:42.488349+00:00",
+  "scraped_at": "2026-08-02T11:15:34.593997+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 111,
+  "total_matches": 112,
   "matches": [
     {
       "title": "Celtic v Dundee",
@@ -125,7 +125,11 @@
       "time": "20:00",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
-        "CBS Sports Network USA"
+        "CBS Sports Network USA",
+        "Fox 5 San Diego",
+        "NWSL+ International (geo/R)",
+        "NWSL+ USA (geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
@@ -370,6 +374,23 @@
       "match_url": "https://icdb.tv/match/318428-LA-Galaxy-v-FC-Dallas"
     },
     {
+      "title": "Orange County v El Paso Locomotive",
+      "teams": [
+        "Orange County",
+        "El Paso Locomotive"
+      ],
+      "date": "02/08/2026",
+      "time": "02:00",
+      "tournament": "USL Championship",
+      "channels": [
+        "CBS Sports Golazo Network (US)"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/318752-Orange-County-v-El-Paso-Locomotive"
+    },
+    {
       "title": "Colorado Rapids v Austin FC",
       "teams": [
         "Colorado Rapids",
@@ -610,6 +631,7 @@
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
         "Energia 97",
+        "FlashScore Brazil",
         "Premier Sports 2 HD",
         "Premier Sports Player UK (£/geo/R)",
         "Rádio BandNews FM",
@@ -622,6 +644,7 @@
       ],
       "commentators": [
         "Mikhail17",
+        "ethanh05",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318391-Santos-v-Remo"
@@ -819,11 +842,13 @@
       "time": "22:30",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
+        "FlashScore Brazil",
         "Prime Vídeo Brasil",
         "Rede 98",
         "Rádio Itatiaia"
       ],
       "commentators": [
+        "ethanh05",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318390-Atltico-Mineiro-v-Juventude"
@@ -935,6 +960,7 @@
       "time": "20:30",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
+        "FlashScore Brazil",
         "GE TV",
         "Premier Sports 2 HD",
         "Premier Sports Player UK (£/geo/R)",
@@ -951,6 +977,7 @@
       "commentators": [
         "Mikhail17",
         "apltle12",
+        "ethanh05",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318389-Vasco-da-Gama-v-Fluminense"
