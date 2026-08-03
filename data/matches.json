@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03T17:08:12.882985+00:00",
+  "scraped_at": "2026-08-03T21:00:46.967059+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 94,
+  "total_matches": 104,
   "matches": [
     {
       "title": "Sparta Prague v Lyon",
@@ -22,6 +22,45 @@
       "match_url": "https://icdb.tv/match/318056-Sparta-Prague-v-Lyon"
     },
     {
+      "title": "FCSB v Farul Constanta",
+      "teams": [
+        "FCSB",
+        "Farul Constanta"
+      ],
+      "date": "03/08/2026",
+      "time": "18:30",
+      "tournament": "Romanian Superliga",
+      "channels": [
+        "FlashScore Romania"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316986-FCSB-v-Farul-Constanta"
+    },
+    {
+      "title": "York City v Crawley Town",
+      "teams": [
+        "York City",
+        "Crawley Town"
+      ],
+      "date": "03/08/2026",
+      "time": "18:30",
+      "tournament": "English League Cup",
+      "channels": [
+        "BBC Radio York",
+        "BBC Sounds APP",
+        "Sky Sports (highlights)",
+        "BBC Sport Online (Audio)",
+        "Sky Sports+ [via APP]",
+        "BBC Radio 5 Sports Extra 2"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316634-York-City-v-Crawley-Town"
+    },
+    {
       "title": "Celtic v Dundee",
       "teams": [
         "Celtic",
@@ -31,24 +70,31 @@
       "time": "18:30",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC Radio Scotland",
-        "BBC Sounds APP",
-        "BBCSportOnline (Audio)",
-        "BBC Sportscene",
-        "Radio Clyde 1",
-        "SharjahSports",
-        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "Sky Sports Main Event UHD",
-        "Sky Sports News / HD",
+        "Polsat Sport 2 HD",
         "Sportdigital FUSSBALL HD",
-        "World Feed"
+        "World Feed",
+        "talkSPORT",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio Scotland",
+        "Sky Sports News / HD",
+        "BBC Sportscene",
+        "BBC Sounds APP",
+        "Sky Sports (highlights)",
+        "Radio Clyde 1",
+        "Sky Sports Main Event UHD",
+        "BBC Sport Online (Audio)",
+        "Celtic Player ($/geo/R)",
+        "DeeTV (Dundee)",
+        "Sharjah Sports"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
         "SonnyCorry",
+        "apltle12",
+        "ethanh05",
         "kurtogen",
         "ysscores"
       ],
@@ -81,6 +127,20 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/318811-talkSPORT-The-Transfer-Insiders"
+    },
+    {
+      "title": "BBC Lancashire Sport",
+      "date": "03/08/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio Lancashire",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/318905-BBC-Lancashire-Sport"
     },
     {
       "title": "BBC Merseyside Sport",
@@ -134,14 +194,31 @@
       "time": "17:00",
       "tournament": "Norwegian 1. Divisjon",
       "channels": [
+        "TV2 Sport 1 Norge HD",
         "DirekteSport.no [$] (geo/R)",
-        "TV2 Play Norge ($/geo/R)",
-        "TV2 Sport 1 Norge HD"
+        "TV2 Play Norge ($/geo/R)"
       ],
       "commentators": [
         "Bksm"
       ],
       "match_url": "https://icdb.tv/match/316629-Ranheim-v-Haugesund"
+    },
+    {
+      "title": "Chrobry Glogów v Odra Opole",
+      "teams": [
+        "Chrobry Glogów",
+        "Odra Opole"
+      ],
+      "date": "03/08/2026",
+      "time": "17:00",
+      "tournament": "Polish 1. Liga",
+      "channels": [
+        "TVP Sport Polska HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/316627-Chrobry-Glogw-v-Odra-Opole"
     },
     {
       "title": "Toluca v Necaxa",
@@ -796,6 +873,24 @@
       "match_url": "https://icdb.tv/match/316481-Sunderland-v-Wrexham"
     },
     {
+      "title": "Silkeborg v FC Copenhagen",
+      "teams": [
+        "Silkeborg",
+        "FC Copenhagen"
+      ],
+      "date": "02/08/2026",
+      "time": "16:00",
+      "tournament": "Danish Superliga",
+      "channels": [
+        "TV3+ Dansk HD",
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/316480-Silkeborg-v-FC-Copenhagen"
+    },
+    {
       "title": "Slask Wroclaw v Raków Czestochowa",
       "teams": [
         "Slask Wroclaw",
@@ -1065,6 +1160,24 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318766-Palmeiras-v-Internacional"
+    },
+    {
+      "title": "Brøndby v Viborg",
+      "teams": [
+        "Brøndby",
+        "Viborg"
+      ],
+      "date": "02/08/2026",
+      "time": "14:00",
+      "tournament": "Danish Superliga",
+      "channels": [
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport X Dansk HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/316466-Brndby-v-Viborg"
     },
     {
       "title": "Bochum v Hertha Berlin",
@@ -1397,6 +1510,24 @@
       "match_url": "https://icdb.tv/match/316844-Lok-Leipzig-v-Magdeburg-II"
     },
     {
+      "title": "Midtjylland v Horsens",
+      "teams": [
+        "Midtjylland",
+        "Horsens"
+      ],
+      "date": "02/08/2026",
+      "time": "12:00",
+      "tournament": "Danish Superliga",
+      "channels": [
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport Dansk HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/316456-Midtjylland-v-Horsens"
+    },
+    {
       "title": "Union Berlin v Cagliari",
       "teams": [
         "Union Berlin",
@@ -1416,6 +1547,59 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/316453-Union-Berlin-v-Cagliari"
+    },
+    {
+      "title": "Nordsjælland v Randers",
+      "teams": [
+        "Nordsjælland",
+        "Randers"
+      ],
+      "date": "02/08/2026",
+      "time": "12:00",
+      "tournament": "Danish Superliga",
+      "channels": [
+        "TV3 Sport Dansk HD",
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/316452-Nordsjlland-v-Randers"
+    },
+    {
+      "title": "Vendsyssel v Hobro",
+      "teams": [
+        "Vendsyssel",
+        "Hobro"
+      ],
+      "date": "02/08/2026",
+      "time": "12:00",
+      "tournament": "Danish 1. Division",
+      "channels": [
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/316451-Vendsyssel-v-Hobro"
+    },
+    {
+      "title": "AGF Aarhus v Kolding",
+      "teams": [
+        "AGF Aarhus",
+        "Kolding"
+      ],
+      "date": "02/08/2026",
+      "time": "09:30",
+      "tournament": "Danish A-Liga Women",
+      "channels": [
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport X Dansk HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/316447-AGF-Aarhus-v-Kolding"
     },
     {
       "title": "Hertha Wels v Austria Salzburg",
@@ -1645,6 +1829,9 @@
       "date": "02/08/2026",
       "time": "00:45",
       "tournament": "National Womens Soccer League (NWSL)",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "apltle12"
       ],
