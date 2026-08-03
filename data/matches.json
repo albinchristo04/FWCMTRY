@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-08-02T20:52:49.274733+00:00",
+  "scraped_at": "2026-08-03T02:34:35.186231+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 172,
+  "total_matches": 83,
   "matches": [
+    {
+      "title": "Sparta Prague v Lyon",
+      "teams": [
+        "Sparta Prague",
+        "Lyon"
+      ],
+      "date": "04/08/2026",
+      "time": "18:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "Canal+ Foot HD",
+        "Canal+ France HD"
+      ],
+      "commentators": [
+        "Cr17"
+      ],
+      "match_url": "https://icdb.tv/match/318056-Sparta-Prague-v-Lyon"
+    },
     {
       "title": "Celtic v Dundee",
       "teams": [
@@ -13,12 +31,12 @@
       "time": "18:30",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Radio Clyde 1",
-        "Sky Sports Football HD",
+        "SkySportsFootball HD",
         "Sky Sports Main Event HD",
-        "Sky Sports Main Event UHD",
+        "Sportdigital FUSSBALL HD",
         "Sky Sports News / HD",
-        "Sportdigital FUSSBALL HD"
+        "Radio Clyde 1",
+        "Sky Sports Main Event UHD"
       ],
       "commentators": [
         "HWP",
@@ -26,6 +44,39 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/316633-Celtic-v-Dundee"
+    },
+    {
+      "title": "talkSPORT The Transfer Insiders",
+      "date": "03/08/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "talkSPORT",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/318811-talkSPORT-The-Transfer-Insiders"
+    },
+    {
+      "title": "Denver Summit v Boston Legacy",
+      "teams": [
+        "Denver Summit",
+        "Boston Legacy"
+      ],
+      "date": "03/08/2026",
+      "time": "01:00",
+      "tournament": "National Women's Soccer League (NWSL)",
+      "channels": [
+        "ESPN (US)",
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12",
+        "tmiller2462"
+      ],
+      "match_url": "https://icdb.tv/match/318814-Denver-Summit-v-Boston-Legacy"
     },
     {
       "title": "Independiente Santa Fé v Once Caldas",
@@ -73,10 +124,12 @@
       "time": "23:00",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
+        "97.5 FM KSL Sports Zone (KZNS)",
         "KNRK-DT 2",
         "NWSL+ International (geo/R)",
         "NWSL+ USA (geo/R)",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
@@ -111,14 +164,18 @@
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
         "Energia 97",
+        "FlashScore Brazil",
         "Prime Vídeo Brasil",
         "Rádio BandNews FM",
         "Rádio Bandeirantes",
         "Rádio CBN",
         "Rádio Gaúcha",
-        "Rádio TMC"
+        "Rádio TMC",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
+        "ethanh05",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318431-Internacional-v-Corinthians"
@@ -133,13 +190,17 @@
       "time": "22:15",
       "tournament": "Argentinean Primera División",
       "channels": [
-        "Sportdigital FUSSBALL HD",
+        "Dubai Sports 1",
         "ESPN (South America)",
-        "ESPN Premium (Argentina)",
         "ESPN 5 (CentroAmérica)",
-        "Dubai Sports 1"
+        "ESPN Premium (Argentina)",
+        "FlashScore España",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
+        "ethanh05",
         "kurtogen",
         "luca80sp",
         "ysscores"
@@ -168,6 +229,23 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318470-Chapecoense-v-Cruzeiro"
+    },
+    {
+      "title": "Ferroviária v Bahia",
+      "teams": [
+        "Ferroviária",
+        "Bahia"
+      ],
+      "date": "02/08/2026",
+      "time": "21:00",
+      "tournament": "Brazilian Feminino Série A1",
+      "channels": [
+        "N Sports"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318808-Ferroviria-v-Bahia"
     },
     {
       "title": "Mirassol v Grêmio",
@@ -248,9 +326,11 @@
         "FlashScore España",
         "HBO Max Argentina [$/geo/R]",
         "Sportdigital FUSSBALL HD",
-        "TNT Sports Premium (Argentina)"
+        "TNT Sports Premium (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "kurtogen",
         "luca80sp"
@@ -267,15 +347,20 @@
       "time": "20:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "All Red Video ($/geo/R)",
+        "LFC TV HD",
         "DAZN 1 Bar Deutsch HD",
-        "DAZN Deutsch ($/geo/R)",
+        "World Feed",
         "DAZN Schweiz [$] (geo/R)",
+        "LUTV",
         "FlashScore (audio)",
         "Flashscore UK",
-        "LFC TV HD"
+        "DAZN Deutsch ($/geo/R)",
+        "FlashScore App",
+        "All Red Video ($/geo/R)"
       ],
       "commentators": [
+        "RussVMedia",
+        "apltle12",
         "ethanh05",
         "kurtogen",
         "l555"
@@ -423,8 +508,8 @@
       "time": "17:15",
       "tournament": "Norwegian Eliteserien",
       "channels": [
-        "NRK Sport",
-        "TV2 Play Norge ($/geo/R)"
+        "TV2 Play Norge ($/geo/R)",
+        "NRK Sport"
       ],
       "commentators": [
         "Bksm"
@@ -475,11 +560,13 @@
       "time": "16:00",
       "tournament": "Dutch Super Cup (Johan Cruijff Shield)",
       "channels": [
-        "Sportdigital FUSSBALL HD",
+        "Dubai Sports 1",
         "N Sports",
-        "Dubai Sports 1"
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen",
         "luca80sp",
         "ysscores"
@@ -496,9 +583,12 @@
       "time": "16:00",
       "tournament": "Friendly Club Match",
       "channels": [
+        "World Feed",
+        "KTV Sport",
         "On Sport Plus"
       ],
       "commentators": [
+        "RussVMedia",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316481-Sunderland-v-Wrexham"
@@ -548,6 +638,7 @@
         "HWP",
         "SonnyCorry",
         "WF92",
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316478-Hibernian-v-Motherwell"
@@ -784,6 +875,7 @@
         "LEAGUES [$]"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/318783-Bochum-v-Hertha-Berlin"
@@ -1107,33 +1199,16 @@
       "time": "12:00",
       "tournament": "Friendly Club Match",
       "channels": [
+        "DAZN Italia ($/geo/R)",
         "Sky Sport News Deutsch HD",
-        "DAZN Italia ($/geo/R)"
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
+        "apltle12",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/316453-Union-Berlin-v-Cagliari"
-    },
-    {
-      "title": "K-League All Stars v Manchester City",
-      "teams": [
-        "K-League All Stars",
-        "Manchester City"
-      ],
-      "date": "02/08/2026",
-      "time": "11:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "City+",
-        "CityTV (highlights)",
-        "YouTube: Man City"
-      ],
-      "commentators": [
-        "apltle12"
-      ],
-      "match_url": "https://icdb.tv/match/318785-KLeague-All-Stars-v-Manchester-City"
     },
     {
       "title": "Hertha Wels v Austria Salzburg",
@@ -1501,1766 +1576,6 @@
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/318169-Houston-Dash-v-Gotham-FC"
-    },
-    {
-      "title": "Philadelphia Union v Atalanta",
-      "teams": [
-        "Philadelphia Union",
-        "Atalanta"
-      ],
-      "date": "01/08/2026",
-      "time": "23:30",
-      "tournament": "Major League Soccer (MLS)",
-      "channels": [
-        "Apple TV"
-      ],
-      "commentators": [
-        "apltle12"
-      ],
-      "match_url": "https://icdb.tv/match/318422-Philadelphia-Union-v-Atalanta"
-    },
-    {
-      "title": "New York Red Bulls v Orlando City",
-      "teams": [
-        "New York Red Bulls",
-        "Orlando City"
-      ],
-      "date": "01/08/2026",
-      "time": "23:30",
-      "tournament": "Major League Soccer (MLS)",
-      "channels": [
-        "Apple TV"
-      ],
-      "commentators": [
-        "apltle12"
-      ],
-      "match_url": "https://icdb.tv/match/318421-New-York-Red-Bulls-v-Orlando-City"
-    },
-    {
-      "title": "CF Montréal v New England Revolution",
-      "teams": [
-        "CF Montréal",
-        "New England Revolution"
-      ],
-      "date": "01/08/2026",
-      "time": "23:30",
-      "tournament": "Major League Soccer (MLS)",
-      "channels": [
-        "Apple TV"
-      ],
-      "commentators": [
-        "apltle12"
-      ],
-      "match_url": "https://icdb.tv/match/318420-CF-Montral-v-New-England-Revolution"
-    },
-    {
-      "title": "Cincinnati v San Jose Earthquakes",
-      "teams": [
-        "Cincinnati",
-        "San Jose Earthquakes"
-      ],
-      "date": "01/08/2026",
-      "time": "23:30",
-      "tournament": "Major League Soccer (MLS)",
-      "channels": [
-        "Apple TV"
-      ],
-      "commentators": [
-        "apltle12"
-      ],
-      "match_url": "https://icdb.tv/match/318419-Cincinnati-v-San-Jose-Earthquakes"
-    },
-    {
-      "title": "Vancouver Whitecaps v Los Angeles FC",
-      "teams": [
-        "Vancouver Whitecaps",
-        "Los Angeles FC"
-      ],
-      "date": "01/08/2026",
-      "time": "23:30",
-      "tournament": "Major League Soccer (MLS)",
-      "channels": [
-        "Apple TV"
-      ],
-      "commentators": [
-        "apltle12"
-      ],
-      "match_url": "https://icdb.tv/match/318418-Vancouver-Whitecaps-v-Los-Angeles-FC"
-    },
-    {
-      "title": "DC United v Nashville SC",
-      "teams": [
-        "DC United",
-        "Nashville SC"
-      ],
-      "date": "01/08/2026",
-      "time": "23:30",
-      "tournament": "Major League Soccer (MLS)",
-      "channels": [
-        "Apple TV"
-      ],
-      "commentators": [
-        "apltle12"
-      ],
-      "match_url": "https://icdb.tv/match/318417-DC-United-v-Nashville-SC"
-    },
-    {
-      "title": "Racing Club v Tigre",
-      "teams": [
-        "Racing Club",
-        "Tigre"
-      ],
-      "date": "01/08/2026",
-      "time": "23:30",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "Disney+ Central America [$]",
-        "Disney+ South America [$]",
-        "HBO Max Argentina [$/geo/R]",
-        "TNT Sports Premium (Argentina)",
-        "World Feed"
-      ],
-      "commentators": [
-        "apltle12",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318392-Racing-Club-v-Tigre"
-    },
-    {
-      "title": "Inter Miami v Columbus Crew",
-      "teams": [
-        "Inter Miami",
-        "Columbus Crew"
-      ],
-      "date": "01/08/2026",
-      "time": "23:30",
-      "tournament": "Major League Soccer (MLS)",
-      "channels": [
-        "FlashScore (audio)",
-        "Flashscore UK",
-        "Apple TV"
-      ],
-      "commentators": [
-        "apltle12",
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316437-Inter-Miami-v-Columbus-Crew"
-    },
-    {
-      "title": "Querétaro v Tigres UANL",
-      "teams": [
-        "Querétaro",
-        "Tigres UANL"
-      ],
-      "date": "01/08/2026",
-      "time": "23:00",
-      "tournament": "Mexican Liga MX",
-      "channels": [
-        "FOX ONE (México) [$] (geo/R)",
-        "FOX+ (Mexico)",
-        "TUDN (usa)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318400-Quertaro-v-Tigres-UANL"
-    },
-    {
-      "title": "Atlético Mineiro v Juventude",
-      "teams": [
-        "Atlético Mineiro",
-        "Juventude"
-      ],
-      "date": "01/08/2026",
-      "time": "22:30",
-      "tournament": "Brazilian Cup (Copa do Brasil)",
-      "channels": [
-        "FlashScore Brazil",
-        "Prime Vídeo Brasil",
-        "Rede 98",
-        "Rádio Itatiaia"
-      ],
-      "commentators": [
-        "ethanh05",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318390-Atltico-Mineiro-v-Juventude"
-    },
-    {
-      "title": "Kansas City Current v Angel City",
-      "teams": [
-        "Kansas City Current",
-        "Angel City"
-      ],
-      "date": "01/08/2026",
-      "time": "22:30",
-      "tournament": "National Women's Soccer League (NWSL)",
-      "channels": [
-        "38 The Spot",
-        "90.9 The Bridge (KTBG)",
-        "Ion Television (USA)",
-        "NWSL+ International (geo/R)",
-        "World Feed",
-        "iHeart Radio"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/318171-Kansas-City-Current-v-Angel-City"
-    },
-    {
-      "title": "Universidad Católica (Ecuador) v Tecnico Universitario",
-      "teams": [
-        "Universidad Católica (Ecuador)",
-        "Tecnico Universitario"
-      ],
-      "date": "01/08/2026",
-      "time": "21:30",
-      "tournament": "Ecuadorian Liga Pro Serie A",
-      "channels": [
-        "Teleamazonas",
-        "Zapping Sports (Ecuador)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318398-Universidad-Catlica-Ecuador-v-Tecnico-Universitario"
-    },
-    {
-      "title": "Estudiantes LP v Defensa y Justicia",
-      "teams": [
-        "Estudiantes LP",
-        "Defensa y Justicia"
-      ],
-      "date": "01/08/2026",
-      "time": "21:00",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "Disney+ Central America [$]",
-        "Disney+ South America [$]",
-        "ESPN 5 (Chile)",
-        "ESPN Premium (Argentina)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318394-Estudiantes-LP-v-Defensa-y-Justicia"
-    },
-    {
-      "title": "Belgrano v Argentinos Juniors",
-      "teams": [
-        "Belgrano",
-        "Argentinos Juniors"
-      ],
-      "date": "01/08/2026",
-      "time": "21:00",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "HBO Max Argentina [$/geo/R]",
-        "TNT Sports Premium (Argentina)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318393-Belgrano-v-Argentinos-Juniors"
-    },
-    {
-      "title": "Belgrano v Argentinos Juniors",
-      "teams": [
-        "Belgrano",
-        "Argentinos Juniors"
-      ],
-      "date": "01/08/2026",
-      "time": "21:00",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "The Commentary Hub",
-        "Turton Talks"
-      ],
-      "commentators": [
-        "RussVMedia"
-      ],
-      "match_url": "https://icdb.tv/match/318356-Belgrano-v-Argentinos-Juniors"
-    },
-    {
-      "title": "Vasco da Gama v Fluminense",
-      "teams": [
-        "Vasco da Gama",
-        "Fluminense"
-      ],
-      "date": "01/08/2026",
-      "time": "20:30",
-      "tournament": "Brazilian Cup (Copa do Brasil)",
-      "channels": [
-        "FlashScore Brazil",
-        "GE TV",
-        "Premier Sports 2 HD",
-        "Premier Sports Player UK (£/geo/R)",
-        "Prime Vídeo Brasil",
-        "Rádio CBN",
-        "Rádio TMC",
-        "Rádio Tupi",
-        "SporTV 4K (Brazil)",
-        "SporTV Brazil HD",
-        "TV Globo",
-        "World Feed",
-        "globoplay"
-      ],
-      "commentators": [
-        "Mikhail17",
-        "apltle12",
-        "ethanh05",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318389-Vasco-da-Gama-v-Fluminense"
-    },
-    {
-      "title": "Racing Louisville v Chicago Stars",
-      "teams": [
-        "Racing Louisville",
-        "Chicago Stars"
-      ],
-      "date": "01/08/2026",
-      "time": "20:00",
-      "tournament": "National Women's Soccer League (NWSL)",
-      "channels": [
-        "790 AM WKRD Louisville",
-        "CBS Sports Network USA",
-        "Fox Chicago+ (WPWR)",
-        "NWSL+ International (geo/R)",
-        "World Feed"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/318150-Racing-Louisville-v-Chicago-Stars"
-    },
-    {
-      "title": "Canada U-20 v Jamaica U-20",
-      "teams": [
-        "Canada U-20",
-        "Jamaica U-20"
-      ],
-      "date": "01/08/2026",
-      "time": "20:00",
-      "tournament": "CONCACAF U-20 Championships",
-      "channels": [
-        "World Feed",
-        "OneSoccer",
-        "Fox Sports 2 (US)",
-        "Fox Sports App (US)",
-        "Vix (usa)",
-        "CONCACAF GO (geo/R)",
-        "YouTube: CONCACAF (geo/R)",
-        "FOX ONE (USA) [$] (geo/R)"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/317898-Canada-U20-v-Jamaica-U20"
-    },
-    {
-      "title": "BBC Sportscene",
-      "date": "01/08/2026",
-      "time": "20:00",
-      "tournament": "Scottish Premiership",
-      "channels": [
-        "BBC One Scotland HD",
-        "BBC Scotland / HD",
-        "BBC Sportscene",
-        "BBC iPlayer (geo/R)"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/317018-BBC-Sportscene"
-    },
-    {
-      "title": "FC Porto v Torreense",
-      "teams": [
-        "FC Porto",
-        "Torreense"
-      ],
-      "date": "01/08/2026",
-      "time": "19:15",
-      "tournament": "Portuguese Super Cup (Super Taca)",
-      "channels": [
-        "ECDF 2 en Vivo ($/geo/R)",
-        "FlashScore Portugal",
-        "Sharjah Sports",
-        "TVP Sport Polska HD",
-        "World Feed",
-        "beIN Connect USA"
-      ],
-      "commentators": [
-        "Mikhail17",
-        "apltle12",
-        "ethanh05",
-        "luca80sp",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316254-FC-Porto-v-Torreense"
-    },
-    {
-      "title": "Manta v Mushuc Runa",
-      "teams": [
-        "Manta",
-        "Mushuc Runa"
-      ],
-      "date": "01/08/2026",
-      "time": "19:00",
-      "tournament": "Ecuadorian Liga Pro Serie A",
-      "channels": [
-        "Zapping Sports (Ecuador)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318397-Manta-v-Mushuc-Runa"
-    },
-    {
-      "title": "Gimnasia Mendoza v Unión Santa Fe",
-      "teams": [
-        "Gimnasia Mendoza",
-        "Unión Santa Fe"
-      ],
-      "date": "01/08/2026",
-      "time": "18:30",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "ESPN Premium (Argentina)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318396-Gimnasia-Mendoza-v-Unin-Santa-Fe"
-    },
-    {
-      "title": "Estudiantes Río Cuarto v Banfield",
-      "teams": [
-        "Estudiantes Río Cuarto",
-        "Banfield"
-      ],
-      "date": "01/08/2026",
-      "time": "18:30",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "HBO Max Argentina [$/geo/R]",
-        "TNT Sports Premium (Argentina)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318395-Estudiantes-Ro-Cuarto-v-Banfield"
-    },
-    {
-      "title": "Universitatea Craiova v Petrolul",
-      "teams": [
-        "Universitatea Craiova",
-        "Petrolul"
-      ],
-      "date": "01/08/2026",
-      "time": "18:30",
-      "tournament": "Romanian Superliga",
-      "channels": [
-        "FlashScore Romania"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316979-Universitatea-Craiova-v-Petrolul"
-    },
-    {
-      "title": "Košice v Trencin",
-      "teams": [
-        "Košice",
-        "Trencin"
-      ],
-      "date": "01/08/2026",
-      "time": "18:30",
-      "tournament": "Slovak Super Liga",
-      "channels": [
-        "FlashScore Slovakia"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316729-Koice-v-Trencin"
-    },
-    {
-      "title": "Leicester City v Genoa",
-      "teams": [
-        "Leicester City",
-        "Genoa"
-      ],
-      "date": "01/08/2026",
-      "time": "18:30",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "Foxes HUB ($/geo/R)",
-        "DAZN Italia ($/geo/R)",
-        "BBC Radio Leicester (FM)"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "leeleicestertigers@yahoo.co.uk"
-      ],
-      "match_url": "https://icdb.tv/match/316253-Leicester-City-v-Genoa"
-    },
-    {
-      "title": "Thun v Young Boys",
-      "teams": [
-        "Thun",
-        "Young Boys"
-      ],
-      "date": "01/08/2026",
-      "time": "18:30",
-      "tournament": "Swiss Super League",
-      "channels": [
-        "Blue Sport D 1 HD",
-        "RTS 2 Suisse HD",
-        "SRF Zwei Schweiz HD"
-      ],
-      "commentators": [
-        "Johnny17",
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/316252-Thun-v-Young-Boys"
-    },
-    {
-      "title": "Girona v Arsenal",
-      "teams": [
-        "Girona",
-        "Arsenal"
-      ],
-      "date": "01/08/2026",
-      "time": "18:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "World Feed",
-        "DAZN USA ($/geo/R)",
-        "AD Sports 1",
-        "KTV Sport",
-        "Scripps Sports Network",
-        "On Sport Plus",
-        "MEGOGO (Poland)"
-      ],
-      "commentators": [
-        "Ste",
-        "ethanh05",
-        "markasack",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316249-Girona-v-Arsenal"
-    },
-    {
-      "title": "Salzburg v Hartberg",
-      "teams": [
-        "Salzburg",
-        "Hartberg"
-      ],
-      "date": "01/08/2026",
-      "time": "17:30",
-      "tournament": "Austrian Bundesliga",
-      "channels": [
-        "Sky Sport 1 Austria HD"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/317118-Salzburg-v-Hartberg"
-    },
-    {
-      "title": "Estrela Amadora v Al Nassr",
-      "teams": [
-        "Estrela Amadora",
-        "Al Nassr"
-      ],
-      "date": "01/08/2026",
-      "time": "17:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "STC TV App"
-      ],
-      "commentators": [
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316978-Estrela-Amadora-v-Al-Nassr"
-    },
-    {
-      "title": "First Vienna v Sturm Graz II",
-      "teams": [
-        "First Vienna",
-        "Sturm Graz II"
-      ],
-      "date": "01/08/2026",
-      "time": "16:30",
-      "tournament": "Austrian 2. Liga",
-      "channels": [
-        "LAOLA1"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318016-First-Vienna-v-Sturm-Graz-II"
-    },
-    {
-      "title": "Aberdeen v Hearts",
-      "teams": [
-        "Aberdeen",
-        "Hearts"
-      ],
-      "date": "01/08/2026",
-      "time": "16:30",
-      "tournament": "Scottish Premiership",
-      "channels": [
-        "BBC (highlights)",
-        "BBC Radio Scotland",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "BBC Sportscene",
-        "Hearts TV",
-        "Red TV ($/geo/R)",
-        "Sharjah Sports 2",
-        "Sky Sports (highlights)",
-        "Sky Sports Football HD",
-        "Sky Sports Main Event HD",
-        "Sky Sports Main Event UHD",
-        "Sky Sports News / HD",
-        "Sportdigital FUSSBALL HD",
-        "World Feed"
-      ],
-      "commentators": [
-        "Crowe24",
-        "HWP",
-        "SonnyCorry",
-        "ethanh05",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316247-Aberdeen-v-Hearts"
-    },
-    {
-      "title": "Górnik Leczna v Avia Swidnik",
-      "teams": [
-        "Górnik Leczna",
-        "Avia Swidnik"
-      ],
-      "date": "01/08/2026",
-      "time": "16:00",
-      "tournament": "Polish 2. Liga",
-      "channels": [
-        "Sport TVP ($/geo/R)"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318403-Grnik-Leczna-v-Avia-Swidnik"
-    },
-    {
-      "title": "talkSPORT The Transfer Insiders",
-      "date": "01/08/2026",
-      "time": "16:00",
-      "tournament": "British Football",
-      "channels": [
-        "talkRadio",
-        "talkSPORT",
-        "talkSPORT App"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/317988-talkSPORT-The-Transfer-Insiders"
-    },
-    {
-      "title": "St Etienne v Venezia",
-      "teams": [
-        "St Etienne",
-        "Venezia"
-      ],
-      "date": "01/08/2026",
-      "time": "16:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "DAZN Italia ($/geo/R)"
-      ],
-      "commentators": [
-        "Guest-SC"
-      ],
-      "match_url": "https://icdb.tv/match/317280-St-Etienne-v-Venezia"
-    },
-    {
-      "title": "Basel v Lausanne Sport",
-      "teams": [
-        "Basel",
-        "Lausanne Sport"
-      ],
-      "date": "01/08/2026",
-      "time": "16:00",
-      "tournament": "Swiss Super League",
-      "channels": [
-        "Blue Sport D 1 HD"
-      ],
-      "commentators": [
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/317114-Basel-v-Lausanne-Sport"
-    },
-    {
-      "title": "Zürich v Servette",
-      "teams": [
-        "Zürich",
-        "Servette"
-      ],
-      "date": "01/08/2026",
-      "time": "16:00",
-      "tournament": "Swiss Super League",
-      "channels": [
-        "Blue Sport 1 Live HD"
-      ],
-      "commentators": [
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/317113-Zrich-v-Servette"
-    },
-    {
-      "title": "Real Madrid v Fiorentina",
-      "teams": [
-        "Real Madrid",
-        "Fiorentina"
-      ],
-      "date": "01/08/2026",
-      "time": "16:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "World Feed",
-        "DAZN Worldwide ($/geo/R)",
-        "Sky Sport Top Event HD",
-        "DAZN Ireland ($/geo/R)",
-        "Sky Sport News Deutsch HD",
-        "DAZN Italia ($/geo/R)",
-        "Sporty TV Africa",
-        "DAZN Great Britain (geo/R)",
-        "STC TV App"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "Mikhail17",
-        "ethanh05",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316828-Real-Madrid-v-Fiorentina"
-    },
-    {
-      "title": "Slovan Bratislava v Podbrezová",
-      "teams": [
-        "Slovan Bratislava",
-        "Podbrezová"
-      ],
-      "date": "01/08/2026",
-      "time": "16:00",
-      "tournament": "Slovak Super Liga",
-      "channels": [
-        "FlashScore Slovakia"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316726-Slovan-Bratislava-v-Podbrezov"
-    },
-    {
-      "title": "Lyngby v AGF Aarhus",
-      "teams": [
-        "Lyngby",
-        "AGF Aarhus"
-      ],
-      "date": "01/08/2026",
-      "time": "16:00",
-      "tournament": "Danish Superliga",
-      "channels": [
-        "TV3 Sport Dansk HD",
-        "ViaPlay Danmark HD"
-      ],
-      "commentators": [
-        "Vallis"
-      ],
-      "match_url": "https://icdb.tv/match/316242-Lyngby-v-AGF-Aarhus"
-    },
-    {
-      "title": "Wieczysta Kraków v Lech Poznan",
-      "teams": [
-        "Wieczysta Kraków",
-        "Lech Poznan"
-      ],
-      "date": "01/08/2026",
-      "time": "15:30",
-      "tournament": "Polish Ekstraklasa",
-      "channels": [
-        "FlashScore Poland"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316241-Wieczysta-Krakw-v-Lech-Poznan"
-    },
-    {
-      "title": "Blau-Weiß Linz v LASK Linz",
-      "teams": [
-        "Blau-Weiß Linz",
-        "LASK Linz"
-      ],
-      "date": "01/08/2026",
-      "time": "15:00",
-      "tournament": "Austrian Frauen Bundesliga",
-      "channels": [
-        "LAOLA1"
-      ],
-      "commentators": [
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/318768-BlauWei-Linz-v-LASK-Linz"
-    },
-    {
-      "title": "WSG Tirol v Sturm Graz",
-      "teams": [
-        "WSG Tirol",
-        "Sturm Graz"
-      ],
-      "date": "01/08/2026",
-      "time": "15:00",
-      "tournament": "Austrian Bundesliga",
-      "channels": [
-        "Sky Sport 2 Austria HD",
-        "Sky Sport 1 Austria HD"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/317112-WSG-Tirol-v-Sturm-Graz"
-    },
-    {
-      "title": "Hamburg v Everton",
-      "teams": [
-        "Hamburg",
-        "Everton"
-      ],
-      "date": "01/08/2026",
-      "time": "14:30",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "NDR 90.3",
-        "World Feed",
-        "beIN Sports 2 HD (Astro)",
-        "beIN Sports Australia 2 HD"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316236-Hamburg-v-Everton"
-    },
-    {
-      "title": "VfB Hilden v Bocholt",
-      "teams": [
-        "VfB Hilden",
-        "Bocholt"
-      ],
-      "date": "01/08/2026",
-      "time": "14:00",
-      "tournament": "German Regionalliga: West",
-      "channels": [
-        "LEAGUES [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318806-VfB-Hilden-v-Bocholt"
-    },
-    {
-      "title": "Greenock Morton v Partick Thistle",
-      "teams": [
-        "Greenock Morton",
-        "Partick Thistle"
-      ],
-      "date": "01/08/2026",
-      "time": "14:00",
-      "tournament": "Scottish Championship",
-      "channels": [
-        "BBC Radio Scotland"
-      ],
-      "commentators": [
-        "SonnyCorry"
-      ],
-      "match_url": "https://icdb.tv/match/318345-Greenock-Morton-v-Partick-Thistle"
-    },
-    {
-      "title": "Livingston v Queen's Park",
-      "teams": [
-        "Livingston",
-        "Queen's Park"
-      ],
-      "date": "01/08/2026",
-      "time": "14:00",
-      "tournament": "Scottish Championship",
-      "channels": [
-        "BBC Radio Scotland",
-        "Livingston TV ($/geo/R)"
-      ],
-      "commentators": [
-        "HWP",
-        "SonnyCorry"
-      ],
-      "match_url": "https://icdb.tv/match/318344-Livingston-v-Queens-Park"
-    },
-    {
-      "title": "Cardiff City v Roma",
-      "teams": [
-        "Cardiff City",
-        "Roma"
-      ],
-      "date": "01/08/2026",
-      "time": "14:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "DAZN Italia ($/geo/R)",
-        "Sharjah Sports"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316821-Cardiff-City-v-Roma"
-    },
-    {
-      "title": "Falkirk v St Mirren",
-      "teams": [
-        "Falkirk",
-        "St Mirren"
-      ],
-      "date": "01/08/2026",
-      "time": "14:00",
-      "tournament": "Scottish Premiership",
-      "channels": [
-        "BBC (highlights)",
-        "BBC Radio Scotland",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "BBC Sportscene",
-        "Falkirk TV [$]",
-        "Sharjah Sports 2",
-        "Sky Sports (highlights)",
-        "Sky Sports Football HD",
-        "Sky Sports News / HD",
-        "St Mirren TV ($/geo/R)",
-        "World Feed"
-      ],
-      "commentators": [
-        "HWP",
-        "M7",
-        "SonnyCorry",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316235-Falkirk-v-St-Mirren"
-    },
-    {
-      "title": "Tranmere Rovers v Rochdale",
-      "teams": [
-        "Tranmere Rovers",
-        "Rochdale"
-      ],
-      "date": "01/08/2026",
-      "time": "14:00",
-      "tournament": "English League Cup",
-      "channels": [
-        "BBC Radio Manchester",
-        "BBC Radio Merseyside",
-        "Sky Sports+ [via APP]"
-      ],
-      "commentators": [
-        "Crowe24",
-        "RussVMedia"
-      ],
-      "match_url": "https://icdb.tv/match/316231-Tranmere-Rovers-v-Rochdale"
-    },
-    {
-      "title": "Clyde v Stranraer",
-      "teams": [
-        "Clyde",
-        "Stranraer"
-      ],
-      "date": "01/08/2026",
-      "time": "14:00",
-      "tournament": "Scottish League 2",
-      "channels": [
-        "Stranraer FC LIVE ($/geo/R)"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/316229-Clyde-v-Stranraer"
-    },
-    {
-      "title": "BFC Dynamo v Chemie Leipzig",
-      "teams": [
-        "BFC Dynamo",
-        "Chemie Leipzig"
-      ],
-      "date": "01/08/2026",
-      "time": "14:00",
-      "tournament": "German Regionalliga: Nordost",
-      "channels": [
-        "MDR Fernsehen HD",
-        "RBB Berlin HD",
-        "RBB Brandenburg HD"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316226-BFC-Dynamo-v-Chemie-Leipzig"
-    },
-    {
-      "title": "Kolding v Hvidovre",
-      "teams": [
-        "Kolding",
-        "Hvidovre"
-      ],
-      "date": "01/08/2026",
-      "time": "14:00",
-      "tournament": "Danish 1. Division",
-      "channels": [
-        "ViaPlay Danmark HD"
-      ],
-      "commentators": [
-        "Vallis"
-      ],
-      "match_url": "https://icdb.tv/match/316225-Kolding-v-Hvidovre"
-    },
-    {
-      "title": "Polish MultiLiga",
-      "date": "01/08/2026",
-      "time": "13:30",
-      "tournament": "Polish 1. Liga",
-      "channels": [
-        "TVP 3"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318402-Polish-MultiLiga"
-    },
-    {
-      "title": "ARKA Gdynia v Stal Rzeszów",
-      "teams": [
-        "ARKA Gdynia",
-        "Stal Rzeszów"
-      ],
-      "date": "01/08/2026",
-      "time": "13:30",
-      "tournament": "Polish 1. Liga",
-      "channels": [
-        "Sport TVP ($/geo/R)"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316222-ARKA-Gdynia-v-Stal-Rzeszw"
-    },
-    {
-      "title": "Pogon Siedlce v Termalica Nieciecza",
-      "teams": [
-        "Pogon Siedlce",
-        "Termalica Nieciecza"
-      ],
-      "date": "01/08/2026",
-      "time": "13:30",
-      "tournament": "Polish 1. Liga",
-      "channels": [
-        "Sport TVP ($/geo/R)"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316221-Pogon-Siedlce-v-Termalica-Nieciecza"
-    },
-    {
-      "title": "Polonia Warsaw v Unia Skierniewice",
-      "teams": [
-        "Polonia Warsaw",
-        "Unia Skierniewice"
-      ],
-      "date": "01/08/2026",
-      "time": "13:30",
-      "tournament": "Polish 1. Liga",
-      "channels": [
-        "Sport TVP ($/geo/R)"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316220-Polonia-Warsaw-v-Unia-Skierniewice"
-    },
-    {
-      "title": "Energie Cottbus v Werder Bremen",
-      "teams": [
-        "Energie Cottbus",
-        "Werder Bremen"
-      ],
-      "date": "01/08/2026",
-      "time": "13:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "DFB.TV Germany"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318348-Energie-Cottbus-v-Werder-Bremen"
-    },
-    {
-      "title": "Clyde 1 Superscoreboard",
-      "date": "01/08/2026",
-      "time": "13:00",
-      "tournament": "Scottish Football",
-      "channels": [
-        "Radio Clyde 1"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/318053-Clyde-1-Superscoreboard"
-    },
-    {
-      "title": "Clyde 1 Superscoreboard",
-      "date": "01/08/2026",
-      "time": "13:00",
-      "tournament": "Scottish Football",
-      "channels": [
-        "Radio Clyde 1"
-      ],
-      "commentators": [
-        "HWP"
-      ],
-      "match_url": "https://icdb.tv/match/317990-Clyde-1-Superscoreboard"
-    },
-    {
-      "title": "Manchester United v Atlético Madrid",
-      "teams": [
-        "Manchester United",
-        "Atlético Madrid"
-      ],
-      "date": "01/08/2026",
-      "time": "13:00",
-      "tournament": "Snapdragon Cup",
-      "channels": [
-        "MUTV / HD",
-        "FlashScore (audio)",
-        "Flashscore UK",
-        "AD Sports 1"
-      ],
-      "commentators": [
-        "ethanh05",
-        "r96",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316215-Manchester-United-v-Atltico-Madrid"
-    },
-    {
-      "title": "Sturm Graz v Rheindorf Altach",
-      "teams": [
-        "Sturm Graz",
-        "Rheindorf Altach"
-      ],
-      "date": "01/08/2026",
-      "time": "12:30",
-      "tournament": "Austrian Frauen Bundesliga",
-      "channels": [
-        "LAOLA1",
-        "ÖFB TV (geo/R)"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318178-Sturm-Graz-v-Rheindorf-Altach"
-    },
-    {
-      "title": "Magdeburg v West Ham United",
-      "teams": [
-        "Magdeburg",
-        "West Ham United"
-      ],
-      "date": "01/08/2026",
-      "time": "12:30",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "Volksstimme Live [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316719-Magdeburg-v-West-Ham-United"
-    },
-    {
-      "title": "Mönchengladbach II v Rödinghausen",
-      "teams": [
-        "Mönchengladbach II",
-        "Rödinghausen"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "German Regionalliga: West",
-      "channels": [
-        "LEAGUES [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318805-Mnchengladbach-II-v-Rdinghausen"
-    },
-    {
-      "title": "Sportfreunde Lotte v Gütersloh",
-      "teams": [
-        "Sportfreunde Lotte",
-        "Gütersloh"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "German Regionalliga: West",
-      "channels": [
-        "LEAGUES [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318804-Sportfreunde-Lotte-v-Gtersloh"
-    },
-    {
-      "title": "Bochum II v Borussia Dortmund II",
-      "teams": [
-        "Bochum II",
-        "Borussia Dortmund II"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "German Regionalliga: West",
-      "channels": [
-        "LEAGUES [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318803-Bochum-II-v-Borussia-Dortmund-II"
-    },
-    {
-      "title": "FC Cologne II v Wiedenbrück",
-      "teams": [
-        "FC Cologne II",
-        "Wiedenbrück"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "German Regionalliga: West",
-      "channels": [
-        "LEAGUES [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318802-FC-Cologne-II-v-Wiedenbrck"
-    },
-    {
-      "title": "Bergisch Gladbach v Wattenscheid",
-      "teams": [
-        "Bergisch Gladbach",
-        "Wattenscheid"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "German Regionalliga: West",
-      "channels": [
-        "LEAGUES [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318801-Bergisch-Gladbach-v-Wattenscheid"
-    },
-    {
-      "title": "Westfalia Rhynern v Sportfreunde Siegen",
-      "teams": [
-        "Westfalia Rhynern",
-        "Sportfreunde Siegen"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "German Regionalliga: West",
-      "channels": [
-        "LEAGUES [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318800-Westfalia-Rhynern-v-Sportfreunde-Siegen"
-    },
-    {
-      "title": "Schalke 04 II v Paderborn II",
-      "teams": [
-        "Schalke 04 II",
-        "Paderborn II"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "German Regionalliga: West",
-      "channels": [
-        "LEAGUES [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318799-Schalke-04-II-v-Paderborn-II"
-    },
-    {
-      "title": "RB Leipzig U-19 v Kaiserslautern",
-      "teams": [
-        "RB Leipzig U-19",
-        "Kaiserslautern"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "German Cup U19 (DFB-Pokal U19)",
-      "channels": [
-        "Sky Sport News Deutsch HD"
-      ],
-      "commentators": [
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/318776-RB-Leipzig-U19-v-Kaiserslautern"
-    },
-    {
-      "title": "Hessen Kassel v Schalke 04",
-      "teams": [
-        "Hessen Kassel",
-        "Schalke 04"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "LEAGUES [$]"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318406-Hessen-Kassel-v-Schalke-04"
-    },
-    {
-      "title": "Austria Vienna v St Pölten",
-      "teams": [
-        "Austria Vienna",
-        "St Pölten"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "Austrian Frauen Bundesliga",
-      "channels": [
-        "ORF 1 Austria HD"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318177-Austria-Vienna-v-St-Plten"
-    },
-    {
-      "title": "talkSPORT The Saturday Session",
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "British Football",
-      "channels": [
-        "talkRadio",
-        "talkSPORT",
-        "talkSPORT App"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/317987-talkSPORT-The-Saturday-Session"
-    },
-    {
-      "title": "Schweinfurt v 1860 Munich",
-      "teams": [
-        "Schweinfurt",
-        "1860 Munich"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "German Regionalliga: Bayern",
-      "channels": [
-        "BR Fernsehen HD",
-        "BR24"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316718-Schweinfurt-v-1860-Munich"
-    },
-    {
-      "title": "Indonesia All-Stars v Aston Villa",
-      "teams": [
-        "Indonesia All-Stars",
-        "Aston Villa"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "Friendly Hybrid Match",
-      "channels": [
-        "Villa TV ($/geo/R)"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/316211-Indonesia-AllStars-v-Aston-Villa"
-    },
-    {
-      "title": "Dynamo Dresden v Union Berlin",
-      "teams": [
-        "Dynamo Dresden",
-        "Union Berlin"
-      ],
-      "date": "01/08/2026",
-      "time": "12:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "MDR Fernsehen HD",
-        "RBB Berlin HD",
-        "RBB Brandenburg HD"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316206-Dynamo-Dresden-v-Union-Berlin"
-    },
-    {
-      "title": "Hamburg v Everton",
-      "teams": [
-        "Hamburg",
-        "Everton"
-      ],
-      "date": "01/08/2026",
-      "time": "11:30",
-      "tournament": "Friendly Club Match (W)",
-      "channels": [
-        "NDR 90.3"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318796-Hamburg-v-Everton"
-    },
-    {
-      "title": "Manchester City v Inter Milan",
-      "teams": [
-        "Manchester City",
-        "Inter Milan"
-      ],
-      "date": "01/08/2026",
-      "time": "11:30",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "Sky Sport Uno Italia HD",
-        "Inter TV HD",
-        "World Feed",
-        "CityTV (highlights)",
-        "CBS Sports Network USA",
-        "City+",
-        "YouTube: Man City",
-        "Inter [app] (geo/R)",
-        "DAZN Italia ($/geo/R)",
-        "Sporty TV Africa",
-        "Sky Sport Calcio HD",
-        "Sky Sport Business Italia / HD",
-        "DAZN Deutsch ($/geo/R)",
-        "Maraya App",
-        "DAZN For Business Italia / HD"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "Guest-SC",
-        "Mikhail17",
-        "apltle12",
-        "ethanh05",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316204-Manchester-City-v-Inter-Milan"
-    },
-    {
-      "title": "Legia Warsaw v Pogon Szczecin",
-      "teams": [
-        "Legia Warsaw",
-        "Pogon Szczecin"
-      ],
-      "date": "01/08/2026",
-      "time": "11:15",
-      "tournament": "Polish Womens Ekstraliga",
-      "channels": [
-        "TVP Sport Polska HD"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316820-Legia-Warsaw-v-Pogon-Szczecin"
-    },
-    {
-      "title": "Hillerød v Esbjerg",
-      "teams": [
-        "Hillerød",
-        "Esbjerg"
-      ],
-      "date": "01/08/2026",
-      "time": "11:00",
-      "tournament": "Danish 1. Division",
-      "channels": [
-        "ViaPlay Danmark HD"
-      ],
-      "commentators": [
-        "Vallis"
-      ],
-      "match_url": "https://icdb.tv/match/316199-Hillerd-v-Esbjerg"
-    },
-    {
-      "title": "FC Tokyo v Borussia Dortmund",
-      "teams": [
-        "FC Tokyo",
-        "Borussia Dortmund"
-      ],
-      "date": "01/08/2026",
-      "time": "10:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "Eleven Sports 1 Polska HD",
-        "MBC Action",
-        "Sky Sport Bundesliga 1 HD",
-        "Sky Sport News Deutsch HD",
-        "Sky Sport Top Event HD",
-        "ViaPlay Danmark HD",
-        "World Feed",
-        "YouTube: Borussia Dortmund",
-        "YouTube: Bundesliga",
-        "YouTube: Sky Sports Football [$]"
-      ],
-      "commentators": [
-        "Mikhail17",
-        "Vallis",
-        "apltle12",
-        "ethanh05",
-        "kurtogen",
-        "r96",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316197-FC-Tokyo-v-Borussia-Dortmund"
-    },
-    {
-      "title": "Chelsea v Tottenham Hotspur",
-      "teams": [
-        "Chelsea",
-        "Tottenham Hotspur"
-      ],
-      "date": "01/08/2026",
-      "time": "09:45",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "CFC+ ($/geo/R)",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "FlashScore (audio)",
-        "Flashscore UK",
-        "Maraya App",
-        "Paramount+ AUS ($/geo/R)",
-        "SpursPlay ($/geo/R)",
-        "World Feed"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "ethanh05",
-        "kurtogen",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316195-Chelsea-v-Tottenham-Hotspur"
-    },
-    {
-      "title": "Borussia Dortmund U-19 v Holstein Kiel U-19",
-      "teams": [
-        "Borussia Dortmund U-19",
-        "Holstein Kiel U-19"
-      ],
-      "date": "01/08/2026",
-      "time": "09:00",
-      "tournament": "German Cup U19 (DFB-Pokal U19)",
-      "channels": [
-        "DFB.TV Germany",
-        "YouTube: DFB"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/318807-Borussia-Dortmund-U19-v-Holstein-Kiel-U19"
-    },
-    {
-      "title": "Dortmund U-19 v Holstein Kiel U-19",
-      "teams": [
-        "Dortmund U-19",
-        "Holstein Kiel U-19"
-      ],
-      "date": "01/08/2026",
-      "time": "09:00",
-      "tournament": "German Cup U19 (DFB-Pokal U19)",
-      "channels": [
-        "DFB-TV"
-      ],
-      "commentators": [
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/318775-Dortmund-U19-v-Holstein-Kiel-U19"
-    },
-    {
-      "title": "Lazio v Avellino",
-      "teams": [
-        "Lazio",
-        "Avellino"
-      ],
-      "date": "01/08/2026",
-      "time": "09:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "DAZN Italia ($/geo/R)"
-      ],
-      "commentators": [
-        "Guest-SC"
-      ],
-      "match_url": "https://icdb.tv/match/316819-Lazio-v-Avellino"
-    },
-    {
-      "title": "Juárez v Pumas UNAM",
-      "teams": [
-        "Juárez",
-        "Pumas UNAM"
-      ],
-      "date": "01/08/2026",
-      "time": "03:00",
-      "tournament": "Mexican Liga MX",
-      "channels": [
-        "Azteca 7",
-        "Azteca Deportes Network",
-        "FOX (México) [$] (geo/R)",
-        "FOX ONE (México) [$] (geo/R)",
-        "NBC Universo"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318164-Jurez-v-Pumas-UNAM"
-    },
-    {
-      "title": "San Luis v Tijuana",
-      "teams": [
-        "San Luis",
-        "Tijuana"
-      ],
-      "date": "01/08/2026",
-      "time": "03:00",
-      "tournament": "Mexican Liga MX",
-      "channels": [
-        "Disney+ Mexico [$]",
-        "ESPN Mexico",
-        "Vix Premium (México)",
-        "Vix Premium (USA)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318163-San-Luis-v-Tijuana"
-    },
-    {
-      "title": "United States U-20 v Cuba U-20",
-      "teams": [
-        "United States U-20",
-        "Cuba U-20"
-      ],
-      "date": "01/08/2026",
-      "time": "02:00",
-      "tournament": "CONCACAF U-20 Championships",
-      "channels": [
-        "CONCACAF GO (geo/R)",
-        "FOX ONE (USA) [$] (geo/R)",
-        "Fox Sports 1 (US)",
-        "Fox Sports App (US)",
-        "OneSoccer",
-        "Vix (usa)",
-        "World Feed",
-        "YouTube: CONCACAF (geo/R)"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/317897-United-States-U20-v-Cuba-U20"
-    },
-    {
-      "title": "Fortaleza CEIF v Pereira",
-      "teams": [
-        "Fortaleza CEIF",
-        "Pereira"
-      ],
-      "date": "01/08/2026",
-      "time": "01:00",
-      "tournament": "Colombian Primera A",
-      "channels": [
-        "Win Sports",
-        "Win+ Fútbol (Colombia)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318165-Fortaleza-CEIF-v-Pereira"
-    },
-    {
-      "title": "Puebla v Chivas Guadalajara",
-      "teams": [
-        "Puebla",
-        "Chivas Guadalajara"
-      ],
-      "date": "01/08/2026",
-      "time": "01:00",
-      "tournament": "Mexican Liga MX",
-      "channels": [
-        "Azteca 7",
-        "Azteca Deportes Network",
-        "TUDN (usa)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318162-Puebla-v-Chivas-Guadalajara"
-    },
-    {
-      "title": "North Carolina Courage v Orlando Pride",
-      "teams": [
-        "North Carolina Courage",
-        "Orlando Pride"
-      ],
-      "date": "01/08/2026",
-      "time": "00:00",
-      "tournament": "National Women's Soccer League (NWSL)",
-      "channels": [
-        "Amazon Prime US [$]",
-        "NWSL+ International (geo/R)",
-        "SiriusXM FC",
-        "World Feed"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/318063-North-Carolina-Courage-v-Orlando-Pride"
     }
   ]
 }
