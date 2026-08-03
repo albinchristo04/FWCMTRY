@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03T12:55:07.391877+00:00",
+  "scraped_at": "2026-08-03T17:08:12.882985+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 89,
+  "total_matches": 94,
   "matches": [
     {
       "title": "Sparta Prague v Lyon",
@@ -31,22 +31,42 @@
       "time": "18:30",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC Radio Scotland",
+        "BBC Sounds APP",
+        "BBCSportOnline (Audio)",
+        "BBC Sportscene",
         "Radio Clyde 1",
-        "Sharjah Sports",
+        "SharjahSports",
+        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
         "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
-        "Sportdigital FUSSBALL HD"
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "Crowe24",
         "HWP",
-        "James M",
         "SonnyCorry",
         "kurtogen",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316633-Celtic-v-Dundee"
+    },
+    {
+      "title": "BBC Monday Night Club",
+      "date": "03/08/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/318898-BBC-Monday-Night-Club"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -61,6 +81,67 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/318811-talkSPORT-The-Transfer-Insiders"
+    },
+    {
+      "title": "BBC Merseyside Sport",
+      "date": "03/08/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio Merseyside",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/318903-BBC-Merseyside-Sport"
+    },
+    {
+      "title": "BBC WM Sport",
+      "date": "03/08/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio WM",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/318902-BBC-WM-Sport"
+    },
+    {
+      "title": "BBC Football Heaven",
+      "date": "03/08/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio Sheffield",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/318897-BBC-Football-Heaven"
+    },
+    {
+      "title": "Ranheim v Haugesund",
+      "teams": [
+        "Ranheim",
+        "Haugesund"
+      ],
+      "date": "03/08/2026",
+      "time": "17:00",
+      "tournament": "Norwegian 1. Divisjon",
+      "channels": [
+        "DirekteSport.no [$] (geo/R)",
+        "TV2 Play Norge ($/geo/R)",
+        "TV2 Sport 1 Norge HD"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/316629-Ranheim-v-Haugesund"
     },
     {
       "title": "Toluca v Necaxa",
@@ -92,10 +173,15 @@
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
         "ESPN (US)",
+        "ESPN Deportes",
+        "ESPN Unlimited (US)",
+        "NWSL+ International (geo/R)",
+        "TSN Canada 2 HD",
         "World Feed"
       ],
       "commentators": [
         "apltle12",
+        "bigddan11",
         "tmiller2462"
       ],
       "match_url": "https://icdb.tv/match/318814-Denver-Summit-v-Boston-Legacy"
