@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-05T16:40:30.153121+00:00",
+  "scraped_at": "2026-08-05T21:05:46.253710+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 69,
+  "total_matches": 74,
   "matches": [
     {
       "title": "Vitória Bahia v Atlético Paranaense",
@@ -15,12 +15,31 @@
       "channels": [
         "GE TV",
         "Premiere (Brazil)",
+        "Rádio TMC",
         "SporTV Brazil HD"
       ],
       "commentators": [
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/319066-Vitria-Bahia-v-Atltico-Paranaense"
+    },
+    {
+      "title": "Benfica v Hearts",
+      "teams": [
+        "Benfica",
+        "Hearts"
+      ],
+      "date": "06/08/2026",
+      "time": "19:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "Premier Sports 2 HD",
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/318463-Benfica-v-Hearts"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -227,6 +246,7 @@
       "channels": [
         "GE TV",
         "Premiere (Brazil)",
+        "Rádio Tupi",
         "SporTV 4K (Brazil)",
         "SporTV Brazil HD",
         "TV Globo",
@@ -247,8 +267,14 @@
       "time": "00:30",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
+        "105 FM",
         "Energia 97",
         "Premiere (Brazil)",
+        "Prime Vídeo Brasil",
+        "Rádio BandNews FM",
+        "Rádio Bandeirantes",
+        "Rádio CBN",
+        "Rádio TMC",
         "SporTV 2 Brazil HD",
         "TV Globo",
         "globoplay"
@@ -323,9 +349,12 @@
       "time": "22:30",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
-        "Prime Vídeo Brasil"
+        "Prime Vídeo Brasil",
+        "Rádio Gaúcha",
+        "TS Rádio Mirassol"
       ],
       "commentators": [
+        "Mikhail17",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/319067-Grmio-v-Mirassol"
@@ -341,6 +370,8 @@
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
         "Premiere (Brazil)",
+        "Rede 98",
+        "Rádio Itatiaia",
         "SporTV Brazil HD"
       ],
       "commentators": [
@@ -358,16 +389,20 @@
       "time": "22:00",
       "tournament": "Argentinean Primera División",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "ESPN (South America)",
-        "HBO Max Argentina [$/geo/R]",
-        "ESPN 5 (Chile)",
+        "Disney+ Brazil [$]",
         "Disney+ Central America [$]",
+        "Dubai Sports 1",
+        "ESPN (Brazil)",
+        "ESPN (South America)",
+        "ESPN 5 (Chile)",
+        "HBO Max Argentina [$/geo/R]",
+        "Sportdigital FUSSBALL HD",
         "TNT Sports Premium (Argentina)"
       ],
       "commentators": [
         "kurtogen",
-        "luca80sp"
+        "luca80sp",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316871-Boca-Juniors-v-Estudiantes-LP"
     },
@@ -379,13 +414,21 @@
       ],
       "date": "05/08/2026",
       "time": "19:00",
-      "tournament": "Friendly Club Match",
+      "tournament": "Trofeu Ciutat de Palma",
       "channels": [
-        "beIN Sports MENA 1 HD",
-        "VG+ Sport Norge ($/geo/R)"
+        "DAZN Great Britain (geo/R)",
+        "FlashScore France",
+        "KTV Sport",
+        "OneFootball [app] ($/geo/R)",
+        "VG+ Sport Norge ($/geo/R)",
+        "World Feed",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "Bksm",
+        "Mikhail17",
+        "ethanh05",
+        "r96",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316867-Mallorca-v-Paris-St-Germain"
@@ -397,20 +440,82 @@
         "Real Betis"
       ],
       "date": "05/08/2026",
-      "time": "18:30",
+      "time": "18:45",
       "tournament": "Friendly Club Match",
       "channels": [
-        "DAZN Schweiz [$] (geo/R)",
-        "VG+ Sport Norge ($/geo/R)",
         "DAZN Deutsch ($/geo/R)",
-        "Maraya App"
+        "DAZN Schweiz [$] (geo/R)",
+        "FlashScore (audio)",
+        "Flashscore UK",
+        "Maraya App",
+        "Premier Sports 1 HD",
+        "Premier Sports 1 HD (ROI only)",
+        "Premier Sports Player UK (£/geo/R)",
+        "VG+ Sport Norge ($/geo/R)"
       ],
       "commentators": [
         "Bksm",
+        "HWP",
+        "ethanh05",
         "kurtogen",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316869-Arsenal-v-Real-Betis"
+    },
+    {
+      "title": "Panathinaikos v CSKA 1948 Sofia",
+      "teams": [
+        "Panathinaikos",
+        "CSKA 1948 Sofia"
+      ],
+      "date": "05/08/2026",
+      "time": "18:30",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "ESPN+ USA ($/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/318435-Panathinaikos-v-CSKA-1948-Sofia"
+    },
+    {
+      "title": "Slavia Prague v Rangers",
+      "teams": [
+        "Slavia Prague",
+        "Rangers"
+      ],
+      "date": "05/08/2026",
+      "time": "18:30",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "YouTube: Rangers Football Club (Official)"
+      ],
+      "commentators": [
+        "Bo98"
+      ],
+      "match_url": "https://icdb.tv/match/317939-Slavia-Prague-v-Rangers"
+    },
+    {
+      "title": "Ferencváros v Górnik Zabrze",
+      "teams": [
+        "Ferencváros",
+        "Górnik Zabrze"
+      ],
+      "date": "05/08/2026",
+      "time": "18:15",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "ESPN+ USA ($/geo/R)",
+        "FlashScore Poland",
+        "World Feed"
+      ],
+      "commentators": [
+        "Mikhail17",
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/318434-Ferencvros-v-Grnik-Zabrze"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -443,6 +548,20 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/318082-Fenerbahe-v-Sturm-Graz"
+    },
+    {
+      "title": "BBC Solent Sport",
+      "date": "05/08/2026",
+      "time": "17:00",
+      "tournament": "English Championship",
+      "channels": [
+        "BBC Radio Solent",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/319072-BBC-Solent-Sport"
     },
     {
       "title": "Chemie Leipzig v Hallescher FC",
@@ -523,16 +642,26 @@
       "time": "11:30",
       "tournament": "Friendly Club Match",
       "channels": [
-        "DAZN Schweiz [$] (geo/R)",
-        "VG+ Sport Norge ($/geo/R)",
-        "DAZN Italia ($/geo/R)",
-        "Sky Sport Calcio HD",
+        "CBS Sports Golazo N/W (geo/R)",
+        "CFC+ ($/geo/R)",
         "DAZN Deutsch ($/geo/R)",
-        "Maraya App"
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Hoy TV",
+        "Maraya App",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sport Calcio HD",
+        "Sport 2 Israel HD",
+        "Sporty TV Africa",
+        "VG+ Sport Norge ($/geo/R)",
+        "World Feed",
+        "mio Sports 1"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Bksm",
         "Guest-SC",
+        "Mikhail17",
         "kurtogen",
         "ysscores"
       ],
@@ -548,11 +677,11 @@
       "time": "11:00",
       "tournament": "Friendly Hybrid Match",
       "channels": [
-        "CityTV (highlights)",
+        "AD Sports 1",
         "City+",
-        "YouTube: Man City",
+        "CityTV (highlights)",
         "VG+ Sport Norge ($/geo/R)",
-        "AD Sports 1"
+        "YouTube: Man City"
       ],
       "commentators": [
         "Bksm",
@@ -571,16 +700,16 @@
       "time": "11:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "Sky Sport Uno Italia HD",
-        "Inter TV HD",
-        "World Feed",
-        "VG+ Sport Norge ($/geo/R)",
-        "Inter [app] (geo/R)",
-        "DAZN Italia ($/geo/R)",
         "DAZN 1 Italia HD",
-        "Sky Sport Business Italia / HD",
+        "DAZN For Business Italia / HD",
+        "DAZN Italia ($/geo/R)",
+        "Inter TV HD",
+        "Inter [app] (geo/R)",
         "Sharjah Sports",
-        "DAZN For Business Italia / HD"
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Uno Italia HD",
+        "VG+ Sport Norge ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "Bksm",
