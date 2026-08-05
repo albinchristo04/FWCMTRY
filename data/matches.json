@@ -1,8 +1,75 @@
 {
-  "scraped_at": "2026-08-04T21:10:32.111270+00:00",
+  "scraped_at": "2026-08-05T02:12:49.416537+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 56,
+  "total_matches": 45,
   "matches": [
+    {
+      "title": "talkSPORT The Transfer Insiders",
+      "date": "06/08/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "talkSPORT",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/318915-talkSPORT-The-Transfer-Insiders"
+    },
+    {
+      "title": "Salzburg v Pafos FC",
+      "teams": [
+        "Salzburg",
+        "Pafos FC"
+      ],
+      "date": "06/08/2026",
+      "time": "17:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "Servus TV Österreich HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/318207-Salzburg-v-Pafos-FC"
+    },
+    {
+      "title": "Paide Linnameeskond v Rapid Vienna",
+      "teams": [
+        "Paide Linnameeskond",
+        "Rapid Vienna"
+      ],
+      "date": "06/08/2026",
+      "time": "16:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "ORF 1 Austria HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/318441-Paide-Linnameeskond-v-Rapid-Vienna"
+    },
+    {
+      "title": "Jagiellonia v Rangers",
+      "teams": [
+        "Jagiellonia",
+        "Rangers"
+      ],
+      "date": "06/08/2026",
+      "time": "16:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "BBC Sounds APP",
+        "BBC Radio Scotland Extra",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/317940-Jagiellonia-v-Rangers"
+    },
     {
       "title": "Boca Juniors v Estudiantes LP",
       "teams": [
@@ -121,6 +188,26 @@
       "match_url": "https://icdb.tv/match/318201-St-Plten-v-Young-Boys"
     },
     {
+      "title": "Chelsea v Juventus",
+      "teams": [
+        "Chelsea",
+        "Juventus"
+      ],
+      "date": "05/08/2026",
+      "time": "11:30",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "DAZN Schweiz [$] (geo/R)",
+        "Sky Sport Calcio HD",
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/316862-Chelsea-v-Juventus"
+    },
+    {
       "title": "K-League All Stars v Manchester City",
       "teams": [
         "K-League All Stars",
@@ -140,26 +227,6 @@
       "match_url": "https://icdb.tv/match/318809-KLeague-All-Stars-v-Manchester-City"
     },
     {
-      "title": "Chelsea v Juventus",
-      "teams": [
-        "Chelsea",
-        "Juventus"
-      ],
-      "date": "05/08/2026",
-      "time": "11:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "DAZN Schweiz [$] (geo/R)",
-        "Sky Sport Calcio HD",
-        "DAZN Deutsch ($/geo/R)"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/316862-Chelsea-v-Juventus"
-    },
-    {
       "title": "AC Milan v Inter Milan",
       "teams": [
         "AC Milan",
@@ -169,16 +236,88 @@
       "time": "11:00",
       "tournament": "Friendly Club Match",
       "channels": [
+        "Sky Sport Uno Italia HD",
         "Inter TV HD",
         "Inter [app] (geo/R)",
-        "Sky Sport Business Italia / HD",
-        "Sky Sport Uno Italia HD"
+        "Sky Sport Business Italia / HD"
       ],
       "commentators": [
         "Guest-SC",
         "Mikhail17"
       ],
       "match_url": "https://icdb.tv/match/316861-AC-Milan-v-Inter-Milan"
+    },
+    {
+      "title": "Vancouver Whitecaps v Atlante",
+      "teams": [
+        "Vancouver Whitecaps",
+        "Atlante"
+      ],
+      "date": "05/08/2026",
+      "time": "02:30",
+      "tournament": "CONCACAF Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319002-Vancouver-Whitecaps-v-Atlante"
+    },
+    {
+      "title": "Tigres UANL v Real Salt Lake",
+      "teams": [
+        "Tigres UANL",
+        "Real Salt Lake"
+      ],
+      "date": "05/08/2026",
+      "time": "02:00",
+      "tournament": "CONCACAF Leagues Cup",
+      "channels": [
+        "Apple TV",
+        "Apple TV ($/geo/R)",
+        "TUDN (usa)",
+        "UniMás USA"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318999-Tigres-UANL-v-Real-Salt-Lake"
+    },
+    {
+      "title": "Millonarios v Deportivo Pasto",
+      "teams": [
+        "Millonarios",
+        "Deportivo Pasto"
+      ],
+      "date": "05/08/2026",
+      "time": "01:20",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win Sports",
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318997-Millonarios-v-Deportivo-Pasto"
+    },
+    {
+      "title": "Minnesota United v Juárez",
+      "teams": [
+        "Minnesota United",
+        "Juárez"
+      ],
+      "date": "05/08/2026",
+      "time": "00:30",
+      "tournament": "CONCACAF Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319001-Minnesota-United-v-Jurez"
     },
     {
       "title": "Remo v Santos",
@@ -190,13 +329,59 @@
       "time": "00:30",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
+        "105 FM",
+        "Energia 97",
+        "FlashScore Brazil",
+        "Liberal+",
         "Premiere (Brazil)",
+        "Rádio BandNews FM",
+        "Rádio Bandeirantes",
+        "Rádio CBN",
+        "Rádio Jovem Pan",
+        "Rádio NovaBrasil",
+        "Rádio TMC",
         "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "ethanh05",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318992-Remo-v-Santos"
+    },
+    {
+      "title": "Charlotte FC v Pumas UNAM",
+      "teams": [
+        "Charlotte FC",
+        "Pumas UNAM"
+      ],
+      "date": "05/08/2026",
+      "time": "00:00",
+      "tournament": "CONCACAF Leagues Cup",
+      "channels": [
+        "Apple TV",
+        "Imagen Deportes"
       ],
       "commentators": [
         "luca80sp"
       ],
-      "match_url": "https://icdb.tv/match/318992-Remo-v-Santos"
+      "match_url": "https://icdb.tv/match/318998-Charlotte-FC-v-Pumas-UNAM"
+    },
+    {
+      "title": "Columbus Crew v Atlas",
+      "teams": [
+        "Columbus Crew",
+        "Atlas"
+      ],
+      "date": "04/08/2026",
+      "time": "23:45",
+      "tournament": "CONCACAF Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319000-Columbus-Crew-v-Atlas"
     },
     {
       "title": "Cincinnati v Pachuca",
@@ -216,6 +401,23 @@
       "match_url": "https://icdb.tv/match/318993-Cincinnati-v-Pachuca"
     },
     {
+      "title": "Tolima v Independiente Medellín",
+      "teams": [
+        "Tolima",
+        "Independiente Medellín"
+      ],
+      "date": "04/08/2026",
+      "time": "23:15",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318996-Tolima-v-Independiente-Medelln"
+    },
+    {
       "title": "Juventude v Atlético Mineiro",
       "teams": [
         "Juventude",
@@ -225,12 +427,34 @@
       "time": "22:30",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
-        "Prime Vídeo Brasil"
+        "FlashScore Brazil",
+        "Prime Vídeo Brasil",
+        "Rede 98",
+        "Rádio Itatiaia"
+      ],
+      "commentators": [
+        "ethanh05",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/318991-Juventude-v-Atltico-Mineiro"
+    },
+    {
+      "title": "Llaneros v Fortaleza CEIF",
+      "teams": [
+        "Llaneros",
+        "Fortaleza CEIF"
+      ],
+      "date": "04/08/2026",
+      "time": "21:10",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win Sports",
+        "Win+ Fútbol (Colombia)"
       ],
       "commentators": [
         "luca80sp"
       ],
-      "match_url": "https://icdb.tv/match/318991-Juventude-v-Atltico-Mineiro"
+      "match_url": "https://icdb.tv/match/318995-Llaneros-v-Fortaleza-CEIF"
     },
     {
       "title": "Larne v Iberia 1999",
@@ -248,6 +472,23 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/318414-Larne-v-Iberia-1999"
+    },
+    {
+      "title": "Rotherham United v Derby County",
+      "teams": [
+        "Rotherham United",
+        "Derby County"
+      ],
+      "date": "04/08/2026",
+      "time": "18:30",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "BBC Radio Derby"
+      ],
+      "commentators": [
+        "RussVMedia"
+      ],
+      "match_url": "https://icdb.tv/match/319003-Rotherham-United-v-Derby-County"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -279,6 +520,24 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/318195-Dinamo-Zagreb-v-Kauno-Zalgiris"
+    },
+    {
+      "title": "Union St Gilloise v Bodø/Glimt",
+      "teams": [
+        "Union St Gilloise",
+        "Bodø/Glimt"
+      ],
+      "date": "04/08/2026",
+      "time": "18:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "VG+ Sport Norge ($/geo/R)",
+        "NRK Sport"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/318194-Union-St-Gilloise-v-BodGlimt"
     },
     {
       "title": "Sparta Prague v Lyon",
@@ -353,6 +612,23 @@
       "match_url": "https://icdb.tv/match/318989-BBC-Radio-Stoke-Sport"
     },
     {
+      "title": "Ringkøbingmp v Aarhus Fremad",
+      "teams": [
+        "Ringkøbingmp",
+        "Aarhus Fremad"
+      ],
+      "date": "04/08/2026",
+      "time": "17:00",
+      "tournament": "Danish Cup (DBU Pokalen)",
+      "channels": [
+        "DBU Pokalen [online]"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/318987-Ringkbingmp-v-Aarhus-Fremad"
+    },
+    {
       "title": "BBC Manchester Total Sport",
       "date": "04/08/2026",
       "time": "17:00",
@@ -401,6 +677,23 @@
       "match_url": "https://icdb.tv/match/317811-Chemnitz-v-FSV-Zwickau"
     },
     {
+      "title": "Holstebro v AaB Aalborg",
+      "teams": [
+        "Holstebro",
+        "AaB Aalborg"
+      ],
+      "date": "04/08/2026",
+      "time": "16:30",
+      "tournament": "Danish Cup (DBU Pokalen)",
+      "channels": [
+        "DBU Pokalen [online]"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/318986-Holstebro-v-AaB-Aalborg"
+    },
+    {
       "title": "Mjällby AIF v Slovan Bratislava",
       "teams": [
         "Mjällby AIF",
@@ -427,9 +720,9 @@
       "time": "11:00",
       "tournament": "Friendly Club Match",
       "channels": [
+        "Sky Sport 1 / HD Germany (highlights)",
         "DAZN Deutsch [$] (delayed",
-        "geo/R)",
-        "Sky Sport 1 / HD Germany (highlights)"
+        "geo/R)"
       ],
       "commentators": [
         "ethanh05"
@@ -512,509 +805,6 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318919-Atltico-Paranaense-v-Vitria-Bahia"
-    },
-    {
-      "title": "Platense v Talleres Córdoba",
-      "teams": [
-        "Platense",
-        "Talleres Córdoba"
-      ],
-      "date": "03/08/2026",
-      "time": "22:00",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "HBO Max Argentina [$/geo/R]",
-        "TNT Sports Premium (Argentina)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318922-Platense-v-Talleres-Crdoba"
-    },
-    {
-      "title": "Vélez Sarsfield v Independiente",
-      "teams": [
-        "Vélez Sarsfield",
-        "Independiente"
-      ],
-      "date": "03/08/2026",
-      "time": "22:00",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "ESPN Premium (Argentina)",
-        "World Feed"
-      ],
-      "commentators": [
-        "apltle12",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318921-Vlez-Sarsfield-v-Independiente"
-    },
-    {
-      "title": "Flamengo v Corinthians",
-      "teams": [
-        "Flamengo",
-        "Corinthians"
-      ],
-      "date": "03/08/2026",
-      "time": "21:30",
-      "tournament": "Brazilian Feminino Série A1",
-      "channels": [
-        "GE TV",
-        "SporTV Brazil HD"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318920-Flamengo-v-Corinthians"
-    },
-    {
-      "title": "Leones v Quindío",
-      "teams": [
-        "Leones",
-        "Quindío"
-      ],
-      "date": "03/08/2026",
-      "time": "20:30",
-      "tournament": "Colombian Primera A",
-      "channels": [
-        "Win+ Fútbol (Colombia)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318928-Leones-v-Quindo"
-    },
-    {
-      "title": "Kenya v Algeria",
-      "teams": [
-        "Kenya",
-        "Algeria"
-      ],
-      "date": "03/08/2026",
-      "time": "20:00",
-      "tournament": "CAF African Women's Cup of Nations",
-      "channels": [
-        "World Feed"
-      ],
-      "commentators": [
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/318973-Kenya-v-Algeria"
-    },
-    {
-      "title": "Senegal v Morocco",
-      "teams": [
-        "Senegal",
-        "Morocco"
-      ],
-      "date": "03/08/2026",
-      "time": "20:00",
-      "tournament": "CAF African Women's Cup of Nations",
-      "channels": [
-        "World Feed"
-      ],
-      "commentators": [
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/318972-Senegal-v-Morocco"
-    },
-    {
-      "title": "Sarmiento v Independiente Rivadavia",
-      "teams": [
-        "Sarmiento",
-        "Independiente Rivadavia"
-      ],
-      "date": "03/08/2026",
-      "time": "19:45",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "Disney+ Central America [$]",
-        "Disney+ South America [$]",
-        "ESPN 5 (Chile)",
-        "ESPN Bolivia",
-        "ESPN Paraguay",
-        "ESPN Peru",
-        "ESPN Premium (Argentina)",
-        "ESPN Uruguay"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318925-Sarmiento-v-Independiente-Rivadavia"
-    },
-    {
-      "title": "Independiente Valle del Cauca v Envigado",
-      "teams": [
-        "Independiente Valle del Cauca",
-        "Envigado"
-      ],
-      "date": "03/08/2026",
-      "time": "18:30",
-      "tournament": "Colombian Primera A",
-      "channels": [
-        "Win+ Fútbol (Colombia)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318927-Independiente-Valle-del-Cauca-v-Envigado"
-    },
-    {
-      "title": "FCSB v Farul Constanta",
-      "teams": [
-        "FCSB",
-        "Farul Constanta"
-      ],
-      "date": "03/08/2026",
-      "time": "18:30",
-      "tournament": "Romanian Superliga",
-      "channels": [
-        "FlashScore Romania"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316986-FCSB-v-Farul-Constanta"
-    },
-    {
-      "title": "York City v Crawley Town",
-      "teams": [
-        "York City",
-        "Crawley Town"
-      ],
-      "date": "03/08/2026",
-      "time": "18:30",
-      "tournament": "English League Cup",
-      "channels": [
-        "BBC Radio 5 Sports Extra 2",
-        "BBC Radio York",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "ITV EFL Carabao Cup Highlights",
-        "Sky Sports (highlights)",
-        "Sky Sports+ [via APP]",
-        "The Commentary Hub",
-        "YouTube: EFL (Extended Highlights)",
-        "iFollow (Crawley Town)"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "Crowe24",
-        "M7",
-        "RussVMedia"
-      ],
-      "match_url": "https://icdb.tv/match/316634-York-City-v-Crawley-Town"
-    },
-    {
-      "title": "Celtic v Dundee",
-      "teams": [
-        "Celtic",
-        "Dundee"
-      ],
-      "date": "03/08/2026",
-      "time": "18:30",
-      "tournament": "Scottish Premiership",
-      "channels": [
-        "BBC (highlights)",
-        "BBC RADIO 5 LIVE",
-        "BBC Radio Scotland",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "BBC Sportscene",
-        "Celtic Player ($/geo/R)",
-        "DeeTV (Dundee)",
-        "Polsat Sport 2 HD",
-        "Radio Clyde 1",
-        "Sharjah Sports",
-        "Sky Sports (highlights)",
-        "Sky Sports Football HD",
-        "Sky Sports Main Event HD",
-        "Sky Sports Main Event UHD",
-        "Sky Sports News / HD",
-        "Sportdigital FUSSBALL HD",
-        "World Feed",
-        "talkSPORT"
-      ],
-      "commentators": [
-        "Crowe24",
-        "HWP",
-        "SonnyCorry",
-        "apltle12",
-        "ethanh05",
-        "kurtogen",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/316633-Celtic-v-Dundee"
-    },
-    {
-      "title": "BBC Monday Night Club",
-      "date": "03/08/2026",
-      "time": "18:00",
-      "tournament": "British Football",
-      "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/318898-BBC-Monday-Night-Club"
-    },
-    {
-      "title": "talkSPORT The Transfer Insiders",
-      "date": "03/08/2026",
-      "time": "18:00",
-      "tournament": "British Football",
-      "channels": [
-        "talkSPORT",
-        "talkSPORT App"
-      ],
-      "commentators": [
-        "apltle12"
-      ],
-      "match_url": "https://icdb.tv/match/318811-talkSPORT-The-Transfer-Insiders"
-    },
-    {
-      "title": "BBC Leicester Sport",
-      "date": "03/08/2026",
-      "time": "17:00",
-      "tournament": "English League One",
-      "channels": [
-        "BBC Radio Leicester",
-        "BBC Sounds APP"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/318918-BBC-Leicester-Sport"
-    },
-    {
-      "title": "BBC Lancashire Sport",
-      "date": "03/08/2026",
-      "time": "17:00",
-      "tournament": "British Football",
-      "channels": [
-        "BBC Radio Lancashire",
-        "BBC Sounds APP"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/318905-BBC-Lancashire-Sport"
-    },
-    {
-      "title": "BBC Merseyside Sport",
-      "date": "03/08/2026",
-      "time": "17:00",
-      "tournament": "British Football",
-      "channels": [
-        "BBC Radio Merseyside",
-        "BBC Sounds APP"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/318903-BBC-Merseyside-Sport"
-    },
-    {
-      "title": "BBC WM Sport",
-      "date": "03/08/2026",
-      "time": "17:00",
-      "tournament": "British Football",
-      "channels": [
-        "BBC Radio WM",
-        "BBC Sounds APP"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/318902-BBC-WM-Sport"
-    },
-    {
-      "title": "BBC Football Heaven",
-      "date": "03/08/2026",
-      "time": "17:00",
-      "tournament": "British Football",
-      "channels": [
-        "BBC Radio Sheffield",
-        "BBC Sounds APP"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/318897-BBC-Football-Heaven"
-    },
-    {
-      "title": "Ranheim v Haugesund",
-      "teams": [
-        "Ranheim",
-        "Haugesund"
-      ],
-      "date": "03/08/2026",
-      "time": "17:00",
-      "tournament": "Norwegian 1. Divisjon",
-      "channels": [
-        "TV2 Sport 1 Norge HD",
-        "DirekteSport.no [$] (geo/R)",
-        "TV2 Play Norge ($/geo/R)"
-      ],
-      "commentators": [
-        "Bksm"
-      ],
-      "match_url": "https://icdb.tv/match/316629-Ranheim-v-Haugesund"
-    },
-    {
-      "title": "Cracovia v Pogon Szczecin",
-      "teams": [
-        "Cracovia",
-        "Pogon Szczecin"
-      ],
-      "date": "03/08/2026",
-      "time": "17:00",
-      "tournament": "Polish Ekstraklasa",
-      "channels": [
-        "Canal+ Sport 3 Polska HD",
-        "Canal+ Sport 5 Polska HD"
-      ],
-      "commentators": [
-        "Kamyk94"
-      ],
-      "match_url": "https://icdb.tv/match/316628-Cracovia-v-Pogon-Szczecin"
-    },
-    {
-      "title": "Chrobry Glogów v Odra Opole",
-      "teams": [
-        "Chrobry Glogów",
-        "Odra Opole"
-      ],
-      "date": "03/08/2026",
-      "time": "17:00",
-      "tournament": "Polish 1. Liga",
-      "channels": [
-        "TVP Sport Polska HD"
-      ],
-      "commentators": [
-        "ethanh05"
-      ],
-      "match_url": "https://icdb.tv/match/316627-Chrobry-Glogw-v-Odra-Opole"
-    },
-    {
-      "title": "Indonesia v Vietnam",
-      "teams": [
-        "Indonesia",
-        "Vietnam"
-      ],
-      "date": "03/08/2026",
-      "time": "13:30",
-      "tournament": "AFF Championship",
-      "channels": [
-        "GTV (Indonesia)",
-        "RCTI / HD",
-        "Sportstars 2 / HD",
-        "World Feed"
-      ],
-      "commentators": [
-        "kmw",
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/318933-Indonesia-v-Vietnam"
-    },
-    {
-      "title": "Cambodia v East Timor",
-      "teams": [
-        "Cambodia",
-        "East Timor"
-      ],
-      "date": "03/08/2026",
-      "time": "10:30",
-      "tournament": "AFF Championship",
-      "channels": [
-        "World Feed"
-      ],
-      "commentators": [
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/318974-Cambodia-v-East-Timor"
-    },
-    {
-      "title": "Toluca v Necaxa",
-      "teams": [
-        "Toluca",
-        "Necaxa"
-      ],
-      "date": "03/08/2026",
-      "time": "01:00",
-      "tournament": "Mexican Liga MX",
-      "channels": [
-        "Canal 5 Mexico HD",
-        "TUDN (México)",
-        "TUDN (usa)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318838-Toluca-v-Necaxa"
-    },
-    {
-      "title": "Denver Summit v Boston Legacy",
-      "teams": [
-        "Denver Summit",
-        "Boston Legacy"
-      ],
-      "date": "03/08/2026",
-      "time": "01:00",
-      "tournament": "National Women's Soccer League (NWSL)",
-      "channels": [
-        "ESPN (US)",
-        "ESPN Deportes",
-        "ESPN Unlimited (US)",
-        "NWSL+ International (geo/R)",
-        "TSN Canada 2 HD",
-        "World Feed"
-      ],
-      "commentators": [
-        "apltle12",
-        "bigddan11",
-        "tmiller2462"
-      ],
-      "match_url": "https://icdb.tv/match/318814-Denver-Summit-v-Boston-Legacy"
-    },
-    {
-      "title": "Independiente Santa Fé v Once Caldas",
-      "teams": [
-        "Independiente Santa Fé",
-        "Once Caldas"
-      ],
-      "date": "03/08/2026",
-      "time": "01:00",
-      "tournament": "Colombian Primera A",
-      "channels": [
-        "Win Sports",
-        "Win+ Fútbol (Colombia)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318792-Independiente-Santa-F-v-Once-Caldas"
-    },
-    {
-      "title": "Lanús v Instituto Córdoba",
-      "teams": [
-        "Lanús",
-        "Instituto Córdoba"
-      ],
-      "date": "03/08/2026",
-      "time": "00:30",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "HBO Max Argentina [$/geo/R]",
-        "TNT Sports Premium (Argentina)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/318786-Lans-v-Instituto-Crdoba"
     }
   ]
 }
