@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-06T07:38:02.387443+00:00",
+  "scraped_at": "2026-08-06T12:01:40.493536+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 61,
+  "total_matches": 63,
   "matches": [
     {
       "title": "Middlesbrough v Wrexham",
@@ -106,6 +106,23 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/318463-Benfica-v-Hearts"
+    },
+    {
+      "title": "Bristol City v Walsall",
+      "teams": [
+        "Bristol City",
+        "Walsall"
+      ],
+      "date": "06/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "talkSPORT"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/316991-Bristol-City-v-Walsall"
     },
     {
       "title": "talkSPORT The Transfer Insiders",
@@ -730,9 +747,12 @@
       "time": "18:15",
       "tournament": "UEFA Europa League",
       "channels": [
-        "World Feed",
         "ESPN+ USA ($/geo/R)",
-        "FlashScore Poland"
+        "FlashScore Poland",
+        "Polsat Sport 1 HD",
+        "Polsat Sport Premium 1 HD",
+        "Super Polsat HD",
+        "World Feed"
       ],
       "commentators": [
         "Mikhail17",
@@ -958,6 +978,23 @@
       "match_url": "https://icdb.tv/match/319075-Podhale-Nowy-Targ-v-Chojniczanka-Chojnice"
     },
     {
+      "title": "Podbeskidzie v Hutnik Kraków",
+      "teams": [
+        "Podbeskidzie",
+        "Hutnik Kraków"
+      ],
+      "date": "05/08/2026",
+      "time": "14:00",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "YouTube: TS Podbeskidzie Bielsko-Biała"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/319212-Podbeskidzie-v-Hutnik-Krakw"
+    },
+    {
       "title": "Znicz Pruszków v LKS Lódz II",
       "teams": [
         "Znicz Pruszków",
@@ -1062,21 +1099,24 @@
       "time": "11:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "Polsat Sport 1 HD",
-        "Sky Sport Uno Italia HD",
-        "Inter TV HD",
-        "World Feed",
-        "VG+ Sport Norge ($/geo/R)",
-        "Inter [app] (geo/R)",
-        "DAZN Italia ($/geo/R)",
+        "7mate (Australia) / HD",
+        "7plus (AUS) (geo/R)",
         "DAZN 1 Italia HD",
-        "Sky Sport Business Italia / HD",
+        "DAZN For Business Italia / HD",
+        "DAZN Italia ($/geo/R)",
+        "Inter TV HD",
+        "Inter [app] (geo/R)",
+        "Polsat Sport 1 HD",
         "Sharjah Sports",
-        "DAZN For Business Italia / HD"
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Uno Italia HD",
+        "VG+ Sport Norge ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "Bksm",
         "Guest-SC",
+        "Jeffy_Lunantico",
         "Mikhail17",
         "ethanh05",
         "kmw",
