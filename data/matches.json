@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07T00:52:55.840051+00:00",
+  "scraped_at": "2026-08-07T06:09:01.840781+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 73,
+  "total_matches": 75,
   "matches": [
     {
       "title": "Servette v Grasshoppers",
@@ -225,13 +225,13 @@
       "time": "14:00",
       "tournament": "English League Cup",
       "channels": [
-        "BBC Radio Solent",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "Express FM",
-        "Pompey+",
         "talkSPORT 2",
-        "talkSPORT App"
+        "BBC Radio Solent",
+        "talkSPORT App",
+        "BBC Sounds APP",
+        "Express FM",
+        "BBC Sport Online (Audio)",
+        "Pompey+"
       ],
       "commentators": [
         "Crowe24"
@@ -298,21 +298,23 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "ITV EFL Carabao Cup Highlights",
+        "ITV X (geo/R)",
+        "ITV1 / HD",
         "STV (Scotland) / HD",
         "STV Player (geo/R)",
         "World Feed",
+        "beIN Sports MENA 2 HD",
         "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "ITV1 / HD",
-        "talkSPORT App",
-        "BBC Sounds APP",
-        "ITV EFL Carabao Cup Highlights",
-        "ITV X (geo/R)",
-        "BBC Sport Online (Audio)"
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
-        "LukeA206"
+        "LukeA206",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317180-Middlesbrough-v-Wrexham"
     },
@@ -345,10 +347,13 @@
       "time": "18:30",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "World Feed"
+        "ESPN+ USA ($/geo/R)",
+        "World Feed",
+        "YouTube: Bundesliga"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "HWP"
       ],
       "match_url": "https://icdb.tv/match/317155-Bochum-v-Hertha-Berlin"
     },
@@ -369,6 +374,23 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317291-Yverdon-Sport-v-Zrich-Frauen"
+    },
+    {
+      "title": "Bayern Munich v Aston Villa",
+      "teams": [
+        "Bayern Munich",
+        "Aston Villa"
+      ],
+      "date": "07/08/2026",
+      "time": "12:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "AD Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/317137-Bayern-Munich-v-Aston-Villa"
     },
     {
       "title": "Portland Timbers v Puebla",
@@ -488,6 +510,7 @@
         "Apple TV"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/319218-New-York-City-v-Santos-Laguna"
@@ -507,9 +530,11 @@
         "Rádio BandNews FM",
         "Rádio Bandeirantes",
         "Rádio CBN",
-        "Rádio TMC"
+        "Rádio TMC",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/319215-Corinthians-v-Internacional"
@@ -680,19 +705,24 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT",
+        "BBC Radio 5 Sports Extra 2",
         "BBC Radio Bristol",
-        "BBC Sounds APP",
-        "BBC Radio WM",
-        "Sky Sports (highlights)",
         "BBC Radio Somerset",
-        "ITV EFL Carabao Cup Highlights",
+        "BBC Radio WM",
+        "BBC Sounds APP",
         "BBC Sport Online (Audio)",
+        "ITV EFL Carabao Cup Highlights",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
-        "BBC Radio 5 Sports Extra 2"
+        "World Feed",
+        "beIN Sports Australia 3 HD",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
+        "HWP",
+        "apltle12",
         "r96"
       ],
       "match_url": "https://icdb.tv/match/316991-Bristol-City-v-Walsall"
@@ -815,6 +845,23 @@
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/318208-Ajax-v-Shelbourne"
+    },
+    {
+      "title": "PAOK Thessaloniki v Anderlecht",
+      "teams": [
+        "PAOK Thessaloniki",
+        "Anderlecht"
+      ],
+      "date": "06/08/2026",
+      "time": "17:45",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318209-PAOK-Thessaloniki-v-Anderlecht"
     },
     {
       "title": "BBC London Sport",
