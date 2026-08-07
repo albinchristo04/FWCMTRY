@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07T15:54:33.284270+00:00",
+  "scraped_at": "2026-08-07T20:38:30.879648+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 113,
+  "total_matches": 135,
   "matches": [
     {
       "title": "Washington Spirit v North Carolina Courage",
@@ -13,7 +13,10 @@
       "time": "22:30",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
-        "NWSL+ International (geo/R)"
+        "Ion Television (USA)",
+        "NWSL+ International (geo/R)",
+        "Scripps Sports Network",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
@@ -84,10 +87,14 @@
       "time": "18:45",
       "tournament": "Belgian Pro League",
       "channels": [
+        "DAZN Canada ($/geo/R)",
+        "DAZN Great Britain (geo/R)",
+        "DAZN Ireland ($/geo/R)",
         "DAZN Italia ($/geo/R)"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "HWP"
       ],
       "match_url": "https://icdb.tv/match/317625-SintTruiden-v-Lommel"
     },
@@ -229,7 +236,9 @@
         "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "Sky Sports Main Event UHD"
+        "Sky Sports Main Event UHD",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
@@ -418,6 +427,24 @@
       "match_url": "https://icdb.tv/match/317956-Grimsby-Town-v-Blackpool"
     },
     {
+      "title": "Norwich City v Milton Keynes Dons",
+      "teams": [
+        "Norwich City",
+        "Milton Keynes Dons"
+      ],
+      "date": "08/08/2026",
+      "time": "14:00",
+      "tournament": "English League Cup",
+      "channels": [
+        "BBC Radio Norfolk",
+        "Canaries TV"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/317953-Norwich-City-v-Milton-Keynes-Dons"
+    },
+    {
       "title": "Preston N.E. v Huddersfield Town",
       "teams": [
         "Preston N.E.",
@@ -555,13 +582,13 @@
       "time": "14:00",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT 2",
         "BBC Radio Solent",
-        "talkSPORT App",
         "BBC Sounds APP",
-        "Express FM",
         "BBC Sport Online (Audio)",
-        "Pompey+"
+        "Express FM",
+        "Pompey+",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24"
@@ -601,6 +628,20 @@
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/317320-Brighton-HA-v-Roma"
+    },
+    {
+      "title": "Sky Soccer Saturday",
+      "date": "08/08/2026",
+      "time": "13:00",
+      "tournament": "British Football",
+      "channels": [
+        "Sky Sports News / HD",
+        "Soccer Saturday"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/319343-Sky-Soccer-Saturday"
     },
     {
       "title": "Queens Park Rangers v Millwall",
@@ -673,6 +714,96 @@
       "match_url": "https://icdb.tv/match/317310-Juventus-v-Inter-Milan"
     },
     {
+      "title": "Vancouver Whitecaps v Juárez",
+      "teams": [
+        "Vancouver Whitecaps",
+        "Juárez"
+      ],
+      "date": "08/08/2026",
+      "time": "02:30",
+      "tournament": "Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319364-Vancouver-Whitecaps-v-Jurez"
+    },
+    {
+      "title": "Tigres UANL v Minnesota United",
+      "teams": [
+        "Tigres UANL",
+        "Minnesota United"
+      ],
+      "date": "08/08/2026",
+      "time": "01:00",
+      "tournament": "Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319362-Tigres-UANL-v-Minnesota-United"
+    },
+    {
+      "title": "Independiente Rivadavia v Estudiantes Río Cuarto",
+      "teams": [
+        "Independiente Rivadavia",
+        "Estudiantes Río Cuarto"
+      ],
+      "date": "08/08/2026",
+      "time": "00:45",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "Disney+ Central America [$]",
+        "Disney+ South America [$]",
+        "ESPN (South America)",
+        "ESPN Premium (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319367-Independiente-Rivadavia-v-Estudiantes-Ro-Cuarto"
+    },
+    {
+      "title": "Quindío v Inter Palmira",
+      "teams": [
+        "Quindío",
+        "Inter Palmira"
+      ],
+      "date": "08/08/2026",
+      "time": "00:30",
+      "tournament": "Colombian Categoría Primera B",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319369-Quindo-v-Inter-Palmira"
+    },
+    {
+      "title": "Cincinnati v Pumas UNAM",
+      "teams": [
+        "Cincinnati",
+        "Pumas UNAM"
+      ],
+      "date": "08/08/2026",
+      "time": "00:00",
+      "tournament": "Leagues Cup",
+      "channels": [
+        "Apple TV",
+        "TUDN (usa)",
+        "UniMás USA"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319358-Cincinnati-v-Pumas-UNAM"
+    },
+    {
       "title": "Gotham FC v San Diego Wave",
       "teams": [
         "Gotham FC",
@@ -682,6 +813,7 @@
       "time": "00:00",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
+        "Amazon Prime US [$]",
         "NWSL+ International (geo/R)",
         "SiriusXM FC"
       ],
@@ -689,6 +821,40 @@
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/319335-Gotham-FC-v-San-Diego-Wave"
+    },
+    {
+      "title": "Columbus Crew v Pachuca",
+      "teams": [
+        "Columbus Crew",
+        "Pachuca"
+      ],
+      "date": "07/08/2026",
+      "time": "23:30",
+      "tournament": "Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319361-Columbus-Crew-v-Pachuca"
+    },
+    {
+      "title": "Charlotte FC v Atlas",
+      "teams": [
+        "Charlotte FC",
+        "Atlas"
+      ],
+      "date": "07/08/2026",
+      "time": "23:30",
+      "tournament": "Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319360-Charlotte-FC-v-Atlas"
     },
     {
       "title": "Orlando Pride v Racing Louisville",
@@ -709,6 +875,24 @@
       "match_url": "https://icdb.tv/match/319332-Orlando-Pride-v-Racing-Louisville"
     },
     {
+      "title": "Rosario Central v Aldosivi",
+      "teams": [
+        "Rosario Central",
+        "Aldosivi"
+      ],
+      "date": "07/08/2026",
+      "time": "22:30",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "HBO Max Argentina [$/geo/R]",
+        "TNT Sports Premium (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319365-Rosario-Central-v-Aldosivi"
+    },
+    {
       "title": "Estoril v Famalicão",
       "teams": [
         "Estoril",
@@ -718,12 +902,33 @@
       "time": "19:15",
       "tournament": "Portuguese Liga 1",
       "channels": [
+        "FlashScore Portugal",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
-        "Johnny17"
+        "Johnny17",
+        "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/317182-Estoril-v-Famalico"
+    },
+    {
+      "title": "Shamrock Rovers v Dundalk",
+      "teams": [
+        "Shamrock Rovers",
+        "Dundalk"
+      ],
+      "date": "07/08/2026",
+      "time": "19:00",
+      "tournament": "Irish Premier Division",
+      "channels": [
+        "Virgin Media Two HD",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Audio Description"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/317181-Shamrock-Rovers-v-Dundalk"
     },
     {
       "title": "Middlesbrough v Wrexham",
@@ -735,26 +940,32 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Radio Tees",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "ITV EFL Carabao Cup Highlights",
-        "ITV X (geo/R)",
-        "ITV1 / HD",
-        "STV (Scotland) / HD",
-        "STV Player (geo/R)",
+        "Sky Sports News / HD",
         "TV3 MAX Dansk HD",
         "ViaPlay Danmark HD",
-        "World Feed",
-        "Wrexham AFC",
+        "STV Player (geo/R)",
+        "BBC RADIO 5 LIVE",
+        "ITV1 / HD",
+        "talkSPORT App",
+        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports (highlights)",
         "beIN Sports MENA 2 HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports Main Event HD",
         "talkSPORT",
-        "talkSPORT App"
+        "BBC Sounds APP",
+        "BBC Radio Tees",
+        "ITV X (geo/R)",
+        "Wrexham AFC",
+        "STV (Scotland) / HD",
+        "World Feed",
+        "Sky Sports Football HD and1more channels"
       ],
       "commentators": [
         "Crowe24",
+        "HWP",
         "LukeA206",
+        "SonnyCorry",
         "Vallis",
         "ysscores"
       ],
@@ -789,17 +1000,70 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Radio 5 Sports Extra 2",
         "BBC Radio Stoke",
-        "Wolves TV ($/geo/R)",
+        "BBC Radio WM",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Disney+ Brazil [$]",
+        "ESPN (Brazil)",
+        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports News / HD",
+        "Sky Sports+ [via APP]",
         "ViaPlay Danmark HD",
-        "Wolves App (English)"
+        "Wolves App (English)",
+        "Wolves TV ($/geo/R)",
+        "World Feed",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
         "Mattponter",
-        "Vallis"
+        "SonnyCorry",
+        "Vallis",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/317943-Wolves-v-Port-Vale"
+    },
+    {
+      "title": "Caernarfon Town v Pen-Y-Bont",
+      "teams": [
+        "Caernarfon Town",
+        "Pen-Y-Bont"
+      ],
+      "date": "07/08/2026",
+      "time": "18:45",
+      "tournament": "Cymru Premier",
+      "channels": [
+        "BBC iPlayer (geo/R)",
+        "YouTube: Sgorio",
+        "S4C Clic ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/317298-Caernarfon-Town-v-PenYBont"
+    },
+    {
+      "title": "Derry City v Sligo Rovers",
+      "teams": [
+        "Derry City",
+        "Sligo Rovers"
+      ],
+      "date": "07/08/2026",
+      "time": "18:45",
+      "tournament": "Irish Premier Division",
+      "channels": [
+        "BBC iPlayer (geo/R)",
+        "BBC Sport NI Online",
+        "LOI TV ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/317171-Derry-City-v-Sligo-Rovers"
     },
     {
       "title": "Club Brugge v Kortrijk",
@@ -811,12 +1075,40 @@
       "time": "18:45",
       "tournament": "Belgian Pro League",
       "channels": [
-        "DAZN Italia ($/geo/R)"
+        "DAZN Canada ($/geo/R)",
+        "DAZN Great Britain (geo/R)",
+        "DAZN Ireland ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN Worldwide ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
-        "Guest-SC"
+        "Crowe24",
+        "Guest-SC",
+        "HWP"
       ],
       "match_url": "https://icdb.tv/match/317170-Club-Brugge-v-Kortrijk"
+    },
+    {
+      "title": "Wycombe Wanderers v Stevenage",
+      "teams": [
+        "Wycombe Wanderers",
+        "Stevenage"
+      ],
+      "date": "07/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "World Feed",
+        "Sky Sports (highlights)",
+        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports+ [via APP]"
+      ],
+      "commentators": [
+        "Crowe24",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/317169-Wycombe-Wanderers-v-Stevenage"
     },
     {
       "title": "Blau-Weiß Linz v Wacker Innsbruck",
@@ -848,7 +1140,9 @@
       "channels": [
         "BBC Scotland / HD",
         "BBC iPlayer (geo/R)",
+        "World Feed",
         "BBC (highlights)",
+        "Livingston TV ($/geo/R)",
         "BBC Sport Scotland Online",
         "BBC Scottish Football Round-Up"
       ],
@@ -857,6 +1151,41 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/317159-Partick-Thistle-v-Livingston"
+    },
+    {
+      "title": "Wisla Kraków v Wisla Plock",
+      "teams": [
+        "Wisla Kraków",
+        "Wisla Plock"
+      ],
+      "date": "07/08/2026",
+      "time": "18:30",
+      "tournament": "Polish Ekstraklasa",
+      "channels": [
+        "Canal+ Sport 3 Polska HD",
+        "FlashScore Poland"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317158-Wisla-Krakw-v-Wisla-Plock"
+    },
+    {
+      "title": "Polonia Warsaw v Ruch Chorzów",
+      "teams": [
+        "Polonia Warsaw",
+        "Ruch Chorzów"
+      ],
+      "date": "07/08/2026",
+      "time": "18:30",
+      "tournament": "Polish 1. Liga",
+      "channels": [
+        "TVP Sport Polska HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317157-Polonia-Warsaw-v-Ruch-Chorzw"
     },
     {
       "title": "Bochum v Hertha Berlin",
@@ -868,21 +1197,59 @@
       "time": "18:30",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "World Feed",
+        "ESPN+ USA ($/geo/R)",
+        "Eleven Sports 1 Polska HD",
+        "SAT.1 Audio Description",
         "SAT.1 Deutschland HD",
         "SAT.1 Schweiz HD",
         "SAT.1 Österreich HD",
-        "Sky Sport Top Event HD",
-        "ESPN+ USA ($/geo/R)",
         "Sky Sport Bundesliga HD",
+        "Sky Sport Top Event HD",
+        "World Feed",
         "YouTube: Bundesliga"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
-        "Johnny17"
+        "Johnny17",
+        "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/317155-Bochum-v-Hertha-Berlin"
+    },
+    {
+      "title": "Aarau v Stade Nyonnais",
+      "teams": [
+        "Aarau",
+        "Stade Nyonnais"
+      ],
+      "date": "07/08/2026",
+      "time": "18:15",
+      "tournament": "Swiss Challenge League",
+      "channels": [
+        "Blue ZOOM F Suisse",
+        "Blue ZOOM D Schweiz"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/318220-Aarau-v-Stade-Nyonnais"
+    },
+    {
+      "title": "UTA Arad v Rapid Bucharest",
+      "teams": [
+        "UTA Arad",
+        "Rapid Bucharest"
+      ],
+      "date": "07/08/2026",
+      "time": "18:00",
+      "tournament": "Romanian Superliga",
+      "channels": [
+        "FlashScore Romania"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317602-UTA-Arad-v-Rapid-Bucharest"
     },
     {
       "title": "Rheindorf Altach v WSG Tirol",
@@ -900,6 +1267,35 @@
         "Johnny17"
       ],
       "match_url": "https://icdb.tv/match/317590-Rheindorf-Altach-v-WSG-Tirol"
+    },
+    {
+      "title": "BBC Merseyside Sport",
+      "date": "07/08/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio Merseyside",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/319342-BBC-Merseyside-Sport"
+    },
+    {
+      "title": "BBC WM Sport",
+      "date": "07/08/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio WM",
+        "BBC Sounds APP",
+        "BBC Sport Online"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/319341-BBC-WM-Sport"
     },
     {
       "title": "BBC Cumbria Sport",
@@ -971,9 +1367,12 @@
       "time": "17:00",
       "tournament": "German 3. Liga",
       "channels": [
+        "YouTube: German Football (geo/R)",
+        "World Feed",
         "Magenta Sport ($/geo/R)"
       ],
       "commentators": [
+        "HWP",
         "Johnny17"
       ],
       "match_url": "https://icdb.tv/match/317147-Waldhof-Mannheim-v-Fortuna-Dsseldorf"
@@ -995,6 +1394,23 @@
         "Vallis"
       ],
       "match_url": "https://icdb.tv/match/317144-SnderjyskE-v-Viborg"
+    },
+    {
+      "title": "Sandefjord v KFUM Oslo",
+      "teams": [
+        "Sandefjord",
+        "KFUM Oslo"
+      ],
+      "date": "07/08/2026",
+      "time": "17:00",
+      "tournament": "Norwegian Eliteserien",
+      "channels": [
+        "NRK Sport"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/317143-Sandefjord-v-KFUM-Oslo"
     },
     {
       "title": "1860 Munich v Augsburg II",
@@ -1031,6 +1447,23 @@
       "match_url": "https://icdb.tv/match/318214-LASK-Linz-v-Sturm-Graz"
     },
     {
+      "title": "Polonia Bytom v Pogon Siedlce",
+      "teams": [
+        "Polonia Bytom",
+        "Pogon Siedlce"
+      ],
+      "date": "07/08/2026",
+      "time": "16:00",
+      "tournament": "Polish 1. Liga",
+      "channels": [
+        "Sport TVP ($/geo/R)"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317139-Polonia-Bytom-v-Pogon-Siedlce"
+    },
+    {
       "title": "Bayern Munich v Aston Villa",
       "teams": [
         "Bayern Munich",
@@ -1040,11 +1473,16 @@
       "time": "12:00",
       "tournament": "Friendly Club Match",
       "channels": [
+        "World Feed",
         "FlashScore (audio)",
+        "DAZN Deutsch [$] (delayed",
+        "geo/R)",
         "Flashscore UK",
+        "CBS Sports Golazo Network (US)",
         "AD Sports 1"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "ysscores"
       ],
@@ -1398,6 +1836,7 @@
         "BBC Sport Online (Audio)",
         "ITV EFL Carabao Cup Highlights",
         "Paramount+ USA ($/geo/R)",
+        "Saddlers+",
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
         "beIN Sports Australia 3 HD",
