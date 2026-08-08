@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-08T01:21:04.157819+00:00",
+  "scraped_at": "2026-08-08T05:40:53.000617+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 100,
+  "total_matches": 101,
   "matches": [
     {
       "title": "BBC Sportscene",
@@ -66,8 +66,8 @@
       "time": "18:45",
       "tournament": "Friendly Club Match",
       "channels": [
-        "DAZN 1 Italia HD",
-        "DAZN Italia ($/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "DAZN 1 Italia HD"
       ],
       "commentators": [
         "Guest-SC"
@@ -119,11 +119,11 @@
       "time": "15:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "Premier Sports 1 HD",
         "BBC Radio Scotland",
+        "Hibs TV",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "Hibs TV",
-        "Premier Sports 1 HD",
         "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
@@ -159,15 +159,15 @@
       "time": "12:30",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Radio Scotland",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "KillieTV",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio Scotland",
+        "Sky Sports News / HD",
+        "KillieTV",
+        "BBC Sounds APP",
         "Sky Sports Main Event UHD",
-        "Sky Sports News / HD"
+        "BBC Sport Online (Audio)"
       ],
       "commentators": [
         "Crowe24",
@@ -220,6 +220,7 @@
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
         "38 The Spot",
+        "90.9 The Bridge (KTBG)",
         "Ion Television (USA)",
         "NWSL+ International (geo/R)",
         "Scripps Sports Network",
@@ -380,6 +381,23 @@
       "match_url": "https://icdb.tv/match/318818-Fiorentina-v-Manchester-City"
     },
     {
+      "title": "PSV Eindhoven v Fortuna Sittard",
+      "teams": [
+        "PSV Eindhoven",
+        "Fortuna Sittard"
+      ],
+      "date": "08/08/2026",
+      "time": "18:00",
+      "tournament": "Dutch Eredivisie",
+      "channels": [
+        "Dubai Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/317401-PSV-Eindhoven-v-Fortuna-Sittard"
+    },
+    {
       "title": "Brest v Venezia",
       "teams": [
         "Brest",
@@ -464,13 +482,15 @@
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
         "Sky Sports Main Event UHD",
+        "beIN Sports MENA 1 HD",
         "talkSPORT 2",
         "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
-        "LukeA206"
+        "LukeA206",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/316351-Colchester-United-v-Southampton"
     },
@@ -790,12 +810,14 @@
       "time": "14:00",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT",
-        "IMPS+ Streaming ($/geo/R)"
+        "IMPS+ Streaming ($/geo/R)",
+        "beIN Sports MENA 3 HD",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
-        "LukeA206"
+        "LukeA206",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317344-Derby-County-v-Lincoln-City"
     },
@@ -809,16 +831,18 @@
       "time": "14:00",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT 2",
         "BBC Radio Solent",
-        "talkSPORT App",
         "BBC Sounds APP",
-        "Express FM",
         "BBC Sport Online (Audio)",
-        "Pompey+"
+        "Express FM",
+        "Pompey+",
+        "beIN Sports MENA 1 HD",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317343-West-Ham-United-v-Portsmouth"
     },
@@ -832,10 +856,12 @@
       "time": "14:00",
       "tournament": "English League Cup",
       "channels": [
-        "Swans TV"
+        "Swans TV",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317342-Swansea-City-v-Birmingham-City"
     },
@@ -849,10 +875,12 @@
       "time": "14:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "DAZN Italia ($/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "Sharjah Sports"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317320-Brighton-HA-v-Roma"
     },
@@ -913,10 +941,12 @@
       "tournament": "Friendly Club Match",
       "channels": [
         "DAZN Italia ($/geo/R)",
+        "Maraya App",
         "Sky Sport Calcio HD"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317319-Chelsea-v-AC-Milan"
     },
@@ -930,13 +960,15 @@
       "time": "11:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "Sky Sport Uno Italia HD",
-        "DAZN Italia ($/geo/R)",
         "DAZN 1 Italia HD",
-        "Sky Sport Business Italia / HD"
+        "DAZN Italia ($/geo/R)",
+        "Sharjah Sports",
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Uno Italia HD"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317310-Juventus-v-Inter-Milan"
     },
@@ -1171,26 +1203,26 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Radio Tees",
-        "talkSPORT App",
         "STV Player (geo/R)",
-        "BBC Sounds APP",
-        "ITV X (geo/R)",
         "Sky Sports Main Event UHD",
-        "Sky Sports (highlights)",
-        "ITV1 / HD",
-        "beIN Sports MENA 2 HD",
         "World Feed",
-        "STV (Scotland) / HD",
-        "Sky Sports Main Event HD",
+        "Sky Sports News / HD",
+        "ITV1 / HD",
         "Sky Sports Football HD",
+        "beIN Sports MENA 2 HD",
         "TV3 MAX Dansk HD",
-        "ITV EFL Carabao Cup Highlights",
+        "ITV X (geo/R)",
+        "talkSPORT App",
+        "BBC Sounds APP",
         "ViaPlay Danmark HD",
-        "Wrexham AFC",
         "BBC Sport Online (Audio)",
-        "talkSPORT and1more channels"
+        "talkSPORT",
+        "Sky Sports (highlights)",
+        "BBC Radio Tees",
+        "Sky Sports Main Event HD",
+        "Wrexham AFC",
+        "BBC RADIO 5 LIVE",
+        "STV (Scotland) / HD and1more channels"
       ],
       "commentators": [
         "Crowe24",
