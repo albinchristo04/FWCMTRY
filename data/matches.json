@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-08T05:40:53.000617+00:00",
+  "scraped_at": "2026-08-08T10:29:48.387496+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 101,
+  "total_matches": 117,
   "matches": [
     {
       "title": "BBC Sportscene",
@@ -57,6 +57,23 @@
       "match_url": "https://icdb.tv/match/319338-Boston-Legacy-v-Portland-Thorns"
     },
     {
+      "title": "Benfica v Academico Viseu",
+      "teams": [
+        "Benfica",
+        "Academico Viseu"
+      ],
+      "date": "09/08/2026",
+      "time": "19:30",
+      "tournament": "Portuguese Liga 1",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/317725-Benfica-v-Academico-Viseu"
+    },
+    {
       "title": "Frosinone v Lazio",
       "teams": [
         "Frosinone",
@@ -73,6 +90,23 @@
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/317721-Frosinone-v-Lazio"
+    },
+    {
+      "title": "FC Porto v Alverca",
+      "teams": [
+        "FC Porto",
+        "Alverca"
+      ],
+      "date": "09/08/2026",
+      "time": "17:00",
+      "tournament": "Portuguese Liga 1",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/317709-FC-Porto-v-Alverca"
     },
     {
       "title": "Anderlecht v RAAL La Louvière",
@@ -159,18 +193,19 @@
       "time": "12:30",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sky Sports Football HD",
-        "Sky Sports Main Event HD",
         "BBC RADIO 5 LIVE",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "KillieTV",
         "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "KillieTV",
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
         "Sky Sports Main Event UHD",
-        "BBC Sport Online (Audio)"
+        "Sky Sports News / HD"
       ],
       "commentators": [
         "Crowe24",
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/317664-Kilmarnock-v-Celtic"
@@ -270,6 +305,23 @@
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/319333-Denver-Summit-v-Utah-Royals"
+    },
+    {
+      "title": "Estrela Amadora v Sporting Lisbon",
+      "teams": [
+        "Estrela Amadora",
+        "Sporting Lisbon"
+      ],
+      "date": "08/08/2026",
+      "time": "19:30",
+      "tournament": "Portuguese Liga 1",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/317970-Estrela-Amadora-v-Sporting-Lisbon"
     },
     {
       "title": "Napoli v Celta Vigo",
@@ -561,6 +613,7 @@
         "SaintsTV (St Johnstone)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/318832-St-Mirren-v-St-Johnstone"
@@ -600,6 +653,23 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/317968-Dundee-v-Aberdeen"
+    },
+    {
+      "title": "Bradford City v Rochdale",
+      "teams": [
+        "Bradford City",
+        "Rochdale"
+      ],
+      "date": "08/08/2026",
+      "time": "14:00",
+      "tournament": "English League Cup",
+      "channels": [
+        "BBC Radio Leeds (FM)"
+      ],
+      "commentators": [
+        "JACKLUFC"
+      ],
+      "match_url": "https://icdb.tv/match/317965-Bradford-City-v-Rochdale"
     },
     {
       "title": "Bromley v Reading",
@@ -701,10 +771,13 @@
       "time": "14:00",
       "tournament": "English League Cup",
       "channels": [
+        "BBC Radio Leeds (DAB)",
+        "BBC Radio Leeds (Freeview)",
         "iFollow (Preston North End)"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "JACKLUFC"
       ],
       "match_url": "https://icdb.tv/match/317952-Preston-NE-v-Huddersfield-Town"
     },
@@ -973,6 +1046,60 @@
       "match_url": "https://icdb.tv/match/317310-Juventus-v-Inter-Milan"
     },
     {
+      "title": "Cerezo Osaka v Fagiano Okayama",
+      "teams": [
+        "Cerezo Osaka",
+        "Fagiano Okayama"
+      ],
+      "date": "08/08/2026",
+      "time": "10:00",
+      "tournament": "Japanese J1 League",
+      "channels": [
+        "World Feed",
+        "YouTube: J.League International"
+      ],
+      "commentators": [
+        "r96"
+      ],
+      "match_url": "https://icdb.tv/match/317305-Cerezo-Osaka-v-Fagiano-Okayama"
+    },
+    {
+      "title": "FC Tokyo v Machida Zelvia",
+      "teams": [
+        "FC Tokyo",
+        "Machida Zelvia"
+      ],
+      "date": "08/08/2026",
+      "time": "10:00",
+      "tournament": "Japanese J1 League",
+      "channels": [
+        "World Feed",
+        "YouTube: J.League International"
+      ],
+      "commentators": [
+        "r96"
+      ],
+      "match_url": "https://icdb.tv/match/317304-FC-Tokyo-v-Machida-Zelvia"
+    },
+    {
+      "title": "Western Sydney v Melbourne Victory",
+      "teams": [
+        "Western Sydney",
+        "Melbourne Victory"
+      ],
+      "date": "08/08/2026",
+      "time": "09:30",
+      "tournament": "Australian Cup",
+      "channels": [
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/319088-Western-Sydney-v-Melbourne-Victory"
+    },
+    {
       "title": "Vancouver Whitecaps v Juárez",
       "teams": [
         "Vancouver Whitecaps",
@@ -1203,26 +1330,26 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "STV Player (geo/R)",
+        "ITV EFL Carabao Cup Highlights",
         "Sky Sports Main Event UHD",
-        "World Feed",
-        "Sky Sports News / HD",
-        "ITV1 / HD",
-        "Sky Sports Football HD",
-        "beIN Sports MENA 2 HD",
-        "TV3 MAX Dansk HD",
-        "ITV X (geo/R)",
         "talkSPORT App",
         "BBC Sounds APP",
-        "ViaPlay Danmark HD",
-        "BBC Sport Online (Audio)",
-        "talkSPORT",
         "Sky Sports (highlights)",
-        "BBC Radio Tees",
-        "Sky Sports Main Event HD",
-        "Wrexham AFC",
         "BBC RADIO 5 LIVE",
-        "STV (Scotland) / HD and1more channels"
+        "Sky Sports Football HD",
+        "BBC Radio Tees",
+        "talkSPORT",
+        "Wrexham AFC",
+        "TV3 MAX Dansk HD",
+        "ITV X (geo/R)",
+        "BBC Sport Online (Audio)",
+        "beIN Sports MENA 2 HD",
+        "ViaPlay Danmark HD",
+        "STV Player (geo/R)",
+        "STV (Scotland) / HD",
+        "World Feed",
+        "Sky Sports Main Event HD",
+        "Sky Sports News / HD and1more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1372,6 +1499,60 @@
       "match_url": "https://icdb.tv/match/317169-Wycombe-Wanderers-v-Stevenage"
     },
     {
+      "title": "Caen v Valenciennes",
+      "teams": [
+        "Caen",
+        "Valenciennes"
+      ],
+      "date": "07/08/2026",
+      "time": "18:45",
+      "tournament": "French Ligue 3",
+      "channels": [
+        "Ligue 1+ 2 ($/geo/R)",
+        "Ligue 1+ Multiplex [$]"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/317168-Caen-v-Valenciennes"
+    },
+    {
+      "title": "Rouen v Cannes",
+      "teams": [
+        "Rouen",
+        "Cannes"
+      ],
+      "date": "07/08/2026",
+      "time": "18:45",
+      "tournament": "French Ligue 3",
+      "channels": [
+        "Ligue 1+ 5 ($/geo/R)",
+        "Ligue 1+ Multiplex [$]"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/317163-Rouen-v-Cannes"
+    },
+    {
+      "title": "La Roche v Versailles",
+      "teams": [
+        "La Roche",
+        "Versailles"
+      ],
+      "date": "07/08/2026",
+      "time": "18:45",
+      "tournament": "French Ligue 3",
+      "channels": [
+        "Ligue 1+ 9 ($/geo/R)",
+        "Ligue 1+ Multiplex [$]"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/317161-La-Roche-v-Versailles"
+    },
+    {
       "title": "Blau-Weiß Linz v Wacker Innsbruck",
       "teams": [
         "Blau-Weiß Linz",
@@ -1399,13 +1580,13 @@
       "time": "18:30",
       "tournament": "Scottish Championship",
       "channels": [
-        "BBC Scotland / HD",
-        "BBC iPlayer (geo/R)",
-        "World Feed",
         "BBC (highlights)",
-        "Livingston TV ($/geo/R)",
+        "BBC Scotland / HD",
+        "BBC Scottish Football Round-Up",
         "BBC Sport Scotland Online",
-        "BBC Scottish Football Round-Up"
+        "BBC iPlayer (geo/R)",
+        "Livingston TV ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "HWP",
@@ -1458,16 +1639,17 @@
       "time": "18:30",
       "tournament": "German 2. Bundesliga",
       "channels": [
+        "ESPN+ USA ($/geo/R)",
         "Eleven Sports 1 Polska HD",
-        "World Feed",
+        "Puls 4 Österreich HD",
+        "SAT.1 Audio Description",
         "SAT.1 Deutschland HD",
         "SAT.1 Schweiz HD",
         "SAT.1 Österreich HD",
-        "Sky Sport Top Event HD",
-        "ESPN+ USA ($/geo/R)",
         "Sky Sport Bundesliga HD",
-        "YouTube: Bundesliga",
-        "SAT.1 Audio Description"
+        "Sky Sport Top Event HD",
+        "World Feed",
+        "YouTube: Bundesliga"
       ],
       "commentators": [
         "Crowe24",
@@ -1476,6 +1658,23 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/317155-Bochum-v-Hertha-Berlin"
+    },
+    {
+      "title": "- LIGUE 1 PASS - v - LIGUE 3 MULTIPLEX -",
+      "teams": [
+        "- LIGUE 1 PASS -",
+        "- LIGUE 3 MULTIPLEX -"
+      ],
+      "date": "07/08/2026",
+      "time": "18:15",
+      "tournament": "French Ligue 3",
+      "channels": [
+        "Ligue 1+ Multiplex [$]"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/319435-LIGUE-1-PASS-v-LIGUE-3-MULTIPLEX"
     },
     {
       "title": "Aarau v Stade Nyonnais",
@@ -1662,13 +1861,15 @@
       "time": "17:00",
       "tournament": "German 3. Liga",
       "channels": [
-        "YouTube: German Football (geo/R)",
+        "Magenta Sport ($/geo/R)",
+        "WDR Event",
         "World Feed",
-        "Magenta Sport ($/geo/R)"
+        "YouTube: German Football (geo/R)"
       ],
       "commentators": [
         "HWP",
-        "Johnny17"
+        "Johnny17",
+        "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/317147-Waldhof-Mannheim-v-Fortuna-Dsseldorf"
     },
@@ -1725,6 +1926,40 @@
       "match_url": "https://icdb.tv/match/317141-1860-Munich-v-Augsburg-II"
     },
     {
+      "title": "St Pölten v Austria Vienna (Am)",
+      "teams": [
+        "St Pölten",
+        "Austria Vienna (Am)"
+      ],
+      "date": "07/08/2026",
+      "time": "16:30",
+      "tournament": "Austrian 2. Liga",
+      "channels": [
+        "LAOLA1"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/318025-St-Plten-v-Austria-Vienna-Am"
+    },
+    {
+      "title": "Liefering v Hertha Wels",
+      "teams": [
+        "Liefering",
+        "Hertha Wels"
+      ],
+      "date": "07/08/2026",
+      "time": "16:30",
+      "tournament": "Austrian 2. Liga",
+      "channels": [
+        "LAOLA1"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/318024-Liefering-v-Hertha-Wels"
+    },
+    {
       "title": "LASK Linz v Sturm Graz",
       "teams": [
         "LASK Linz",
@@ -1759,6 +1994,23 @@
       "match_url": "https://icdb.tv/match/317139-Polonia-Bytom-v-Pogon-Siedlce"
     },
     {
+      "title": "Singapore v Indonesia",
+      "teams": [
+        "Singapore",
+        "Indonesia"
+      ],
+      "date": "07/08/2026",
+      "time": "13:00",
+      "tournament": "AFF Championship",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/319434-Singapore-v-Indonesia"
+    },
+    {
       "title": "Bayern Munich v Aston Villa",
       "teams": [
         "Bayern Munich",
@@ -1785,6 +2037,23 @@
       "match_url": "https://icdb.tv/match/317137-Bayern-Munich-v-Aston-Villa"
     },
     {
+      "title": "Vietnam v Cambodia",
+      "teams": [
+        "Vietnam",
+        "Cambodia"
+      ],
+      "date": "07/08/2026",
+      "time": "10:30",
+      "tournament": "AFF Championship",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/319433-Vietnam-v-Cambodia"
+    },
+    {
       "title": "Gamba Osaka v Urawa Red Diamonds",
       "teams": [
         "Gamba Osaka",
@@ -1801,6 +2070,24 @@
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/317136-Gamba-Osaka-v-Urawa-Red-Diamonds"
+    },
+    {
+      "title": "Yokohama F-Marinos v Kashima Antlers",
+      "teams": [
+        "Yokohama F-Marinos",
+        "Kashima Antlers"
+      ],
+      "date": "07/08/2026",
+      "time": "10:25",
+      "tournament": "Japanese J1 League",
+      "channels": [
+        "World Feed",
+        "YouTube: J.League International"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/317135-Yokohama-FMarinos-v-Kashima-Antlers"
     },
     {
       "title": "Portland Timbers v Puebla",
