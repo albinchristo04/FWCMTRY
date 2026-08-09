@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-09T10:32:18.816238+00:00",
+  "scraped_at": "2026-08-09T15:29:15.756801+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 232,
+  "total_matches": 248,
   "matches": [
     {
       "title": "Plymouth Argyle v Exeter City",
@@ -93,6 +93,59 @@
       "match_url": "https://icdb.tv/match/319340-Seattle-Reign-v-Angel-City"
     },
     {
+      "title": "Chicago Fire v Santos Laguna",
+      "teams": [
+        "Chicago Fire",
+        "Santos Laguna"
+      ],
+      "date": "10/08/2026",
+      "time": "00:00",
+      "tournament": "Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319918-Chicago-Fire-v-Santos-Laguna"
+    },
+    {
+      "title": "Cruz Azul v New York City",
+      "teams": [
+        "Cruz Azul",
+        "New York City"
+      ],
+      "date": "09/08/2026",
+      "time": "23:40",
+      "tournament": "Leagues Cup",
+      "channels": [
+        "Apple TV",
+        "NYCFC App",
+        "NYCFC.com"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319919-Cruz-Azul-v-New-York-City"
+    },
+    {
+      "title": "Philadelphia Union v Necaxa",
+      "teams": [
+        "Philadelphia Union",
+        "Necaxa"
+      ],
+      "date": "09/08/2026",
+      "time": "23:30",
+      "tournament": "Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/319916-Philadelphia-Union-v-Necaxa"
+    },
+    {
       "title": "Argentinos Juniors v Racing Club",
       "teams": [
         "Argentinos Juniors",
@@ -137,8 +190,11 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Premiere (Brazil)",
+        "Rádio CBN",
+        "Rádio Jovem Pan",
+        "Rádio TMC",
         "Rádio Tupi",
-        "SporTVBrazil HD"
+        "SporTV Brazil HD"
       ],
       "commentators": [
         "luca80sp"
@@ -155,7 +211,11 @@
       "time": "21:30",
       "tournament": "Brazilian Série A",
       "channels": [
-        "Rádio Bandeirantes"
+        "Energia 97",
+        "Rádio Bandeirantes",
+        "Rádio CBN",
+        "Rádio Jovem Pan",
+        "Rádio TMC"
       ],
       "commentators": [
         "luca80sp"
@@ -214,7 +274,7 @@
       "tournament": "Argentinean Primera División",
       "channels": [
         "HBO Max Argentina [$/geo/R]",
-        "TNTSportsPremium (Argentina)"
+        "TNT Sports Premium (Argentina)"
       ],
       "commentators": [
         "luca80sp"
@@ -288,6 +348,7 @@
       "time": "19:00",
       "tournament": "Brazilian Série B",
       "channels": [
+        "Premiere (Brazil)",
         "TV Globo",
         "globoplay"
       ],
@@ -306,11 +367,15 @@
       "time": "19:00",
       "tournament": "Brazilian Série A",
       "channels": [
+        "Energia 97",
         "GE TV",
         "Premiere (Brazil)",
         "Rádio BandNews FM",
         "Rádio Bandeirantes",
+        "Rádio CBN",
         "Rádio Gaúcha",
+        "Rádio Itatiaia",
+        "Rádio Jovem Pan",
         "Rádio TMC",
         "Sportdigital FUSSBALL HD",
         "TV Globo",
@@ -333,6 +398,8 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Premiere (Brazil)",
+        "Rádio CBN",
+        "Rádio TMC",
         "Rádio Tupi",
         "TV Globo",
         "globoplay"
@@ -442,9 +509,11 @@
       "time": "17:30",
       "tournament": "German 3. Liga",
       "channels": [
-        "MagentaSport($/geo/R)"
+        "Magenta Sport ($/geo/R)",
+        "WDR (Audio)"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317712-Alemannia-Aachen-v-SC-Verl"
@@ -477,8 +546,8 @@
       "time": "17:00",
       "tournament": "Portuguese Liga 1",
       "channels": [
-        "DAZN Italia ($/geo/R)",
-        "Sportdigital FUSSBALL HD"
+        "Sportdigital FUSSBALL HD",
+        "DAZN Italia ($/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -513,11 +582,11 @@
       "time": "16:30",
       "tournament": "Belgian Pro League",
       "channels": [
-        "DAZN Great Britain (geo/R)",
+        "World Feed",
+        "DAZN Worldwide ($/geo/R)",
         "DAZN Ireland ($/geo/R)",
         "DAZN Italia ($/geo/R)",
-        "DAZN Worldwide ($/geo/R)",
-        "World Feed"
+        "DAZN Great Britain (geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -539,6 +608,23 @@
       "match_url": "https://icdb.tv/match/319762-Clyde-1-Superscoreboard"
     },
     {
+      "title": "MSK Zilina v Skalica",
+      "teams": [
+        "MSK Zilina",
+        "Skalica"
+      ],
+      "date": "09/08/2026",
+      "time": "15:00",
+      "tournament": "Slovak Super Liga",
+      "channels": [
+        "FlashScore Slovakia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317691-MSK-Zilina-v-Skalica"
+    },
+    {
       "title": "Mansfield Town v Sheffield United",
       "teams": [
         "Mansfield Town",
@@ -548,13 +634,26 @@
       "time": "15:00",
       "tournament": "English League Cup",
       "channels": [
+        "BBC Radio 5 Sports Extra 3",
+        "BBC Radio Nottingham",
         "BBC Radio Sheffield",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "World Feed",
         "beIN Sports MENA 1 HD",
         "talkSPORT 2",
         "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
+        "SonnyCorry",
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317690-Mansfield-Town-v-Sheffield-United"
@@ -587,8 +686,8 @@
       "time": "15:00",
       "tournament": "Austrian Bundesliga",
       "channels": [
-        "Sky Sport 1 Austria HD [s/cast]",
-        "Sky Sport 2 Austria HD"
+        "Sky Sport 2 Austria HD",
+        "Sky Sport 1 Austria HD [s/cast]"
       ],
       "commentators": [
         "kurtogen"
@@ -605,19 +704,23 @@
       "time": "15:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC RADIO 5 LIVE",
         "BBC Radio Scotland",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
+        "BBC Sportscene",
         "Hibs TV",
         "Premier Sports 1 HD",
         "Premier Sports Player UK (£/geo/R)",
         "Rangers TV [$] (geo/R)",
         "Sharjah Sports",
+        "Sky Sports News / HD",
         "Sportdigital FUSSBALL HD",
         "World Feed"
       ],
       "commentators": [
         "Crowe24",
+        "HWP",
         "SonnyCorry",
         "kurtogen",
         "ysscores"
@@ -642,22 +745,21 @@
       "match_url": "https://icdb.tv/match/317683-Saarbrcken-v-RotWeiss-Essen"
     },
     {
-      "title": "Cruzeiro v Mirassol",
+      "title": "Grêmio v Cruzeiro",
       "teams": [
-        "Cruzeiro",
-        "Mirassol"
+        "Grêmio",
+        "Cruzeiro"
       ],
       "date": "09/08/2026",
       "time": "14:00",
-      "tournament": "Brazilian Série A",
+      "tournament": "Brazilian Feminino Série A1",
       "channels": [
-        "Prime Vídeo Brasil",
-        "Rede 98"
+        "N Sports"
       ],
       "commentators": [
         "luca80sp"
       ],
-      "match_url": "https://icdb.tv/match/319604-Cruzeiro-v-Mirassol"
+      "match_url": "https://icdb.tv/match/319923-Grmio-v-Cruzeiro"
     },
     {
       "title": "Hearts v Dundee United",
@@ -669,6 +771,9 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC Radio Scotland",
+        "Sky Sports News / HD",
+        "BBC Sportscene",
         "Hearts TV"
       ],
       "commentators": [
@@ -686,12 +791,37 @@
       "time": "14:00",
       "tournament": "Brazilian Série A",
       "channels": [
-        "Dubai Sports 2"
+        "Rádio Itatiaia",
+        "Prime Vídeo Brasil",
+        "Rede 98",
+        "Dubai Sports 2",
+        "FlashScore Brazil"
       ],
       "commentators": [
+        "ethanh05",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317677-Cruzeiro-v-Mirassol"
+    },
+    {
+      "title": "Motherwell v Falkirk",
+      "teams": [
+        "Motherwell",
+        "Falkirk"
+      ],
+      "date": "09/08/2026",
+      "time": "14:00",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "BBC Radio Scotland",
+        "BBC Sportscene",
+        "Falkirk TV [$]"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/317594-Motherwell-v-Falkirk"
     },
     {
       "title": "Liverpool v Monaco",
@@ -703,12 +833,18 @@
       "time": "13:30",
       "tournament": "Friendly Club Match",
       "channels": [
-        "DAZN Deutsch ($/geo/R)",
+        "LFC TV HD",
+        "World Feed",
         "DAZN Schweiz [$] (geo/R)",
-        "Maraya App"
+        "DAZN Deutsch ($/geo/R)",
+        "Maraya App",
+        "FlashScore France"
       ],
       "commentators": [
+        "apltle12",
+        "ethanh05",
         "kurtogen",
+        "l555",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317676-Liverpool-v-Monaco"
@@ -723,9 +859,11 @@
       "time": "13:00",
       "tournament": "Friendly Club Match (W)",
       "channels": [
-        "RBB Berlin HD"
+        "RBB Berlin HD",
+        "rbb24 Inforadio"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317672-Union-Berlin-v-Inter-Milan"
@@ -740,9 +878,15 @@
       "time": "13:00",
       "tournament": "Friendly Club Match",
       "channels": [
+        "FlashScore (audio)",
+        "Sky Sport Top Event HD",
+        "Sky Sport Premier League DE HD",
+        "Sky Sport News Deutsch HD",
+        "Flashscore UK",
         "AD Sports 1"
       ],
       "commentators": [
+        "ethanh05",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317670-Arsenal-v-Borussia-Dortmund"
@@ -757,33 +901,41 @@
       "time": "12:30",
       "tournament": "Dutch Eredivisie",
       "channels": [
-        "Disney+ South America [$]",
+        "Sportdigital FUSSBALL HD",
+        "World Feed",
         "ESPN (US)",
-        "ESPN 2 (CentroAmérica)"
+        "ESPN 2 (CentroAmérica)",
+        "FlashScore (audio)",
+        "Flashscore UK",
+        "Disney+ South America [$]",
+        "Dubai Sports 1"
       ],
       "commentators": [
-        "luca80sp"
+        "apltle12",
+        "ethanh05",
+        "kurtogen",
+        "luca80sp",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/319752-PEC-Zwolle-v-Ajax"
     },
     {
-      "title": "PEC Zwolle v Ajax",
+      "title": "Lillestrøm v Rosenborg",
       "teams": [
-        "PEC Zwolle",
-        "Ajax"
+        "Lillestrøm",
+        "Rosenborg"
       ],
       "date": "09/08/2026",
       "time": "12:30",
-      "tournament": "Dutch Eredivisie",
+      "tournament": "Norwegian Eliteserien",
       "channels": [
-        "Dubai Sports 1",
-        "Sportdigital FUSSBALL HD"
+        "TV2 Play Norge ($/geo/R)",
+        "NRK Sport"
       ],
       "commentators": [
-        "kurtogen",
-        "ysscores"
+        "Bksm"
       ],
-      "match_url": "https://icdb.tv/match/317665-PEC-Zwolle-v-Ajax"
+      "match_url": "https://icdb.tv/match/317666-Lillestrm-v-Rosenborg"
     },
     {
       "title": "Kilmarnock v Celtic",
@@ -795,18 +947,22 @@
       "time": "12:30",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Radio Scotland",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "KillieTV",
-        "Sharjah Sports",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
+        "World Feed",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio Scotland",
+        "Sky Sports News / HD",
+        "BBC Sportscene",
+        "KillieTV",
+        "BBC Sounds APP",
+        "Sky Sports (highlights)",
         "Sky Sports Main Event UHD",
-        "Sky Sports News / HD"
+        "BBC Sport Online (Audio)",
+        "Sharjah Sports"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
         "HWP",
         "SonnyCorry",
@@ -841,9 +997,13 @@
       "time": "12:00",
       "tournament": "German Regionalliga: Nordost",
       "channels": [
-        "OstSportTV"
+        "OstSportTV",
+        "Sport im Osten (App)",
+        "MDR (Audio)",
+        "MDR Thüringen"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/319382-Carl-Zeiss-Jena-v-RotWeiss-Erfurt"
@@ -858,9 +1018,12 @@
       "time": "12:00",
       "tournament": "German Regionalliga: Nordost",
       "channels": [
-        "OstSportTV"
+        "OstSportTV",
+        "Sport im Osten (App)",
+        "MDR (Audio)"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/319094-Hallescher-FC-v-Chemnitz"
@@ -907,9 +1070,12 @@
       "time": "11:30",
       "tournament": "German 3. Liga",
       "channels": [
-        "Magenta Sport ($/geo/R)"
+        "Magenta Sport ($/geo/R)",
+        "NDR MV (Audio)",
+        "NDR 1 Radio MV"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317654-Hoffenheim-II-v-Hansa-Rostock"
@@ -925,10 +1091,15 @@
       "tournament": "German 2. Bundesliga",
       "channels": [
         "Sky Sport Bundesliga 2 HD",
+        "World Feed",
         "Sky Sport Germany Konferenz",
+        "Sportschau Live (Audio)",
+        "ARD Audiothek",
         "RTL Deutschland Konferenz"
       ],
       "commentators": [
+        "apltle12",
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317653-Energie-Cottbus-v-Hannover-96"
@@ -943,13 +1114,17 @@
       "time": "11:30",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "RTL Deutschland Konferenz",
         "Sky Sport Bundesliga 4 HD",
+        "World Feed",
         "Sky Sport Germany Konferenz",
-        "World Feed"
+        "Sportschau Live (Audio)",
+        "ARD Audiothek",
+        "RTL Deutschland Konferenz",
+        "NDR 90.3"
       ],
       "commentators": [
         "Crowe24",
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317652-St-Pauli-v-Greuther-Frth"
@@ -966,9 +1141,12 @@
       "channels": [
         "Sky Sport Bundesliga 3 HD",
         "Sky Sport Germany Konferenz",
+        "Sportschau Live (Audio)",
+        "ARD Audiothek",
         "RTL Deutschland Konferenz"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317651-Nuremberg-v-Dynamo-Dresden"
@@ -1018,28 +1196,18 @@
       "time": "11:00",
       "tournament": "Friendly Club Match",
       "channels": [
-        "City+",
+        "World Feed",
         "CityTV (highlights)",
-        "YouTube: Man City"
+        "FlashScore (audio)",
+        "City+",
+        "YouTube: Man City",
+        "Flashscore UK",
+        "AD Sports 1"
       ],
       "commentators": [
-        "apltle12"
-      ],
-      "match_url": "https://icdb.tv/match/319043-Manchester-City-v-Atltico-Madrid"
-    },
-    {
-      "title": "Manchester City v Atlético Madrid",
-      "teams": [
-        "Manchester City",
-        "Atlético Madrid"
-      ],
-      "date": "09/08/2026",
-      "time": "11:00",
-      "tournament": "Friendly Club Match",
-      "channels": [
-        "ADSports1"
-      ],
-      "commentators": [
+        "AndyRoo_0860",
+        "apltle12",
+        "ethanh05",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317663-Manchester-City-v-Atltico-Madrid"
@@ -1054,10 +1222,12 @@
       "time": "10:15",
       "tournament": "Dutch Eredivisie",
       "channels": [
-        "Dubai Sports 1",
-        "Sportdigital FUSSBALL HD"
+        "Sportdigital FUSSBALL HD",
+        "World Feed",
+        "Dubai Sports 1"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen",
         "ysscores"
       ],
@@ -1309,16 +1479,18 @@
       "time": "00:00",
       "tournament": "Brazilian Série A",
       "channels": [
+        "FlashScore Brazil",
         "Premiere (Brazil)",
         "Rádio CBN",
         "Rádio TMC",
         "Rádio Tupi",
-        "SporTV4K (Brazil)",
+        "SporTV 4K (Brazil)",
         "SporTV Brazil HD",
         "World Feed"
       ],
       "commentators": [
         "apltle12",
+        "ethanh05",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/319571-Botafogo-v-Fluminense"
@@ -1618,10 +1790,10 @@
       "match_url": "https://icdb.tv/match/318938-Tigre-v-River-Plate"
     },
     {
-      "title": "Udinese v Barcelona XI",
+      "title": "Udinese v Barcelona",
       "teams": [
         "Udinese",
-        "Barcelona XI"
+        "Barcelona"
       ],
       "date": "08/08/2026",
       "time": "20:00",
@@ -1632,17 +1804,20 @@
         "MBC Action",
         "Sky Sport Business Italia / HD",
         "Sky Sport Uno Italia HD",
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport X Dansk HD",
         "TV3 Catalunya HD",
         "World Feed"
       ],
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
+        "Vallis",
         "apltle12",
         "ethanh05",
         "ysscores"
       ],
-      "match_url": "https://icdb.tv/match/318044-Udinese-v-Barcelona-XI"
+      "match_url": "https://icdb.tv/match/318044-Udinese-v-Barcelona"
     },
     {
       "title": "Estrela Amadora v Sporting Lisbon",
@@ -1723,9 +1898,9 @@
       "match_url": "https://icdb.tv/match/319599-Ferroviria-v-Palmeiras"
     },
     {
-      "title": "Barcelona XI v Nottingham Forest",
+      "title": "Barcelona v Nottingham Forest",
       "teams": [
-        "Barcelona XI",
+        "Barcelona",
         "Nottingham Forest"
       ],
       "date": "08/08/2026",
@@ -1739,17 +1914,20 @@
         "MBC Action",
         "Sky Sport Business Italia / HD",
         "Sky Sport Uno Italia HD",
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport X Dansk HD",
         "TV3 Catalunya HD",
         "World Feed"
       ],
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
+        "Vallis",
         "apltle12",
         "ethanh05",
         "ysscores"
       ],
-      "match_url": "https://icdb.tv/match/318043-Barcelona-XI-v-Nottingham-Forest"
+      "match_url": "https://icdb.tv/match/318043-Barcelona-v-Nottingham-Forest"
     },
     {
       "title": "Grêmio v São Paulo",
@@ -1943,12 +2121,14 @@
       "time": "18:45",
       "tournament": "French Ligue 2",
       "channels": [
+        "ViaPlay Danmark HD",
         "World Feed",
         "beIN Sports France 3 HD"
       ],
       "commentators": [
         "HWP",
-        "SYLVESTRE"
+        "SYLVESTRE",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/319724-Nantes-v-Red-Star-FC"
     },
@@ -2121,10 +2301,12 @@
       "time": "18:45",
       "tournament": "French Ligue 2",
       "channels": [
+        "ViaPlay Danmark HD",
         "World Feed"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/317617-Sochaux-v-St-Etienne"
     },
@@ -2184,9 +2366,11 @@
         "Sky Sport Bundesliga HD",
         "Sky Sport Top Event HD",
         "Sportschau Live (Audio)",
+        "ViaPlay Danmark HD",
         "World Feed"
       ],
       "commentators": [
+        "Vallis",
         "apltle12",
         "ethanh05",
         "kurtogen"
@@ -2308,10 +2492,13 @@
         "MBC Action",
         "Sky Sport Business Italia / HD",
         "Sky Sport Uno Italia HD",
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport X Dansk HD",
         "World Feed"
       ],
       "commentators": [
         "Guest-SC",
+        "Vallis",
         "apltle12",
         "ysscores"
       ],
@@ -2546,12 +2733,14 @@
         "Sky Sports (highlights)",
         "Sky Sports+ Channel",
         "Sky Sports+ [via APP]",
+        "ViaPlay Danmark HD",
         "WBA Radio",
         "WBA TV ($/geo/R)",
         "World Feed"
       ],
       "commentators": [
         "Crowe24",
+        "Vallis",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/317394-Rotherham-United-v-West-Bromwich-Albion"
@@ -2799,9 +2988,11 @@
       "time": "14:30",
       "tournament": "German 3. Liga",
       "channels": [
-        "Magenta Sport ($/geo/R)"
+        "Magenta Sport ($/geo/R)",
+        "WDR (Audio)"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317371-Sonnenhof-Groaspach-v-Fortuna-Cologne"
@@ -3119,12 +3310,14 @@
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
         "Soccer Saturday",
+        "ViaPlay Danmark HD",
         "World Feed",
         "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
         "LukeA206",
+        "Vallis",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/317962-Burnley-v-Notts-County"
@@ -3315,12 +3508,14 @@
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
         "Soccer Saturday",
+        "ViaPlay Danmark HD",
         "World Feed",
         "iFollow (Northampton Town)"
       ],
       "commentators": [
         "Crowe24",
         "LukeA206",
+        "Vallis",
         "apltle12",
         "leeleicestertigers@yahoo.co.uk"
       ],
@@ -3345,11 +3540,13 @@
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
         "Soccer Saturday",
+        "ViaPlay Danmark HD",
         "World Feed"
       ],
       "commentators": [
         "Crowe24",
         "LukeA206",
+        "Vallis",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/317953-Norwich-City-v-Milton-Keynes-Dons"
@@ -3421,6 +3618,7 @@
         "ITV EFL Carabao Cup Highlights",
         "Sky Sports+ [via APP]",
         "Soccer Saturday",
+        "ViaPlay Danmark HD",
         "Wanderers TV (Bolton Wanderers)",
         "World Feed",
         "talkSPORT"
@@ -3428,6 +3626,7 @@
       "commentators": [
         "AndyRoo_0860",
         "Crowe24",
+        "Vallis",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/317950-Sheffield-Wednesday-v-Bolton-Wanderers"
@@ -3515,6 +3714,24 @@
       "match_url": "https://icdb.tv/match/317947-Watford-v-Crawley-Town"
     },
     {
+      "title": "Hobro v AB Copenhagen",
+      "teams": [
+        "Hobro",
+        "AB Copenhagen"
+      ],
+      "date": "08/08/2026",
+      "time": "14:00",
+      "tournament": "Danish 1. Division",
+      "channels": [
+        "ViaPlay Danmark HD",
+        "ViaPlay Sport News Dansk"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/317363-Hobro-v-AB-Copenhagen"
+    },
+    {
       "title": "Scunthorpe United v Yeovil Town",
       "teams": [
         "Scunthorpe United",
@@ -3553,6 +3770,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/317355-Hartlepool-United-v-Barrow"
+    },
+    {
+      "title": "Boreham Wood v Tamworth",
+      "teams": [
+        "Boreham Wood",
+        "Tamworth"
+      ],
+      "date": "08/08/2026",
+      "time": "14:00",
+      "tournament": "English National League 1",
+      "channels": [
+        "DAZN Great Britain (geo/R)"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/317351-Boreham-Wood-v-Tamworth"
     },
     {
       "title": "Fylde v Wealdstone",
@@ -3658,6 +3892,7 @@
         "Sky Sports+ Channel",
         "Sky Sports+ [via APP]",
         "Soccer Saturday",
+        "ViaPlay Danmark HD",
         "World Feed",
         "beIN Sports MENA 1 HD",
         "talkSPORT",
@@ -3667,6 +3902,7 @@
       "commentators": [
         "Crowe24",
         "LukeA206",
+        "Vallis",
         "apltle12",
         "ysscores"
       ],
@@ -3842,6 +4078,40 @@
       "match_url": "https://icdb.tv/match/319590-Bayer-Leverkusen-v-Sevilla"
     },
     {
+      "title": "Thisted v FA 2000",
+      "teams": [
+        "Thisted",
+        "FA 2000"
+      ],
+      "date": "08/08/2026",
+      "time": "13:00",
+      "tournament": "Danish 2. Division",
+      "channels": [
+        "DirekteSport.dk [$] (geo/R)"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/319925-Thisted-v-FA-2000"
+    },
+    {
+      "title": "Skive v Nykøbing",
+      "teams": [
+        "Skive",
+        "Nykøbing"
+      ],
+      "date": "08/08/2026",
+      "time": "13:00",
+      "tournament": "Danish 2. Division",
+      "channels": [
+        "DirekteSport.dk [$] (geo/R)"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/319921-Skive-v-Nykbing"
+    },
+    {
       "title": "Clyde 1 Superscoreboard",
       "date": "08/08/2026",
       "time": "13:00",
@@ -3925,10 +4195,12 @@
         "QPR+",
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
+        "ViaPlay Danmark HD",
         "World Feed"
       ],
       "commentators": [
         "Crowe24",
+        "Vallis",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/317330-Queens-Park-Rangers-v-Millwall"
@@ -3970,6 +4242,109 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317328-Lok-Leipzig-v-Hertha-Berlin-II"
+    },
+    {
+      "title": "Atlas Delmenhorst v VfB Lübeck",
+      "teams": [
+        "Atlas Delmenhorst",
+        "VfB Lübeck"
+      ],
+      "date": "08/08/2026",
+      "time": "12:00",
+      "tournament": "German Regionalliga: Nord",
+      "channels": [
+        "NDR 1 Niedersachsen"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/319904-Atlas-Delmenhorst-v-VfB-Lbeck"
+    },
+    {
+      "title": "Wattenscheid v Westfalia Rhynern",
+      "teams": [
+        "Wattenscheid",
+        "Westfalia Rhynern"
+      ],
+      "date": "08/08/2026",
+      "time": "12:00",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]",
+        "WAZ.de"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/319903-Wattenscheid-v-Westfalia-Rhynern"
+    },
+    {
+      "title": "Paderborn II v Mönchengladbach II",
+      "teams": [
+        "Paderborn II",
+        "Mönchengladbach II"
+      ],
+      "date": "08/08/2026",
+      "time": "12:00",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/319902-Paderborn-II-v-Mnchengladbach-II"
+    },
+    {
+      "title": "Bocholt v Schalke 04 II",
+      "teams": [
+        "Bocholt",
+        "Schalke 04 II"
+      ],
+      "date": "08/08/2026",
+      "time": "12:00",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/319901-Bocholt-v-Schalke-04-II"
+    },
+    {
+      "title": "Sportfreunde Siegen v VfB Hilden",
+      "teams": [
+        "Sportfreunde Siegen",
+        "VfB Hilden"
+      ],
+      "date": "08/08/2026",
+      "time": "12:00",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/319900-Sportfreunde-Siegen-v-VfB-Hilden"
+    },
+    {
+      "title": "Rodinghausen v Bonner SC",
+      "teams": [
+        "Rodinghausen",
+        "Bonner SC"
+      ],
+      "date": "08/08/2026",
+      "time": "12:00",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/319896-Rodinghausen-v-Bonner-SC"
     },
     {
       "title": "Carl Zeiss Jena v SGS Essen",
@@ -4076,9 +4451,11 @@
       "time": "12:00",
       "tournament": "German 3. Liga",
       "channels": [
-        "Magenta Sport ($/geo/R)"
+        "Magenta Sport ($/geo/R)",
+        "WDR (Audio)"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317326-Wehen-Wiesbaden-v-Preuen-Mnster"
@@ -4093,9 +4470,11 @@
       "time": "12:00",
       "tournament": "German 3. Liga",
       "channels": [
-        "Magenta Sport ($/geo/R)"
+        "Magenta Sport ($/geo/R)",
+        "WDR (Audio)"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317325-Viktoria-Cologne-v-Jahn-Regensburg"
@@ -4116,6 +4495,23 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/317324-TSV-Havelse-v-Stuttgart-II"
+    },
+    {
+      "title": "Aarhus Fremad v HB Køge",
+      "teams": [
+        "Aarhus Fremad",
+        "HB Køge"
+      ],
+      "date": "08/08/2026",
+      "time": "12:00",
+      "tournament": "Danish 1. Division",
+      "channels": [
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/317323-Aarhus-Fremad-v-HB-Kge"
     },
     {
       "title": "Ingolstadt v Würzburger Kickers",
@@ -4189,6 +4585,23 @@
       "match_url": "https://icdb.tv/match/317318-Duisburg-v-Meppen"
     },
     {
+      "title": "VSK Århus v Fremad Amager",
+      "teams": [
+        "VSK Århus",
+        "Fremad Amager"
+      ],
+      "date": "08/08/2026",
+      "time": "11:30",
+      "tournament": "Danish 2. Division",
+      "channels": [
+        "DirekteSport.dk [$] (geo/R)"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/319920-VSK-rhus-v-Fremad-Amager"
+    },
+    {
       "title": "Podhale Nowy Targ v Hutnik Kraków",
       "teams": [
         "Podhale Nowy Targ",
@@ -4217,14 +4630,18 @@
       "channels": [
         "ARD Audiothek",
         "Eleven Sports 3 Polska HD",
+        "FCH Fanradio",
         "Sky Sport Bundesliga 5 HD",
         "Sky Sport Germany Konferenz",
         "Sportschau Live (Audio)",
+        "ViaPlay Danmark HD",
         "World Feed",
         "YouTube: Bundesliga"
       ],
       "commentators": [
         "HWP",
+        "LuisBr8",
+        "Vallis",
         "apltle12",
         "ethanh05",
         "kurtogen"
@@ -4246,9 +4663,11 @@
         "Sky Sport Bundesliga 4 HD",
         "Sky Sport Germany Konferenz",
         "Sportschau Live (Audio)",
+        "ViaPlay Danmark HD",
         "World Feed"
       ],
       "commentators": [
+        "Vallis",
         "apltle12",
         "ethanh05",
         "kurtogen"
@@ -4270,9 +4689,11 @@
         "Sky Sport Bundesliga 2 HD",
         "Sky Sport Germany Konferenz",
         "Sportschau Live (Audio)",
+        "ViaPlay Danmark HD",
         "World Feed"
       ],
       "commentators": [
+        "Vallis",
         "apltle12",
         "ethanh05",
         "kurtogen"
@@ -4294,9 +4715,11 @@
         "Sky Sport Bundesliga 3 HD",
         "Sky Sport Germany Konferenz",
         "Sportschau Live (Audio)",
+        "ViaPlay Danmark HD",
         "World Feed"
       ],
       "commentators": [
+        "Vallis",
         "apltle12",
         "ethanh05",
         "kurtogen"
