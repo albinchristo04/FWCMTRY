@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10T06:10:35.773363+00:00",
+  "scraped_at": "2026-08-10T11:06:21.292827+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 119,
+  "total_matches": 124,
   "matches": [
     {
       "title": "Lyon v Sparta Prague",
@@ -63,7 +63,8 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "SkySportsFootball HD",
+        "Argyle TV ($/geo/R)",
+        "Sky Sports Football HD",
         "Sky Sports Main Event HD",
         "Sky Sports Main Event UHD",
         "beIN Sports MENA 1 HD"
@@ -116,7 +117,7 @@
         "Apple TV",
         "Canal 5 Mexico HD",
         "Fox Sports 1 (US)",
-        "ImagenDeportes",
+        "Imagen Deportes",
         "TUDN (usa)",
         "Univision USA"
       ],
@@ -884,6 +885,7 @@
         "BBC iPlayer (geo/R)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/318059-BBC-Sportscene"
@@ -1204,21 +1206,22 @@
       "time": "15:00",
       "tournament": "English League Cup",
       "channels": [
+        "BBC Radio 5 Sports Extra 3",
+        "BBC Radio Nottingham",
+        "BBC Radio Sheffield",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "World Feed",
-        "talkSPORT 2",
-        "BBC Radio Sheffield",
-        "Sky Sports News / HD",
-        "BBC Radio Nottingham",
-        "talkSPORT App",
-        "BBC Sounds APP",
-        "beIN Sports MENA 1 HD",
-        "Sky Sports (highlights)",
         "Sky Sports Main Event UHD",
-        "BBC Sport Online (Audio)",
-        "BBC Radio 5 Sports Extra 3",
-        "Paramount+ USA ($/geo/R)"
+        "Sky Sports News / HD",
+        "World Feed",
+        "beIN Sports MENA 1 HD",
+        "iFollow (Mansfield Town)",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
@@ -1274,21 +1277,24 @@
       "time": "15:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Polsat Sport 3 HD",
-        "Sportdigital FUSSBALL HD",
-        "Premier Sports 1 HD",
-        "Rangers TV [$] (geo/R)",
-        "World Feed",
-        "BBC RADIO 5 LIVE",
-        "Sky Sports News / HD",
+        "BBC (highlights)",
         "BBC News",
-        "Hibs TV",
-        "BBC Sportscene",
-        "BBC Sounds APP",
+        "BBC RADIO 5 LIVE",
         "BBC Radio Scotland Extra",
+        "BBC Sounds APP",
         "BBC Sport Online (Audio)",
+        "BBC Sportscene",
+        "Hibs TV",
+        "Polsat Sport 3 HD",
+        "Premier Sports 1 HD",
         "Premier Sports Player UK (£/geo/R)",
-        "Sharjah Sports"
+        "Rangers TV [$] (geo/R)",
+        "Scottish Premiership Round-Up Show",
+        "Sharjah Sports",
+        "Sky Sports (highlights)",
+        "Sky Sports News / HD",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -1300,6 +1306,57 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317687-Rangers-v-Hibernian"
+    },
+    {
+      "title": "Sion v Vaduz",
+      "teams": [
+        "Sion",
+        "Vaduz"
+      ],
+      "date": "09/08/2026",
+      "time": "14:30",
+      "tournament": "Swiss Super League",
+      "channels": [
+        "SRF Highlights"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/318493-Sion-v-Vaduz"
+    },
+    {
+      "title": "St Gallen v Luzern",
+      "teams": [
+        "St Gallen",
+        "Luzern"
+      ],
+      "date": "09/08/2026",
+      "time": "14:30",
+      "tournament": "Swiss Super League",
+      "channels": [
+        "SRF Highlights"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/318492-St-Gallen-v-Luzern"
+    },
+    {
+      "title": "Basel v Thun",
+      "teams": [
+        "Basel",
+        "Thun"
+      ],
+      "date": "09/08/2026",
+      "time": "14:30",
+      "tournament": "Swiss Super League",
+      "channels": [
+        "SRF Highlights"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/318491-Basel-v-Thun"
     },
     {
       "title": "Saarbrücken v Rot-Weiss Essen",
@@ -1364,12 +1421,16 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC (highlights)",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
         "BBC Sportscene",
-        "Hearts TV"
+        "Hearts TV",
+        "Scottish Premiership Round-Up Show",
+        "Sky Sports (highlights)",
+        "Sky Sports News / HD"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/318837-Hearts-v-Dundee-United"
@@ -1407,11 +1468,15 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC (highlights)",
         "BBC Radio Scotland",
         "BBC Sportscene",
-        "Falkirk TV [$]"
+        "Falkirk TV [$]",
+        "Scottish Premiership Round-Up Show",
+        "Sky Sports (highlights)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/317594-Motherwell-v-Falkirk"
@@ -1611,21 +1676,22 @@
       "time": "12:30",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sky Sports Football HD",
-        "Sky Sports Main Event HD",
-        "Polsat Sport Premium 1 HD",
-        "World Feed",
+        "BBC (highlights)",
+        "BBC News",
         "BBC RADIO 5 LIVE",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "BBC News",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
         "BBC Sportscene",
         "KillieTV",
-        "BBC Sounds APP",
+        "Polsat Sport Premium 1 HD",
+        "Sharjah Sports",
         "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
         "Sky Sports Main Event UHD",
-        "BBC Sport Online (Audio)",
-        "Sharjah Sports"
+        "Sky Sports News / HD",
+        "World Feed"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1816,6 +1882,23 @@
       "match_url": "https://icdb.tv/match/319094-Hallescher-FC-v-Chemnitz"
     },
     {
+      "title": "Lugano v Zürich",
+      "teams": [
+        "Lugano",
+        "Zürich"
+      ],
+      "date": "09/08/2026",
+      "time": "12:00",
+      "tournament": "Swiss Super League",
+      "channels": [
+        "SRF Highlights"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/318486-Lugano-v-Zrich"
+    },
+    {
       "title": "talkSPORT The Sunday Session",
       "date": "09/08/2026",
       "time": "12:00",
@@ -1881,14 +1964,14 @@
       "time": "11:30",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "Eleven Sports 2 Polska HD",
-        "Sky Sport Bundesliga 2 HD",
-        "World Feed",
-        "Sky Sport Germany Konferenz",
-        "Sportschau Live (Audio)",
         "ARD Audiothek",
         "ARD-Hörfunk",
-        "RTL Deutschland Konferenz"
+        "Eleven Sports 2 Polska HD",
+        "RTL Deutschland Konferenz",
+        "Sky Sport Bundesliga 2 HD",
+        "Sky Sport Germany Konferenz",
+        "Sportschau Live (Audio)",
+        "World Feed"
       ],
       "commentators": [
         "apltle12",
@@ -2105,6 +2188,23 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/319946-Meppen-v-Hoffenheim-II"
+    },
+    {
+      "title": "Amstetten v Admira Wacker",
+      "teams": [
+        "Amstetten",
+        "Admira Wacker"
+      ],
+      "date": "09/08/2026",
+      "time": "08:30",
+      "tournament": "Austrian 2. Liga",
+      "channels": [
+        "LAOLA1"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/318045-Amstetten-v-Admira-Wacker"
     },
     {
       "title": "Brisbane Roar v Sydney FC",
