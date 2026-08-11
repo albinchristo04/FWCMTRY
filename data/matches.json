@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-11T10:48:40.903280+00:00",
+  "scraped_at": "2026-08-11T15:59:31.606426+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 24,
+  "total_matches": 30,
   "matches": [
     {
       "title": "Napoli v Aris Thessaloniki",
@@ -30,14 +30,14 @@
       "time": "19:00",
       "tournament": "UEFA Super Cup",
       "channels": [
-        "Canal+ France HD",
-        "talkSPORT",
         "BBC RADIO 5 LIVE",
-        "talkSPORT App",
         "BBC Sounds APP",
-        "The Commentary Hub",
+        "BBC Sport Online (Audio)",
         "Canal+ Foot HD",
-        "BBC Sport Online (Audio)"
+        "Canal+ France HD",
+        "The Commentary Hub",
+        "talkSPORT",
+        "talkSPORT App"
       ],
       "commentators": [
         "Cr17",
@@ -54,7 +54,7 @@
       ],
       "date": "12/08/2026",
       "time": "18:30",
-      "tournament": "Friendly Club Match",
+      "tournament": "Boyle Sports Cup",
       "channels": [
         "STV (Scotland) / HD",
         "STV Player (geo/R)",
@@ -164,6 +164,41 @@
       "match_url": "https://icdb.tv/match/318900-BBC-72"
     },
     {
+      "title": "Kauno Zalgiris v Dinamo Zagreb",
+      "teams": [
+        "Kauno Zalgiris",
+        "Dinamo Zagreb"
+      ],
+      "date": "11/08/2026",
+      "time": "17:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "VG+ Sport Norge ($/geo/R)"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/319113-Kauno-Zalgiris-v-Dinamo-Zagreb"
+    },
+    {
+      "title": "Apollon Limassol v Brann",
+      "teams": [
+        "Apollon Limassol",
+        "Brann"
+      ],
+      "date": "11/08/2026",
+      "time": "17:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "Bergens Tidende",
+        "VG+ Sport Norge ($/geo/R)"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/319112-Apollon-Limassol-v-Brann"
+    },
+    {
       "title": "Al Jazira v Al Ittihad",
       "teams": [
         "Al Jazira",
@@ -181,6 +216,23 @@
       "match_url": "https://icdb.tv/match/320124-Al-Jazira-v-Al-Ittihad"
     },
     {
+      "title": "Bodø/Glimt v Union St Gilloise",
+      "teams": [
+        "Bodø/Glimt",
+        "Union St Gilloise"
+      ],
+      "date": "11/08/2026",
+      "time": "16:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "VG+ Sport Norge ($/geo/R)"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/318503-BodGlimt-v-Union-St-Gilloise"
+    },
+    {
       "title": "Juventus v Palermo",
       "teams": [
         "Juventus",
@@ -190,17 +242,72 @@
       "time": "10:05",
       "tournament": "Friendly Club Match",
       "channels": [
+        "World Feed",
+        "VG+ Sport Norge ($/geo/R)",
         "DAZN Italia ($/geo/R)",
-        "Sharjah Sports",
         "Sky Sport Calcio HD",
-        "World Feed"
+        "Sharjah Sports"
       ],
       "commentators": [
+        "Bksm",
         "Guest-SC",
         "HWP",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317881-Juventus-v-Palermo"
+    },
+    {
+      "title": "Adelaide United v Công An Hà Nôi",
+      "teams": [
+        "Adelaide United",
+        "Công An Hà Nôi"
+      ],
+      "date": "11/08/2026",
+      "time": "09:30",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/320120-Adelaide-United-v-Cng-An-H-Ni"
+    },
+    {
+      "title": "SD Raiders v Macarthur FC",
+      "teams": [
+        "SD Raiders",
+        "Macarthur FC"
+      ],
+      "date": "11/08/2026",
+      "time": "09:30",
+      "tournament": "Australian Cup",
+      "channels": [
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/319110-SD-Raiders-v-Macarthur-FC"
+    },
+    {
+      "title": "Queensland Lions v Melbourne City",
+      "teams": [
+        "Queensland Lions",
+        "Melbourne City"
+      ],
+      "date": "11/08/2026",
+      "time": "09:30",
+      "tournament": "Australian Cup",
+      "channels": [
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/319109-Queensland-Lions-v-Melbourne-City"
     },
     {
       "title": "Santa Clara v Nacional Madeira",
