@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10T20:39:40.109949+00:00",
+  "scraped_at": "2026-08-11T01:25:50.690820+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 128,
+  "total_matches": 134,
   "matches": [
     {
       "title": "Lyon v Sparta Prague",
@@ -80,16 +80,16 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "Sky Sports Football HD",
-        "Sky Sports Main Event HD",
-        "World Feed",
-        "Sky Sports News / HD",
-        "beIN Sports MENA 1 HD",
-        "Sky Sports (highlights)",
-        "ITV EFL Carabao Cup Highlights",
         "Argyle TV ($/geo/R)",
         "CBS Sports Golazo Network (US)",
-        "Sky Sports Main Event UHD"
+        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "World Feed",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "AnthonyB94",
@@ -1142,6 +1142,24 @@
       "match_url": "https://icdb.tv/match/319957-talkSPORT-The-Final-Word"
     },
     {
+      "title": "Horsens v Brøndby",
+      "teams": [
+        "Horsens",
+        "Brøndby"
+      ],
+      "date": "09/08/2026",
+      "time": "16:00",
+      "tournament": "Danish Superliga",
+      "channels": [
+        "TV3 Sport Dansk HD",
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/317702-Horsens-v-Brndby"
+    },
+    {
       "title": "Slask Wroclaw II v Górnik Leczna",
       "teams": [
         "Slask Wroclaw II",
@@ -1277,6 +1295,7 @@
         "Sky Sports Main Event HD",
         "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
+        "ViaPlay Danmark HD",
         "World Feed",
         "beIN Sports MENA 1 HD",
         "iFollow (Mansfield Town)",
@@ -1286,6 +1305,7 @@
       "commentators": [
         "Crowe24",
         "SonnyCorry",
+        "Vallis",
         "apltle12",
         "ysscores"
       ],
@@ -1496,6 +1516,24 @@
       "match_url": "https://icdb.tv/match/318837-Hearts-v-Dundee-United"
     },
     {
+      "title": "Randers v Lyngby",
+      "teams": [
+        "Randers",
+        "Lyngby"
+      ],
+      "date": "09/08/2026",
+      "time": "14:00",
+      "tournament": "Danish Superliga",
+      "channels": [
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport Dansk HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/317678-Randers-v-Lyngby"
+    },
+    {
       "title": "Cruzeiro v Mirassol",
       "teams": [
         "Cruzeiro",
@@ -1584,6 +1622,23 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/320119-Wuppertal-v-Schonnebeck"
+    },
+    {
+      "title": "Fredericia v Vendsyssel",
+      "teams": [
+        "Fredericia",
+        "Vendsyssel"
+      ],
+      "date": "09/08/2026",
+      "time": "13:00",
+      "tournament": "Danish 1. Division",
+      "channels": [
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/317675-Fredericia-v-Vendsyssel"
     },
     {
       "title": "Union Berlin v Inter Milan",
@@ -1993,6 +2048,41 @@
       "match_url": "https://icdb.tv/match/318416-talkSPORT-The-Sunday-Session"
     },
     {
+      "title": "Vejle BK v Hillerød",
+      "teams": [
+        "Vejle BK",
+        "Hillerød"
+      ],
+      "date": "09/08/2026",
+      "time": "12:00",
+      "tournament": "Danish 1. Division",
+      "channels": [
+        "TV3 Sport Dansk HD",
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/317661-Vejle-BK-v-Hillerd"
+    },
+    {
+      "title": "AaB Aalborg v Kolding",
+      "teams": [
+        "AaB Aalborg",
+        "Kolding"
+      ],
+      "date": "09/08/2026",
+      "time": "12:00",
+      "tournament": "Danish 1. Division",
+      "channels": [
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/317660-AaB-Aalborg-v-Kolding"
+    },
+    {
       "title": "Johor Darul Ta'zim v Chelsea",
       "teams": [
         "Johor Darul Ta'zim",
@@ -2050,9 +2140,11 @@
         "Sky Sport Bundesliga 2 HD",
         "Sky Sport Germany Konferenz",
         "Sportschau Live (Audio)",
+        "ViaPlay Danmark HD",
         "World Feed"
       ],
       "commentators": [
+        "Vallis",
         "apltle12",
         "ethanh05",
         "kurtogen"
@@ -2069,18 +2161,20 @@
       "time": "11:30",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "Eleven Sports 1 Polska HD",
-        "Sky Sport Bundesliga 4 HD",
-        "World Feed",
-        "Sky Sport Germany Konferenz",
-        "Sportschau Live (Audio)",
         "ARD Audiothek",
         "ARD-Hörfunk",
+        "Eleven Sports 1 Polska HD",
+        "NDR 90.3",
         "RTL Deutschland Konferenz",
-        "NDR 90.3"
+        "Sky Sport Bundesliga 4 HD",
+        "Sky Sport Germany Konferenz",
+        "Sportschau Live (Audio)",
+        "ViaPlay Danmark HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
+        "Vallis",
         "ethanh05",
         "kurtogen"
       ],
@@ -2103,9 +2197,11 @@
         "Sky Sport Bundesliga 3 HD",
         "Sky Sport Germany Konferenz",
         "Sportschau Live (Audio)",
+        "ViaPlay Danmark HD",
         "World Feed"
       ],
       "commentators": [
+        "Vallis",
         "apltle12",
         "ethanh05",
         "kurtogen"
@@ -2189,6 +2285,23 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317663-Manchester-City-v-Atltico-Madrid"
+    },
+    {
+      "title": "Hvidovre v Esbjerg",
+      "teams": [
+        "Hvidovre",
+        "Esbjerg"
+      ],
+      "date": "09/08/2026",
+      "time": "11:00",
+      "tournament": "Danish 1. Division",
+      "channels": [
+        "ViaPlay Danmark HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/317650-Hvidovre-v-Esbjerg"
     },
     {
       "title": "Sparta Rotterdam v Feyenoord",
