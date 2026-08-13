@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-13T01:45:40.220344+00:00",
+  "scraped_at": "2026-08-13T06:15:32.863564+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 50,
+  "total_matches": 55,
   "matches": [
     {
       "title": "Wolves v Blackburn Rovers",
@@ -13,12 +13,12 @@
       "time": "19:00",
       "tournament": "English Championship",
       "channels": [
-        "EFL KickOff",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "Sky Sports Main Event UHD",
         "talkSPORT",
-        "talkSPORT App"
+        "talkSPORT App",
+        "Sky Sports Main Event UHD",
+        "EFL KickOff"
       ],
       "commentators": [
         "Crowe24",
@@ -39,8 +39,8 @@
       "time": "18:45",
       "tournament": "Scottish League Cup",
       "channels": [
-        "BBC Radio Scotland Extra",
         "BBC Sounds APP",
+        "BBC Radio Scotland Extra",
         "BBC Sport Online (Audio)"
       ],
       "commentators": [
@@ -84,6 +84,40 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/320194-Rosario-Central-v-Corinthians"
+    },
+    {
+      "title": "Cienciano v Botafogo",
+      "teams": [
+        "Cienciano",
+        "Botafogo"
+      ],
+      "date": "14/08/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/318256-Cienciano-v-Botafogo"
+    },
+    {
+      "title": "Rosario Central v Corinthians",
+      "teams": [
+        "Rosario Central",
+        "Corinthians"
+      ],
+      "date": "14/08/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Libertadores",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/318090-Rosario-Central-v-Corinthians"
     },
     {
       "title": "Mirassol v LDU Quito",
@@ -164,10 +198,12 @@
       "time": "18:00",
       "tournament": "Saudi Pro League",
       "channels": [
-        "Sportdigital FUSSBALL HD"
+        "Sportdigital FUSSBALL HD",
+        "Thmanyah 2"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/318252-Diriyah-Club-v-Al-Ahli"
     },
@@ -189,6 +225,23 @@
       "match_url": "https://icdb.tv/match/319141-Pafos-FC-v-Salzburg"
     },
     {
+      "title": "Abha Club v Al Hazem",
+      "teams": [
+        "Abha Club",
+        "Al Hazem"
+      ],
+      "date": "13/08/2026",
+      "time": "16:15",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320332-Abha-Club-v-Al-Hazem"
+    },
+    {
       "title": "Seattle Sounders v Chivas Guadalajara",
       "teams": [
         "Seattle Sounders",
@@ -201,6 +254,7 @@
         "Apple TV"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/320305-Seattle-Sounders-v-Chivas-Guadalajara"
@@ -218,9 +272,45 @@
         "Apple TV"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/320304-Los-Angeles-FC-v-Quertaro"
+    },
+    {
+      "title": "San Diego FC v Puebla",
+      "teams": [
+        "San Diego FC",
+        "Puebla"
+      ],
+      "date": "13/08/2026",
+      "time": "02:15",
+      "tournament": "Leagues Cup (N/C American)",
+      "channels": [
+        "Apple TV",
+        "FoxSports1 (US)"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/319258-San-Diego-FC-v-Puebla"
+    },
+    {
+      "title": "Toluca v Dallas",
+      "teams": [
+        "Toluca",
+        "Dallas"
+      ],
+      "date": "13/08/2026",
+      "time": "02:00",
+      "tournament": "Leagues Cup (N/C American)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/319257-Toluca-v-Dallas"
     },
     {
       "title": "Independiente Santa Fé v River Plate",
@@ -232,7 +322,7 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
-        "beINSportsMENA 2 HD"
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
         "ysscores"
@@ -249,27 +339,29 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "PolsatSport2 HD",
-        "Sportdigital FUSSBALL HD",
         "ESPN (South America)",
+        "ESPN 4 (México)",
+        "ESPN 5 (CentroAmérica)",
+        "FlashScore Brazil",
         "Fox Sports (Argentina)",
-        "Rádio Tupi",
+        "GE TV",
+        "Paramount+ BRA ($/geo/R)",
+        "PolsatSport2 HD",
+        "Rede 98",
+        "Rádio BandNews FM",
         "Rádio Bandeirantes",
         "Rádio Itatiaia",
-        "Rádio BandNews FM",
-        "beIN Sports MENA 1 HD",
-        "TV Globo",
-        "globoplay",
-        "Paramount+ BRA ($/geo/R)",
-        "ESPN 5 (CentroAmérica)",
-        "ESPN 4 (México)",
-        "Rede 98",
-        "GE TV",
         "Rádio TMC",
-        "FlashScore Brazil"
+        "Rádio Tupi",
+        "Sportdigital FUSSBALL HD",
+        "TV Globo",
+        "World Feed",
+        "beIN Sports MENA 1 HD",
+        "globoplay"
       ],
       "commentators": [
         "Mikhail17",
+        "apltle12",
         "ethanh05",
         "kurtogen",
         "luca80sp",
@@ -287,9 +379,11 @@
       "time": "00:00",
       "tournament": "Leagues Cup",
       "channels": [
-        "Apple TV"
+        "Apple TV",
+        "Fox Sports 1 (US)"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/320303-Monterrey-v-Nashville-SC"
@@ -379,9 +473,11 @@
         "D Sports (Peru)",
         "D Sports (Uruguay)",
         "D sports (Venezuela)",
-        "ESPN (Argentina)"
+        "ESPN (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/320301-Tigre-v-Torque"
@@ -399,9 +495,11 @@
         "Disney+ Argentina ($/geo/R)",
         "Disney+ Central America [$]",
         "ESPN 5 (South America)",
-        "Fox Sports (Argentina)"
+        "Fox Sports (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/320300-Platense-v-Coquimbo-Unido"
@@ -424,9 +522,11 @@
         "ESPN 2 (South America)",
         "FlashScore Brazil",
         "Rede 98",
-        "Rádio Itatiaia"
+        "Rádio Itatiaia",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "luca80sp"
       ],
@@ -442,21 +542,23 @@
       "time": "22:00",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "Polsat Sport 2 HD",
-        "Sportdigital 1+ Deutsch HD",
         "ESPN (South America)",
-        "Rádio Bandeirantes",
-        "Fox Sports 2 (Argentina)",
-        "beIN Sports MENA 3 HD",
         "ESPN 4 (CentroAmérica)",
-        "Paramount+ BRA ($/geo/R)",
         "ESPN Premium (Chile)",
         "Energia 97",
+        "FlashScore Brazil",
+        "Fox Sports 2 (Argentina)",
+        "Paramount+ BRA ($/geo/R)",
+        "Polsat Sport 2 HD",
+        "Rádio Bandeirantes",
         "Rádio CBN",
         "Rádio TMC",
-        "FlashScore Brazil"
+        "Sportdigital 1+ Deutsch HD",
+        "World Feed",
+        "beIN Sports MENA 3 HD"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "kurtogen",
         "luca80sp",
@@ -475,9 +577,11 @@
       "tournament": "CAF African Women's Cup of Nations",
       "channels": [
         "DAZN Deutsch [$] (geo/R)",
-        "DAZN Schweiz [$] (geo/R)"
+        "DAZN Schweiz [$] (geo/R)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/320286-Morocco-v-Cameroon"
@@ -509,26 +613,26 @@
       "time": "19:00",
       "tournament": "UEFA Super Cup",
       "channels": [
-        "FlashScore Romania",
-        "ESPN Premium (Chile)",
-        "TNT Sports (highlights)",
-        "HBO Max (uk only) [$/geo/R]",
-        "FlashScore España",
-        "DAZN Deutsch [$] (geo/R)",
-        "Sky Sport 1 Austria HD",
         "Univision USA",
-        "Fox Sports (Argentina)",
-        "TNT Sports Ultimate 4K (UK)",
-        "Canal+ France HD",
-        "FlashScore Slovakia",
-        "Rádio Itatiaia",
-        "talkSPORT App",
-        "SBT (Brazil)",
-        "FlashScore Germany",
+        "ESPN (CentroAmérica)",
         "beIN Sports MENA 1 HD",
+        "TV2 Play Norge ($/geo/R)",
+        "TUDN (usa)",
+        "BBC Sport Online (Audio)",
+        "Sky Sport 1 Austria HD",
+        "FlashScore Germany",
+        "SBT (Brazil)",
         "Flashscore UK",
-        "HBO Max Brasil [geo/r] [$]",
-        "Servus TV Österreich HD and33more channels"
+        "TNT Sports (highlights)",
+        "ESPN Premium (Chile)",
+        "Servus TV Österreich HD",
+        "FlashScore France",
+        "ESPN (South America)",
+        "FlashScore (audio)",
+        "beIN Sports MENA English 1 HD",
+        "talkSPORT App",
+        "NRK Sport",
+        "FlashScore Croatia and33more channels"
       ],
       "commentators": [
         "Bksm",
@@ -719,9 +823,11 @@
       "tournament": "CAF African Women's Cup of Nations",
       "channels": [
         "DAZN Deutsch [$] (geo/R)",
-        "DAZN Schweiz [$] (geo/R)"
+        "DAZN Schweiz [$] (geo/R)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/320285-Algeria-v-Malawi"
@@ -1002,7 +1108,7 @@
         "Pluto TV CHI (geo/R)",
         "ESPN 5 (Chile)",
         "Disney+ Brazil [$]",
-        "Mi CHV (Chile) (geo/R)",
+        "Mi CHV (Chile)  (geo/R)",
         "Disney+ Argentina ($/geo/R)"
       ],
       "commentators": [
