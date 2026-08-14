@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-14T01:43:45.770532+00:00",
+  "scraped_at": "2026-08-14T06:11:57.151960+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 69,
+  "total_matches": 74,
   "matches": [
     {
       "title": "ITV English Football League Highlights",
@@ -92,11 +92,11 @@
       "time": "16:45",
       "tournament": "Scottish League Cup",
       "channels": [
-        "BBC Radio Scotland",
-        "BBC Radio Scotland Extra",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
         "Premier Sports 1 HD",
+        "BBC Radio Scotland",
+        "BBC Sounds APP",
+        "BBC Radio Scotland Extra",
+        "BBC Sport Online (Audio)",
         "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
@@ -114,14 +114,14 @@
       "time": "16:30",
       "tournament": "English Championship",
       "channels": [
-        "CBS Sports Golazo Network (US)",
-        "ITV English Football League Highlights",
-        "Paramount+ USA ($/geo/R)",
-        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
+        "Sky Sports News / HD",
+        "Sky Sports (highlights)",
+        "ITV English Football League Highlights",
+        "CBS Sports Golazo Network (US)",
         "Sky Sports Main Event UHD",
-        "Sky Sports News / HD"
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
         "HWP",
@@ -278,12 +278,12 @@
       "time": "14:00",
       "tournament": "English Championship",
       "channels": [
-        "ITV English Football League Highlights",
-        "Sky Sports (highlights)",
-        "Sky Sports+ Channel",
-        "Sky Sports+ [via APP]",
         "talkSPORT 2",
-        "talkSPORT App"
+        "talkSPORT App",
+        "Sky Sports (highlights)",
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]",
+        "Sky Sports+ Channel"
       ],
       "commentators": [
         "Crowe24",
@@ -439,10 +439,12 @@
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
         "DAZN Deutsch [$] (geo/R)",
-        "DAZN Schweiz [$] (geo/R)"
+        "DAZN Schweiz [$] (geo/R)",
+        "MBC Action"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/318137-Fiorentina-v-Benevento"
     },
@@ -456,15 +458,16 @@
       "time": "19:00",
       "tournament": "English Championship",
       "channels": [
+        "BBC Radio Lancashire",
+        "CBS Sports Network USA",
+        "EFL KickOff",
+        "Paramount+ USA ($/geo/R)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "talkSPORT",
-        "BBC Radio Lancashire",
-        "talkSPORT App",
-        "CBS Sports Network USA",
         "Sky Sports Main Event UHD",
-        "Paramount+ USA ($/geo/R)",
-        "EFL KickOff"
+        "beIN Sports MENA 2 HD",
+        "talkSPORT",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
@@ -472,7 +475,8 @@
         "SonnyCorry",
         "apltle12",
         "eflkickoff_",
-        "tonay787"
+        "tonay787",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/318136-Wolves-v-Blackburn-Rovers"
     },
@@ -500,6 +504,40 @@
       "match_url": "https://icdb.tv/match/318262-Kilmarnock-v-Ayr-United"
     },
     {
+      "title": "Monza v Avellino",
+      "teams": [
+        "Monza",
+        "Avellino"
+      ],
+      "date": "14/08/2026",
+      "time": "18:45",
+      "tournament": "Italian Cup (Coppa Italia)",
+      "channels": [
+        "MBC Shahid | Sports"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/318118-Monza-v-Avellino"
+    },
+    {
+      "title": "Al Ettifaq v Al Riyadh",
+      "teams": [
+        "Al Ettifaq",
+        "Al Riyadh"
+      ],
+      "date": "14/08/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 2"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320339-Al-Ettifaq-v-Al-Riyadh"
+    },
+    {
       "title": "Al Hilal v Al Faisaly",
       "teams": [
         "Al Hilal",
@@ -515,6 +553,57 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/320195-Al-Hilal-v-Al-Faisaly"
+    },
+    {
+      "title": "Al Hilal v Al Faisaly",
+      "teams": [
+        "Al Hilal",
+        "Al Faisaly"
+      ],
+      "date": "14/08/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/318510-Al-Hilal-v-Al-Faisaly"
+    },
+    {
+      "title": "Cagliari v Arezzo",
+      "teams": [
+        "Cagliari",
+        "Arezzo"
+      ],
+      "date": "14/08/2026",
+      "time": "16:30",
+      "tournament": "Italian Cup (Coppa Italia)",
+      "channels": [
+        "MBC Shahid | Sports"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/319401-Cagliari-v-Arezzo"
+    },
+    {
+      "title": "Parma v Catania",
+      "teams": [
+        "Parma",
+        "Catania"
+      ],
+      "date": "14/08/2026",
+      "time": "16:00",
+      "tournament": "Italian Cup (Coppa Italia)",
+      "channels": [
+        "MBC Shahid | Sports"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/318092-Parma-v-Catania"
     },
     {
       "title": "Portland Timbers v Tijuana",
@@ -560,26 +649,26 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "105 FM",
-        "Disney+ Brazil [$]",
-        "ESPN 2 (South America)",
-        "Pluto TV Latin America (geo/R)",
-        "Telefe (argentina) / HD",
-        "Rádio TMC",
-        "Rádio Bandeirantes",
-        "ESPN Venezuela",
-        "Disney+ Argentina ($/geo/R)",
-        "Sportdigital FUSSBALL HD",
-        "ESPN 2 (Peru)",
-        "Rádio Jovem Pan",
-        "Energia 97",
-        "ESPN 5 (Chile)",
         "ESPN Ecuador",
-        "ESPN (Colombia)",
-        "Rádio CBN",
-        "YouTube: Telefe",
+        "Energia 97",
         "Fox Sports (Argentina)",
-        "ESPN (Brazil) and1more channels"
+        "ESPN Venezuela",
+        "Rádio Jovem Pan",
+        "Rádio TMC",
+        "ESPN 5 (Chile)",
+        "Rádio CBN",
+        "105 FM",
+        "ESPN (Colombia)",
+        "Pluto TV Latin America (geo/R)",
+        "Sportdigital FUSSBALL HD",
+        "Rádio BandNews FM",
+        "YouTube: Telefe",
+        "ESPN 2 (Peru)",
+        "Disney+ Brazil [$]",
+        "Rádio Bandeirantes",
+        "ESPN 2 (South America)",
+        "Disney+ Argentina ($/geo/R)",
+        "Telefe (argentina) / HD and1more channels"
       ],
       "commentators": [
         "kurtogen",
@@ -907,6 +996,9 @@
       "date": "13/08/2026",
       "time": "18:30",
       "tournament": "UEFA Europa League",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "apltle12"
       ],
