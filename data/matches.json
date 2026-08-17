@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17T05:33:55.544156+00:00",
+  "scraped_at": "2026-08-17T10:29:36.013963+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 87,
+  "total_matches": 92,
   "matches": [
     {
       "title": "Dinamo Zagreb v Viking",
@@ -400,13 +400,33 @@
         "ESPN (South America)",
         "ESPN 5 (CentroAmérica)",
         "ESPN Premium (Argentina)",
-        "Sportdigital FUSSBALL HD"
+        "Premier Sports Player UK (£/geo/R)",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "kurtogen",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/318961-River-Plate-v-Argentinos-Juniors"
+    },
+    {
+      "title": "Las Palmas v Albacete",
+      "teams": [
+        "Las Palmas",
+        "Albacete"
+      ],
+      "date": "16/08/2026",
+      "time": "19:30",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318748-Las-Palmas-v-Albacete"
     },
     {
       "title": "Famalicão v Marítimo",
@@ -513,10 +533,12 @@
         "Channel 4 [App]",
         "DAZN Deutsch [$] (geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "E4 UK HD"
+        "E4 UK HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
+        "HWP",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/320558-Cameroon-v-Malawi"
@@ -582,10 +604,15 @@
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
         "MBC Shahid | Sports",
-        "Mediaset 20 Italia HD"
+        "Mediaset 20 Italia HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "TSN Malta 7 HD",
+        "VG+ Sport Norge ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
+        "HWP",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/318742-Hellas-Verona-v-Virtus-Entella"
@@ -692,9 +719,28 @@
         "Sky Sport 1 Austria HD"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/319271-Rapid-Vienna-v-Grazer-AK"
+    },
+    {
+      "title": "Girona v Leganés",
+      "teams": [
+        "Girona",
+        "Leganés"
+      ],
+      "date": "16/08/2026",
+      "time": "17:00",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "TSN Malta 2 HD",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318732-Girona-v-Legans"
     },
     {
       "title": "Liverpool v Como 1907",
@@ -706,13 +752,17 @@
       "time": "17:00",
       "tournament": "Friendly Club Match",
       "channels": [
+        "Como TV ($/geo/R)",
         "LFC TV HD",
         "Sky Sport News Deutsch HD",
         "Sky Sport Premier League DE HD",
-        "Sky Sport Top Event HD"
+        "Sky Sport Top Event HD",
+        "World Feed"
       ],
       "commentators": [
         "AndyRoo_0860",
+        "HWP",
+        "Mikhail17",
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/318729-Liverpool-v-Como-1907"
@@ -882,6 +932,23 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/318869-Schalke-04-v-Real-Madrid"
+    },
+    {
+      "title": "Eibar v Tenerife",
+      "teams": [
+        "Eibar",
+        "Tenerife"
+      ],
+      "date": "16/08/2026",
+      "time": "15:00",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318706-Eibar-v-Tenerife"
     },
     {
       "title": "Racing Santander v Villarreal",
@@ -1107,26 +1174,26 @@
       "time": "14:00",
       "tournament": "English FA Community Shield",
       "channels": [
-        "HBO Max (uk only) [$/geo/R]",
-        "Nova Sport 1 Czech HD",
-        "Sky Sports News / HD",
-        "ESPN+ USA ($/geo/R)",
-        "Arsenal App",
-        "FlashScore España",
-        "BBC RADIO 5 LIVE",
-        "ESPN Unlimited (US)",
-        "FOX (México) [$] (geo/R)",
-        "BBC Sport Online (Audio)",
-        "TNT (México) / HD",
-        "Flashscore UK",
-        "BBC Sounds APP",
-        "talkSPORT",
-        "FlashScore (audio)",
-        "FlashScore Romania",
-        "HBO Max México [$] (geo/R)",
-        "YouTube: Man City",
+        "FlashScore Portugal",
         "Arsenal.com",
-        "FlashScore Portugal and23more channels"
+        "Disney+ Latin America [$]",
+        "TNT Sports 1 HD (UK)",
+        "Arsenal App",
+        "FlashScore (audio)",
+        "BBC Sport Online (Audio)",
+        "talkRadio",
+        "BBC World Service",
+        "Recast: Manchester City [$]",
+        "FOX+ (Mexico)",
+        "FlashScore France",
+        "FlashScore Brazil",
+        "ESPN+ USA ($/geo/R)",
+        "beIN Sports MENA English 1 HD",
+        "talkSPORT App",
+        "BBC RADIO 5 LIVE",
+        "ESPN (South America)",
+        "FlashScore Croatia",
+        "HBO Max México [$] (geo/R) and23more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1321,26 +1388,26 @@
       "time": "12:30",
       "tournament": "English Championship",
       "channels": [
-        "CBS Sports Golazo Network (US)",
-        "BBC Three Counties Radio (FM)",
-        "Cosmote Sport",
-        "BBC RADIO 5 LIVE",
-        "Sky Sports Main Event UHD",
-        "TSN Malta 1 HD",
-        "Sky Sports Main Event HD",
+        "Sky Sports Football HD",
+        "beIN Sports Australia 2 HD",
         "beIN Sports MENA 2 HD",
         "beIN Sports MENA English 2 HD",
-        "Sky Sports Football HD",
-        "talkSPORT 2",
-        "talkSPORT App",
-        "beIN Sports Australia 2 HD",
-        "World Feed",
-        "Sky Sports (highlights)",
         "CBS Sports Golazo N/W (geo/R)",
-        "beIN Sports MENA English 1 HD",
+        "talkSPORT App",
+        "Sky Sports News / HD",
         "talkSPORT",
+        "CBS Sports Golazo Network (US)",
+        "World Feed",
+        "BBC Three Counties Radio (FM)",
+        "talkSPORT 2",
+        "BBC RADIO 5 LIVE",
+        "Sky Sports (highlights)",
+        "beIN Sports MENA English 1 HD",
+        "Cosmote Sport",
         "BBC Radio Solent",
-        "Sky Sports News / HD and0more channels"
+        "TSN Malta 1 HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD and0more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1592,6 +1659,40 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/318648-Hansa-Rostock-v-Waldhof-Mannheim"
+    },
+    {
+      "title": "Lyon v Eintracht Frankfurt",
+      "teams": [
+        "Lyon",
+        "Eintracht Frankfurt"
+      ],
+      "date": "16/08/2026",
+      "time": "11:00",
+      "tournament": "Friendly Club Match (W)",
+      "channels": [
+        "Eintracht TV"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321374-Lyon-v-Eintracht-Frankfurt"
+    },
+    {
+      "title": "Bayer Leverkusen U-17 v Mainz 05 U-17",
+      "teams": [
+        "Bayer Leverkusen U-17",
+        "Mainz 05 U-17"
+      ],
+      "date": "16/08/2026",
+      "time": "11:00",
+      "tournament": "German Under 17 Bundesliga",
+      "channels": [
+        "Werkself-TV"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321367-Bayer-Leverkusen-U17-v-Mainz-05-U17"
     },
     {
       "title": "- SKY DE - v - KONFERENZ -",
