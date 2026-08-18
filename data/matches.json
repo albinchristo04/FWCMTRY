@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18T01:10:29.294749+00:00",
+  "scraped_at": "2026-08-18T05:26:07.356366+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 30,
+  "total_matches": 33,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -74,6 +74,40 @@
       "match_url": "https://icdb.tv/match/321400-BBC-WM-Sport"
     },
     {
+      "title": "Recoleta v Boca Juniors",
+      "teams": [
+        "Recoleta",
+        "Boca Juniors"
+      ],
+      "date": "18/08/2026",
+      "time": "22:00",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "beINSportsMENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/318968-Recoleta-v-Boca-Juniors"
+    },
+    {
+      "title": "Levski Sofia v AEK Athens",
+      "teams": [
+        "Levski Sofia",
+        "AEK Athens"
+      ],
+      "date": "18/08/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "beIN Sports MENA 3 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320376-Levski-Sofia-v-AEK-Athens"
+    },
+    {
       "title": "Dinamo Zagreb v Viking",
       "teams": [
         "Dinamo Zagreb",
@@ -83,10 +117,12 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "World Feed"
+        "World Feed",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320375-Dinamo-Zagreb-v-Viking"
     },
@@ -100,10 +136,15 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Amazon Prime UK [$]"
+        "Amazon Prime UK [$]",
+        "Canal+ France HD",
+        "Canal+ Live 1 France HD",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
-        "Crowe24"
+        "Cr17",
+        "Crowe24",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320222-Fenerbahe-v-Lyon"
     },
@@ -120,6 +161,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/321399-BBC-WM-Sport"
+    },
+    {
+      "title": "Heidenheim v Bayern Munich",
+      "teams": [
+        "Heidenheim",
+        "Bayern Munich"
+      ],
+      "date": "18/08/2026",
+      "time": "16:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "KTVSport"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320221-Heidenheim-v-Bayern-Munich"
     },
     {
       "title": "Gimnasia Mendoza v Talleres Córdoba",
