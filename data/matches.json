@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18T05:26:07.356366+00:00",
+  "scraped_at": "2026-08-18T10:25:41.433753+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 33,
+  "total_matches": 35,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -282,12 +282,32 @@
       "time": "20:00",
       "tournament": "Argentinean Primera División",
       "channels": [
-        "TNT Sports Premium (Argentina)"
+        "Premier Sports Player UK (£/geo/R)",
+        "TNT Sports Premium (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/321446-Lans-v-Independiente"
+    },
+    {
+      "title": "Almería v Eldense",
+      "teams": [
+        "Almería",
+        "Eldense"
+      ],
+      "date": "17/08/2026",
+      "time": "19:30",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318896-Almera-v-Eldense"
     },
     {
       "title": "Palermo v Lecce",
@@ -299,20 +319,22 @@
       "time": "19:15",
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
-        "Polsat Sport 2 HD",
         "DAZN Deutsch [$] (geo/R)",
         "DAZN Schweiz [$] (geo/R)",
         "Italia 1 HD",
-        "YouTube: Telemundo Deportes",
-        "MBC Shahid | Sports",
         "MBC Action",
-        "Paramount+ USA ($/geo/R)"
+        "MBC Shahid | Sports",
+        "Paramount+ USA ($/geo/R)",
+        "Polsat Sport 2 HD",
+        "TSN Malta 3 HD",
+        "World Feed",
+        "YouTube: Telemundo Deportes"
       ],
       "commentators": [
         "Guest-SC",
+        "HWP",
         "bigddan11",
         "ethanh05",
-        "kurtogen",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/318895-Palermo-v-Lecce"
@@ -327,11 +349,15 @@
       "time": "19:15",
       "tournament": "Portuguese Liga 1",
       "channels": [
-        "Sportdigital FUSSBALL HD",
         "Eleven Sports 1 Polska HD",
-        "FlashScore Portugal"
+        "FlashScore Portugal",
+        "Sportdigital FUSSBALL HD",
+        "Sporty TV Africa",
+        "VG+ Sport Norge ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "Johnny17",
         "ethanh05"
       ],
@@ -379,19 +405,21 @@
       "time": "19:00",
       "tournament": "English Championship",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Radio Wales",
+        "Cardiff City Audio Description",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "World Feed",
-        "talkSPORT 2",
-        "BBC Radio Wales",
-        "BBC RADIO 5 LIVE",
-        "Sky Sports News / HD",
-        "talkSPORT App",
-        "beIN Sports MENA 1 HD",
-        "Sky Sports (highlights)",
         "Sky Sports Main Event UHD",
-        "Cardiff City Audio Description",
-        "Paramount+ USA ($/geo/R)"
+        "Sky Sports News / HD",
+        "World Feed",
+        "beIN Sports Australia 3 HD",
+        "beIN Sports MENA 1 HD",
+        "beIN Sports MENA English 1 HD",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
@@ -413,14 +441,19 @@
       "time": "18:45",
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
-        "YouTube: Telemundo Deportes",
         "CBS Sports Golazo Network (US)",
-        "Mediaset 20 Italia HD",
         "MBC Shahid | Sports",
-        "Paramount+ USA ($/geo/R)"
+        "Mediaset 20 Italia HD",
+        "Paramount+ USA ($/geo/R)",
+        "Premier Sports Player UK (£/geo/R)",
+        "TSN Malta 7 HD",
+        "VG+ Sport Norge ($/geo/R)",
+        "World Feed",
+        "YouTube: Telemundo Deportes"
       ],
       "commentators": [
         "Guest-SC",
+        "HWP",
         "bigddan11",
         "ysscores"
       ],
@@ -491,6 +524,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/321398-BBC-WM-Sport"
+    },
+    {
+      "title": "Sporting Gijón v Sabadell",
+      "teams": [
+        "Sporting Gijón",
+        "Sabadell"
+      ],
+      "date": "17/08/2026",
+      "time": "17:00",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/318885-Sporting-Gijn-v-Sabadell"
     },
     {
       "title": "ARKA Gdynia v Puszcza Niepolomice",
