@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19T05:28:59.647390+00:00",
+  "scraped_at": "2026-08-19T10:25:42.833730+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 49,
+  "total_matches": 51,
   "matches": [
     {
       "title": "BBC Euro Leagues",
@@ -200,7 +200,7 @@
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
         "Sportdigital 1+ Deutsch HD",
-        "beINSportsMENA 2 HD"
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
         "kurtogen",
@@ -235,7 +235,7 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "DAZN Deutsch ($/geo/R)",
-        "SkySportAustria Konferenz"
+        "Sky Sport Austria Konferenz"
       ],
       "commentators": [
         "kurtogen"
@@ -280,11 +280,15 @@
         "DAZN 2 Bar Deutsch HD",
         "DAZN Deutsch ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
+        "Premier Sports 1 HD (ROI only)",
+        "RTÉ 2 Ireland / HD",
+        "RTÉ Player (geo/R)",
         "TNT Sports 1 HD (UK)",
         "TNT Sports Ultimate 4K (UK)",
         "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "ImpactPlayaz",
         "SonnyCorry",
         "kurtogen",
         "ysscores"
@@ -322,13 +326,12 @@
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
         "DAZN 1 Bar Deutsch HD",
-        "Premier Sports 2 HD",
-        "World Feed",
-        "Premier Sports 2 HD (ROI only)",
-        "LaLiga TV International HD",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Italia ($/geo/R)",
+        "LaLiga TV International HD",
+        "Premier Sports 1 HD",
         "Premier Sports Player UK (£/geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
@@ -350,6 +353,24 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/320182-BBC-5-Live-Sport"
+    },
+    {
+      "title": "Mansfield Town v Manchester City U-21",
+      "teams": [
+        "Mansfield Town",
+        "Manchester City U-21"
+      ],
+      "date": "19/08/2026",
+      "time": "18:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/321495-Mansfield-Town-v-Manchester-City-U21"
     },
     {
       "title": "BBC Manchester Total Sport",
@@ -435,9 +456,11 @@
         "Rádio CBN",
         "Rádio TMC",
         "SBT (Brazil)",
+        "World Feed",
         "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "HWP",
         "ethanh05",
         "luca80sp",
         "ysscores"
@@ -460,9 +483,11 @@
         "ESPN Ecuador",
         "ESPN Premium (Chile)",
         "ESPN Venezuela",
-        "Fox Sports 2 (Argentina)"
+        "Fox Sports 2 (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/321625-Tolima-v-Independiente-del-Valle"
@@ -491,11 +516,13 @@
         "ESPN Peru",
         "ESPN Uruguay",
         "Fox Sports (Argentina)",
-        "Mi CHV (Chile)  (geo/R)",
+        "Mi CHV (Chile) (geo/R)",
         "Pluto TV CHI (geo/R)",
+        "World Feed",
         "beIN Sports Español"
       ],
       "commentators": [
+        "HWP",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/321624-Universidad-Catlica-Chile-v-Estudiantes-LP"
@@ -537,9 +564,11 @@
         "Fox Sports (Argentina)",
         "Rádio CBN",
         "Rádio Tupi",
+        "World Feed",
         "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "HWP",
         "ethanh05",
         "luca80sp",
         "ysscores"
@@ -556,15 +585,19 @@
       "time": "22:00",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "ESPN (South America)",
+        "ESPN 4 (CentroAmérica)",
+        "FlashScore España",
+        "Paramount+ BRA ($/geo/R)",
         "Polsat Sport 2 HD",
         "Sportdigital FUSSBALL HD",
-        "ESPN (South America)",
+        "World Feed",
+        "beIN Connect Australia",
         "beIN Sports MENA 2 HD",
-        "ESPN 4 (CentroAmérica)",
-        "Paramount+ BRA ($/geo/R)",
-        "FlashScore España"
+        "beIN Sports MENA English 1 HD"
       ],
       "commentators": [
+        "HWP",
         "ethanh05",
         "kurtogen",
         "luca80sp",
@@ -613,29 +646,31 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Canal+ Sport France HD",
-        "World Feed",
         "ESPN 2 (Latin America)",
-        "Fox Sports (Argentina)",
-        "TUDN (usa)",
-        "beIN Sports MENA 3 HD",
-        "Sky Sport Austria Konferenz",
-        "HBO Max México [$] (geo/R)",
-        "TNT (México) / HD",
         "HBO Max Brasil [geo/r] [$]",
-        "TNT Sports 2 HD (UK)",
-        "ESPN Premium (Chile)",
-        "ESPN 5 (Chile)",
+        "Canal+ Sport France HD",
+        "beIN Sports MENA 3 HD",
+        "TUDN (usa)",
+        "Blue ZOOM D Schweiz",
+        "DAZN Deutsch ($/geo/R)",
         "Canal+ Extra 5 Polska HD",
         "Disney+ Argentina ($/geo/R)",
-        "DAZN Deutsch ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
+        "Sky Sport Austria Konferenz",
+        "World Feed",
+        "Fox Sports (Argentina)",
         "Canal+ Sport 6 Polska HD",
-        "Hbo max (u"
+        "HBO Max México [$] (geo/R)",
+        "Hbo max (u",
+        "TNT (México) / HD",
+        "ESPN 5 (Chile)",
+        "ESPN Premium (Chile)",
+        "TNT Sports 2 HD (UK) and0more channels"
       ],
       "commentators": [
         "AnthonyB94",
         "Crowe24",
+        "Johnny17",
         "SYLVESTRE",
         "ethanh05",
         "kurtogen",
@@ -654,25 +689,25 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Space (México)",
-        "HBO Max Brasil [geo/r] [$]",
-        "Canal+ Extra 2 Polska HD",
-        "beIN Sports MENA 2 HD",
-        "TNT Sports 1 HD (UK)",
-        "Sky Sport Austria Konferenz",
-        "Canal+ Foot HD",
-        "Virgin Media Two HD",
-        "HBO Max (uk only) [$/geo/R]",
-        "NRK Sport",
-        "TV2 Play Norge ($/geo/R)",
-        "HBO Max México [$] (geo/R)",
-        "Virgin Media Play (geo/R)",
-        "Blue Sport D 1 HD",
         "World Feed",
-        "FlashScore Croatia",
-        "Disney+ Central America [$]",
-        "ESPN 2 (Chile)",
+        "HBO Max Brasil [geo/r] [$]",
+        "Space (México)",
+        "HBO Max (uk only) [$/geo/R]",
+        "HBO Max México [$] (geo/R)",
+        "Virgin Media Two HD",
+        "Blue Sport D 1 HD",
+        "NRK Sport",
+        "Virgin Media Play (geo/R)",
         "Space (Brazil)",
+        "ESPN 2 (Chile)",
+        "Vix Premium (USA)",
+        "DAZN Deutsch ($/geo/R)",
+        "beIN Sports MENA 2 HD",
+        "Canal+ Extra 2 Polska HD",
+        "Disney+ Central America [$]",
+        "FlashScore Croatia",
+        "TV2 Play Norge ($/geo/R)",
+        "Sky Sport Austria Konferenz",
         "ESPN 3 (Argentina) and3more channels"
       ],
       "commentators": [
@@ -858,6 +893,7 @@
         "BR24 Sport [online]"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/321602-Aubstadt-v-1860-Munich"
@@ -875,6 +911,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/321399-BBC-WM-Sport"
+    },
+    {
+      "title": "TSG Balingen v VfR Aalen",
+      "teams": [
+        "TSG Balingen",
+        "VfR Aalen"
+      ],
+      "date": "18/08/2026",
+      "time": "16:30",
+      "tournament": "German Regional Cup",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321716-TSG-Balingen-v-VfR-Aalen"
     },
     {
       "title": "Al Jabalain v Al Ettifaq",
