@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19T10:25:42.833730+00:00",
+  "scraped_at": "2026-08-19T20:24:15.729639+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 51,
+  "total_matches": 59,
   "matches": [
     {
       "title": "BBC Euro Leagues",
@@ -135,6 +135,24 @@
       "match_url": "https://icdb.tv/match/320709-Troms-v-Brighton-HA"
     },
     {
+      "title": "Torque v Tigre",
+      "teams": [
+        "Torque",
+        "Tigre"
+      ],
+      "date": "20/08/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "D Sports (South America)",
+        "D Sports (Uruguay)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/321724-Torque-v-Tigre"
+    },
+    {
       "title": "Flamengo v Cruzeiro",
       "teams": [
         "Flamengo",
@@ -144,10 +162,26 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "GE TV",
-        "Sportdigital 1+ Deutsch HD",
+        "Paramount+ BRA ($/geo/R)",
+        "Rádio CBN",
+        "Fox Sports (Argentina)",
+        "globoplay",
+        "ESPN Bolivia",
+        "Rede 98",
+        "ESPN Peru",
+        "ESPN 2 (Venezuela)",
         "TV Globo",
-        "globoplay"
+        "Rádio Itatiaia",
+        "ESPN Uruguay",
+        "Rádio Tupi",
+        "Sportdigital 1+ Deutsch HD",
+        "ESPN 5 (Chile)",
+        "ESPN 4 (México)",
+        "Rádio TMC",
+        "GE TV",
+        "Rádio Bandeirantes",
+        "ESPN 2 (Colombia)",
+        "ESPN 2 (Ecuador) and1more channels"
       ],
       "commentators": [
         "kurtogen",
@@ -165,9 +199,19 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "D Sports (Chile)",
+        "D Sports (Peru)",
+        "D Sports (Uruguay)",
+        "ESPN (Argentina)",
+        "ESPN (Colombia)",
+        "ESPN 5 (CentroAmérica)",
+        "ESPN Ecuador",
+        "ESPN Mexico",
+        "ESPN Venezuela",
         "beIN Sports MENA 2 HD"
       ],
       "commentators": [
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/319183-Independiente-Santa-F-v-River-Plate"
@@ -190,6 +234,74 @@
       "match_url": "https://icdb.tv/match/319182-Flamengo-v-Cruzeiro"
     },
     {
+      "title": "Racing Club v Belgrano",
+      "teams": [
+        "Racing Club",
+        "Belgrano"
+      ],
+      "date": "19/08/2026",
+      "time": "22:15",
+      "tournament": "Argentinean Cup (Copa Argentina)",
+      "channels": [
+        "TyC Sports"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/321726-Racing-Club-v-Belgrano"
+    },
+    {
+      "title": "Atlético Mineiro v Bragantino",
+      "teams": [
+        "Atlético Mineiro",
+        "Bragantino"
+      ],
+      "date": "19/08/2026",
+      "time": "22:00",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "D Sports (Chile)",
+        "D Sports (Peru)",
+        "D Sports (Uruguay)",
+        "Disney+ Brazil [$]",
+        "Disney+ Mexico [$]",
+        "ESPN (Brazil)",
+        "ESPN 2 (Colombia)",
+        "ESPN 2 (Ecuador)",
+        "ESPN 2 (Venezuela)",
+        "ESPN 3 (Argentina)",
+        "Rede 98",
+        "Rádio Itatiaia"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/321725-Atltico-Mineiro-v-Bragantino"
+    },
+    {
+      "title": "Coquimbo Unido v Platense",
+      "teams": [
+        "Coquimbo Unido",
+        "Platense"
+      ],
+      "date": "19/08/2026",
+      "time": "22:00",
+      "tournament": "CONMEBOL Copa Libertadores",
+      "channels": [
+        "Disney+ Argentina ($/geo/R)",
+        "Disney+ Central America [$]",
+        "ESPN 5 (Chile)",
+        "ESPN 5 (Colombia)",
+        "ESPN 5 (Peru)",
+        "ESPN 5 (South America)",
+        "Fox Sports (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/321723-Coquimbo-Unido-v-Platense"
+    },
+    {
       "title": "Cerro Porteño v Palmeiras",
       "teams": [
         "Cerro Porteño",
@@ -200,10 +312,20 @@
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
         "Sportdigital 1+ Deutsch HD",
-        "beIN Sports MENA 2 HD"
+        "ESPN 2 (South America)",
+        "Rádio Bandeirantes",
+        "Fox Sports 2 (Argentina)",
+        "Rádio BandNews FM",
+        "beIN Sports MENA 2 HD",
+        "Paramount+ BRA ($/geo/R)",
+        "ESPN Premium (Chile)",
+        "ESPN 4 (México)",
+        "Energia 97",
+        "Rádio CBN"
       ],
       "commentators": [
         "kurtogen",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/319055-Cerro-Porteo-v-Palmeiras"
@@ -234,11 +356,16 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "DAZN Deutsch ($/geo/R)",
-        "Sky Sport Austria Konferenz"
+        "ESPN 3 (South America)",
+        "Fox Sports 2 (Argentina)",
+        "Sky Sport Austria Konferenz",
+        "Disney+ Central America [$]",
+        "Disney+ Argentina ($/geo/R)",
+        "DAZN Deutsch ($/geo/R)"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/320380-Hapoel-Beer-Sheva-v-Sabah"
     },
@@ -252,12 +379,21 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "DAZN Deutsch ($/geo/R)",
+        "World Feed",
+        "ESPN 2 (Chile)",
+        "beIN Sports MENA 3 HD",
         "Sky Sport Austria Konferenz",
-        "beIN Sports MENA 3 HD"
+        "ESPN 3 (Argentina)",
+        "TNT Sports 4 HD (UK)",
+        "ESPN 5 (South America)",
+        "Disney+ Central America [$]",
+        "DAZN Deutsch ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]"
       ],
       "commentators": [
+        "HWP",
         "kurtogen",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320379-Slovan-Bratislava-v-Celje"
@@ -272,25 +408,36 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "BBC Radio 5 Sports Extra 2",
+        "Radio Clyde 1",
         "BBC Radio Scotland Extra",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "Canal+ Österreich [€]",
-        "DAZN 2 Bar Deutsch HD",
-        "DAZN Deutsch ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]",
         "Premier Sports 1 HD (ROI only)",
-        "RTÉ 2 Ireland / HD",
-        "RTÉ Player (geo/R)",
-        "TNT Sports 1 HD (UK)",
+        "beIN Sports MENA 1 HD",
+        "BBC RADIO 5 LIVE",
+        "HBO Max (uk only) [$/geo/R]",
+        "Canal+ Österreich [€]",
+        "Fox Sports (Argentina)",
+        "DAZN 2 Bar Deutsch HD",
+        "Disney+ Argentina ($/geo/R)",
         "TNT Sports Ultimate 4K (UK)",
-        "beIN Sports MENA 1 HD"
+        "DAZN Deutsch ($/geo/R)",
+        "BBC Radio 5 Sports Extra 2",
+        "RTÉ Player (geo/R)",
+        "RTÉ 2 Ireland / HD",
+        "World Feed",
+        "TNT Sports (highlights)",
+        "TNT Sports 1 HD (UK)",
+        "ESPN (Latin America)",
+        "talkSPORT and3more channels"
       ],
       "commentators": [
+        "AnthonyB94",
+        "Crowe24",
+        "HWP",
         "ImpactPlayaz",
+        "SYLVESTRE",
         "SonnyCorry",
         "kurtogen",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320378-Celtic-v-LASK-Linz"
@@ -305,12 +452,24 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "DAZN Deutsch ($/geo/R)",
+        "Virgin Media Two HD",
+        "World Feed",
+        "ESPN 2 (South America)",
+        "ESPN 2 (CentroAmérica)",
+        "beIN Sports MENA 4 HD",
         "Sky Sport Austria Konferenz",
-        "beIN Sports MENA 4 HD"
+        "TNT Sports 2 HD (UK)",
+        "ESPN Premium (Chile)",
+        "ESPN 5 (Chile)",
+        "Virgin Media Play (geo/R)",
+        "DAZN Deutsch ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]"
       ],
       "commentators": [
+        "HWP",
+        "ImpactPlayaz",
         "kurtogen",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320377-NEC-Nijmegen-v-BodGlimt"
@@ -325,9 +484,12 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "D Sports (South America)",
         "DAZN 1 Bar Deutsch HD",
         "DAZN Deutsch ($/geo/R)",
         "DAZN Italia ($/geo/R)",
+        "Disney+ France (€/geo/R)",
+        "ESPN Deportes",
         "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports Player UK (£/geo/R)",
@@ -336,7 +498,9 @@
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
-        "kurtogen"
+        "SYLVESTRE",
+        "kurtogen",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/319054-Atltico-Madrid-v-Mlaga"
     },
@@ -352,7 +516,41 @@
       "commentators": [
         "Crowe24"
       ],
-      "match_url": "https://icdb.tv/match/320182-BBC-5-Live-Sport"
+      "match_url": "https://icdb.tv/match/321721-BBC-5-Live-Sport"
+    },
+    {
+      "title": "talkSPORT The Transfer Insiders",
+      "date": "19/08/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "talkSPORT",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/321727-talkSPORT-The-Transfer-Insiders"
+    },
+    {
+      "title": "Barcelona v Al Ahly",
+      "teams": [
+        "Barcelona",
+        "Al Ahly"
+      ],
+      "date": "19/08/2026",
+      "time": "18:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "TV3 Catalunya HD",
+        "3Cat (geo/R)",
+        "FlashScore España"
+      ],
+      "commentators": [
+        "ImpactPlayaz",
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321722-Barcelona-v-Al-Ahly"
     },
     {
       "title": "Mansfield Town v Manchester City U-21",
@@ -365,6 +563,8 @@
       "tournament": "English League Trophy",
       "channels": [
         "Sky Sports (highlights)",
+        "BBC Radio Nottingham (FM)",
+        "BBC Radio Northampton (FM)",
         "Sky Sports+ [via APP]"
       ],
       "commentators": [
@@ -399,6 +599,42 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/321400-BBC-WM-Sport"
+    },
+    {
+      "title": "APIA Leichhardt v Melbourne City",
+      "teams": [
+        "APIA Leichhardt",
+        "Melbourne City"
+      ],
+      "date": "19/08/2026",
+      "time": "09:30",
+      "tournament": "Australian Cup",
+      "channels": [
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/321720-APIA-Leichhardt-v-Melbourne-City"
+    },
+    {
+      "title": "APIA Leichhardt v Melbourne City",
+      "teams": [
+        "APIA Leichhardt",
+        "Melbourne City"
+      ],
+      "date": "19/08/2026",
+      "time": "09:30",
+      "tournament": "Australian Cup",
+      "channels": [
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/321719-APIA-Leichhardt-v-Melbourne-City"
     },
     {
       "title": "Goiás v Juventude",
@@ -646,26 +882,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "ESPN 2 (Latin America)",
-        "HBO Max Brasil [geo/r] [$]",
-        "Canal+ Sport France HD",
-        "beIN Sports MENA 3 HD",
-        "TUDN (usa)",
-        "Blue ZOOM D Schweiz",
-        "DAZN Deutsch ($/geo/R)",
-        "Canal+ Extra 5 Polska HD",
-        "Disney+ Argentina ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]",
         "Sky Sport Austria Konferenz",
-        "World Feed",
+        "beIN Sports MENA 3 HD",
+        "ESPN 2 (Latin America)",
+        "ESPN Premium (Chile)",
+        "Disney+ Argentina ($/geo/R)",
+        "Canal+ Sport France HD",
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports 2 HD (UK)",
+        "DAZN Deutsch ($/geo/R)",
         "Fox Sports (Argentina)",
-        "Canal+ Sport 6 Polska HD",
+        "ESPN 5 (Chile)",
+        "TUDN (usa)",
         "HBO Max México [$] (geo/R)",
         "Hbo max (u",
+        "World Feed",
         "TNT (México) / HD",
-        "ESPN 5 (Chile)",
-        "ESPN Premium (Chile)",
-        "TNT Sports 2 HD (UK) and0more channels"
+        "HBO Max Brasil [geo/r] [$]",
+        "Canal+ Extra 5 Polska HD",
+        "Canal+ Sport 6 Polska HD",
+        "Blue ZOOM D Schweiz and0more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -689,26 +925,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "World Feed",
-        "HBO Max Brasil [geo/r] [$]",
-        "Space (México)",
         "HBO Max (uk only) [$/geo/R]",
-        "HBO Max México [$] (geo/R)",
-        "Virgin Media Two HD",
-        "Blue Sport D 1 HD",
-        "NRK Sport",
-        "Virgin Media Play (geo/R)",
-        "Space (Brazil)",
-        "ESPN 2 (Chile)",
         "Vix Premium (USA)",
+        "Virgin Media Play (geo/R)",
         "DAZN Deutsch ($/geo/R)",
         "beIN Sports MENA 2 HD",
-        "Canal+ Extra 2 Polska HD",
-        "Disney+ Central America [$]",
+        "Space (México)",
+        "World Feed",
+        "Virgin Media Two HD",
+        "ESPN 3 (Argentina)",
         "FlashScore Croatia",
-        "TV2 Play Norge ($/geo/R)",
         "Sky Sport Austria Konferenz",
-        "ESPN 3 (Argentina) and3more channels"
+        "TV2 Play Norge ($/geo/R)",
+        "Disney+ Central America [$]",
+        "HBO Max México [$] (geo/R)",
+        "ESPN 2 (Chile)",
+        "Blue Sport D 1 HD",
+        "HBO Max Brasil [geo/r] [$]",
+        "NRK Sport",
+        "ESPN 5 (South America)",
+        "Canal+ Foot HD and3more channels"
       ],
       "commentators": [
         "AnthonyB94",
