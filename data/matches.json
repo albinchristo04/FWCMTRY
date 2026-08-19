@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19T01:04:58.987906+00:00",
+  "scraped_at": "2026-08-19T05:28:59.647390+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 43,
+  "total_matches": 49,
   "matches": [
     {
       "title": "BBC Euro Leagues",
@@ -44,9 +44,9 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
+        "LaLiga TV International HD",
         "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
@@ -156,6 +156,40 @@
       "match_url": "https://icdb.tv/match/321453-Flamengo-v-Cruzeiro"
     },
     {
+      "title": "Independiente Santa Fé v River Plate",
+      "teams": [
+        "Independiente Santa Fé",
+        "River Plate"
+      ],
+      "date": "20/08/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/319183-Independiente-Santa-F-v-River-Plate"
+    },
+    {
+      "title": "Flamengo v Cruzeiro",
+      "teams": [
+        "Flamengo",
+        "Cruzeiro"
+      ],
+      "date": "20/08/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Libertadores",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/319182-Flamengo-v-Cruzeiro"
+    },
+    {
       "title": "Cerro Porteño v Palmeiras",
       "teams": [
         "Cerro Porteño",
@@ -165,10 +199,12 @@
       "time": "22:00",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "Sportdigital 1+ Deutsch HD"
+        "Sportdigital 1+ Deutsch HD",
+        "beINSportsMENA 2 HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/319055-Cerro-Porteo-v-Palmeiras"
     },
@@ -199,7 +235,7 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "DAZN Deutsch ($/geo/R)",
-        "Sky Sport Austria Konferenz"
+        "SkySportAustria Konferenz"
       ],
       "commentators": [
         "kurtogen"
@@ -217,10 +253,12 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "DAZN Deutsch ($/geo/R)",
-        "Sky Sport Austria Konferenz"
+        "Sky Sport Austria Konferenz",
+        "beIN Sports MENA 3 HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320379-Slovan-Bratislava-v-Celje"
     },
@@ -243,11 +281,13 @@
         "DAZN Deutsch ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
         "TNT Sports 1 HD (UK)",
-        "TNT Sports Ultimate 4K (UK)"
+        "TNT Sports Ultimate 4K (UK)",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "SonnyCorry",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320378-Celtic-v-LASK-Linz"
     },
@@ -262,10 +302,12 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "DAZN Deutsch ($/geo/R)",
-        "Sky Sport Austria Konferenz"
+        "Sky Sport Austria Konferenz",
+        "beIN Sports MENA 4 HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320377-NEC-Nijmegen-v-BodGlimt"
     },
@@ -338,6 +380,42 @@
       "match_url": "https://icdb.tv/match/321400-BBC-WM-Sport"
     },
     {
+      "title": "Goiás v Juventude",
+      "teams": [
+        "Goiás",
+        "Juventude"
+      ],
+      "date": "19/08/2026",
+      "time": "00:30",
+      "tournament": "Brazilian Série B",
+      "channels": [
+        "RedeTV!"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/321649-Gois-v-Juventude"
+    },
+    {
+      "title": "Náutico v Ceará",
+      "teams": [
+        "Náutico",
+        "Ceará"
+      ],
+      "date": "19/08/2026",
+      "time": "00:30",
+      "tournament": "Brazilian Série B",
+      "channels": [
+        "GE TV",
+        "Premiere (Brazil)",
+        "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/321648-Nutico-v-Cear"
+    },
+    {
       "title": "São Paulo v Bolivar SC",
       "teams": [
         "São Paulo",
@@ -401,9 +479,11 @@
       "channels": [
         "Chilevisión",
         "Disney+ Argentina ($/geo/R)",
+        "Disney+ Brazil [$]",
         "ESPN 2 (Colombia)",
         "ESPN 2 (Ecuador)",
         "ESPN 2 (Venezuela)",
+        "ESPN 4 (Brazil)",
         "ESPN 4 (México)",
         "ESPN 5 (Chile)",
         "ESPN Bolivia",
@@ -411,7 +491,7 @@
         "ESPN Peru",
         "ESPN Uruguay",
         "Fox Sports (Argentina)",
-        "Mi CHV (Chile) (geo/R)",
+        "Mi CHV (Chile)  (geo/R)",
         "Pluto TV CHI (geo/R)",
         "beIN Sports Español"
       ],
@@ -574,26 +654,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "Space (México)",
         "HBO Max Brasil [geo/r] [$]",
-        "Disney+ Central America [$]",
-        "NRK Sport",
-        "TNT Sports 1 HD (UK)",
-        "World Feed",
-        "DAZN Deutsch ($/geo/R)",
-        "Space (Brazil)",
-        "ESPN 5 (South America)",
-        "TV2 Play Norge ($/geo/R)",
-        "Vix Premium (USA)",
-        "Virgin Media Two HD",
         "Canal+ Extra 2 Polska HD",
-        "ESPN 2 (Chile)",
         "beIN Sports MENA 2 HD",
-        "HBO Max México [$] (geo/R)",
-        "Blue Sport D 1 HD",
+        "TNT Sports 1 HD (UK)",
         "Sky Sport Austria Konferenz",
-        "ESPN 3 (Argentina)",
+        "Canal+ Foot HD",
+        "Virgin Media Two HD",
         "HBO Max (uk only) [$/geo/R]",
-        "FlashScore Croatia and2more channels"
+        "NRK Sport",
+        "TV2 Play Norge ($/geo/R)",
+        "HBO Max México [$] (geo/R)",
+        "Virgin Media Play (geo/R)",
+        "Blue Sport D 1 HD",
+        "World Feed",
+        "FlashScore Croatia",
+        "Disney+ Central America [$]",
+        "ESPN 2 (Chile)",
+        "Space (Brazil)",
+        "ESPN 3 (Argentina) and3more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -601,6 +681,7 @@
         "HWP",
         "ImpactPlayaz",
         "Johnny17",
+        "SYLVESTRE",
         "ethanh05",
         "kurtogen",
         "luca80sp",
@@ -698,6 +779,23 @@
       "match_url": "https://icdb.tv/match/321637-Al-Diriyah-v-Al-Nassr"
     },
     {
+      "title": "Northampton Town v Brighton U-21",
+      "teams": [
+        "Northampton Town",
+        "Brighton U-21"
+      ],
+      "date": "18/08/2026",
+      "time": "18:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "Sky Sports [app] ($/geo/R)"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/321299-Northampton-Town-v-Brighton-U21"
+    },
+    {
       "title": "Reading v Wycombe Wanderers",
       "teams": [
         "Reading",
@@ -707,12 +805,31 @@
       "time": "18:00",
       "tournament": "English League Trophy",
       "channels": [
+        "Sky Sports [app] ($/geo/R)",
         "Wycombe Sound"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "CharlieGoff"
       ],
       "match_url": "https://icdb.tv/match/321298-Reading-v-Wycombe-Wanderers"
+    },
+    {
+      "title": "Stockport County v Everton U-21",
+      "teams": [
+        "Stockport County",
+        "Everton U-21"
+      ],
+      "date": "18/08/2026",
+      "time": "18:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "Sky Sports [app] ($/geo/R)"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/321297-Stockport-County-v-Everton-U21"
     },
     {
       "title": "BBC Manchester Total Sport",
