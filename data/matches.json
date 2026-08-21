@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21T01:07:33.341821+00:00",
+  "scraped_at": "2026-08-21T05:29:57.617015+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 82,
+  "total_matches": 104,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -84,11 +84,19 @@
       "tournament": "German Super Cup",
       "channels": [
         "Peacock USA ($/geo/R)",
+        "RAN.de Streaming (geo/R)",
+        "SAT.1 Deutschland HD",
+        "SAT.1 Schweiz HD",
+        "SAT.1 Österreich HD",
+        "Sky Sport Bundesliga HD",
+        "Sky Sport Bundesliga UHD",
+        "Sky Sport Top Event HD",
         "Telemundo (usa)",
         "World Feed"
       ],
       "commentators": [
         "HWP",
+        "RHJR",
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/319548-Borussia-Dortmund-v-Bayern-Munich"
@@ -123,11 +131,11 @@
       "time": "16:45",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC Radio Scotland",
-        "BBC Radio Scotland Extra",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
         "Premier Sports 1 HD",
+        "BBC Radio Scotland",
+        "BBC Sounds APP",
+        "BBC Radio Scotland Extra",
+        "BBC Sport Online (Audio)",
         "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
@@ -200,6 +208,64 @@
       "match_url": "https://icdb.tv/match/317013-Brentford-v-Tottenham-Hotspur"
     },
     {
+      "title": "Sonnenhof Großaspach v Arminia Bielefeld",
+      "teams": [
+        "Sonnenhof Großaspach",
+        "Arminia Bielefeld"
+      ],
+      "date": "22/08/2026",
+      "time": "16:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 4 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320235-Sonnenhof-Groaspach-v-Arminia-Bielefeld"
+    },
+    {
+      "title": "1860 Munich v Holstein Kiel",
+      "teams": [
+        "1860 Munich",
+        "Holstein Kiel"
+      ],
+      "date": "22/08/2026",
+      "time": "16:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 2 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320234-1860-Munich-v-Holstein-Kiel"
+    },
+    {
+      "title": "Eintracht Trier v RB Leipzig",
+      "teams": [
+        "Eintracht Trier",
+        "RB Leipzig"
+      ],
+      "date": "22/08/2026",
+      "time": "16:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 3 Deutsch HD",
+        "Sky Sport Germany Konferenz",
+        "Sky Sport MIX Deutsch HD"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320160-Eintracht-Trier-v-RB-Leipzig"
+    },
+    {
       "title": "Athletic Bilbao v Sevilla",
       "teams": [
         "Athletic Bilbao",
@@ -261,10 +327,10 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC Radio Newcastle",
-        "Sky Sports (highlights)",
         "World Feed",
-        "talkSPORT International"
+        "BBC Radio Newcastle",
+        "talkSPORT International",
+        "Sky Sports (highlights)"
       ],
       "commentators": [
         "Crowe24",
@@ -385,6 +451,45 @@
       "match_url": "https://icdb.tv/match/320666-talkSPORT-GameDay-Live"
     },
     {
+      "title": "Hemelingen v Hannover 96",
+      "teams": [
+        "Hemelingen",
+        "Hannover 96"
+      ],
+      "date": "22/08/2026",
+      "time": "13:30",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 3 Deutsch HD",
+        "Sky Sport 8 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320233-Hemelingen-v-Hannover-96"
+    },
+    {
+      "title": "Viktoria Cologne v Nuremberg",
+      "teams": [
+        "Viktoria Cologne",
+        "Nuremberg"
+      ],
+      "date": "22/08/2026",
+      "time": "13:30",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 7 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320232-Viktoria-Cologne-v-Nuremberg"
+    },
+    {
       "title": "Hansa Lüneburg v Werder Bremen",
       "teams": [
         "Hansa Lüneburg",
@@ -394,12 +499,91 @@
       "time": "13:30",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 2 Deutsch HD",
+        "Sky Sport Germany Konferenz",
         "World Feed"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "RHJR"
       ],
       "match_url": "https://icdb.tv/match/320231-Hansa-Lneburg-v-Werder-Bremen"
+    },
+    {
+      "title": "Duisburg v Elversberg",
+      "teams": [
+        "Duisburg",
+        "Elversberg"
+      ],
+      "date": "22/08/2026",
+      "time": "13:30",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 6 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320157-Duisburg-v-Elversberg"
+    },
+    {
+      "title": "Erzgebirge Aue v Hoffenheim",
+      "teams": [
+        "Erzgebirge Aue",
+        "Hoffenheim"
+      ],
+      "date": "22/08/2026",
+      "time": "13:30",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 4 Deutsch HD",
+        "Sky Sport 9 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320156-Erzgebirge-Aue-v-Hoffenheim"
+    },
+    {
+      "title": "Saarbrücken v Hertha Berlin",
+      "teams": [
+        "Saarbrücken",
+        "Hertha Berlin"
+      ],
+      "date": "22/08/2026",
+      "time": "13:30",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL (österreich) / HD",
+        "RTL Deutschland HD",
+        "RTL Schweiz HD",
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 5 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/319489-Saarbrcken-v-Hertha-Berlin"
+    },
+    {
+      "title": "DFB-Pokal Zone",
+      "date": "22/08/2026",
+      "time": "13:15",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "DFB Play (geo/R)",
+        "DFB-Pokal Zone"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/322000-DFBPokal-Zone"
     },
     {
       "title": "Salford City v Chesterfield",
@@ -483,12 +667,12 @@
       "time": "11:30",
       "tournament": "English Premier League",
       "channels": [
-        "HBO Max (uk only) [$/geo/R]",
+        "World Feed",
         "Sky Sports News / HD",
-        "TNT Sports (highlights)",
         "TNT Sports 1 HD (UK)",
         "TNT Sports Ultimate 4K (UK)",
-        "World Feed"
+        "TNT Sports (highlights)",
+        "HBO Max (uk only) [$/geo/R]"
       ],
       "commentators": [
         "Crowe24",
@@ -545,6 +729,43 @@
       "match_url": "https://icdb.tv/match/321081-Sky-Soccer-Saturday"
     },
     {
+      "title": "Wehen Wiesbaden v Bayer Leverkusen",
+      "teams": [
+        "Wehen Wiesbaden",
+        "Bayer Leverkusen"
+      ],
+      "date": "22/08/2026",
+      "time": "11:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320154-Wehen-Wiesbaden-v-Bayer-Leverkusen"
+    },
+    {
+      "title": "Energie Cottbus v Augsburg",
+      "teams": [
+        "Energie Cottbus",
+        "Augsburg"
+      ],
+      "date": "22/08/2026",
+      "time": "11:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport Germany Konferenz",
+        "Sky Sport MIX Deutsch HD"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320153-Energie-Cottbus-v-Augsburg"
+    },
+    {
       "title": "Real Betis v Real Sociedad",
       "teams": [
         "Real Betis",
@@ -554,13 +775,15 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/319316-Real-Betis-v-Real-Sociedad"
     },
@@ -574,14 +797,18 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
+        "NBC Universo USA",
+        "Peacock USA ($/geo/R)",
         "SiriusXM FC",
         "Sky Sports Main Event HD",
         "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
         "Sky Sports Premier League HD",
+        "TeleXitos (usa)",
         "U-Next",
         "USA Network App (USA)",
         "USA Network HD",
+        "beIN Sports MENA 1 HD",
         "talkSPORT",
         "talkSPORT App",
         "talkSPORT International"
@@ -591,7 +818,8 @@
         "Crowe24",
         "SonnyCorry",
         "Xav",
-        "bigddan11"
+        "bigddan11",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/317009-Arsenal-v-Coventry-City"
     },
@@ -604,10 +832,55 @@
       "date": "21/08/2026",
       "time": "18:45",
       "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "AD Sports 2",
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 2 Deutsch HD",
+        "Sky Sport MIX Deutsch HD",
+        "World Feed",
+        "ZDF / HD",
+        "ZDFmediathek"
+      ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "RHJR",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/319307-Hansa-Rostock-v-Stuttgart"
+    },
+    {
+      "title": "Marseille v Strasbourg",
+      "teams": [
+        "Marseille",
+        "Strasbourg"
+      ],
+      "date": "21/08/2026",
+      "time": "18:45",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "beIN Sports MENA 4 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/319297-Marseille-v-Strasbourg"
+    },
+    {
+      "title": "Erzurumspor v Galatasaray",
+      "teams": [
+        "Erzurumspor",
+        "Galatasaray"
+      ],
+      "date": "21/08/2026",
+      "time": "18:30",
+      "tournament": "Türkiye Süper Lig",
+      "channels": [
+        "beIN Sports MENA 3 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/319820-Erzurumspor-v-Galatasaray"
     },
     {
       "title": "Inverness CT v Partick Thistle",
@@ -627,6 +900,23 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/319296-Inverness-CT-v-Partick-Thistle"
+    },
+    {
+      "title": "Al Faisaly v NEOM SC",
+      "teams": [
+        "Al Faisaly",
+        "NEOM SC"
+      ],
+      "date": "21/08/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah APP"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/321752-Al-Faisaly-v-NEOM-SC"
     },
     {
       "title": "BBC Premier League Kick-Off",
@@ -658,6 +948,23 @@
       "match_url": "https://icdb.tv/match/321402-BBC-WM-Sport"
     },
     {
+      "title": "Al Arabi v Al Shamal",
+      "teams": [
+        "Al Arabi",
+        "Al Shamal"
+      ],
+      "date": "21/08/2026",
+      "time": "16:30",
+      "tournament": "Qatar Stars League",
+      "channels": [
+        "beIN Sports HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/321750-Al-Arabi-v-Al-Shamal"
+    },
+    {
       "title": "Union Berlin v Bayern Munich",
       "teams": [
         "Union Berlin",
@@ -676,6 +983,62 @@
       "match_url": "https://icdb.tv/match/319284-Union-Berlin-v-Bayern-Munich"
     },
     {
+      "title": "Al Hazem v Al Diriyah",
+      "teams": [
+        "Al Hazem",
+        "Al Diriyah"
+      ],
+      "date": "21/08/2026",
+      "time": "16:15",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/321647-Al-Hazem-v-Al-Diriyah"
+    },
+    {
+      "title": "Preußen Münster v Karlsruhe",
+      "teams": [
+        "Preußen Münster",
+        "Karlsruhe"
+      ],
+      "date": "21/08/2026",
+      "time": "16:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 4 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320223-Preuen-Mnster-v-Karlsruhe"
+    },
+    {
+      "title": "Waldhof Mannheim v Kaiserslautern",
+      "teams": [
+        "Waldhof Mannheim",
+        "Kaiserslautern"
+      ],
+      "date": "21/08/2026",
+      "time": "16:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 3 Deutsch HD",
+        "Sky Sport Germany Konferenz",
+        "Sky Sport MIX Deutsch HD"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/320144-Waldhof-Mannheim-v-Kaiserslautern"
+    },
+    {
       "title": "St Tönis v Eintracht Frankfurt",
       "teams": [
         "St Tönis",
@@ -685,12 +1048,83 @@
       "time": "16:00",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 2 Deutsch HD",
+        "Sky Sport 5 Deutsch HD",
+        "Sky Sport Germany Konferenz",
         "World Feed"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "RHJR"
       ],
       "match_url": "https://icdb.tv/match/320143-St-Tnis-v-Eintracht-Frankfurt"
+    },
+    {
+      "title": "Al Riyadh v Al Nassr",
+      "teams": [
+        "Al Riyadh",
+        "Al Nassr"
+      ],
+      "date": "21/08/2026",
+      "time": "16:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 2"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/319278-Al-Riyadh-v-Al-Nassr"
+    },
+    {
+      "title": "DFB-Pokal Zone",
+      "date": "21/08/2026",
+      "time": "15:45",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "DFB Play (geo/R)",
+        "DFB-Pokal Zone"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/321999-DFBPokal-Zone"
+    },
+    {
+      "title": "- SKY DE - v - KONFERENZ -",
+      "teams": [
+        "- SKY DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "21/08/2026",
+      "time": "15:30",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "RHJR"
+      ],
+      "match_url": "https://icdb.tv/match/321991-SKY-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Al Gharafa v Al Shahania",
+      "teams": [
+        "Al Gharafa",
+        "Al Shahania"
+      ],
+      "date": "21/08/2026",
+      "time": "14:15",
+      "tournament": "Qatar Stars League",
+      "channels": [
+        "beIN Sports MENA 6 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/321124-Al-Gharafa-v-Al-Shahania"
     },
     {
       "title": "Luis Angel Firpo v Alajuelense",
@@ -727,6 +1161,7 @@
         "CONCACAF GO (geo/R)",
         "OneSoccer",
         "Paramount+ USA ($/geo/R)",
+        "World Feed",
         "YouTube: CONCACAF (geo/R)"
       ],
       "commentators": [
@@ -771,26 +1206,26 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "ESPN Uruguay",
-        "Rádio Bandeirantes",
-        "ESPN Peru",
-        "Rádio TMC",
-        "Pluto TV Latin America (geo/R)",
-        "ESPN (Colombia)",
-        "ESPN (Brazil)",
         "ESPN Paraguay",
-        "Energia 97",
-        "Disney+ Brazil [$]",
-        "ESPN 5 (Chile)",
-        "ESPN 4 (México)",
-        "Rádio CBN",
-        "ESPN Venezuela",
-        "Telefe (argentina) / HD",
-        "beIN Sports MENA 1 HD",
-        "Fox Sports (Argentina)",
         "Rádio BandNews FM",
+        "Disney+ Brazil [$]",
+        "ESPN (Brazil)",
+        "ESPN Peru",
+        "ESPN Venezuela",
+        "ESPN 5 (Chile)",
+        "ESPN Ecuador",
+        "Energia 97",
+        "Rádio Bandeirantes",
         "YouTube: Telefe",
-        "ESPN Bolivia and2more channels"
+        "Telefe (argentina) / HD",
+        "ESPN (Colombia)",
+        "beIN Sports MENA 1 HD",
+        "ESPN Bolivia",
+        "ESPN 4 (México)",
+        "ESPN Uruguay",
+        "Fox Sports (Argentina)",
+        "Disney+ Argentina ($/geo/R)",
+        "Pluto TV Latin America (geo/R) and2more channels"
       ],
       "commentators": [
         "luca80sp",
@@ -1628,26 +2063,26 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "Rádio CBN",
-        "beIN Sports MENA 1 HD",
-        "beIN Sports Australia 3 HD",
-        "ESPN 2 (Colombia)",
+        "Rádio Bandeirantes",
+        "Polsat Sport 2 HD",
+        "World Feed",
         "ESPN Uruguay",
+        "ESPN 2 (Colombia)",
+        "Sportdigital 1+ Deutsch HD",
+        "Rede 98",
+        "TV Globo",
+        "FlashScore Brazil",
         "GE TV",
         "ESPN 2 (Ecuador)",
-        "Rádio Bandeirantes",
-        "World Feed",
-        "ESPN 5 (Chile)",
-        "ESPN Paraguay",
+        "Rádio Tupi",
+        "Rádio TMC",
+        "beIN Sports Australia 3 HD",
+        "Rádio CBN",
+        "ESPN Bolivia",
+        "ESPN Peru",
         "globoplay",
         "ESPN 2 (Venezuela)",
-        "Rádio Itatiaia",
-        "Rede 98",
-        "ESPN Peru",
-        "Sportdigital 1+ Deutsch HD",
-        "Paramount+ BRA ($/geo/R)",
-        "Fox Sports (Argentina)",
-        "Rádio Tupi and6more channels"
+        "ESPN 5 (Chile) and6more channels"
       ],
       "commentators": [
         "HWP",
