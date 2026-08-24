@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-24T01:07:04.134498+00:00",
+  "scraped_at": "2026-08-24T05:36:33.486628+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 147,
+  "total_matches": 150,
   "matches": [
     {
       "title": "Nottingham Forest v Leeds United",
@@ -264,20 +264,21 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sports Main Event HD",
-        "Sky Sports Premier League HD",
-        "Sky Sport Italia 4K UHD",
-        "World Feed",
-        "talkSPORT",
         "SiriusXM FC",
-        "talkSPORT International",
-        "talkSPORT App",
-        "USA Network HD",
-        "Sky Sport Premier League DE HD",
-        "Sky Sports Main Event UHD",
         "Sky Sport Calcio HD",
+        "Sky Sport Italia 4K UHD",
+        "Sky Sport Premier League DE HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports Premier League HD",
         "U-Next",
-        "USA Network App (USA)"
+        "USA Network App (USA)",
+        "USA Network HD",
+        "World Feed",
+        "beIN Sports MENA 1 HD",
+        "talkSPORT",
+        "talkSPORT App",
+        "talkSPORT International"
       ],
       "commentators": [
         "AnthonyB94",
@@ -285,7 +286,8 @@
         "Guest-SC",
         "Xav",
         "bigddan11",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320115-Fulham-v-Chelsea"
     },
@@ -299,19 +301,21 @@
       "time": "18:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "World Feed",
-        "DAZN Schweiz [$] (geo/R)",
         "CBS Sports Golazo Network (US)",
-        "DAZN Italia ($/geo/R)",
         "DAZN 1 Italia HD",
-        "Sky Sport Business Italia / HD",
         "DAZN Deutsch ($/geo/R)",
-        "Paramount+ USA ($/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sport Business Italia / HD",
+        "StarzPlay",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
         "bigddan11",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/321912-Roma-v-Fiorentina"
     },
@@ -325,14 +329,16 @@
       "time": "18:45",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
+        "AD Sports 1",
         "ARD Das Erste / HD",
+        "ARD Mediathek",
         "RTL+ Deutschland (geo/R)",
         "Sky Sport MIX Deutsch HD",
-        "Sky Sport News Deutsch HD",
-        "ARD Mediathek"
+        "Sky Sport News Deutsch HD"
       ],
       "commentators": [
-        "RHJR"
+        "RHJR",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320114-Hallescher-FC-v-Schalke-04"
     },
@@ -401,6 +407,23 @@
       "match_url": "https://icdb.tv/match/321887-BBC-Monday-Night-Club"
     },
     {
+      "title": "Al Ittihad v Al Hazem",
+      "teams": [
+        "Al Ittihad",
+        "Al Hazem"
+      ],
+      "date": "24/08/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320110-Al-Ittihad-v-Al-Hazem"
+    },
+    {
       "title": "Osasuna v Levante",
       "teams": [
         "Osasuna",
@@ -415,11 +438,13 @@
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
         "Premier Sports Player UK (£/geo/R)",
-        "World Feed"
+        "World Feed",
+        "beIN Sports MENA 3 HD"
       ],
       "commentators": [
         "Guest-SC",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320109-Osasuna-v-Levante"
     },
@@ -436,13 +461,17 @@
         "CBS Sports Network USA",
         "DAZN 1 Italia HD",
         "DAZN Italia ($/geo/R)",
+        "NBC Universo USA",
         "Paramount+ USA ($/geo/R)",
+        "Peacock USA ($/geo/R)",
         "Sky Sport Business Italia / HD",
+        "StarzPlay",
         "World Feed"
       ],
       "commentators": [
         "Guest-SC",
-        "bigddan11"
+        "bigddan11",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/321911-Bologna-v-Lazio"
     },
@@ -599,9 +628,11 @@
       "channels": [
         "ESPN (South America)",
         "ESPN 5 (CentroAmérica)",
-        "ESPN Premium (Argentina)"
+        "ESPN Premium (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322438-Racing-Club-v-Boca-Juniors"
@@ -617,31 +648,13 @@
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
         "Ion Television (USA)",
-        "KCDO 3 The Spot",
         "NWSL+ International (geo/R)",
-        "NWSL+ USA (geo/R)",
-        "Scripps Sports Network",
-        "World Feed"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/322560-Angel-City-v-Gotham-FC"
-    },
-    {
-      "title": "Angel City v Gotham FC",
-      "teams": [
-        "Angel City",
-        "Gotham FC"
-      ],
-      "date": "24/08/2026",
-      "time": "00:00",
-      "tournament": "National Women's Soccer League (NWSL)",
-      "channels": [
         "Stan Sport Australia ($/geo/R)",
+        "World Feed",
         "iHeart Radio"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/322285-Angel-City-v-Gotham-FC"
@@ -681,6 +694,23 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322470-Deportivo-Cali-v-Inter-Bogot"
+    },
+    {
+      "title": "Atlanta United v Sporting Kansas City",
+      "teams": [
+        "Atlanta United",
+        "Sporting Kansas City"
+      ],
+      "date": "23/08/2026",
+      "time": "23:00",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/322564-Atlanta-United-v-Sporting-Kansas-City"
     },
     {
       "title": "Pumas UNAM v Necaxa",
@@ -738,9 +768,11 @@
         "Rádio Bandeirantes",
         "Rádio CBN",
         "Rádio TMC",
-        "Rádio TMC Curitiba"
+        "Rádio TMC Curitiba",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322310-Coritiba-v-Corinthians"
@@ -756,9 +788,11 @@
       "tournament": "Argentinean Primera División",
       "channels": [
         "Sportdigital FUSSBALL HD",
-        "TNT Sports Premium (Argentina)"
+        "TNT Sports Premium (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen",
         "luca80sp"
       ],
@@ -877,6 +911,40 @@
       "match_url": "https://icdb.tv/match/322326-SKY-IT-v-SKY-CALCIO-CLUB"
     },
     {
+      "title": "New England Revolution v New York City",
+      "teams": [
+        "New England Revolution",
+        "New York City"
+      ],
+      "date": "23/08/2026",
+      "time": "20:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/322563-New-England-Revolution-v-New-York-City"
+    },
+    {
+      "title": "New England Revolution v New York City",
+      "teams": [
+        "New England Revolution",
+        "New York City"
+      ],
+      "date": "23/08/2026",
+      "time": "20:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/322562-New-England-Revolution-v-New-York-City"
+    },
+    {
       "title": "Melgar v Alianza Lima",
       "teams": [
         "Melgar",
@@ -945,12 +1013,14 @@
       "time": "19:30",
       "tournament": "Portuguese Liga 1",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "Eleven Sports 3 Polska HD",
         "D Sports (South America)",
-        "FlashScore Portugal"
+        "Eleven Sports 3 Polska HD",
+        "FlashScore Portugal",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "kurtogen",
         "luca80sp"
@@ -967,26 +1037,26 @@
       "time": "19:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "FlashScore Germany",
+        "FlashScore France",
+        "FlashScore (audio)",
+        "FlashScore Italia",
         "DAZN France ($/geo/R)",
-        "World Feed",
-        "DAZN Schweiz [$] (geo/R)",
         "LaLiga TV International HD",
+        "Premier Sports 1 HD (ROI only)",
+        "DAZN Deutsch ($/geo/R)",
+        "FlashScore Croatia",
+        "DAZN Schweiz [$] (geo/R)",
+        "FlashScore Germany",
+        "FlashScore Poland",
+        "FlashScore España",
+        "FlashScore Portugal",
+        "Premier Sports Player UK (£/geo/R)",
+        "beIN Sports MENA 2 HD",
         "DAZN Italia ($/geo/R)",
         "ESPN (South America)",
-        "Premier Sports 1 HD",
+        "World Feed",
         "FlashScore Slovakia",
-        "FlashScore France",
-        "beIN Sports MENA 2 HD",
-        "FlashScore Poland",
-        "Premier Sports Player UK (£/geo/R)",
-        "FlashScore (audio)",
-        "FlashScore Croatia",
-        "Premier Sports 1 HD (ROI only)",
-        "FlashScore Portugal",
-        "FlashScore España",
-        "Flashscore UK",
-        "FlashScore Italia and2more channels"
+        "Flashscore UK and2more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -1113,25 +1183,27 @@
       "time": "19:00",
       "tournament": "Brazilian Série A",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "Win Sports",
-        "Rádio Tupi",
-        "Rádio Bandeirantes",
-        "Rádio BandNews FM",
-        "TV Globo",
-        "globoplay",
-        "Premiere (Brazil)",
+        "105 FM",
+        "Dubai Sports 1",
         "Energia 97",
+        "FlashScore Brazil",
+        "GE TV",
+        "Premiere (Brazil)",
+        "Rádio BandNews FM",
+        "Rádio Bandeirantes",
         "Rádio CBN",
         "Rádio CBN SP",
-        "GE TV",
         "Rádio TMC",
         "Rádio TMC Rio",
-        "Dubai Sports 1",
-        "105 FM",
-        "FlashScore Brazil"
+        "Rádio Tupi",
+        "Sportdigital FUSSBALL HD",
+        "TV Globo",
+        "Win Sports",
+        "World Feed",
+        "globoplay"
       ],
       "commentators": [
+        "apltle12",
         "ethanh05",
         "kurtogen",
         "luca80sp",
@@ -1255,10 +1327,12 @@
       "tournament": "Italian Serie BKT",
       "channels": [
         "DAZN Italia ($/geo/R)",
-        "LaB Channel ($/geo/R)"
+        "LaB Channel ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/320087-Palermo-v-Juve-Stabia"
     },
@@ -1359,28 +1433,29 @@
       "time": "18:45",
       "tournament": "Italian Serie A",
       "channels": [
+        "TNT Sports 1 HD (UK)",
+        "Shasha",
         "Sky Sport Uno Italia HD",
+        "TNT Sports (highlights)",
+        "TLN (Canada)",
+        "ESPN (CentroAmérica)",
+        "Telemundo (usa)",
+        "Sky Sport 251 Italia HD",
         "Paramount+ USA ($/geo/R)",
+        "StarzPlay",
         "Peacock USA ($/geo/R)",
         "Zona Gol Serie A - DAZN Italia",
-        "ESPN 2 (South America)",
-        "Sky Sport 251 Italia HD",
-        "Sky Sport Business Italia / HD",
-        "Sky Sport Italia 4K UHD",
-        "TNT Sports 1 HD (UK)",
-        "DAZN Schweiz [$] (geo/R)",
-        "ESPN (CentroAmérica)",
-        "TNT Sports (highlights)",
-        "Shasha",
-        "TLN (Canada)",
-        "DAZN Italia ($/geo/R)",
-        "Eleven Sports 1 Polska HD",
-        "Sky Sport Calcio HD",
-        "StarzPlay",
         "World Feed",
-        "HBO Max (uk/ire) [$/geo/R] and2more channels"
+        "DAZN Deutsch ($/geo/R)",
+        "Sky Sport Business Italia / HD",
+        "DAZN Ireland ($/geo/R)",
+        "DAZN UK [$] (geo/R)",
+        "HBO Max (uk/ire) [$/geo/R]",
+        "Sky Sport Calcio HD",
+        "Sky Sport Italia 4K UHD and5more channels"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
         "Guest-SC",
         "apltle12",
@@ -1677,10 +1752,12 @@
       "tournament": "Italian Serie BKT",
       "channels": [
         "DAZN Italia ($/geo/R)",
-        "LaB Channel ($/geo/R)"
+        "LaB Channel ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/319855-Hellas-Verona-v-Ascoli"
     },
@@ -1759,28 +1836,29 @@
       "time": "16:30",
       "tournament": "Italian Serie A",
       "channels": [
-        "DAZN Schweiz [$] (geo/R)",
-        "World Feed",
-        "ESPN (CentroAmérica)",
-        "Paramount+ USA ($/geo/R)",
-        "Sky Sport Business Italia / HD",
-        "ESPN Ecuador",
         "CBS Sports Golazo Network (US)",
+        "DAZN Ireland ($/geo/R)",
         "ESPN 2 (Peru)",
-        "Eleven Sports 1 Polska HD",
-        "StarzPlay",
-        "DAZN 1 Italia HD",
-        "ESPN 2 (Uruguay)",
-        "Peacock USA ($/geo/R)",
-        "ESPN 2 (Argentina)",
-        "ESPN Venezuela",
         "ESPN 2 (Chile)",
-        "ESPN (Colombia)",
+        "DAZN 1 Italia HD",
+        "DAZN UK [$] (geo/R)",
+        "Polsat Sport Extra 1 HD",
+        "ESPN 2 (Uruguay)",
+        "ESPN Venezuela",
+        "DAZN Great Britain (geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "TLN (Canada)",
+        "ESPN (Colombia)",
+        "ESPN (CentroAmérica)",
         "DAZN Italia ($/geo/R)",
-        "Polsat Sport Extra 1 HD and4more channels"
+        "World Feed",
+        "DAZN Deutsch ($/geo/R)",
+        "StarzPlay",
+        "NBC Universo USA",
+        "Sky Sport Business Italia / HD and7more channels"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Guest-SC",
         "bigddan11",
         "ethanh05",
@@ -1821,11 +1899,13 @@
       "time": "16:30",
       "tournament": "Belgian Pro League",
       "channels": [
+        "DAZN UK [$] (geo/R)",
         "DAZN Worldwide ($/geo/R)",
-        "DAZN UK [$] (geo/R)"
+        "World Feed"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/319851-Club-Brugge-v-Cercle-Brugge"
     },
@@ -1840,10 +1920,12 @@
       "tournament": "Italian Womens Cup",
       "channels": [
         "Sky Sport MIX Italia HD",
-        "Sky Sport Max Italia HD"
+        "Sky Sport Max Italia HD",
+        "World Feed"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/322051-Fiorentina-v-Sassuolo"
     },
@@ -2063,25 +2145,25 @@
       "time": "15:30",
       "tournament": "English Premier League",
       "channels": [
-        "ESPN (Brazil)",
-        "Sky Sport Uno Italia HD",
-        "Sky Sports Main Event HD",
-        "Canal+ Foot HD",
-        "World Feed",
-        "BBC Sounds APP",
-        "BBC RADIO 5 LIVE",
-        "FlashScore Germany",
-        "Disney+ Caribbean [$]",
-        "BBC Radio Newcastle",
-        "Sky Sport Premier League DE HD",
-        "talkSPORT",
+        "FlashScore Croatia",
+        "Stan Sport Australia ($/geo/R)",
+        "Sky Sports Premier League HD",
         "FuboTV Canada ($/geo/R)",
-        "Flashscore Czech",
-        "Sport 24 At Sea HD",
-        "See Dansk HD",
-        "V Sport Premier League HD",
-        "ViaPlay Suomi HD",
+        "FlashScore España",
+        "beIN Sports MENA 1 HD",
+        "Sky Sport Italia 4K UHD",
+        "Disney+ South America [$]",
+        "Sky Sports Main Event UHD",
+        "Sky Sports (highlights)",
+        "FlashScore (audio)",
+        "Star Sports Select HD1",
+        "BBC Radio Merseyside",
+        "Sky Sport Business 3 Italia / HD",
+        "All Red Video",
         "ViaPlay Norge HD",
+        "Premier League TV",
+        "ViaPlay Sverige HD",
+        "Canal+ Foot HD",
         "USA Network App (USA) and55more channels"
       ],
       "commentators": [
@@ -2157,26 +2239,26 @@
       "time": "15:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "ESPN 2 (Ecuador)",
-        "FlashScore Portugal",
-        "ESPN Paraguay",
-        "ESPN (Argentina)",
-        "beIN Sports MENA 3 HD",
-        "FlashScore España",
-        "Premier Sports 1 HD",
-        "DAZN Schweiz [$] (geo/R)",
-        "Premier Sports Player UK (£/geo/R)",
-        "ESPN (Chile)",
-        "DAZN Italia ($/geo/R)",
-        "ESPN Peru",
-        "ESPN Uruguay",
-        "DAZN Deutsch ($/geo/R)",
-        "ESPN 2 (Colombia)",
-        "Premier Sports 1 HD (ROI only)",
-        "ESPN 2 (Venezuela)",
         "World Feed",
         "LaLiga TV International HD",
-        "ESPN Bolivia and0more channels"
+        "ESPN (Chile)",
+        "ESPN 2 (Ecuador)",
+        "DAZN Italia ($/geo/R)",
+        "beIN Sports MENA 3 HD",
+        "FlashScore Portugal",
+        "ESPN (Argentina)",
+        "ESPN Uruguay",
+        "FlashScore España",
+        "Premier Sports 1 HD",
+        "ESPN Peru",
+        "ESPN Bolivia",
+        "Premier Sports Player UK (£/geo/R)",
+        "ESPN 2 (Venezuela)",
+        "ESPN Paraguay",
+        "Premier Sports 1 HD (ROI only)",
+        "DAZN Schweiz [$] (geo/R)",
+        "ESPN 2 (Colombia)",
+        "DAZN Deutsch ($/geo/R) and0more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -2498,25 +2580,25 @@
       "time": "13:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC (highlights)",
-        "U-Next",
-        "Astro Grandstand HD",
-        "BBC Radio Manchester",
+        "MONOMAX (Thailand",
+        "FlashScore Italia",
+        "Sky Sport 8 NZ HD",
+        "SuperSport Premier League HD",
+        "FlashScore Portugal",
         "SiriusXM FC",
-        "FlashScore France",
-        "Sky Sports Main Event UHD",
-        "beIN Sports MENA 1 HD",
-        "Telemundo USA",
-        "FlashScore España",
-        "ViaPlay Norge HD",
-        "FlashScore (audio)",
-        "FlashScore Poland",
-        "Cambodia",
-        "Laos) [$] (geo/R)",
-        "beIN Sports MENA English 1 HD",
-        "City+",
-        "USA Network App (USA)",
+        "Disney+ South America [$]",
+        "BBC Match of the Day",
         "FOX (Central America) [$] (geo/R)",
+        "BBC Sounds APP",
+        "USA Network App (USA)",
+        "Astro GO (geo/R)",
+        "USA Network HD",
+        "beIN Sports MENA 1 HD",
+        "FlashScore Brazil",
+        "Sky Sports (highlights)",
+        "BBC RADIO 5 LIVE",
+        "FlashScore France",
+        "U-Next",
         "World Feed and33more channels"
       ],
       "commentators": [
@@ -2546,26 +2628,26 @@
       "time": "13:00",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sports Premier League HD",
-        "BBC Radio WM",
-        "ESPN 2 (Colombia)",
-        "Tubi (Central America)",
         "BBC RADIO 5 LIVE",
-        "ESPN 2 (Venezuela)",
-        "Flashscore UK",
-        "ESPN Paraguay",
-        "V Sport Premier League 2 HD",
-        "BBC (highlights)",
-        "Sky Sports News / HD",
-        "BBC Sport Online (Audio)",
-        "ESPN 2 (Ecuador)",
-        "U-Next",
-        "talkSPORT International",
+        "NBCSN",
+        "ESPN Peru",
         "talkSPORT",
+        "BBC Sport Online (Audio)",
+        "talkSPORT International",
+        "Sky Sports News / HD",
+        "BBC (highlights)",
+        "Sky Sports (highlights)",
+        "ESPN 2 (Colombia)",
         "BBC Sounds APP",
         "Sky Sport 10 Deutsch HD",
-        "ESPN Peru",
-        "ViaPlay Norge HD and13more channels"
+        "Peacock USA ($/geo/R)",
+        "Tubi (Central America)",
+        "Flashscore UK",
+        "ESPN Paraguay",
+        "FlashScore (audio)",
+        "Sky Sports Premier League HD",
+        "ESPN Uruguay",
+        "BBC Radio 5 Sports Extra 2 and13more channels"
       ],
       "commentators": [
         "Bksm",
