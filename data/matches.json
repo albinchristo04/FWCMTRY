@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25T01:06:07.238727+00:00",
+  "scraped_at": "2026-08-25T05:29:17.459221+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 55,
+  "total_matches": 64,
   "matches": [
     {
       "title": "Preston N.E. v Everton",
@@ -36,14 +36,14 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "DAZN 1 Italia HD",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Italia ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "LaLiga TV International HD",
         "Premier Sports 2 HD",
+        "DAZN Schweiz [$] (geo/R)",
         "Premier Sports 2 HD (ROI only)",
-        "Premier Sports Player UK (£/geo/R)"
+        "LaLiga TV International HD",
+        "DAZN Italia ($/geo/R)",
+        "Premier Sports Player UK (£/geo/R)",
+        "DAZN 1 Italia HD",
+        "DAZN Deutsch ($/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -213,6 +213,23 @@
       "match_url": "https://icdb.tv/match/320547-Birmingham-City-v-Brentford"
     },
     {
+      "title": "Bodø/Glimt v NEC Nijmegen",
+      "teams": [
+        "Bodø/Glimt",
+        "NEC Nijmegen"
+      ],
+      "date": "25/08/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320392-BodGlimt-v-NEC-Nijmegen"
+    },
+    {
       "title": "LASK Linz v Celtic",
       "teams": [
         "LASK Linz",
@@ -222,14 +239,38 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "Amazon Prime UK [$]",
+        "BBC Radio 5 Sports Extra 2",
+        "BBC Radio Scotland Extra",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
         "Premier Sports 1 HD (ROI only)",
-        "Amazon Prime UK [$]"
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "Crowe24",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "SonnyCorry",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320391-LASK-Linz-v-Celtic"
+    },
+    {
+      "title": "Nottingham Forest v Leeds United",
+      "teams": [
+        "Nottingham Forest",
+        "Leeds United"
+      ],
+      "date": "25/08/2026",
+      "time": "19:00",
+      "tournament": "English League Cup",
+      "channels": [
+        "beIN Sports MENA 5 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320390-Nottingham-Forest-v-Leeds-United"
     },
     {
       "title": "Valencia v Real Betis",
@@ -241,17 +282,53 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "DAZN Italia ($/geo/R)",
+        "LaLiga TV International HD",
         "Premier Sports 2 HD",
         "Premier Sports 2 HD (ROI only)",
-        "LaLiga TV International HD",
-        "DAZN Italia ($/geo/R)",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "beIN Sports MENA 3 HD"
       ],
       "commentators": [
         "Guest-SC",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320180-Valencia-v-Real-Betis"
+    },
+    {
+      "title": "Southampton v West Ham United",
+      "teams": [
+        "Southampton",
+        "West Ham United"
+      ],
+      "date": "25/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "beIN Sports MENA 6 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320546-Southampton-v-West-Ham-United"
+    },
+    {
+      "title": "Ipswich Town v Leicester City",
+      "teams": [
+        "Ipswich Town",
+        "Leicester City"
+      ],
+      "date": "25/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "beIN Sports MENA 4 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320545-Ipswich-Town-v-Leicester-City"
     },
     {
       "title": "Blackpool v Lincoln City",
@@ -273,6 +350,40 @@
       "match_url": "https://icdb.tv/match/320542-Blackpool-v-Lincoln-City"
     },
     {
+      "title": "Sheffield Wednesday v Wolves",
+      "teams": [
+        "Sheffield Wednesday",
+        "Wolves"
+      ],
+      "date": "25/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "beIN Sports MENA 8 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320537-Sheffield-Wednesday-v-Wolves"
+    },
+    {
+      "title": "Plymouth Argyle v Coventry City",
+      "teams": [
+        "Plymouth Argyle",
+        "Coventry City"
+      ],
+      "date": "25/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "beIN Sports MENA 9 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320533-Plymouth-Argyle-v-Coventry-City"
+    },
+    {
       "title": "Sky Soccer Special",
       "date": "25/08/2026",
       "time": "18:00",
@@ -287,6 +398,23 @@
       "match_url": "https://icdb.tv/match/322518-Sky-Soccer-Special"
     },
     {
+      "title": "Al Shabab v Al Riyadh",
+      "teams": [
+        "Al Shabab",
+        "Al Riyadh"
+      ],
+      "date": "25/08/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 2"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/321662-Al-Shabab-v-Al-Riyadh"
+    },
+    {
       "title": "talkSPORT Kick Off",
       "date": "25/08/2026",
       "time": "18:00",
@@ -299,6 +427,40 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/321474-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "Al Ettifaq v Al Nassr",
+      "teams": [
+        "Al Ettifaq",
+        "Al Nassr"
+      ],
+      "date": "25/08/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320179-Al-Ettifaq-v-Al-Nassr"
+    },
+    {
+      "title": "Abha Club v Al Khaleej",
+      "teams": [
+        "Abha Club",
+        "Al Khaleej"
+      ],
+      "date": "25/08/2026",
+      "time": "16:05",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah APP"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/320388-Abha-Club-v-Al-Khaleej"
     },
     {
       "title": "Manchester United U-18 v Charlton Athletic U-18",
@@ -451,6 +613,9 @@
       "date": "24/08/2026",
       "time": "19:30",
       "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "apltle12"
       ],
@@ -600,26 +765,26 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "talkSPORT",
-        "NBC Universo USA",
-        "Sky Sport 8 NZ HD",
-        "FuboTV Canada ($/geo/R)",
-        "FlashScore Italia",
-        "Disney+ Hotstar India [$] (geo/R)",
-        "ESPN Extra (Caribbean)",
-        "Disney+ Brazil [$]",
         "BBC RADIO 5 LIVE",
-        "Sport 24 At Sea HD",
-        "FlashScore Portugal",
-        "ESPN (Brazil)",
-        "BBC (highlights)",
-        "Canal+ Foot HD",
-        "Star Sports Select HD1",
-        "MONOMAX (Thailand",
-        "FlashScore (audio)",
-        "Sky Sports Main Event HD",
+        "USA Network App (USA)",
+        "NOW Premier League TV (hk)",
+        "FlashScore Brazil",
+        "NBC Universo USA",
+        "Flashscore Czech",
+        "beIN Sports MENA English 1 HD",
+        "U-Next",
+        "Disney+ Caribbean [$]",
+        "ViaPlay Norge HD",
+        "talkSPORT App",
         "Sky Sports News / HD",
-        "Premier League TV and35more channels"
+        "Sky Sports (highlights)",
+        "World Feed",
+        "FlashScore Croatia",
+        "Sport 24 In Flight HD",
+        "FuboTV Canada ($/geo/R)",
+        "ESPN Extra (Caribbean)",
+        "ESPN (Brazil)",
+        "ESPN (South America) and35more channels"
       ],
       "commentators": [
         "AnthonyB94",
