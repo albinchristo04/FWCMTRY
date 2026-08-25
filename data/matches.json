@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25T10:29:52.973718+00:00",
+  "scraped_at": "2026-08-25T15:40:11.719677+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 68,
+  "total_matches": 71,
   "matches": [
     {
       "title": "Preston N.E. v Everton",
@@ -83,10 +83,16 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
-        "BBC Radio Newcastle"
+        "BBC Radio 5 Sports Extra",
+        "BBC Radio Newcastle",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/320551-Newcastle-United-v-West-Bromwich-Albion"
     },
@@ -184,7 +190,7 @@
         "LUTV ($/geo/R)",
         "STV (Scotland) / HD",
         "STV Player (geo/R)",
-        "Sky Sports News / HD",
+        "SkySportsNews / HD",
         "beIN Sports MENA 5 HD",
         "talkSPORT 2",
         "talkSPORT App"
@@ -206,12 +212,12 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
+        "talkSPORT",
         "BBC RADIO 5 LIVE",
-        "BBC Radio WM (FM)",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
         "Sky Sports News / HD",
-        "talkSPORT"
+        "BBC Sounds APP",
+        "BBC Radio WM (FM)",
+        "BBCSportOnline (Audio)"
       ],
       "commentators": [
         "Crowe24",
@@ -246,16 +252,18 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Amazon Prime UK [$]",
-        "BBC Radio 5 Sports Extra 2",
-        "BBC Radio Scotland Extra",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
         "Premier Sports 1 HD (ROI only)",
-        "beIN Sports MENA 1 HD"
+        "Amazon Prime UK [$]",
+        "BBC Sounds APP",
+        "beIN Sports MENA 1 HD",
+        "Radio Clyde 1",
+        "BBC Radio Scotland Extra",
+        "BBC Sport Online (Audio)",
+        "BBC Radio 5 Sports Extra 2"
       ],
       "commentators": [
         "Crowe24",
+        "HWP",
         "ImpactPlayaz",
         "SonnyCorry",
         "ysscores"
@@ -272,14 +280,14 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Italia ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "LaLiga TV International HD",
         "Premier Sports 2 HD",
+        "DAZN Schweiz [$] (geo/R)",
         "Premier Sports 2 HD (ROI only)",
+        "beIN Sports MENA 3 HD",
+        "LaLiga TV International HD",
+        "DAZN Italia ($/geo/R)",
         "Premier Sports Player UK (£/geo/R)",
-        "beIN Sports MENA 3 HD"
+        "DAZN Deutsch ($/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -316,9 +324,11 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
+        "BBC Radio Leicester",
         "beIN Sports MENA 4 HD"
       ],
       "commentators": [
+        "Crowe24",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320545-Ipswich-Town-v-Leicester-City"
@@ -335,12 +345,31 @@
       "channels": [
         "Sky Sports (highlights)",
         "ITV EFL Carabao Cup Highlights",
+        "BBC Radio Lancashire (FM)",
         "Sky Sports+ [via APP]"
       ],
       "commentators": [
+        "Crowe24",
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/320542-Blackpool-v-Lincoln-City"
+    },
+    {
+      "title": "Stevenage v Reading",
+      "teams": [
+        "Stevenage",
+        "Reading"
+      ],
+      "date": "25/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "Royals TV"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/320541-Stevenage-v-Reading"
     },
     {
       "title": "Sheffield Wednesday v Wolves",
@@ -352,8 +381,10 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
+        "beIN Sports MENA 8 HD",
+        "Wolves TV ($/geo/R)",
         "BBC Radio WM (DAB Black Country)",
-        "beIN Sports MENA 8 HD"
+        "Wolves App (English)"
       ],
       "commentators": [
         "Crowe24",
@@ -371,8 +402,9 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
-        "ITV EFL Carabao Cup Highlights",
+        "BBC Radio Humberside",
         "Sky Sports (highlights)",
+        "ITV EFL Carabao Cup Highlights",
         "Sky Sports+ [via APP]"
       ],
       "commentators": [
@@ -424,9 +456,9 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
-        "Argyle TV ($/geo/R)",
+        "beIN Sports MENA 9 HD",
         "BBC CWR",
-        "beIN Sports MENA 9 HD"
+        "Argyle TV ($/geo/R)"
       ],
       "commentators": [
         "Crowe24",
@@ -441,7 +473,7 @@
       "tournament": "British Football",
       "channels": [
         "Sky Sports News / HD",
-        "Soccer Special"
+        "SoccerSpecial"
       ],
       "commentators": [
         "LukeA206"
@@ -543,6 +575,44 @@
         "r96"
       ],
       "match_url": "https://icdb.tv/match/322644-Manchester-United-U18-v-Charlton-Athletic-U18"
+    },
+    {
+      "title": "FC Seoul v Bucheon 1995",
+      "teams": [
+        "FC Seoul",
+        "Bucheon 1995"
+      ],
+      "date": "25/08/2026",
+      "time": "10:30",
+      "tournament": "South Korean K-League",
+      "channels": [
+        "World Feed",
+        "tv.kleague.com",
+        "Stan Sport Australia ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/321830-FC-Seoul-v-Bucheon-1995"
+    },
+    {
+      "title": "Jeju United v Pohang Steelers",
+      "teams": [
+        "Jeju United",
+        "Pohang Steelers"
+      ],
+      "date": "25/08/2026",
+      "time": "10:30",
+      "tournament": "South Korean K-League",
+      "channels": [
+        "World Feed",
+        "tv.kleague.com",
+        "Stan Sport Australia ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/320175-Jeju-United-v-Pohang-Steelers"
     },
     {
       "title": "Queensland Lions v North Sunshine Eagles",
@@ -848,26 +918,26 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "talkSPORT",
-        "FlashScore Croatia",
-        "FlashScore France",
-        "Chelsea TV (highlights)",
-        "FuboTV Canada ($/geo/R)",
-        "Sky Sports Main Event UHD",
-        "FlashScore Brazil",
-        "CFC+ ($/geo/R)",
-        "beIN Sports MENA 1 HD",
-        "SuperSport Premier League HD",
-        "V Sport Premier League HD",
         "Sport 24 In Flight HD",
-        "BBC (highlights)",
-        "MONOMAX (Thailand",
-        "Canal+ Foot HD",
+        "Sky Sports (highlights)",
+        "Hub Premier 1 HD",
+        "BBC RADIO 5 LIVE",
+        "Laos) [$] (geo/R)",
+        "Sky Sports Main Event HD",
+        "Sky Sport Premier League DE HD",
+        "talkSPORT",
+        "Sky Sports Premier League HD",
+        "CFC+ ($/geo/R)",
+        "Sport 24 At Sea HD",
+        "NOW Premier League TV (hk)",
+        "Flashscore Czech",
+        "Sky Sport 8 NZ HD",
         "Disney+ Hotstar India [$] (geo/R)",
-        "U-Next",
-        "ViaPlay Norge HD",
-        "Disney+ Brazil [$]",
-        "Sky Sports Main Event HD and37more channels"
+        "ESPN (Brazil)",
+        "Star Sports Select HD1",
+        "SuperSport Premier League HD",
+        "FlashScore España",
+        "Sky Sport Calcio HD and37more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -918,27 +988,30 @@
       "tournament": "Italian Serie A",
       "channels": [
         "Polsat Sport 3 HD",
-        "Eleven Sports 1 Polska HD",
-        "World Feed",
-        "ESPN 2 (South America)",
-        "DAZN Schweiz [$] (geo/R)",
-        "ESPN 2 (CentroAmérica)",
-        "Peacock USA ($/geo/R)",
-        "ESPN 3 (Argentina)",
         "VG+ Sport Norge ($/geo/R)",
-        "CazéTV",
-        "CBS Sports Golazo Network (US)",
-        "DAZN Italia ($/geo/R)",
-        "DAZN 1 Italia HD",
-        "Sky Sport Business Italia / HD",
-        "DAZN Deutsch ($/geo/R)",
-        "StarzPlay",
+        "Paramount+ USA ($/geo/R)",
         "STC TV App",
-        "Paramount+ USA ($/geo/R)"
+        "DAZN 1 Italia HD",
+        "World Feed",
+        "CazéTV",
+        "StarzPlay",
+        "DAZN UK [$] (geo/R)",
+        "CBS Sports Golazo Network (US)",
+        "DAZN Worldwide ($/geo/R)",
+        "ESPN 2 (CentroAmérica)",
+        "DAZN Italia ($/geo/R)",
+        "ESPN 2 (South America)",
+        "Sky Sport Business Italia / HD",
+        "ESPN 3 (Argentina)",
+        "Peacock USA ($/geo/R)",
+        "Eleven Sports 1 Polska HD",
+        "DAZN Schweiz [$] (geo/R)",
+        "DAZN Deutsch ($/geo/R) and0more channels"
       ],
       "commentators": [
         "Bksm",
         "Guest-SC",
+        "HWP",
         "bigddan11",
         "ethanh05",
         "kurtogen",
