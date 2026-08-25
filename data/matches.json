@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25T05:29:17.459221+00:00",
+  "scraped_at": "2026-08-25T10:29:52.973718+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 64,
+  "total_matches": 68,
   "matches": [
     {
       "title": "Preston N.E. v Everton",
@@ -178,16 +178,21 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
+        "ITV EFL Carabao Cup Highlights",
+        "ITV X (geo/R)",
+        "ITV1 / HD",
+        "LUTV ($/geo/R)",
         "STV (Scotland) / HD",
         "STV Player (geo/R)",
         "Sky Sports News / HD",
-        "ITV1 / HD",
-        "ITV EFL Carabao Cup Highlights",
-        "ITV X (geo/R)"
+        "beIN Sports MENA 5 HD",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
-        "SonnyCorry"
+        "SonnyCorry",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320548-Nottingham-Forest-v-Leeds-United"
     },
@@ -202,9 +207,11 @@
       "tournament": "English League Cup",
       "channels": [
         "BBC RADIO 5 LIVE",
-        "Sky Sports News / HD",
+        "BBC Radio WM (FM)",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "Sky Sports News / HD",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
@@ -256,23 +263,6 @@
       "match_url": "https://icdb.tv/match/320391-LASK-Linz-v-Celtic"
     },
     {
-      "title": "Nottingham Forest v Leeds United",
-      "teams": [
-        "Nottingham Forest",
-        "Leeds United"
-      ],
-      "date": "25/08/2026",
-      "time": "19:00",
-      "tournament": "English League Cup",
-      "channels": [
-        "beIN Sports MENA 5 HD"
-      ],
-      "commentators": [
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/320390-Nottingham-Forest-v-Leeds-United"
-    },
-    {
       "title": "Valencia v Real Betis",
       "teams": [
         "Valencia",
@@ -282,7 +272,9 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "LaLiga TV International HD",
         "Premier Sports 2 HD",
         "Premier Sports 2 HD (ROI only)",
@@ -292,6 +284,7 @@
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
+        "kurtogen",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320180-Valencia-v-Real-Betis"
@@ -359,12 +352,67 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
+        "BBC Radio WM (DAB Black Country)",
         "beIN Sports MENA 8 HD"
       ],
       "commentators": [
+        "Crowe24",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320537-Sheffield-Wednesday-v-Wolves"
+    },
+    {
+      "title": "Stoke City v Hull City",
+      "teams": [
+        "Stoke City",
+        "Hull City"
+      ],
+      "date": "25/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/320536-Stoke-City-v-Hull-City"
+    },
+    {
+      "title": "Fleetwood Town v Shrewsbury Town",
+      "teams": [
+        "Fleetwood Town",
+        "Shrewsbury Town"
+      ],
+      "date": "25/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "BBC Radio Shropshire"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/320535-Fleetwood-Town-v-Shrewsbury-Town"
+    },
+    {
+      "title": "Walsall v Leyton Orient",
+      "teams": [
+        "Walsall",
+        "Leyton Orient"
+      ],
+      "date": "25/08/2026",
+      "time": "18:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "BBC Radio WM (DAB Birmingham)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/320534-Walsall-v-Leyton-Orient"
     },
     {
       "title": "Plymouth Argyle v Coventry City",
@@ -376,9 +424,12 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
+        "Argyle TV ($/geo/R)",
+        "BBC CWR",
         "beIN Sports MENA 9 HD"
       ],
       "commentators": [
+        "Crowe24",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320533-Plymouth-Argyle-v-Coventry-City"
@@ -446,6 +497,20 @@
       "match_url": "https://icdb.tv/match/320179-Al-Ettifaq-v-Al-Nassr"
     },
     {
+      "title": "BBC Manchester Total Sport",
+      "date": "25/08/2026",
+      "time": "17:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "BBC Radio Manchester",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/322780-BBC-Manchester-Total-Sport"
+    },
+    {
       "title": "Abha Club v Al Khaleej",
       "teams": [
         "Abha Club",
@@ -478,6 +543,24 @@
         "r96"
       ],
       "match_url": "https://icdb.tv/match/322644-Manchester-United-U18-v-Charlton-Athletic-U18"
+    },
+    {
+      "title": "Queensland Lions v North Sunshine Eagles",
+      "teams": [
+        "Queensland Lions",
+        "North Sunshine Eagles"
+      ],
+      "date": "25/08/2026",
+      "time": "09:30",
+      "tournament": "Australian Cup",
+      "channels": [
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: Football Australia"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/322782-Queensland-Lions-v-North-Sunshine-Eagles"
     },
     {
       "title": "Inter Palmira v Barranquilla",
@@ -765,28 +848,29 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "USA Network App (USA)",
-        "NOW Premier League TV (hk)",
-        "FlashScore Brazil",
-        "NBC Universo USA",
-        "Flashscore Czech",
-        "beIN Sports MENA English 1 HD",
-        "U-Next",
-        "Disney+ Caribbean [$]",
-        "ViaPlay Norge HD",
-        "talkSPORT App",
-        "Sky Sports News / HD",
-        "Sky Sports (highlights)",
-        "World Feed",
+        "talkSPORT",
         "FlashScore Croatia",
-        "Sport 24 In Flight HD",
+        "FlashScore France",
+        "Chelsea TV (highlights)",
         "FuboTV Canada ($/geo/R)",
-        "ESPN Extra (Caribbean)",
-        "ESPN (Brazil)",
-        "ESPN (South America) and35more channels"
+        "Sky Sports Main Event UHD",
+        "FlashScore Brazil",
+        "CFC+ ($/geo/R)",
+        "beIN Sports MENA 1 HD",
+        "SuperSport Premier League HD",
+        "V Sport Premier League HD",
+        "Sport 24 In Flight HD",
+        "BBC (highlights)",
+        "MONOMAX (Thailand",
+        "Canal+ Foot HD",
+        "Disney+ Hotstar India [$] (geo/R)",
+        "U-Next",
+        "ViaPlay Norge HD",
+        "Disney+ Brazil [$]",
+        "Sky Sports Main Event HD and37more channels"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "AnthonyB94",
         "Bksm",
         "Crowe24",
@@ -818,8 +902,8 @@
         "beIN Sports France 1 HD"
       ],
       "commentators": [
-        "SYLVESTRE",
-        "apltle12"
+        "HWP",
+        "SYLVESTRE"
       ],
       "match_url": "https://icdb.tv/match/322650-Reims-v-Annecy"
     },
@@ -873,18 +957,21 @@
       "time": "18:45",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "Eleven Sports 2 Polska HD",
+        "AD Sports 1",
+        "ARD Audiothek",
         "ARD Das Erste / HD",
-        "World Feed",
-        "RTL+ Deutschland (geo/R)",
+        "ARD Mediathek",
+        "ARD-Hörfunk",
+        "Disney+ Brazil [$]",
         "ESPN 4 (Brazil)",
+        "Eleven Sports 2 Polska HD",
+        "FlashScore Germany",
+        "RTL+ Deutschland (geo/R)",
         "Sky Sport MIX Deutsch HD",
         "Sky Sport News Deutsch HD",
+        "Sportschau Live (Audio)",
         "VG+ Sport Norge ($/geo/R)",
-        "AD Sports 1",
-        "Disney+ Brazil [$]",
-        "ARD Mediathek",
-        "FlashScore Germany"
+        "World Feed"
       ],
       "commentators": [
         "Bksm",
@@ -1145,17 +1232,18 @@
       "time": "16:00",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "Eleven Sports 3 Polska HD",
-        "World Feed",
-        "Sky Sport Germany Konferenz",
-        "RTL+ Deutschland (geo/R)",
-        "Sportschau Live (Audio)",
         "ARD Audiothek",
-        "VG+ Sport Norge ($/geo/R)",
         "ARD-Hörfunk",
-        "DFB-Pokal Zone",
         "DFB Play (geo/R)",
-        "FlashScore Germany"
+        "DFB-Pokal Zone",
+        "Eleven Sports 3 Polska HD",
+        "FlashScore Germany",
+        "NDR 90.3",
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport Germany Konferenz",
+        "Sportschau Live (Audio)",
+        "VG+ Sport Norge ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "Bksm",
