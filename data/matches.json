@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-26T01:08:03.014936+00:00",
+  "scraped_at": "2026-08-26T05:32:39.433400+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 71,
+  "total_matches": 75,
   "matches": [
     {
       "title": "Barcelona v Athletic Bilbao",
@@ -57,11 +57,11 @@
       "time": "18:30",
       "tournament": "English League Cup",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
         "talkSPORT",
-        "talkSPORT App"
+        "BBC RADIO 5 LIVE",
+        "talkSPORT App",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
       ],
       "commentators": [
         "Crowe24"
@@ -78,8 +78,8 @@
       "time": "18:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "DAZN Italia ($/geo/R)",
-        "World Feed"
+        "World Feed",
+        "DAZN Italia ($/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -253,6 +253,9 @@
       "time": "00:00",
       "tournament": "National Women's Soccer League (NWSL)",
       "channels": [
+        "CBS Sports Network USA",
+        "NWSL+ International (geo/R)",
+        "World Feed",
         "iHeart Radio"
       ],
       "commentators": [
@@ -270,10 +273,12 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Sky Sport MIX Italia HD"
+        "Sky Sport MIX Italia HD",
+        "beIN Sports MENA 5 HD"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320395-Celje-v-Slovan-Bratislava"
     },
@@ -287,11 +292,13 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "Sky Sport Business Italia / HD",
         "Sky Sport Uno Italia HD",
-        "Sky Sport Business Italia / HD"
+        "beIN Sports MENA 3 HD"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320394-Viking-v-Dinamo-Zagreb"
     },
@@ -305,10 +312,12 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Sky Sport Calcio HD"
+        "Sky Sport Calcio HD",
+        "beIN Sports MENA 4 HD"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320393-AEK-Athens-v-Levski-Sofia"
     },
@@ -326,6 +335,7 @@
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
         "EFL KickOff",
+        "beIN Sports MENA 9 HD",
         "iFollow (Preston North End)",
         "talkSPORT"
       ],
@@ -333,7 +343,8 @@
         "AnthonyB94",
         "Crowe24",
         "apltle12",
-        "eflkickoff_"
+        "eflkickoff_",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320289-Preston-NE-v-Everton"
     },
@@ -347,19 +358,21 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "Premier Sports 2 HD",
-        "DAZN Schweiz [$] (geo/R)",
-        "Premier Sports 2 HD (ROI only)",
-        "LaLiga TV International HD",
-        "DAZN Italia ($/geo/R)",
-        "Premier Sports Player UK (£/geo/R)",
         "DAZN 1 Italia HD",
-        "DAZN Deutsch ($/geo/R)"
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "LaLiga TV International HD",
+        "Premier Sports 2 HD",
+        "Premier Sports 2 HD (ROI only)",
+        "Premier Sports Player UK (£/geo/R)",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320284-Real-Madrid-v-Real-Sociedad"
     },
@@ -373,17 +386,19 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "RTÉ 2 Ireland / HD",
-        "RTÉ Player (geo/R)",
+        "Canal+ Foot HD",
         "Canal+ France HD",
         "Prime Video Italia [$]",
-        "Canal+ Foot HD",
-        "Sky Sport Calcio (delayed)"
+        "RTÉ 2 Ireland / HD",
+        "RTÉ Player (geo/R)",
+        "Sky Sport Calcio (delayed)",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
         "Cr17",
         "Guest-SC",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320273-Lyon-v-Fenerbahe"
     },
@@ -397,19 +412,21 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT 2",
-        "BBC Radio Newcastle",
-        "WBA Radio",
-        "talkSPORT App",
-        "BBC Sounds APP",
-        "WBA TV ($/geo/R)",
         "BBC Radio 5 Sports Extra",
-        "BBC Sport Online (Audio)"
+        "BBC Radio Newcastle",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "WBA Radio",
+        "WBA TV ($/geo/R)",
+        "beIN Sports MENA 6 HD",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "AnthonyB94",
         "Crowe24",
-        "LukeA206"
+        "LukeA206",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320551-Newcastle-United-v-West-Bromwich-Albion"
     },
@@ -423,13 +440,84 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
+        "beIN Sports MENA 8 HD",
         "talkSPORT",
         "talkSPORT App"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320550-Tottenham-Hotspur-v-Charlton-Athletic"
+    },
+    {
+      "title": "Al Ahli v Auckland FC",
+      "teams": [
+        "Al Ahli",
+        "Auckland FC"
+      ],
+      "date": "26/08/2026",
+      "time": "18:00",
+      "tournament": "FIFA Intercontinental Cup",
+      "channels": [
+        "MBC Action"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/322854-Al-Ahli-v-Auckland-FC"
+    },
+    {
+      "title": "Al Diriyah v Al Kholood",
+      "teams": [
+        "Al Diriyah",
+        "Al Kholood"
+      ],
+      "date": "26/08/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/321664-Al-Diriyah-v-Al-Kholood"
+    },
+    {
+      "title": "Al Faisaly v Al Fateh",
+      "teams": [
+        "Al Faisaly",
+        "Al Fateh"
+      ],
+      "date": "26/08/2026",
+      "time": "16:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 2"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/321663-Al-Faisaly-v-Al-Fateh"
+    },
+    {
+      "title": "León v Real Salt Lake",
+      "teams": [
+        "León",
+        "Real Salt Lake"
+      ],
+      "date": "26/08/2026",
+      "time": "02:30",
+      "tournament": "Leagues Cup",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/322858-Len-v-Real-Salt-Lake"
     },
     {
       "title": "Cartaginés v Deportivo FAS",
@@ -444,6 +532,7 @@
         "CONCACAF GO (geo/R)",
         "OneSoccer",
         "Paramount+ USA ($/geo/R)",
+        "World Feed",
         "YouTube: CONCACAF (geo/R)"
       ],
       "commentators": [
@@ -465,6 +554,7 @@
         "CONCACAF GO (geo/R)",
         "OneSoccer",
         "Paramount+ USA ($/geo/R)",
+        "World Feed",
         "YouTube: CONCACAF (geo/R)"
       ],
       "commentators": [
@@ -503,6 +593,7 @@
         "Apple TV"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322794-Monterrey-v-Chicago-Fire"
@@ -531,9 +622,11 @@
         "Mach Deportes",
         "Paramount+ BRA ($/geo/R)",
         "Radio Diblu FM",
-        "Radio Sucre"
+        "Radio Sucre",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322793-Independiente-del-Valle-v-Tolima"
@@ -554,9 +647,11 @@
         "Rádio Bandeirantes",
         "Rádio Itatiaia",
         "SporTV 4K (Brazil)",
-        "SporTV Brazil HD"
+        "SporTV Brazil HD",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322682-Cruzeiro-v-Atltico-Mineiro"
@@ -625,26 +720,26 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "Soccer Special",
-        "Sky Sports Football HD",
-        "talkSPORT App",
-        "World Feed",
-        "BBC RADIO 5 LIVE",
-        "STV Player (geo/R)",
         "BBC Radio Leeds",
-        "LUTV ($/geo/R)",
-        "BBC Sounds APP",
-        "Sky Sports News / HD",
-        "Sky Sports Main Event HD",
         "ITV X (geo/R)",
+        "STV Player (geo/R)",
+        "Soccer Special",
+        "BBC Sounds APP",
         "ITV1 / HD",
-        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports Football HD",
+        "BBC RADIO 5 LIVE",
+        "STV (Scotland) / HD",
         "Sky Sports Main Event UHD",
-        "talkSPORT",
-        "talkSPORT 2",
         "beIN Sports MENA 5 HD",
+        "World Feed",
+        "ESPN (Brazil)",
+        "Sky Sports News / HD",
+        "talkSPORT App",
+        "LUTV ($/geo/R)",
+        "talkSPORT",
+        "Sky Sports Main Event HD",
         "Disney+ Brazil [$]",
-        "STV (Scotland) / HD and2more channels"
+        "ITV EFL Carabao Cup Highlights and2more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -698,23 +793,28 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Sky Sport Uno Italia HD",
-        "Sky Sport Italia 4K UHD",
-        "Virgin Media Two HD",
-        "ESPN 3 (South America)",
         "ESPN 2 (CentroAmérica)",
-        "TNT (brazil)",
-        "beIN Sports MENA 2 HD",
+        "ESPN 3 (South America)",
         "HBO Max Brasil [geo/r] [$]",
-        "TV2 Play Norge ($/geo/R)",
+        "HBO Max México [$] (geo/R)",
         "NRK Sport",
+        "SBT (Brazil)",
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Italia 4K UHD",
+        "Sky Sport Uno Italia HD",
+        "TNT (México) / HD",
+        "TNT (brazil)",
+        "TV2 Play Norge ($/geo/R)",
         "Virgin Media Play (geo/R)",
-        "Sky Sport Business Italia / HD"
+        "Virgin Media Two HD",
+        "World Feed",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
         "Bksm",
         "Guest-SC",
         "ImpactPlayaz",
+        "apltle12",
         "luca80sp",
         "ysscores"
       ],
@@ -730,26 +830,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "Soccer Special",
+        "BBC Radio Scotland Extra",
+        "talkSPORT",
+        "TV2 Sport 1 Norge HD",
+        "Amazon Prime UK [$]",
+        "HBO Max México [$] (geo/R)",
         "ESPN 5 (South America)",
-        "ESPN (CentroAmérica)",
+        "HBO Max Brasil [geo/r] [$]",
+        "Radio Clyde 1",
         "Fox Sports (Argentina)",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "ESPN (CentroAmérica)",
+        "Disney+ Argentina ($/geo/R)",
+        "Sky Sport Calcio HD",
+        "ESPN Premium (Chile)",
+        "BBC RADIO 5 LIVE",
         "Premier Sports 1 HD (ROI only)",
         "World Feed",
-        "Space (Brazil)",
-        "Sky Sport Calcio HD",
-        "BBC Radio Scotland Extra",
-        "BBC Radio 5 Sports Extra 2",
-        "BBC Sounds APP",
-        "TV2 Play Norge ($/geo/R)",
-        "BBC RADIO 5 LIVE",
-        "ESPN Premium (Chile)",
-        "BBC Sport Online (Audio)",
-        "Radio Clyde 1",
-        "Amazon Prime UK [$]",
-        "HBO Max Brasil [geo/r] [$]",
-        "TV2 Sport 1 Norge HD",
-        "Soccer Special",
-        "beIN Sports MENA 1 HD and2more channels"
+        "TV2 Play Norge ($/geo/R) and5more channels"
       ],
       "commentators": [
         "Bksm",
@@ -829,22 +929,24 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
-        "beIN Sports MENA 6 HD",
-        "talkSPORT",
-        "Sky Sports News / HD",
-        "Soccer Special",
         "BBC Radio London (DAB)",
-        "Sky Sports (highlights)",
+        "Disney+ Brazil [$]",
         "ESPN 4 (Brazil)",
         "ITV EFL Carabao Cup Highlights",
-        "Disney+ Brazil [$]",
-        "Sky Sports+ [via APP]"
+        "Sky Sports (highlights)",
+        "Sky Sports News / HD",
+        "Sky Sports+ [via APP]",
+        "Soccer Special",
+        "World Feed",
+        "beIN Sports MENA 6 HD",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
         "LukeA206",
         "SonnyCorry",
+        "apltle12",
         "luca80sp",
         "ysscores"
       ],
@@ -860,15 +962,15 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT",
         "BBC RADIO 5 LIVE",
-        "Sky Sports News / HD",
         "BBC Radio Leicester",
+        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports News / HD",
+        "Sky Sports+ [via APP]",
         "Soccer Special",
         "beIN Sports MENA 4 HD",
-        "Sky Sports (highlights)",
-        "ITV EFL Carabao Cup Highlights",
-        "Sky Sports+ [via APP]"
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
@@ -876,6 +978,7 @@
         "LukeA206",
         "Penfold1982",
         "SonnyCorry",
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320545-Ipswich-Town-v-Leicester-City"
@@ -1168,20 +1271,22 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
-        "beIN Sports MENA 9 HD",
-        "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "Soccer Special",
-        "BBC CWR",
-        "Sky Sports (highlights)",
-        "ITV EFL Carabao Cup Highlights",
         "Argyle TV ($/geo/R)",
-        "Sky Sports+ [via APP]"
+        "BBC CWR",
+        "BBC RADIO 5 LIVE",
+        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]",
+        "Soccer Special",
+        "World Feed",
+        "beIN Sports MENA 9 HD",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
         "LukeA206",
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320533-Plymouth-Argyle-v-Coventry-City"
@@ -1243,10 +1348,11 @@
       "tournament": "English League Trophy",
       "channels": [
         "Sky Sports (highlights)",
-        "Sky Sports+ [via APP]"
+        "Sky Sports+ [via APP]",
+        "YouTube: EFL (Extended Highlights)"
       ],
       "commentators": [
-        "tonay787"
+        "AndyRoo_0860"
       ],
       "match_url": "https://icdb.tv/match/321325-Bristol-Rovers-v-Chelsea-U21"
     },
@@ -1379,19 +1485,24 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
-        "World Feed",
-        "ESPN 3 (South America)",
-        "ESPN (CentroAmérica)",
-        "HBO Max Brasil [geo/r] [$]",
         "Blue Sport 1 Live HD",
-        "TNT Sports 1 HD (UK)",
+        "ESPN (CentroAmérica)",
+        "ESPN 3 (South America)",
+        "HBO Max (uk only) [$/geo/R]",
+        "HBO Max Brasil [geo/r] [$]",
+        "HBO Max México [$] (geo/R)",
+        "Ictimai TV HD",
         "Sky Sport 251 Italia HD",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT (México) / HD",
+        "TNT Sports 1 HD (UK)",
+        "Vix Premium (USA)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
         "HWP",
         "Johnny17",
+        "Mikhail17",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/320389-Sabah-v-Hapoel-Beer-Sheva"
@@ -1567,9 +1678,11 @@
       "time": "00:15",
       "tournament": "Argentinean Primera División",
       "channels": [
-        "ESPN Premium (Argentina)"
+        "ESPN Premium (Argentina)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322637-Talleres-Crdoba-v-Rosario-Central"
