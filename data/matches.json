@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-27T07:13:46.496022+00:00",
+  "scraped_at": "2026-08-27T20:09:01.679445+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 84,
+  "total_matches": 108,
   "matches": [
     {
       "title": "Alavés v Villarreal",
@@ -50,20 +50,24 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "talkSPORT",
-        "Sky Sports News / HD",
-        "talkSPORT App",
-        "USA Network HD",
-        "City+",
         "Canal+ Foot HD",
+        "City+",
         "Recast: Manchester City [$]",
+        "SiriusXM FC",
+        "Sky Sports News / HD",
+        "USA Network App (USA)",
+        "USA Network HD",
         "YouTube: Man City",
-        "USA Network App (USA)"
+        "talkSPORT",
+        "talkSPORT App",
+        "talkSPORT International"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
-        "SYLVESTRE"
+        "SYLVESTRE",
+        "SonnyCorry",
+        "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/320626-Crystal-Palace-v-Manchester-City"
     },
@@ -95,11 +99,17 @@
       "time": "18:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
+        "BBC iPlayer (geo/R)",
+        "Fandango",
+        "Peacock USA ($/geo/R)",
         "SporTV Brazil HD",
+        "Telemundo (usa)",
         "World Feed"
       ],
       "commentators": [
         "Crowe24",
+        "Mikhail17",
+        "bigddan11",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322685-Bayern-Munich-v-Stuttgart"
@@ -122,23 +132,6 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/320588-Dunfermline-Athletic-v-Raith-Rovers"
-    },
-    {
-      "title": "Bayern Munich v Stuttgart",
-      "teams": [
-        "Bayern Munich",
-        "Stuttgart"
-      ],
-      "date": "28/08/2026",
-      "time": "18:30",
-      "tournament": "German 1. Bundesliga",
-      "channels": [
-        "BBC iPlayer (geo/R)"
-      ],
-      "commentators": [
-        "Mikhail17"
-      ],
-      "match_url": "https://icdb.tv/match/320587-Bayern-Munich-v-Stuttgart"
     },
     {
       "title": "Cremonese v Modena",
@@ -234,6 +227,75 @@
       "match_url": "https://icdb.tv/match/322623-Deportivo-Olimpia-v-Saprissa"
     },
     {
+      "title": "Inter Bogotá v Deportivo Pasto",
+      "teams": [
+        "Inter Bogotá",
+        "Deportivo Pasto"
+      ],
+      "date": "28/08/2026",
+      "time": "01:15",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win Sports",
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/323045-Inter-Bogot-v-Deportivo-Pasto"
+    },
+    {
+      "title": "Platense v Instituto Córdoba",
+      "teams": [
+        "Platense",
+        "Instituto Córdoba"
+      ],
+      "date": "28/08/2026",
+      "time": "00:15",
+      "tournament": "Argentinean Cup (Copa Argentina)",
+      "channels": [
+        "TyC Sports"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/323044-Platense-v-Instituto-Crdoba"
+    },
+    {
+      "title": "Cuenca Juniors v 9 de Octubre",
+      "teams": [
+        "Cuenca Juniors",
+        "9 de Octubre"
+      ],
+      "date": "28/08/2026",
+      "time": "00:00",
+      "tournament": "Ecuadorian Primera B",
+      "channels": [
+        "Zapping Sports (Ecuador)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/323046-Cuenca-Juniors-v-9-de-Octubre"
+    },
+    {
+      "title": "Llaneros v Millonarios",
+      "teams": [
+        "Llaneros",
+        "Millonarios"
+      ],
+      "date": "27/08/2026",
+      "time": "23:10",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/323041-Llaneros-v-Millonarios"
+    },
+    {
       "title": "Internacional v Grêmio",
       "teams": [
         "Internacional",
@@ -243,13 +305,66 @@
       "time": "23:00",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
+        "DSports(South America)",
         "Energia 97",
-        "Prime Vídeo Brasil"
+        "Prime Vídeo Brasil",
+        "Rádio Bandeirantes"
       ],
       "commentators": [
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322926-Internacional-v-Grmio"
+    },
+    {
+      "title": "Estudiantes LP v Barracas Central",
+      "teams": [
+        "Estudiantes LP",
+        "Barracas Central"
+      ],
+      "date": "27/08/2026",
+      "time": "22:00",
+      "tournament": "Argentinean Cup (Copa Argentina)",
+      "channels": [
+        "TyC Sports"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/323043-Estudiantes-LP-v-Barracas-Central"
+    },
+    {
+      "title": "Vinotinto v Atlético FC",
+      "teams": [
+        "Vinotinto",
+        "Atlético FC"
+      ],
+      "date": "27/08/2026",
+      "time": "20:30",
+      "tournament": "Ecuadorian Primera B",
+      "channels": [
+        "Zapping Sports (Ecuador)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/323047-Vinotinto-v-Atltico-FC"
+    },
+    {
+      "title": "Partizan Belgrade v Getafe",
+      "teams": [
+        "Partizan Belgrade",
+        "Getafe"
+      ],
+      "date": "27/08/2026",
+      "time": "19:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore España"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321989-Partizan-Belgrade-v-Getafe"
     },
     {
       "title": "Hibernian v AA Gent",
@@ -262,11 +377,13 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "BBC Sounds APP",
+        "Radio Clyde 1",
         "BBC Radio Scotland Extra",
-        "BBC Sport Online (Audio)",
+        "BBCSportOnline (Audio)",
         "BBC Radio 5 Sports Extra 2"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/321844-Hibernian-v-AA-Gent"
@@ -281,11 +398,18 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
+        "BBC RADIO 5 LIVE",
         "Fulham FC TV ($/geo/R)",
+        "Sky Sports (highlights)",
+        "Sky Sports News / HD",
+        "Sky Sports+ [via APP]",
         "beIN Sports MENA 4 HD"
       ],
       "commentators": [
         "AnthonyB94",
+        "Crowe24",
+        "SonnyCorry",
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320560-Fulham-v-AFC-Wimbledon"
@@ -300,23 +424,57 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "beIN Sports MENA 1 HD",
+        "FlashScore France",
         "DAZN 1 Italia HD",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Italia ($/geo/R)",
+        "D Sports (South America)",
         "DAZN Schweiz [$] (geo/R)",
+        "World Feed",
+        "FlashScore Poland",
         "LaLiga TV International HD",
+        "FlashScore Germany",
+        "ESPN2",
+        "Flashscore UK",
+        "FlashScore Brazil",
+        "ESPN Deportes",
         "Premier Sports 2 HD",
-        "Premier Sports 2 HD (ROI only)",
+        "DAZN Deutsch ($/geo/R)",
         "Premier Sports Player UK (£/geo/R)",
-        "beIN Sports MENA 1 HD"
+        "FlashScore España",
+        "FlashScore Romania",
+        "Premier Sports 2 HD (ROI only)",
+        "ESPN+ USA ($/geo/R) and5more channels"
       ],
       "commentators": [
+        "Braylon",
         "Guest-SC",
         "ImpactPlayaz",
+        "ethanh05",
         "kurtogen",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320402-Barcelona-v-Athletic-Bilbao"
+    },
+    {
+      "title": "Rijeka v Midtjylland",
+      "teams": [
+        "Rijeka",
+        "Midtjylland"
+      ],
+      "date": "27/08/2026",
+      "time": "18:45",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "World Feed",
+        "ESPN+ USA ($/geo/R)",
+        "FlashScore Croatia"
+      ],
+      "commentators": [
+        "HWP",
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321668-Rijeka-v-Midtjylland"
     },
     {
       "title": "Brighton H.A. v Tromsø",
@@ -329,16 +487,41 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "talkSPORT 2",
+        "talkSPORT",
+        "BBC RADIO 5 LIVE",
         "Sky Sports News / HD",
+        "MyAlbion TV",
         "talkSPORT App",
-        "VG+ Sport Norge ($/geo/R)"
+        "Direkte Sport ($/geo/R)",
+        "VG+ Sport Norge ($/geo/R)",
+        "NRK Sport"
       ],
       "commentators": [
         "Bksm",
         "Crowe24",
-        "HWP"
+        "HWP",
+        "r96"
       ],
       "match_url": "https://icdb.tv/match/321987-Brighton-HA-v-Troms"
+    },
+    {
+      "title": "Anderlecht v Kairat Almaty",
+      "teams": [
+        "Anderlecht",
+        "Kairat Almaty"
+      ],
+      "date": "27/08/2026",
+      "time": "18:30",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "World Feed",
+        "ESPN+ USA ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/321667-Anderlecht-v-Kairat-Almaty"
     },
     {
       "title": "Austria Vienna v Sporting Braga",
@@ -350,9 +533,11 @@
       "time": "18:30",
       "tournament": "UEFA Conference League",
       "channels": [
-        "ORF 1 Austria HD"
+        "ORF 1 Austria HD",
+        "FlashScore Portugal"
       ],
       "commentators": [
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/321128-Austria-Vienna-v-Sporting-Braga"
@@ -367,17 +552,29 @@
       "time": "18:30",
       "tournament": "English League Cup",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "Luton LTFC+ ($/geo/R)",
-        "beIN Sports MENA 3 HD",
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "World Feed",
         "talkSPORT",
-        "talkSPORT App"
+        "BBC RADIO 5 LIVE",
+        "Sky Sports News / HD",
+        "BBC Three Counties Radio",
+        "talkSPORT App",
+        "BBC Sounds APP",
+        "beIN Sports MENA 3 HD",
+        "Sky Sports (highlights)",
+        "Sky Sports Main Event UHD",
+        "BBC Sport Online (Audio)",
+        "Disney+ South America [$]",
+        "Disney+ Central America [$]",
+        "Luton LTFC+ ($/geo/R)"
       ],
       "commentators": [
         "AnthonyB94",
         "Crowe24",
+        "HWP",
+        "SonnyCorry",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320559-Chelsea-v-Luton-Town"
@@ -392,9 +589,10 @@
       "time": "18:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "DAZN Italia ($/geo/R)",
+        "beIN Sports MENA 8 HD",
         "World Feed",
-        "beIN Sports MENA 8 HD"
+        "DAZN Italia ($/geo/R)",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -402,6 +600,43 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/318747-Celta-Vigo-v-Osasuna"
+    },
+    {
+      "title": "Thun v Lech Poznan",
+      "teams": [
+        "Thun",
+        "Lech Poznan"
+      ],
+      "date": "27/08/2026",
+      "time": "18:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "FlashScore Poland"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321986-Thun-v-Lech-Poznan"
+    },
+    {
+      "title": "Hapoel Tel Aviv v Atalanta",
+      "teams": [
+        "Hapoel Tel Aviv",
+        "Atalanta"
+      ],
+      "date": "27/08/2026",
+      "time": "18:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "Sky Sport Uno Italia HD",
+        "TV8 Italia HD",
+        "Sky Sport Calcio HD",
+        "Sky Sport Business Italia / HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/321985-Hapoel-Tel-Aviv-v-Atalanta"
     },
     {
       "title": "St Gallen v Nordsjælland",
@@ -421,6 +656,37 @@
       "match_url": "https://icdb.tv/match/321984-St-Gallen-v-Nordsjlland"
     },
     {
+      "title": "AGF Aarhus v Benfica",
+      "teams": [
+        "AGF Aarhus",
+        "Benfica"
+      ],
+      "date": "27/08/2026",
+      "time": "18:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "FlashScore Portugal"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321666-AGF-Aarhus-v-Benfica"
+    },
+    {
+      "title": "BBC WM Sport",
+      "date": "27/08/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio WM",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/323037-BBC-WM-Sport"
+    },
+    {
       "title": "Lillestrøm v Egnatia",
       "teams": [
         "Lillestrøm",
@@ -430,7 +696,9 @@
       "time": "17:00",
       "tournament": "UEFA Europa League",
       "channels": [
-        "VG+ Sport Norge ($/geo/R)"
+        "Direkte Sport ($/geo/R)",
+        "VG+ Sport Norge ($/geo/R)",
+        "NRK Sport"
       ],
       "commentators": [
         "Bksm"
@@ -464,12 +732,51 @@
       "time": "17:00",
       "tournament": "UEFA Conference League",
       "channels": [
-        "VG+ Sport Norge ($/geo/R)"
+        "Bergens Tidende",
+        "VG+ Sport Norge ($/geo/R)",
+        "NRK Sport"
       ],
       "commentators": [
         "Bksm"
       ],
       "match_url": "https://icdb.tv/match/321980-Brann-v-PAOK-Thessaloniki"
+    },
+    {
+      "title": "Raków Czestochowa v Hajduk Split",
+      "teams": [
+        "Raków Czestochowa",
+        "Hajduk Split"
+      ],
+      "date": "27/08/2026",
+      "time": "17:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "FlashScore Poland",
+        "FlashScore Croatia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321976-Rakw-Czestochowa-v-Hajduk-Split"
+    },
+    {
+      "title": "Omonia Nicosia v Sint-Truiden",
+      "teams": [
+        "Omonia Nicosia",
+        "Sint-Truiden"
+      ],
+      "date": "27/08/2026",
+      "time": "17:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "World Feed",
+        "ESPN+ USA ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/321842-Omonia-Nicosia-v-SintTruiden"
     },
     {
       "title": "Kauno Zalgiris v Besiktas",
@@ -489,6 +796,23 @@
       "match_url": "https://icdb.tv/match/321841-Kauno-Zalgiris-v-Besiktas"
     },
     {
+      "title": "Viktoria Plzen v Red Star Belgrade",
+      "teams": [
+        "Viktoria Plzen",
+        "Red Star Belgrade"
+      ],
+      "date": "27/08/2026",
+      "time": "17:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "FlashScore Croatia"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321534-Viktoria-Plzen-v-Red-Star-Belgrade"
+    },
+    {
       "title": "Monaco v Górnik Zabrze",
       "teams": [
         "Monaco",
@@ -498,10 +822,12 @@
       "time": "16:45",
       "tournament": "UEFA Conference League",
       "channels": [
-        "VG+ Sport Norge ($/geo/R)"
+        "VG+ Sport Norge ($/geo/R)",
+        "FlashScore Poland"
       ],
       "commentators": [
-        "Bksm"
+        "Bksm",
+        "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/321975-Monaco-v-Grnik-Zabrze"
     },
@@ -515,9 +841,21 @@
       "time": "16:45",
       "tournament": "UEFA Conference League",
       "channels": [
-        "SWR Fernsehen BW HD"
+        "Premier Sports 1 HD",
+        "BBC Radio Scotland",
+        "Sportschau Live (Audio)",
+        "ARD Audiothek",
+        "Radio Clyde 1",
+        "Premier Sports Player UK (£/geo/R)",
+        "ARD Mediathek",
+        "SWR Fernsehen BW HD",
+        "FlashScore Germany"
       ],
       "commentators": [
+        "AnthonyB94",
+        "HWP",
+        "SonnyCorry",
+        "ethanh05",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/321840-Freiburg-v-Motherwell"
@@ -540,17 +878,55 @@
       "match_url": "https://icdb.tv/match/321839-Al-Wakrah-v-Al-Rayyan"
     },
     {
-      "title": "- UEFA Champions League Draw -",
+      "title": "Ararat-Armenia v Universitatea Craiova",
+      "teams": [
+        "Ararat-Armenia",
+        "Universitatea Craiova"
+      ],
       "date": "27/08/2026",
       "time": "16:00",
-      "tournament": "UEFA Champions League",
+      "tournament": "UEFA Europa League",
       "channels": [
-        "World Feed"
+        "FlashScore Romania"
       ],
       "commentators": [
-        "Crowe24"
+        "ethanh05"
       ],
-      "match_url": "https://icdb.tv/match/322853-UEFA-Champions-League-Draw"
+      "match_url": "https://icdb.tv/match/321974-AraratArmenia-v-Universitatea-Craiova"
+    },
+    {
+      "title": "Maccabi Tel Aviv v Lugano",
+      "teams": [
+        "Maccabi Tel Aviv",
+        "Lugano"
+      ],
+      "date": "27/08/2026",
+      "time": "16:00",
+      "tournament": "UEFA Conference League",
+      "channels": [
+        "RSI La 2 Svizzera HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/321973-Maccabi-Tel-Aviv-v-Lugano"
+    },
+    {
+      "title": "Iberia 1999 v Jagiellonia",
+      "teams": [
+        "Iberia 1999",
+        "Jagiellonia"
+      ],
+      "date": "27/08/2026",
+      "time": "16:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "FlashScore Poland"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/321972-Iberia-1999-v-Jagiellonia"
     },
     {
       "title": "Jablonec v Rangers",
@@ -562,15 +938,59 @@
       "time": "16:00",
       "tournament": "UEFA Conference League",
       "channels": [
+        "Rangers TV [$] (geo/R)",
+        "talkSPORT",
+        "BBC RADIO 5 LIVE",
+        "Sky Sports News / HD",
         "BBC Sounds APP",
+        "Radio Clyde 1",
         "BBC Radio Scotland Extra",
         "BBC Sport Online (Audio)",
         "BBC Radio 5 Sports Extra 2"
       ],
       "commentators": [
-        "SonnyCorry"
+        "Crowe24",
+        "HWP",
+        "SonnyCorry",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/321665-Jablonec-v-Rangers"
+    },
+    {
+      "title": "- UEFA Champions League Draw -",
+      "date": "27/08/2026",
+      "time": "16:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "CBS Sports Golazo Network (US)",
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch [$] (geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 1 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "PremierSports1 HD (ROI only)",
+        "Stan Sport Australia ($/geo/R)",
+        "TNT Sports 1 HD (UK)",
+        "TV2 Play Norge ($/geo/R)",
+        "TV2 Sport 1 Norge HD",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD",
+        "World Feed",
+        "ZDF / HD",
+        "talkSPORT"
+      ],
+      "commentators": [
+        "Bksm",
+        "Crowe24",
+        "HWP",
+        "ImpactPlayaz",
+        "Mikhail17",
+        "apltle12",
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/320399-UEFA-Champions-League-Draw"
     },
     {
       "title": "Al Gharafa v Al Shamal",
@@ -699,6 +1119,7 @@
       "time": "00:30",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
+        "FlashScore Brazil",
         "GE TV",
         "Premiere (Brazil)",
         "Prime Vídeo Brasil",
@@ -711,6 +1132,7 @@
         "globoplay"
       ],
       "commentators": [
+        "ethanh05",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322684-Vasco-da-Gama-v-Vitria"
@@ -725,26 +1147,31 @@
       "time": "00:30",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
-        "105 FM",
+        "Rádio BandNews FM",
+        "Premiere (Brazil)",
+        "Rádio NovaBrasil",
+        "FlashScore Brazil",
+        "TV Globo",
+        "Rádio CBN",
+        "SporTV Brazil HD",
+        "Rádio TMC",
+        "globoplay",
+        "Prime Vídeo Brasil",
+        "Rádio Jovem Pan",
+        "SporTV 4K (Brazil)",
+        "Premier Sports 2 HD",
+        "World Feed",
+        "Premier Sports Player UK (£/geo/R)",
         "D Sports 2 (South America)",
+        "Rádio Bandeirantes",
         "Energia 97",
         "GE TV",
-        "Premiere (Brazil)",
-        "Prime Vídeo Brasil",
-        "Rádio BandNews FM",
-        "Rádio Bandeirantes",
-        "Rádio CBN",
-        "Rádio Jovem Pan",
-        "Rádio NovaBrasil",
-        "Rádio TMC",
-        "SporTV 4K (Brazil)",
-        "SporTV Brazil HD",
-        "TV Globo",
-        "World Feed",
-        "globoplay"
+        "105 FM and0more channels"
       ],
       "commentators": [
         "HWP",
+        "Mikhail17",
+        "ethanh05",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/322683-Palmeiras-v-Santos"
@@ -802,25 +1229,25 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "beIN Sports US HD",
+        "World Feed",
+        "ESPN Uruguay",
+        "ESPN (Brazil)",
+        "ESPN Peru",
+        "ESPN Paraguay",
+        "beIN Sports MENA English 2 HD",
+        "beIN Sports MENA 2 HD",
+        "beIN Connect USA",
+        "ESPN (Chile)",
+        "beIN Connect Australia",
         "D Sports (Argentina)",
-        "D Sports (Colombia)",
+        "D Sports (Uruguay)",
         "D Sports (Ecuador)",
         "D Sports (Peru)",
-        "D Sports (Uruguay)",
-        "D sports (Venezuela)",
-        "Disney+ Brazil [$]",
-        "ESPN (Brazil)",
-        "ESPN (Chile)",
         "ESPN Bolivia",
-        "ESPN Paraguay",
-        "ESPN Peru",
-        "ESPN Uruguay",
-        "World Feed",
-        "beIN Connect Australia",
-        "beIN Connect USA",
-        "beIN Sports MENA 2 HD",
-        "beIN Sports MENA English 2 HD",
-        "beIN Sports US HD"
+        "D sports (Venezuela)",
+        "D Sports (Colombia)",
+        "Disney+ Brazil [$]"
       ],
       "commentators": [
         "HWP",
@@ -1107,26 +1534,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "Blue Sport D 1 HD",
         "RTÉ 2 Ireland / HD (highlights)",
-        "ESPN 5 (CentroAmérica)",
-        "ViaPlay Danmark HD",
-        "Vix Premium (USA)",
         "Sky Sport Business Italia / HD",
-        "TV2 Play Norge ($/geo/R)",
-        "Virgin Media Two HD",
-        "Virgin Media Play (geo/R)",
         "Sky Sport Austria Konferenz",
-        "DAZN Deutsch ($/geo/R)",
         "ESPN 4 (South America)",
-        "Sky Sport Uno Italia HD",
-        "VG+ Sport Norge ($/geo/R)",
-        "NRK Sport",
-        "TV3 Sport Dansk HD",
+        "ESPN 5 (CentroAmérica)",
+        "Vix Premium (USA)",
+        "ViaPlay Danmark HD",
         "beIN Sports MENA 3 HD",
+        "Canal+ Extra 2 Polska HD",
         "FlashScore Croatia",
         "World Feed",
+        "TV3 Sport Dansk HD",
+        "TV2 Play Norge ($/geo/R)",
+        "Sky Sport Uno Italia HD",
         "FOX ONE (México) [$] (geo/R)",
-        "Blue Sport D 1 HD and0more channels"
+        "NRK Sport",
+        "DAZN Deutsch ($/geo/R)",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD and1more channels"
       ],
       "commentators": [
         "Bksm",
@@ -1134,6 +1561,7 @@
         "HWP",
         "ImpactPlayaz",
         "Johnny17",
+        "Kamyk94",
         "Vallis",
         "ethanh05",
         "kurtogen",
@@ -1152,26 +1580,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Sky Sport Calcio HD",
-        "ViaPlay Sport News Dansk",
-        "Sky Sport Austria Konferenz",
-        "ESPN 2 (CentroAmérica)",
-        "DAZN Deutsch ($/geo/R)",
-        "HBO Max Brasil [geo/r] [$]",
+        "RTÉ 2 Ireland / HD (highlights)",
         "ViaPlay Danmark HD",
+        "ViaPlay Sport News Dansk",
+        "DAZN Deutsch ($/geo/R)",
+        "Fox Sports (Argentina)",
         "Disney+ Argentina ($/geo/R)",
+        "beIN Sports MENA 4 HD",
+        "HBO Max (uk only) [$/geo/R]",
         "TUDN Español USA",
-        "Sky Sport 2 Austria HD",
-        "World Feed",
+        "Sky Sport Austria Konferenz",
+        "FOX (México) [$] (geo/R)",
+        "Sky Sport Calcio HD",
+        "TNT Sports 4 HD",
+        "ESPN 2 (CentroAmérica)",
         "Blue Sport 1 Live HD",
         "ESPN 5 (South America)",
-        "RTÉ 2 Ireland / HD (highlights)",
-        "TNT Sports 4 HD",
-        "FOX (México) [$] (geo/R)",
-        "HBO Max (uk only) [$/geo/R]",
+        "World Feed",
         "FOX ONE (México) [$] (geo/R)",
-        "Fox Sports (Argentina)",
-        "beIN Sports MENA 4 HD and0more channels"
+        "HBO Max Brasil [geo/r] [$]",
+        "Sky Sport 2 Austria HD and0more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -1240,26 +1668,26 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "FlashScore Croatia",
-        "FlashScore Romania",
-        "DAZN Schweiz [$] (geo/R)",
-        "Flashscore UK",
-        "beIN Sports MENA 1 HD",
-        "ESPN (South America)",
-        "Premier Sports 2 HD (ROI only)",
-        "FlashScore France",
-        "FlashScore Italia",
-        "Flashscore Czech",
-        "Premier Sports 2 HD",
-        "FlashScore Poland",
-        "CazéTV",
-        "Premier Sports Player UK (£/geo/R)",
+        "DAZN Italia ($/geo/R)",
         "FlashScore Germany",
-        "FlashScore Brazil",
-        "World Feed",
-        "FlashScore Portugal",
+        "beIN Sports MENA 1 HD",
+        "FlashScore France",
+        "CazéTV",
+        "ESPN (South America)",
         "DAZN 1 Italia HD",
-        "FlashScore (audio) and4more channels"
+        "FlashScore Poland",
+        "FlashScore Romania",
+        "Flashscore Czech",
+        "Premier Sports 2 HD (ROI only)",
+        "FlashScore Brazil",
+        "DAZN Deutsch ($/geo/R)",
+        "FlashScore Portugal",
+        "Premier Sports 2 HD",
+        "FlashScore Croatia",
+        "FlashScore Italia",
+        "FlashScore (audio)",
+        "FlashScore España",
+        "LaLiga TV International HD and4more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -1281,26 +1709,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "ESPN 5 (Chile)",
-        "ESPN 2 (South America)",
-        "ViaPlay Danmark HD",
-        "Canal+ France HD",
-        "HBO Max Brasil [geo/r] [$]",
-        "beIN Sports MENA 2 HD",
-        "RTÉ Player (geo/R)",
-        "DAZN 2 Bar Deutsch HD",
-        "DAZN Deutsch ($/geo/R)",
-        "ESPN 5 (CentroAmérica)",
-        "ESPN Premium (Chile)",
-        "World Feed",
-        "Canal+ Österreich [€]",
-        "TNT (brazil)",
-        "Sky Sport Calcio (delayed)",
-        "Prime Video Italia [$]",
-        "FOX+ (Mexico)",
-        "TV3+ Dansk HD",
         "Premier Sports 1 HD (ROI only)",
-        "FlashScore France and5more channels"
+        "Sky Sport Calcio (delayed)",
+        "FlashScore France",
+        "ESPN 5 (Chile)",
+        "TNT (brazil)",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN 2 Bar Deutsch HD",
+        "Canal+ Foot HD",
+        "RTÉ 2 Ireland / HD",
+        "ESPN Premium (Chile)",
+        "FOX+ (Mexico)",
+        "Prime Video Italia [$]",
+        "Canal+ Österreich [€]",
+        "beIN Sports MENA 2 HD",
+        "ESPN 2 (South America)",
+        "Blue Sport 3 Live HD",
+        "ViaPlay Danmark HD",
+        "World Feed",
+        "ESPN 5 (CentroAmérica)",
+        "TV3+ Dansk HD and5more channels"
       ],
       "commentators": [
         "Cr17",
@@ -1350,6 +1778,7 @@
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
         "ITV EFL Carabao Cup Highlights",
+        "Sky Sport Premier League DE HD",
         "Sky Sports News / HD",
         "Sky Sports+ [via APP]",
         "ViaPlay Danmark HD",
@@ -1369,6 +1798,7 @@
         "LukeA206",
         "SonnyCorry",
         "Vallis",
+        "kurtogen",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320551-Newcastle-United-v-West-Bromwich-Albion"
@@ -1519,6 +1949,58 @@
       "match_url": "https://icdb.tv/match/322914-Chelsea-v-Real-Sociedad"
     },
     {
+      "title": "Preußen Münster v SSV Buer",
+      "teams": [
+        "Preußen Münster",
+        "SSV Buer"
+      ],
+      "date": "26/08/2026",
+      "time": "17:00",
+      "tournament": "German Regional Cup",
+      "channels": [
+        "WAZ.de"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/323028-Preuen-Mnster-v-SSV-Buer"
+    },
+    {
+      "title": "Rot-Weiss Oberhausen v FC Kray",
+      "teams": [
+        "Rot-Weiss Oberhausen",
+        "FC Kray"
+      ],
+      "date": "26/08/2026",
+      "time": "17:00",
+      "tournament": "German Regional Cup",
+      "channels": [
+        "Neue Ruhr Zeitung",
+        "WAZ.de"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/323025-RotWeiss-Oberhausen-v-FC-Kray"
+    },
+    {
+      "title": "VfB Lübeck v Hamburg II",
+      "teams": [
+        "VfB Lübeck",
+        "Hamburg II"
+      ],
+      "date": "26/08/2026",
+      "time": "17:00",
+      "tournament": "German Regionalliga: Nord",
+      "channels": [
+        "NDR 1 Welle Nord"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/323024-VfB-Lbeck-v-Hamburg-II"
+    },
+    {
       "title": "BBC WM Sport",
       "date": "26/08/2026",
       "time": "17:00",
@@ -1559,13 +2041,15 @@
       "time": "16:45",
       "tournament": "UEFA Conference League",
       "channels": [
-        "BBC Sounds APP",
-        "Radio Clyde 1",
+        "BBC Radio 5 Sports Extra 2",
         "BBC Radio Scotland Extra",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
         "Hearts TV",
         "ORF 1 Austria HD",
-        "BBC Sport Online (Audio)",
-        "BBC Radio 5 Sports Extra 2"
+        "Radio Clyde 1",
+        "STV News",
+        "World Feed"
       ],
       "commentators": [
         "HWP",
@@ -1573,6 +2057,40 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/321127-Rapid-Vienna-v-Hearts"
+    },
+    {
+      "title": "Ibbenbürener v Rot-Weiss Ahlen",
+      "teams": [
+        "Ibbenbürener",
+        "Rot-Weiss Ahlen"
+      ],
+      "date": "26/08/2026",
+      "time": "16:30",
+      "tournament": "German Regional Cup",
+      "channels": [
+        "Ruhr Nachrichten"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/323027-Ibbenbrener-v-RotWeiss-Ahlen"
+    },
+    {
+      "title": "Todesfelde v VfB Oldenburg",
+      "teams": [
+        "Todesfelde",
+        "VfB Oldenburg"
+      ],
+      "date": "26/08/2026",
+      "time": "16:30",
+      "tournament": "German Regionalliga: Nord",
+      "channels": [
+        "NDR 1 Welle Nord"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/323023-Todesfelde-v-VfB-Oldenburg"
     },
     {
       "title": "Eintracht Frankfurt v Paris St Germain",
@@ -1647,6 +2165,23 @@
         "Vallis"
       ],
       "match_url": "https://icdb.tv/match/321528-Fredericia-v-OB-Odense"
+    },
+    {
+      "title": "Eintracht 1949 v FSV Zwickau",
+      "teams": [
+        "Eintracht 1949",
+        "FSV Zwickau"
+      ],
+      "date": "26/08/2026",
+      "time": "16:00",
+      "tournament": "German Regionalliga: Nordost",
+      "channels": [
+        "OstSportTV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/320276-Eintracht-1949-v-FSV-Zwickau"
     },
     {
       "title": "Anyang v Incheon United",
