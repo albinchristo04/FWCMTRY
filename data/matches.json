@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-01T14:31:42.726845+00:00",
+  "scraped_at": "2026-09-01T18:20:33.313864+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 75,
+  "total_matches": 79,
   "matches": [
     {
       "title": "BBC Sportscene",
@@ -61,17 +61,37 @@
       "time": "19:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sky Sports Football HD",
+        "BBC Radio 5 Sports Extra 3",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "BBC Radio 5 Sports Extra 3"
+        "Falkirk TV [$]",
+        "Sky Sports Football HD",
+        "Sky Sports News / HD"
       ],
       "commentators": [
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/321714-Falkirk-v-Rangers"
+    },
+    {
+      "title": "Kilmarnock v St Mirren",
+      "teams": [
+        "Kilmarnock",
+        "St Mirren"
+      ],
+      "date": "02/09/2026",
+      "time": "18:45",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "KillieTV",
+        "St Mirren TV ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/323998-Kilmarnock-v-St-Mirren"
     },
     {
       "title": "Queens Park Rangers v Cardiff City",
@@ -181,8 +201,8 @@
       "time": "19:00",
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
-        "MBC Shahid |Sports",
-        "RDS Radio TV Serie A"
+        "RDS Radio TV Serie A",
+        "MBC Shahid | Sports"
       ],
       "commentators": [
         "Guest-SC",
@@ -198,7 +218,7 @@
       "channels": [
         "BBC RADIO 5 LIVE",
         "BBC Sounds APP",
-        "BBCSportOnline (Audio)"
+        "BBC Sport Online (Audio)"
       ],
       "commentators": [
         "Crowe24"
@@ -232,12 +252,30 @@
       "time": "19:00",
       "tournament": "English Championship",
       "channels": [
+        "BBC RADIO 5 LIVE",
         "BBC Radio WM (DAB Birmingham)"
       ],
       "commentators": [
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/321692-Birmingham-City-v-Southampton"
+    },
+    {
+      "title": "Wycombe Wanderers v Sheffield Wednesday",
+      "teams": [
+        "Wycombe Wanderers",
+        "Sheffield Wednesday"
+      ],
+      "date": "01/09/2026",
+      "time": "18:45",
+      "tournament": "English League One",
+      "channels": [
+        "BBC Radio Sheffield"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/322725-Wycombe-Wanderers-v-Sheffield-Wednesday"
     },
     {
       "title": "Accrington Stanley v Grimsby Town",
@@ -286,7 +324,7 @@
       "channels": [
         "Sky Sports (highlights)",
         "ITV English Football League Highlights",
-        "SkySports+[via APP]"
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
         "Crowe24",
@@ -327,6 +365,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/322714-Swindon-Town-v-Port-Vale"
+    },
+    {
+      "title": "Bradford City v Cambridge United",
+      "teams": [
+        "Bradford City",
+        "Cambridge United"
+      ],
+      "date": "01/09/2026",
+      "time": "18:45",
+      "tournament": "English League One",
+      "channels": [
+        "BBC Radio Leeds (FM)"
+      ],
+      "commentators": [
+        "JACKLUFC"
+      ],
+      "match_url": "https://icdb.tv/match/321699-Bradford-City-v-Cambridge-United"
     },
     {
       "title": "Bromley v Leyton Orient",
@@ -380,6 +435,24 @@
       "match_url": "https://icdb.tv/match/321696-Leicester-City-v-Plymouth-Argyle"
     },
     {
+      "title": "Huddersfield Town v Oxford United",
+      "teams": [
+        "Huddersfield Town",
+        "Oxford United"
+      ],
+      "date": "01/09/2026",
+      "time": "18:45",
+      "tournament": "English League One",
+      "channels": [
+        "BBC Radio Leeds (DAB)",
+        "BBC Radio Leeds (Freeview)"
+      ],
+      "commentators": [
+        "JACKLUFC"
+      ],
+      "match_url": "https://icdb.tv/match/321694-Huddersfield-Town-v-Oxford-United"
+    },
+    {
       "title": "Preston N.E. v Bristol City",
       "teams": [
         "Preston N.E.",
@@ -389,10 +462,14 @@
       "time": "18:45",
       "tournament": "English Championship",
       "channels": [
+        "Soccer Saturday",
+        "Soccer Special",
         "iFollow (Preston North End)"
       ],
       "commentators": [
-        "AnthonyB94"
+        "AnthonyB94",
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/321691-Preston-NE-v-Bristol-City"
     },
@@ -495,9 +572,13 @@
       "time": "18:00",
       "tournament": "Saudi Pro League",
       "channels": [
-        "Thmanyah 1"
+        "Fox Sports 2 (US)",
+        "Thmanyah 1",
+        "World Feed",
+        "YouTube: Saudi Pro League"
       ],
       "commentators": [
+        "tonay787",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/321596-Al-Hilal-v-Al-Ahli"
@@ -843,26 +924,26 @@
       "time": "19:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "Premier Sports 1 HD (ROI only)",
-        "FlashScore Italia",
-        "FlashScore Brazil",
-        "FlashScore España",
         "FlashScore Poland",
-        "World Feed",
-        "FlashScore Romania",
-        "Premier Sports 1 HD",
-        "FlashScore Germany",
-        "DAZN 1 Italia HD",
-        "ESPN+ USA ($/geo/R)",
-        "DAZN Deutsch ($/geo/R)",
-        "ESPN (South America)",
-        "FlashScore Portugal",
-        "LaLiga TV International HD",
+        "Flashscore UK",
         "DAZN Italia ($/geo/R)",
-        "FlashScore France",
+        "FlashScore Italia",
+        "ESPN (South America)",
+        "FlashScore Romania",
+        "FlashScore Brazil",
         "beIN Sports MENA 2 HD",
-        "DAZN Schweiz [$] (geo/R)",
-        "FlashScore (audio) and2more channels"
+        "LaLiga TV International HD",
+        "FlashScore Portugal",
+        "FlashScore España",
+        "DAZN 1 Italia HD",
+        "FlashScore (audio)",
+        "Premier Sports 1 HD (ROI only)",
+        "Premier Sports 1 HD",
+        "FlashScore France",
+        "FlashScore Germany",
+        "World Feed",
+        "DAZN Deutsch ($/geo/R)",
+        "ESPN+ USA ($/geo/R) and2more channels"
       ],
       "commentators": [
         "Braylon",
@@ -942,26 +1023,26 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "FlashScore Croatia",
-        "FlashScore Italia",
-        "ESPN Extra (Caribbean)",
         "World Feed",
-        "FlashScore Portugal",
         "FlashScore France",
-        "Sport 24 At Sea HD",
-        "Sky Sports (highlights)",
-        "Sky Sports News / HD",
-        "Sky Sports Main Event UHD",
-        "NOW Premier League TV (hk)",
-        "Premier League TV",
-        "FlashScore Slovakia",
-        "Flashscore Czech",
-        "beIN Sports MENA English 1 HD",
+        "FlashScore (audio)",
+        "FlashScore Italia",
+        "talkSPORT International",
+        "Flashscore UK",
         "Arsenal App",
         "BBC RADIO 5 LIVE",
-        "NBC Universo USA",
-        "Premier League+ (Singapore)",
-        "MONOMAX (Thailand and34more channels"
+        "Sky Sport Premier League DE HD",
+        "Sky Sports (highlights)",
+        "USA Network HD",
+        "FlashScore Croatia",
+        "Laos) [$] (geo/R)",
+        "SiriusXM FC",
+        "Flashscore Czech",
+        "talkSPORT",
+        "FlashScore Brazil",
+        "FlashScore Poland",
+        "FlashScore Slovakia",
+        "beIN Sports MENA 1 HD and34more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -989,10 +1070,12 @@
       "time": "18:45",
       "tournament": "French Ligue 2",
       "channels": [
-        "World Feed"
+        "World Feed",
+        "beIN Sports France 1 HD"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "SYLVESTRE"
       ],
       "match_url": "https://icdb.tv/match/321583-Dijon-v-St-Etienne"
     },
@@ -1006,26 +1089,26 @@
       "time": "18:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "Sky Sport 251 Italia HD",
-        "Peacock USA ($/geo/R)",
-        "DAZN Italia ($/geo/R)",
-        "DAZN Ireland ($/geo/R)",
-        "ESPN 3 (South America)",
+        "World Feed",
+        "Sky Sport Business Italia / HD",
+        "DAZN UK [$] (geo/R)",
+        "beIN Sports Australia 3 HD",
         "Sky Sport Calcio HD",
-        "Youtube: DAZN Football",
+        "ESPN 3 (South America)",
+        "CBS Sports Golazo Network (US)",
+        "Sky Sport 251 Italia HD",
+        "Sky Sport Italia 4K UHD",
+        "Peacock USA ($/geo/R)",
+        "DAZN Ireland ($/geo/R)",
+        "Telemundo Deportes Ahora",
+        "StarzPlay",
         "Paramount+ USA ($/geo/R)",
         "BBC iPlayer (geo/R)",
-        "StarzPlay",
-        "DAZN Worldwide ($/geo/R)",
-        "Sky Sport Business Italia / HD",
         "BBC Sport Scotland Online",
-        "Sky Sport Italia 4K UHD",
-        "STC TV App",
-        "World Feed",
-        "DAZN UK [$] (geo/R)",
+        "Youtube: DAZN Football",
+        "DAZN Worldwide ($/geo/R)",
         "ESPN 4 (CentroAmérica)",
-        "CBS Sports Golazo Network (US)",
-        "beIN Sports Australia 3 HD and1more channels"
+        "STC TV App and1more channels"
       ],
       "commentators": [
         "Guest-SC",
