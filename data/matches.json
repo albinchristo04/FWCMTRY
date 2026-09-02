@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-02T02:48:25.492332+00:00",
+  "scraped_at": "2026-09-02T09:17:52.610515+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 73,
+  "total_matches": 94,
   "matches": [
     {
       "title": "BBC Euro Leagues",
@@ -83,6 +83,7 @@
       "time": "00:30",
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
+        "D Sports (South America)",
         "GE TV",
         "Premiere (Brazil)",
         "SporTV 4K (Brazil)",
@@ -115,6 +116,23 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/324137-Vitria-v-Vasco-da-Gama"
+    },
+    {
+      "title": "Vélez Sarsfield v Boca Juniors",
+      "teams": [
+        "Vélez Sarsfield",
+        "Boca Juniors"
+      ],
+      "date": "03/09/2026",
+      "time": "00:15",
+      "tournament": "Argentinean Cup (Copa Argentina)",
+      "channels": [
+        "TyC Sports"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/324206-Vlez-Sarsfield-v-Boca-Juniors"
     },
     {
       "title": "Flamengo v Mirassol",
@@ -174,13 +192,15 @@
       "time": "19:00",
       "tournament": "English Championship",
       "channels": [
+        "Clarets+",
+        "beINSportsMENA 1 HD",
         "talkSPORT 2",
-        "talkSPORT App",
-        "Clarets+"
+        "talkSPORT App"
       ],
       "commentators": [
         "AnthonyB94",
-        "Crowe24"
+        "Crowe24",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/321715-Burnley-v-Middlesbrough"
     },
@@ -194,16 +214,18 @@
       "time": "19:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "SkySportsFootball HD",
+        "BBC Radio 5 Sports Extra 3",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
         "BBC Sounds APP",
-        "Falkirk TV [$]",
         "BBC Sport Online (Audio)",
-        "BBC Radio 5 Sports Extra 3"
+        "Falkirk TV [$]",
+        "Sharjah Sports",
+        "Sky Sports Football HD",
+        "Sky Sports News / HD"
       ],
       "commentators": [
-        "SonnyCorry"
+        "SonnyCorry",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/321714-Falkirk-v-Rangers"
     },
@@ -312,6 +334,23 @@
       "match_url": "https://icdb.tv/match/322852-talkSPORT-Kick-Off"
     },
     {
+      "title": "Spartak Moscow v Rodina Moscow",
+      "teams": [
+        "Spartak Moscow",
+        "Rodina Moscow"
+      ],
+      "date": "02/09/2026",
+      "time": "17:45",
+      "tournament": "Russian Cup (Kubok Rossii)",
+      "channels": [
+        "D Sports+ (South America)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/324209-Spartak-Moscow-v-Rodina-Moscow"
+    },
+    {
       "title": "Clyde 1 Superscoreboard",
       "date": "02/09/2026",
       "time": "17:00",
@@ -325,6 +364,23 @@
       "match_url": "https://icdb.tv/match/323790-Clyde-1-Superscoreboard"
     },
     {
+      "title": "Ceramica Cleopatra v Modern Sport",
+      "teams": [
+        "Ceramica Cleopatra",
+        "Modern Sport"
+      ],
+      "date": "02/09/2026",
+      "time": "17:00",
+      "tournament": "Egyptian Premier League",
+      "channels": [
+        "On Sport Max"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/323615-Ceramica-Cleopatra-v-Modern-Sport"
+    },
+    {
       "title": "Udinese v Venezia",
       "teams": [
         "Udinese",
@@ -334,12 +390,69 @@
       "time": "16:00",
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
+        "D Sports 2 (South America)",
+        "FOX (México) [$] (geo/R)",
+        "FOX+ (Mexico)",
+        "MBC Shahid | Sports",
         "RDS Radio TV Serie A"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "luca80sp",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322978-Udinese-v-Venezia"
+    },
+    {
+      "title": "Zenit St Petersburg v Dynamo Makhachkala",
+      "teams": [
+        "Zenit St Petersburg",
+        "Dynamo Makhachkala"
+      ],
+      "date": "02/09/2026",
+      "time": "15:30",
+      "tournament": "Russian Cup (Kubok Rossii)",
+      "channels": [
+        "D Sports+ (South America)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/324208-Zenit-St-Petersburg-v-Dynamo-Makhachkala"
+    },
+    {
+      "title": "Sassuolo v Frosinone",
+      "teams": [
+        "Sassuolo",
+        "Frosinone"
+      ],
+      "date": "02/09/2026",
+      "time": "13:00",
+      "tournament": "Italian Cup (Coppa Italia)",
+      "channels": [
+        "D Sports (South America)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/324207-Sassuolo-v-Frosinone"
+    },
+    {
+      "title": "Sassuolo v Frosinone",
+      "teams": [
+        "Sassuolo",
+        "Frosinone"
+      ],
+      "date": "02/09/2026",
+      "time": "13:00",
+      "tournament": "Italian Cup (Coppa Italia)",
+      "channels": [
+        "MBC Shahid | Sports"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/322977-Sassuolo-v-Frosinone"
     },
     {
       "title": "Fortaleza CEIF v Once Caldas",
@@ -370,6 +483,9 @@
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
         "D Sports (South America)",
+        "OneFootball [app] ($/geo/R)",
+        "Premier Sports 2 HD",
+        "Premier Sports Player UK (£/geo/R)",
         "Premiere (Brazil)",
         "Rede 98",
         "Rádio Bandeirantes",
@@ -379,6 +495,7 @@
         "World Feed"
       ],
       "commentators": [
+        "Mikhail17",
         "apltle12",
         "luca80sp"
       ],
@@ -447,16 +564,17 @@
       "time": "19:00",
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
-        "DAZN Deutsch [$] (geo/R)",
-        "Premier Sports 1 HD",
-        "World Feed",
-        "DAZN Schweiz [$] (geo/R)",
         "D Sports (South America)",
+        "DAZN Deutsch [$] (geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "MBC Action",
+        "MBC Shahid | Sports",
+        "Polsat Sport 3 HD",
+        "Premier Sports 1 HD",
         "Premier Sports Player UK (£/geo/R)",
         "RDS Radio TV Serie A",
         "SportyNet",
-        "MBC Shahid | Sports",
-        "MBC Action"
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
@@ -860,15 +978,16 @@
       "time": "18:45",
       "tournament": "English League One",
       "channels": [
-        "World Feed",
+        "Argyle TV ($/geo/R)",
         "BBC RADIO 5 LIVE",
         "BBC Radio Leicester",
-        "Soccer Special",
-        "Sky Sports (highlights)",
+        "Foxes Hub",
         "ITV English Football League Highlights",
-        "Argyle TV ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
-        "Paramount+ USA ($/geo/R)"
+        "Soccer Special",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -932,11 +1051,13 @@
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
         "Soccer Special",
+        "World Feed",
         "iFollow (Preston North End)"
       ],
       "commentators": [
         "AnthonyB94",
         "Crowe24",
+        "HWP",
         "LukeA206",
         "apltle12",
         "tonay787"
@@ -953,25 +1074,30 @@
       "time": "18:45",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "ESPN Africa",
-        "World Feed",
-        "Astro Grandstand HD",
-        "SuperSport ESPN HD",
-        "ESPN (Brazil)",
-        "Sportschau Live (Audio)",
-        "ARD Audiothek",
-        "Astro Sports UHD",
-        "Astro Football HD",
         "AD Sports 1",
-        "ARD-Hörfunk",
         "Disney+ Brazil [$]",
-        "DFB Play TV (geo/R)",
-        "NDR 90.3",
+        "ESPN (Brazil)",
+        "RTL 4K UHD",
+        "RTL Schweiz HD",
+        "ESPN Africa",
+        "FlashScore Germany",
+        "Eleven Sports 1 Polska HD",
+        "SuperSport ESPN HD",
+        "World Feed",
+        "ARD-Hörfunk",
+        "RTL Deutschland HD",
+        "Sky Sport News Deutsch HD",
+        "Sport TVP ($/geo/R)",
+        "Sky Sport MIX Deutsch HD",
+        "Sportschau Live (Audio)",
         "DFB Play (geo/R)",
-        "FlashScore Germany"
+        "DFB Play TV (geo/R)",
+        "RTL Österreich HD",
+        "Astro Sports UHD and5more channels"
       ],
       "commentators": [
         "HWP",
+        "Karl98",
         "ethanh05",
         "luca80sp",
         "ysscores"
@@ -997,6 +1123,7 @@
         "Sky Sports+ [via APP]",
         "Soccer Special",
         "Wanderers TV (Bolton Wanderers)",
+        "World Feed",
         "talkSPORT"
       ],
       "commentators": [
@@ -1020,13 +1147,15 @@
       "channels": [
         "BBC RADIO 5 LIVE",
         "BBC Three Counties Radio",
-        "Soccer Special",
-        "Sky Sports (highlights)",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]"
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]",
+        "Soccer Special",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
+        "HWP",
         "LukeA206",
         "tonay787"
       ],
@@ -1043,15 +1172,17 @@
       "tournament": "English Championship",
       "channels": [
         "BBC Radio Solent",
-        "Soccer Special",
         "Express FM",
-        "Sky Sports (highlights)",
         "ITV English Football League Highlights",
+        "Pompey+",
+        "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
-        "Pompey+"
+        "Soccer Special",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
+        "HWP",
         "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/321598-Portsmouth-v-Derby-County"
@@ -1068,10 +1199,11 @@
       "channels": [
         "BBC RADIO 5 LIVE",
         "BBC Radio Lancashire",
-        "Soccer Special",
-        "Sky Sports (highlights)",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]"
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]",
+        "Soccer Special",
+        "World Feed"
       ],
       "commentators": [
         "AnthonyB94",
@@ -1137,7 +1269,8 @@
       "time": "18:30",
       "tournament": "Polish Cup (Puchar Polski)",
       "channels": [
-        "FlashScore Poland"
+        "FlashScore Poland",
+        "TVP Sport Polska HD"
       ],
       "commentators": [
         "ethanh05"
@@ -1198,6 +1331,23 @@
       "match_url": "https://icdb.tv/match/321596-Al-Hilal-v-Al-Ahli"
     },
     {
+      "title": "Wigry Suwalki v Termalica Nieciecza",
+      "teams": [
+        "Wigry Suwalki",
+        "Termalica Nieciecza"
+      ],
+      "date": "01/09/2026",
+      "time": "17:47",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "PZPN+"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324247-Wigry-Suwalki-v-Termalica-Nieciecza"
+    },
+    {
       "title": "Rostov v CSKA Moscow",
       "teams": [
         "Rostov",
@@ -1215,6 +1365,74 @@
       "match_url": "https://icdb.tv/match/324148-Rostov-v-CSKA-Moscow"
     },
     {
+      "title": "Rot-Weiss Oberhausen v Westfalia Rhynern",
+      "teams": [
+        "Rot-Weiss Oberhausen",
+        "Westfalia Rhynern"
+      ],
+      "date": "01/09/2026",
+      "time": "17:30",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324200-RotWeiss-Oberhausen-v-Westfalia-Rhynern"
+    },
+    {
+      "title": "Bocholt v Bonner SC",
+      "teams": [
+        "Bocholt",
+        "Bonner SC"
+      ],
+      "date": "01/09/2026",
+      "time": "17:30",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324199-Bocholt-v-Bonner-SC"
+    },
+    {
+      "title": "Borussia Dortmund II v Schalke 04 II",
+      "teams": [
+        "Borussia Dortmund II",
+        "Schalke 04 II"
+      ],
+      "date": "01/09/2026",
+      "time": "17:30",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324198-Borussia-Dortmund-II-v-Schalke-04-II"
+    },
+    {
+      "title": "Gütersloh v VfB Hilden",
+      "teams": [
+        "Gütersloh",
+        "VfB Hilden"
+      ],
+      "date": "01/09/2026",
+      "time": "17:30",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324197-Gtersloh-v-VfB-Hilden"
+    },
+    {
       "title": "Wolfsberger AC v LASK Linz",
       "teams": [
         "Wolfsberger AC",
@@ -1230,6 +1448,23 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/321689-Wolfsberger-AC-v-LASK-Linz"
+    },
+    {
+      "title": "Stal Rzeszów v Podbeskidzie",
+      "teams": [
+        "Stal Rzeszów",
+        "Podbeskidzie"
+      ],
+      "date": "01/09/2026",
+      "time": "17:00",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "PZPN+"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324246-Stal-Rzeszw-v-Podbeskidzie"
     },
     {
       "title": "Wadi Degla v El Qanah",
@@ -1267,6 +1502,23 @@
       "match_url": "https://icdb.tv/match/323113-Al-Shamal-v-Al-Rayyan"
     },
     {
+      "title": "Kluczbork v Lechia Gdansk",
+      "teams": [
+        "Kluczbork",
+        "Lechia Gdansk"
+      ],
+      "date": "01/09/2026",
+      "time": "16:00",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "PZPN+"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324245-Kluczbork-v-Lechia-Gdansk"
+    },
+    {
       "title": "Parma v Cremonese",
       "teams": [
         "Parma",
@@ -1288,6 +1540,40 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322975-Parma-v-Cremonese"
+    },
+    {
+      "title": "Odra Opole v Wisla Kraków",
+      "teams": [
+        "Odra Opole",
+        "Wisla Kraków"
+      ],
+      "date": "01/09/2026",
+      "time": "15:30",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "TVP Sport Polska HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/323974-Odra-Opole-v-Wisla-Krakw"
+    },
+    {
+      "title": "Bochum II v FC Cologne II",
+      "teams": [
+        "Bochum II",
+        "FC Cologne II"
+      ],
+      "date": "01/09/2026",
+      "time": "14:00",
+      "tournament": "German Regionalliga: West",
+      "channels": [
+        "LEAGUES [$]"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324196-Bochum-II-v-FC-Cologne-II"
     },
     {
       "title": "Ghazl El Mahalla v ENPPI",
@@ -1342,6 +1628,23 @@
       "match_url": "https://icdb.tv/match/323111-Al-Sadd-v-Al-Gharafa"
     },
     {
+      "title": "Podhale Nowy Targ v GKS Pogon GM",
+      "teams": [
+        "Podhale Nowy Targ",
+        "GKS Pogon GM"
+      ],
+      "date": "01/09/2026",
+      "time": "13:30",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "PZPN+"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324205-Podhale-Nowy-Targ-v-GKS-Pogon-GM"
+    },
+    {
       "title": "Akron Zips v Lokomotiv Moscow",
       "teams": [
         "Akron Zips",
@@ -1357,6 +1660,91 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/324147-Akron-Zips-v-Lokomotiv-Moscow"
+    },
+    {
+      "title": "Siarka Tarnobrzeg v Zaglebie Lubin",
+      "teams": [
+        "Siarka Tarnobrzeg",
+        "Zaglebie Lubin"
+      ],
+      "date": "01/09/2026",
+      "time": "13:00",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "PZPN+"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324244-Siarka-Tarnobrzeg-v-Zaglebie-Lubin"
+    },
+    {
+      "title": "Wisla Plock II v Puszcza Niepolomice",
+      "teams": [
+        "Wisla Plock II",
+        "Puszcza Niepolomice"
+      ],
+      "date": "01/09/2026",
+      "time": "13:00",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "PZPN+"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324243-Wisla-Plock-II-v-Puszcza-Niepolomice"
+    },
+    {
+      "title": "Chemik Bydgoszcz v Piast Gliwice",
+      "teams": [
+        "Chemik Bydgoszcz",
+        "Piast Gliwice"
+      ],
+      "date": "01/09/2026",
+      "time": "13:00",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "PZPN+"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324242-Chemik-Bydgoszcz-v-Piast-Gliwice"
+    },
+    {
+      "title": "Kluczevia Stargard v Pogon Siedlce",
+      "teams": [
+        "Kluczevia Stargard",
+        "Pogon Siedlce"
+      ],
+      "date": "01/09/2026",
+      "time": "13:00",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "PZPN+"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324241-Kluczevia-Stargard-v-Pogon-Siedlce"
+    },
+    {
+      "title": "Korona Kielce II v Radomiak Radom",
+      "teams": [
+        "Korona Kielce II",
+        "Radomiak Radom"
+      ],
+      "date": "01/09/2026",
+      "time": "12:30",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "TVP Sport Polska HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/323973-Korona-Kielce-II-v-Radomiak-Radom"
     },
     {
       "title": "Deadline Day",
