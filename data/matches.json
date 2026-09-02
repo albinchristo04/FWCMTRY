@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-02T09:17:52.610515+00:00",
+  "scraped_at": "2026-09-02T14:14:59.192239+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 94,
+  "total_matches": 102,
   "matches": [
     {
       "title": "BBC Euro Leagues",
@@ -33,6 +33,26 @@
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/322983-Cagliari-v-Hellas-Verona"
+    },
+    {
+      "title": "Real Sociedad v Celta Vigo",
+      "teams": [
+        "Real Sociedad",
+        "Celta Vigo"
+      ],
+      "date": "03/09/2026",
+      "time": "19:00",
+      "tournament": "Spanish La Liga (Primera)",
+      "channels": [
+        "LaLiga TV International HD",
+        "Premier Sports 2 HD",
+        "Premier Sports 2 HD (ROI only)",
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/322982-Real-Sociedad-v-Celta-Vigo"
     },
     {
       "title": "Hibernian v Hearts",
@@ -175,7 +195,7 @@
       "channels": [
         "BBC RADIO 5 LIVE",
         "BBC Sounds APP",
-        "BBCSportOnline (Audio)"
+        "BBC Sport Online (Audio)"
       ],
       "commentators": [
         "Crowe24"
@@ -193,13 +213,14 @@
       "tournament": "English Championship",
       "channels": [
         "Clarets+",
-        "beINSportsMENA 1 HD",
+        "beIN Sports MENA 1 HD",
         "talkSPORT 2",
         "talkSPORT App"
       ],
       "commentators": [
         "AnthonyB94",
         "Crowe24",
+        "Penfold1982",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/321715-Burnley-v-Middlesbrough"
@@ -247,6 +268,25 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/323998-Kilmarnock-v-St-Mirren"
+    },
+    {
+      "title": "Millwall v Wrexham",
+      "teams": [
+        "Millwall",
+        "Wrexham"
+      ],
+      "date": "02/09/2026",
+      "time": "18:45",
+      "tournament": "English Championship",
+      "channels": [
+        "ITV English Football League Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/321713-Millwall-v-Wrexham"
     },
     {
       "title": "West Bromwich Albion v Charlton Athletic",
@@ -305,6 +345,23 @@
       "match_url": "https://icdb.tv/match/321707-Celtic-v-Aberdeen"
     },
     {
+      "title": "Durban City v Stellenbosch",
+      "teams": [
+        "Durban City",
+        "Stellenbosch"
+      ],
+      "date": "02/09/2026",
+      "time": "18:30",
+      "tournament": "South African Premiership",
+      "channels": [
+        "SuperSport (South Africa)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/324264-Durban-City-v-Stellenbosch"
+    },
+    {
       "title": "Sky Soccer Special",
       "date": "02/09/2026",
       "time": "18:00",
@@ -312,10 +369,11 @@
       "channels": [
         "Sky Sports News / HD",
         "Sky Sports Premier League HD",
-        "SoccerSpecial"
+        "Soccer Special"
       ],
       "commentators": [
-        "AnthonyB94"
+        "AnthonyB94",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/324150-Sky-Soccer-Special"
     },
@@ -453,6 +511,80 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322977-Sassuolo-v-Frosinone"
+    },
+    {
+      "title": "Machida Zelvia v Kawasaki Frontale",
+      "teams": [
+        "Machida Zelvia",
+        "Kawasaki Frontale"
+      ],
+      "date": "02/09/2026",
+      "time": "10:00",
+      "tournament": "Japanese J1 League",
+      "channels": [
+        "Stan Sport Australia ($/geo/R)",
+        "World Feed",
+        "YouTube: J.League International"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/321879-Machida-Zelvia-v-Kawasaki-Frontale"
+    },
+    {
+      "title": "Mito Hollyhock v Kashima Antlers",
+      "teams": [
+        "Mito Hollyhock",
+        "Kashima Antlers"
+      ],
+      "date": "02/09/2026",
+      "time": "10:00",
+      "tournament": "Japanese J1 League",
+      "channels": [
+        "Stan Sport Australia ($/geo/R)",
+        "World Feed",
+        "YouTube: J.League International"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/321878-Mito-Hollyhock-v-Kashima-Antlers"
+    },
+    {
+      "title": "Sanfrecce Hiroshima v Nagoya Grampus",
+      "teams": [
+        "Sanfrecce Hiroshima",
+        "Nagoya Grampus"
+      ],
+      "date": "02/09/2026",
+      "time": "10:00",
+      "tournament": "Japanese J1 League",
+      "channels": [
+        "Stan Sport Australia ($/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/321877-Sanfrecce-Hiroshima-v-Nagoya-Grampus"
+    },
+    {
+      "title": "V-Varen Nagasaki v Gamba Osaka",
+      "teams": [
+        "V-Varen Nagasaki",
+        "Gamba Osaka"
+      ],
+      "date": "02/09/2026",
+      "time": "10:00",
+      "tournament": "Japanese J1 League",
+      "channels": [
+        "Stan Sport Australia ($/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/321876-VVaren-Nagasaki-v-Gamba-Osaka"
     },
     {
       "title": "Fortaleza CEIF v Once Caldas",
@@ -1074,26 +1206,26 @@
       "time": "18:45",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "AD Sports 1",
-        "Disney+ Brazil [$]",
-        "ESPN (Brazil)",
-        "RTL 4K UHD",
-        "RTL Schweiz HD",
-        "ESPN Africa",
         "FlashScore Germany",
-        "Eleven Sports 1 Polska HD",
+        "Astro Grandstand HD",
         "SuperSport ESPN HD",
-        "World Feed",
-        "ARD-Hörfunk",
+        "RTL 4K UHD",
+        "ESPN (Brazil)",
+        "Disney+ Brazil [$]",
+        "NDR 90.3",
+        "Sky Sport Top Event HD",
+        "Astro Football HD",
+        "ARD Audiothek",
+        "AD Sports 1",
         "RTL Deutschland HD",
-        "Sky Sport News Deutsch HD",
         "Sport TVP ($/geo/R)",
-        "Sky Sport MIX Deutsch HD",
         "Sportschau Live (Audio)",
-        "DFB Play (geo/R)",
-        "DFB Play TV (geo/R)",
+        "Sky Sport MIX Deutsch HD",
         "RTL Österreich HD",
-        "Astro Sports UHD and5more channels"
+        "ESPN Africa",
+        "DFB Play (geo/R)",
+        "ARD-Hörfunk",
+        "Eleven Sports 1 Polska HD and5more channels"
       ],
       "commentators": [
         "HWP",
@@ -1363,6 +1495,24 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/324148-Rostov-v-CSKA-Moscow"
+    },
+    {
+      "title": "Kruger United v Orlando Pirates",
+      "teams": [
+        "Kruger United",
+        "Orlando Pirates"
+      ],
+      "date": "01/09/2026",
+      "time": "17:30",
+      "tournament": "South African Premiership",
+      "channels": [
+        "SuperSport PSL",
+        "SuperSport PSL HD"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/324260-Kruger-United-v-Orlando-Pirates"
     },
     {
       "title": "Rot-Weiss Oberhausen v Westfalia Rhynern",
