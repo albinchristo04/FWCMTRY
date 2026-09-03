@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-03T18:20:40.393406+00:00",
+  "scraped_at": "2026-09-03T22:16:14.257433+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 90,
+  "total_matches": 96,
   "matches": [
     {
       "title": "FC Porto v Moreirense",
@@ -361,11 +361,14 @@
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
         "Italia 1 HD",
-        "RDS Radio TV Serie A",
-        "MBC Action"
+        "MBC Action",
+        "MBC Shahid | Sports",
+        "Polsat Sport 2 HD",
+        "RDS Radio TV Serie A"
       ],
       "commentators": [
         "Guest-SC",
+        "ethanh05",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322983-Cagliari-v-Hellas-Verona"
@@ -380,12 +383,13 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "DAZN Italia ($/geo/R)",
+        "LaLiga TV International HD",
         "Premier Sports 2 HD",
         "Premier Sports 2 HD (ROI only)",
-        "beIN Sports MENA 2 HD",
-        "LaLiga TV International HD",
-        "DAZN Italia ($/geo/R)",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
         "Guest-SC",
@@ -404,9 +408,14 @@
       "time": "18:45",
       "tournament": "French Ligue 1",
       "channels": [
+        "Eleven Sports 1 Polska HD",
+        "FlashScore France",
+        "World Feed",
         "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "HWP",
+        "ethanh05",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/321885-Toulouse-v-Lille"
@@ -434,15 +443,35 @@
         "STV News",
         "Sharjah Sports",
         "Sky Sports News / HD",
+        "Sportdigital FUSSBALL HD",
         "World Feed"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
         "SonnyCorry",
+        "ethanh05",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/321884-Hibernian-v-Hearts"
+    },
+    {
+      "title": "Slask Wroclaw v Pogon Szczecin",
+      "teams": [
+        "Slask Wroclaw",
+        "Pogon Szczecin"
+      ],
+      "date": "03/09/2026",
+      "time": "18:30",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "FlashScore Poland",
+        "TVP Sport Polska HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324002-Slask-Wroclaw-v-Pogon-Szczecin"
     },
     {
       "title": "BBC 5 Live Sport",
@@ -459,6 +488,37 @@
       "match_url": "https://icdb.tv/match/323029-BBC-5-Live-Sport"
     },
     {
+      "title": "Lech Poznan v Jagiellonia",
+      "teams": [
+        "Lech Poznan",
+        "Jagiellonia"
+      ],
+      "date": "03/09/2026",
+      "time": "18:30",
+      "tournament": "Polish Ekstraklasa",
+      "channels": [
+        "FlashScore Poland"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/320162-Lech-Poznan-v-Jagiellonia"
+    },
+    {
+      "title": "talkSPORT Kick Off",
+      "date": "03/09/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "talkSPORT",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/324397-talkSPORT-Kick-Off"
+    },
+    {
       "title": "Al Diriyah v Al Qadisiyah",
       "teams": [
         "Al Diriyah",
@@ -468,9 +528,12 @@
       "time": "18:00",
       "tournament": "Saudi Pro League",
       "channels": [
-        "SporTV Brazil HD"
+        "Fox Soccer Plus USA",
+        "SporTV Brazil HD",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/324395-Al-Diriyah-v-Al-Qadisiyah"
@@ -502,7 +565,8 @@
       "time": "16:30",
       "tournament": "Saudi Pro League",
       "channels": [
-        "Thmanyah 3"
+        "Thmanyah 3",
+        "Thmanyah APP"
       ],
       "commentators": [
         "ysscores"
@@ -519,11 +583,13 @@
       "time": "16:00",
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
         "Italia 1 HD",
         "MBC Shahid | Sports"
       ],
       "commentators": [
         "Guest-SC",
+        "ethanh05",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322980-Palermo-v-Mantova"
@@ -538,12 +604,47 @@
       "time": "16:00",
       "tournament": "Polish Ekstraklasa",
       "channels": [
-        "FlashScore Poland"
+        "FlashScore Poland",
+        "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/320161-Rakw-Czestochowa-v-Grnik-Zabrze"
+    },
+    {
+      "title": "GKS Tychy v LKS Lódz",
+      "teams": [
+        "GKS Tychy",
+        "LKS Lódz"
+      ],
+      "date": "03/09/2026",
+      "time": "15:30",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "TVP Sport Polska HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324001-GKS-Tychy-v-LKS-Ldz"
+    },
+    {
+      "title": "Avia Swidnik v Wieczysta Kraków",
+      "teams": [
+        "Avia Swidnik",
+        "Wieczysta Kraków"
+      ],
+      "date": "03/09/2026",
+      "time": "12:30",
+      "tournament": "Polish Cup (Puchar Polski)",
+      "channels": [
+        "TVP Sport Polska HD"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324000-Avia-Swidnik-v-Wieczysta-Krakw"
     },
     {
       "title": "Independiente Santa Fé v Millonarios",
@@ -702,6 +803,7 @@
       "channels": [
         "BBC Radio Berkshire",
         "BBC Radio Nottingham",
+        "EFL Goals: Leagues 1 & 2",
         "ITV English Football League Highlights",
         "Royals TV",
         "Sky Sports (highlights)",
@@ -711,6 +813,7 @@
         "talkSPORT"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
         "HWP"
       ],
@@ -862,13 +965,18 @@
       "time": "18:45",
       "tournament": "English League One",
       "channels": [
-        "talkSPORT",
-        "BBC Radio Sheffield",
         "BBC RADIO 5 LIVE",
-        "BBC Radio Lancashire (FM)"
+        "BBC Radio Lancashire (FM)",
+        "BBC Radio Sheffield",
+        "EFL Goals: Leagues 1 & 2",
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]",
+        "talkSPORT"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
+        "LukeA206",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/322727-Barnsley-v-Blackpool"
@@ -886,12 +994,14 @@
         "BBC RADIO 5 LIVE",
         "BBC Radio Manchester",
         "BBC Three Counties Radio (FM)",
+        "EFL Goals: Leagues 1 & 2",
         "ITV English Football League Highlights",
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
         "Soccer Special"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
         "HWP"
       ],
@@ -944,7 +1054,6 @@
         "Soccer Special",
         "WBA Radio",
         "WBA TV ($/geo/R)",
-        "World Feed",
         "talkSPORT"
       ],
       "commentators": [
@@ -997,6 +1106,7 @@
         "BBC RADIO 5 LIVE",
         "BBC Radio Manchester",
         "BBC Three Counties Radio",
+        "EFL Goals: Leagues 1 & 2",
         "ITV English Football League Highlights",
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
@@ -1004,6 +1114,7 @@
         "talkSPORT"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
         "HWP",
         "apltle12"
@@ -1021,12 +1132,14 @@
       "tournament": "English League One",
       "channels": [
         "BBC Radio London",
+        "EFL Goals: Leagues 1 & 2",
         "ITV English Football League Highlights",
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
         "Soccer Special"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
         "HWP"
       ],
@@ -1095,7 +1208,9 @@
       "time": "18:45",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
+        "ARD Audiothek",
         "ARD Das Erste HD",
+        "ARD-Hörfunk",
         "DFB Play TV (geo/R)",
         "Eleven Sports 1 Polska HD",
         "FlashScore Germany",
@@ -1108,6 +1223,7 @@
         "Sky Sport News Deutsch HD",
         "Sky Sport Top Event HD",
         "Sport TVP ($/geo/R)",
+        "Sportschau Live (Audio)",
         "VG+ Sport Norge ($/geo/R)",
         "World Feed"
       ],
@@ -1441,6 +1557,24 @@
         "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/323306-Carl-Zeiss-Jena-v-VSG-Altglienicke"
+    },
+    {
+      "title": "Paris St Germain v Eintracht Frankfurt",
+      "teams": [
+        "Paris St Germain",
+        "Eintracht Frankfurt"
+      ],
+      "date": "02/09/2026",
+      "time": "16:30",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "ARD Audiothek",
+        "Sportschau Live (Audio)"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/324399-Paris-St-Germain-v-Eintracht-Frankfurt"
     },
     {
       "title": "Inter Milan v Wolfsburg",
