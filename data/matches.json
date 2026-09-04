@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-04T09:19:43.945362+00:00",
+  "scraped_at": "2026-09-04T14:00:10.877715+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 72,
+  "total_matches": 79,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -81,9 +81,11 @@
       "time": "19:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC Sounds APP",
         "BBC Radio Scotland Extra",
-        "BBC Sport Online (Audio)"
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Sky Sports News / HD",
+        "St Mirren TV ($/geo/R)"
       ],
       "commentators": [
         "SonnyCorry"
@@ -111,6 +113,42 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/322232-Swansea-City-v-Wrexham"
+    },
+    {
+      "title": "Nice v Le Mans",
+      "teams": [
+        "Nice",
+        "Le Mans"
+      ],
+      "date": "05/09/2026",
+      "time": "18:45",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "Ligue 1+ ($/geo/R)",
+        "Ligue 1+ 4 ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/322230-Nice-v-Le-Mans"
+    },
+    {
+      "title": "Le Havre v Brest",
+      "teams": [
+        "Le Havre",
+        "Brest"
+      ],
+      "date": "05/09/2026",
+      "time": "18:45",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "Ligue 1+ ($/geo/R)",
+        "Ligue 1+ 3 ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/322229-Le-Havre-v-Brest"
     },
     {
       "title": "Roma v Atalanta",
@@ -236,9 +274,13 @@
       "time": "16:00",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "SporTV Brazil HD"
+        "DAZN Canada ($/geo/R)",
+        "SporTV Brazil HD",
+        "USA Network HD",
+        "World Feed"
       ],
       "commentators": [
+        "bigddan11",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/324380-Schalke-04-v-Bayern-Munich"
@@ -279,6 +321,23 @@
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/324032-Ascoli-v-Benevento"
+    },
+    {
+      "title": "Lens v Lorient",
+      "teams": [
+        "Lens",
+        "Lorient"
+      ],
+      "date": "05/09/2026",
+      "time": "15:15",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "Ligue 1+ ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/322205-Lens-v-Lorient"
     },
     {
       "title": "St Patrick's Athletic v Bohemians",
@@ -412,6 +471,23 @@
       "match_url": "https://icdb.tv/match/323298-talkSPORT-GameDay-Live"
     },
     {
+      "title": "Werder Bremen v RB Leipzig",
+      "teams": [
+        "Werder Bremen",
+        "RB Leipzig"
+      ],
+      "date": "05/09/2026",
+      "time": "13:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/322183-Werder-Bremen-v-RB-Leipzig"
+    },
+    {
       "title": "SüdTirol v Catanzaro",
       "teams": [
         "SüdTirol",
@@ -445,6 +521,47 @@
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/322174-Fiorentina-v-Torino"
+    },
+    {
+      "title": "Knowle v Worcester City",
+      "teams": [
+        "Knowle",
+        "Worcester City"
+      ],
+      "date": "05/09/2026",
+      "time": "11:30",
+      "tournament": "English FA Cup",
+      "channels": [
+        "BBC (highlights)",
+        "BBC *RED Button HD",
+        "BBC Sport Online",
+        "BBC iPlayer (geo/R)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/323618-Knowle-v-Worcester-City"
+    },
+    {
+      "title": "Preston N.E. v Blackburn Rovers",
+      "teams": [
+        "Preston N.E.",
+        "Blackburn Rovers"
+      ],
+      "date": "05/09/2026",
+      "time": "11:30",
+      "tournament": "English Championship",
+      "channels": [
+        "ITV English Football League Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/322165-Preston-NE-v-Blackburn-Rovers"
     },
     {
       "title": "Newcastle United v Bournemouth",
@@ -504,21 +621,25 @@
       "match_url": "https://icdb.tv/match/324144-Palmeiras-v-Bahia"
     },
     {
-      "title": "FC Porto v Moreirense",
+      "title": "Stuttgart v FC Cologne",
       "teams": [
-        "FC Porto",
-        "Moreirense"
+        "Stuttgart",
+        "FC Cologne"
       ],
       "date": "04/09/2026",
-      "time": "19:15",
-      "tournament": "Portuguese Liga 1",
+      "time": "19:30",
+      "tournament": "German 1. Bundesliga",
       "channels": [
-        "DAZN Italia ($/geo/R)"
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
+        "NBC Universo USA",
+        "Peacock USA ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
-        "Guest-SC"
+        "bigddan11"
       ],
-      "match_url": "https://icdb.tv/match/323881-FC-Porto-v-Moreirense"
+      "match_url": "https://icdb.tv/match/324484-Stuttgart-v-FC-Cologne"
     },
     {
       "title": "FC Porto v Moreirense",
@@ -530,9 +651,11 @@
       "time": "19:15",
       "tournament": "Portuguese Liga 1",
       "channels": [
+        "DAZN Italia ($/geo/R)",
         "World Feed"
       ],
       "commentators": [
+        "Guest-SC",
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/323463-FC-Porto-v-Moreirense"
@@ -547,9 +670,11 @@
       "time": "19:05",
       "tournament": "French Ligue 1",
       "channels": [
+        "Ligue 1+ ($/geo/R)",
         "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "Guest-SC",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322030-Paris-St-Germain-v-Monaco"
@@ -569,6 +694,7 @@
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
         "Premier Sports Player UK (£/geo/R)",
+        "World Feed",
         "beIN Sports MENA 3 HD"
       ],
       "commentators": [
@@ -623,6 +749,7 @@
       "commentators": [
         "Crowe24",
         "HWP",
+        "SonnyCorry",
         "Xav",
         "ysscores"
       ],
@@ -640,10 +767,13 @@
       "channels": [
         "DAZN 1 Italia HD",
         "DAZN Italia ($/geo/R)",
-        "StarzPlay"
+        "Peacock USA ($/geo/R)",
+        "StarzPlay",
+        "Telemundo Deportes Ahora"
       ],
       "commentators": [
         "Guest-SC",
+        "bigddan11",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322018-Genoa-v-Como-1907"
@@ -750,9 +880,11 @@
       "time": "17:00",
       "tournament": "French Ligue 1",
       "channels": [
+        "Ligue 1+ ($/geo/R)",
         "beIN Sports MENA 4 HD"
       ],
       "commentators": [
+        "Guest-SC",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322009-Lyon-v-Auxerre"
@@ -790,6 +922,20 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322984-Kalba-v-Al-Ain"
+    },
+    {
+      "title": "Welcome to the Weekend",
+      "date": "04/09/2026",
+      "time": "11:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/324483-Welcome-to-the-Weekend"
     },
     {
       "title": "Pereira v Independiente Medellín",
