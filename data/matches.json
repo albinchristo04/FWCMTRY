@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-04T02:51:47.166205+00:00",
+  "scraped_at": "2026-09-04T09:19:43.945362+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 63,
+  "total_matches": 72,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -210,15 +210,19 @@
       "time": "16:30",
       "tournament": "English Premier League",
       "channels": [
-        "NBC USA HD",
         "BBC RADIO 5 LIVE",
-        "Peacock USA ($/geo/R)",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "NBC App (USA)"
+        "NBC App (USA)",
+        "NBC USA HD",
+        "Peacock USA ($/geo/R)",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports Premier League HD"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/322215-Hull-City-v-Aston-Villa"
     },
@@ -534,6 +538,23 @@
       "match_url": "https://icdb.tv/match/323463-FC-Porto-v-Moreirense"
     },
     {
+      "title": "Paris St Germain v Monaco",
+      "teams": [
+        "Paris St Germain",
+        "Monaco"
+      ],
+      "date": "04/09/2026",
+      "time": "19:05",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/322030-Paris-St-Germain-v-Monaco"
+    },
+    {
       "title": "Real Betis v Real Madrid",
       "teams": [
         "Real Betis",
@@ -543,15 +564,17 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "DAZN Italia ($/geo/R)",
+        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "LaLiga TV International HD",
-        "DAZN Italia ($/geo/R)",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "beIN Sports MENA 3 HD"
       ],
       "commentators": [
         "Guest-SC",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322732-Real-Betis-v-Real-Madrid"
     },
@@ -593,13 +616,15 @@
         "Sky Sports Premier League HD",
         "USA Network App (USA)",
         "USA Network HD",
+        "beIN Sports MENA 2 HD",
         "talkSPORT",
         "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
-        "Xav"
+        "Xav",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320948-Ipswich-Town-v-Liverpool"
     },
@@ -613,11 +638,13 @@
       "time": "18:45",
       "tournament": "Italian Serie A",
       "channels": [
+        "DAZN 1 Italia HD",
         "DAZN Italia ($/geo/R)",
-        "DAZN 1 Italia HD"
+        "StarzPlay"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322018-Genoa-v-Como-1907"
     },
@@ -680,6 +707,91 @@
       "match_url": "https://icdb.tv/match/322013-London-City-v-Manchester-United"
     },
     {
+      "title": "Al Ahli v Al Riyadh",
+      "teams": [
+        "Al Ahli",
+        "Al Riyadh"
+      ],
+      "date": "04/09/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 3"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/322011-Al-Ahli-v-Al-Riyadh"
+    },
+    {
+      "title": "Al Shabab v Al Hilal",
+      "teams": [
+        "Al Shabab",
+        "Al Hilal"
+      ],
+      "date": "04/09/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/322010-Al-Shabab-v-Al-Hilal"
+    },
+    {
+      "title": "Lyon v Auxerre",
+      "teams": [
+        "Lyon",
+        "Auxerre"
+      ],
+      "date": "04/09/2026",
+      "time": "17:00",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "beIN Sports MENA 4 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/322009-Lyon-v-Auxerre"
+    },
+    {
+      "title": "Abha Club v Al Ettifaq",
+      "teams": [
+        "Abha Club",
+        "Al Ettifaq"
+      ],
+      "date": "04/09/2026",
+      "time": "16:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 2"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/322007-Abha-Club-v-Al-Ettifaq"
+    },
+    {
+      "title": "Kalba v Al Ain",
+      "teams": [
+        "Kalba",
+        "Al Ain"
+      ],
+      "date": "04/09/2026",
+      "time": "13:45",
+      "tournament": "UAE Pro League",
+      "channels": [
+        "AD Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/322984-Kalba-v-Al-Ain"
+    },
+    {
       "title": "Pereira v Independiente Medellín",
       "teams": [
         "Pereira",
@@ -717,6 +829,24 @@
       "match_url": "https://icdb.tv/match/324382-Libertad-Ecuador-v-Emelec"
     },
     {
+      "title": "Náutico v Botafogo SP",
+      "teams": [
+        "Náutico",
+        "Botafogo SP"
+      ],
+      "date": "03/09/2026",
+      "time": "23:00",
+      "tournament": "Brazilian Série B",
+      "channels": [
+        "Premiere (Brazil)",
+        "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/324427-Nutico-v-Botafogo-SP"
+    },
+    {
       "title": "Grêmio v Internacional",
       "teams": [
         "Grêmio",
@@ -727,11 +857,15 @@
       "tournament": "Brazilian Cup (Copa do Brasil)",
       "channels": [
         "Energia 97",
+        "OneFootball [app] ($/geo/R)",
+        "Premier Sports 2 HD",
+        "Premier Sports Player UK (£/geo/R)",
         "Prime Vídeo Brasil",
         "Rádio Gaúcha",
         "World Feed"
       ],
       "commentators": [
+        "Mikhail17",
         "apltle12",
         "luca80sp"
       ],
@@ -890,12 +1024,17 @@
       "tournament": "French Ligue 1",
       "channels": [
         "Eleven Sports 1 Polska HD",
+        "FlashScore France",
+        "Ligue 1+ ($/geo/R)",
+        "Ligue 1+ (UK/IRL)",
+        "Vidio",
         "World Feed",
-        "beIN Sports MENA 1 HD",
-        "FlashScore France"
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "Guest-SC",
         "HWP",
+        "Mikhail17",
         "ethanh05",
         "ysscores"
       ],
@@ -911,21 +1050,22 @@
       "time": "18:45",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "Premier Sports 1 HD",
-        "World Feed",
+        "BBC (highlights)",
         "BBC RADIO 5 LIVE",
-        "Sky Sports News / HD",
-        "Hibs TV",
-        "BBC Sportscene",
-        "BBC Sounds APP",
-        "STV News",
-        "Radio Clyde 1",
-        "BBC Radio Scotland Extra",
-        "BBC Sport Online (Audio)",
-        "Premier Sports Player UK (£/geo/R)",
         "BBC Radio 5 Sports Extra 3",
-        "Sharjah Sports"
+        "BBC Radio Scotland Extra",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "BBC Sportscene",
+        "Hibs TV",
+        "Premier Sports 1 HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "Radio Clyde 1",
+        "STV News",
+        "Sharjah Sports",
+        "Sky Sports News / HD",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -935,6 +1075,40 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/321884-Hibernian-v-Hearts"
+    },
+    {
+      "title": "Lugano v Servette",
+      "teams": [
+        "Lugano",
+        "Servette"
+      ],
+      "date": "03/09/2026",
+      "time": "18:30",
+      "tournament": "Swiss Super League",
+      "channels": [
+        "Blue Sport 1 Live HD"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/324004-Lugano-v-Servette"
+    },
+    {
+      "title": "Basel v Sion",
+      "teams": [
+        "Basel",
+        "Sion"
+      ],
+      "date": "03/09/2026",
+      "time": "18:30",
+      "tournament": "Swiss Super League",
+      "channels": [
+        "Blue Sport D 1 HD"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/324003-Basel-v-Sion"
     },
     {
       "title": "Slask Wroclaw v Pogon Szczecin",
@@ -1067,10 +1241,13 @@
         "DAZN Deutsch ($/geo/R)",
         "Italia 1 HD",
         "MBC Shahid | Sports",
+        "Premier Sports 1 HD",
+        "Premier Sports Player UK (£/geo/R)",
         "World Feed"
       ],
       "commentators": [
         "Guest-SC",
+        "HWP",
         "apltle12",
         "ethanh05",
         "ysscores"
