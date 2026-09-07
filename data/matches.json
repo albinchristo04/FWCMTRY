@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-07T09:56:56.252342+00:00",
+  "scraped_at": "2026-09-07T15:32:01.897950+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 133,
+  "total_matches": 142,
   "matches": [
     {
       "title": "Independiente Santa Fé v Vasco da Gama",
@@ -30,19 +30,19 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "BBC *RED Button HD",
-        "BBC iPlayer (geo/R)",
-        "Premier Sports 1 HD (ROI only)",
-        "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "BBC Final Score",
         "Amazon Prime UK [$]",
-        "talkSPORT App",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "BBC *RED Button HD",
+        "BBC Final Score",
+        "BBC RADIO 5 LIVE",
         "BBC Sounds APP",
-        "City+",
-        "Recast: Manchester City [$]",
         "BBC Sport Online (Audio)",
-        "Amazon Prime Video Sport UK (Highlights)"
+        "BBC iPlayer (geo/R)",
+        "City+",
+        "Premier Sports 1 HD (ROI only)",
+        "Recast: Manchester City [$]",
+        "talkSPORT",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
@@ -65,7 +65,8 @@
         "Canal+ Live 1 France HD"
       ],
       "commentators": [
-        "Cr17"
+        "Cr17",
+        "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/323651-Lille-v-Real-Betis"
     },
@@ -98,7 +99,9 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "BBC Radio Newcastle"
+        "BBC Radio Newcastle",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24"
@@ -176,6 +179,20 @@
       "match_url": "https://icdb.tv/match/322774-Southampton-v-Swansea-City"
     },
     {
+      "title": "Sky Soccer Special",
+      "date": "08/09/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "Sky Sports News / HD",
+        "Soccer Special"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/325228-Sky-Soccer-Special"
+    },
+    {
       "title": "Club Brugge v Aston Villa",
       "teams": [
         "Club Brugge",
@@ -185,7 +202,10 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
-        "BBC Radio WM"
+        "BBC Radio WM",
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports (highlights)",
+        "TNT Sports 1 HD (UK)"
       ],
       "commentators": [
         "Crowe24"
@@ -202,11 +222,11 @@
       "time": "19:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "Premier Sports Player UK (£/geo/R)",
-        "beIN Sports MENA 1 HD"
+        "beIN Sports MENA 1 HD",
+        "LaLiga TV International HD",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
         "ImpactPlayaz",
@@ -241,15 +261,16 @@
       "time": "18:45",
       "tournament": "Italian Serie A",
       "channels": [
+        "Sky Sport Italia 4K UHD",
+        "World Feed",
+        "FuboTV Canada ($/geo/R)",
         "CBS Sports Golazo Network (US)",
         "DAZN Italia ($/geo/R)",
-        "FuboTV Canada ($/geo/R)",
-        "Paramount+ USA ($/geo/R)",
-        "Shasha",
+        "Sky Sport Calcio HD",
         "Sky Sport 251 Italia HD",
         "Sky Sport Business Italia / HD",
-        "Sky Sport Calcio HD",
-        "Sky Sport Italia 4K UHD"
+        "Shasha",
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -348,12 +369,13 @@
       "time": "17:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "DAZN Italia ($/geo/R)",
-        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "Premier Sports Player UK (£/geo/R)",
-        "beIN Sports MENA 1 HD"
+        "World Feed",
+        "beIN Sports MENA 1 HD",
+        "LaLiga TV International HD",
+        "DAZN Italia ($/geo/R)",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -389,14 +411,16 @@
       "time": "16:30",
       "tournament": "Italian Serie A",
       "channels": [
-        "CBS Sports Golazo Network (US)",
-        "DAZN 1 Italia HD",
-        "DAZN Italia ($/geo/R)",
+        "World Feed",
+        "Peacock USA ($/geo/R)",
         "FuboTV Canada ($/geo/R)",
-        "Paramount+ USA ($/geo/R)",
+        "NBC Universo USA",
+        "CBS Sports Golazo Network (US)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN 1 Italia HD",
         "Sky Sport Business Italia / HD",
         "StarzPlay",
-        "World Feed"
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
         "Crowe24",
@@ -405,6 +429,45 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322595-Cagliari-v-Lecce"
+    },
+    {
+      "title": "Costa Rica U-20 v Colombia U-20",
+      "teams": [
+        "Costa Rica U-20",
+        "Colombia U-20"
+      ],
+      "date": "07/09/2026",
+      "time": "16:00",
+      "tournament": "FIFA U-20 Women's World Cup",
+      "channels": [
+        "Fox Soccer Plus USA",
+        "TSN Canada Premium",
+        "Telemundo Deportes Ahora",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/325225-Costa-Rica-U20-v-Colombia-U20"
+    },
+    {
+      "title": "Spain U-20 v Nigeria U-20",
+      "teams": [
+        "Spain U-20",
+        "Nigeria U-20"
+      ],
+      "date": "07/09/2026",
+      "time": "16:00",
+      "tournament": "FIFA U-20 Women's World Cup",
+      "channels": [
+        "Fox Soccer Plus USA",
+        "TSN Canada Premium",
+        "Telemundo App (USA)"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/325224-Spain-U20-v-Nigeria-U20"
     },
     {
       "title": "Al Khaleej v Al Riyadh",
@@ -422,6 +485,47 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/322594-Al-Khaleej-v-Al-Riyadh"
+    },
+    {
+      "title": "New Caledonia U-20 v China U-20",
+      "teams": [
+        "New Caledonia U-20",
+        "China U-20"
+      ],
+      "date": "07/09/2026",
+      "time": "13:00",
+      "tournament": "FIFA U-20 Women's World Cup",
+      "channels": [
+        "Fox Soccer Plus USA",
+        "TSN Canada Premium",
+        "Telemundo App (USA)",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/325223-New-Caledonia-U20-v-China-U20"
+    },
+    {
+      "title": "North Korea U-20 v Portugal U-20",
+      "teams": [
+        "North Korea U-20",
+        "Portugal U-20"
+      ],
+      "date": "07/09/2026",
+      "time": "13:00",
+      "tournament": "FIFA U-20 Women's World Cup",
+      "channels": [
+        "FOX ONE (USA) [$] (geo/R)",
+        "Fox Sports 2 (US)",
+        "TSN Canada Premium",
+        "Telemundo Deportes Ahora",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/325222-North-Korea-U20-v-Portugal-U20"
     },
     {
       "title": "Toluca v Monterrey",
@@ -937,11 +1041,13 @@
         "Disney+ South America [$]",
         "ESPN 5 (CentroAmérica)",
         "Ligue 1+ ($/geo/R)",
+        "SuperSport 3 Albania HD",
         "World Feed",
         "beIN Sports MENA 4 HD"
       ],
       "commentators": [
         "Guest-SC",
+        "anarildoalia",
         "apltle12",
         "luca80sp",
         "ysscores"
@@ -1004,6 +1110,24 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/325024-Deportivo-Garcilaso-v-Atltico-Grau"
+    },
+    {
+      "title": "Real Madrid v Eibar",
+      "teams": [
+        "Real Madrid",
+        "Eibar"
+      ],
+      "date": "06/09/2026",
+      "time": "18:30",
+      "tournament": "Spanish Liga F Femenino",
+      "channels": [
+        "RTVE Play ($/geo/R)",
+        "Teledeporte España"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/322887-Real-Madrid-v-Eibar"
     },
     {
       "title": "BBC Sportscene",
@@ -1275,6 +1399,7 @@
         "Fox Soccer Plus USA",
         "Fox Sports App (US)",
         "TSN Canada Premium",
+        "Telemundo Deportes Ahora",
         "World Feed"
       ],
       "commentators": [
@@ -1375,26 +1500,26 @@
       "time": "15:30",
       "tournament": "English Premier League",
       "channels": [
+        "ESPN Extra (Caribbean)",
+        "ViaPlay Norge HD",
         "Canal+ France HD",
-        "Hub Premier 1 HD",
-        "BBC Match of the Day",
-        "Sport 24 At Sea HD",
         "Sport 24 In Flight HD",
-        "Laos) [$] (geo/R)",
-        "FOX (México) [$] (geo/R)",
-        "BBC RADIO 5 LIVE",
-        "See Dansk HD",
-        "V Sport Premier League HD",
-        "Disney+ Brazil [$]",
-        "Flashscore UK",
+        "ViaPlay Nederland HD",
+        "World Feed",
         "NOW Premier League TV (hk)",
-        "Stan Sport Australia ($/geo/R)",
-        "ESPN (Brazil)",
-        "FOX+ (Mexico)",
         "SiriusXM FC",
+        "FlashScore (audio)",
+        "See Dansk HD",
+        "Soccer Saturday",
+        "Cambodia",
+        "ESPN (South America)",
         "V Sport Premium / HD (Sweden)",
-        "Disney+ Hotstar India [$] (geo/R)",
-        "ViaPlay Sverige HD and37more channels"
+        "ViaPlay Sverige HD",
+        "Sky Sports (highlights)",
+        "MONOMAX (Thailand",
+        "beIN Sports MENA English 1 HD",
+        "Sport 24 At Sea HD",
+        "Sky Sports Main Event HD and37more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -2013,14 +2138,16 @@
       "time": "13:00",
       "tournament": "French Ligue 1",
       "channels": [
-        "World Feed",
-        "beIN Sports MENA 3 HD",
-        "ESPN 5 (CentroAmérica)",
         "Disney+ South America [$]",
-        "Ligue 1+ ($/geo/R)"
+        "ESPN 5 (CentroAmérica)",
+        "Ligue 1+ ($/geo/R)",
+        "Ligue 1+ (UK/IRL)",
+        "World Feed",
+        "beIN Sports MENA 3 HD"
       ],
       "commentators": [
         "Guest-SC",
+        "Mikhail17",
         "apltle12",
         "luca80sp",
         "ysscores"
@@ -2084,26 +2211,26 @@
       "time": "13:00",
       "tournament": "English Premier League",
       "channels": [
-        "MUTV (radio commentary)",
-        "Disney+ Hotstar India [$] (geo/R)",
-        "Soccer Sunday",
-        "Sky Sports Main Event HD",
-        "Cambodia",
-        "FlashScore (audio)",
-        "Laos) [$] (geo/R)",
-        "Sky Sports News / HD",
+        "SuperSport Premier League HD",
+        "Sport 24 At Sea HD",
+        "Sport 24 In Flight HD",
+        "Stan Sport Australia ($/geo/R)",
+        "Canal+ Foot HD",
         "MONOMAX (Thailand",
-        "NOW Premier League TV (hk)",
-        "FOX (México) [$] (geo/R)",
-        "Sky Sports Main Event UHD",
-        "Hub Premier 1 HD",
-        "Premier League TV",
-        "Sky Sports Premier League HD",
-        "Telemundo (usa)",
-        "USA Network HD",
+        "FOX+ (Mexico)",
         "BBC Sounds APP",
-        "talkSPORT",
-        "BBC Match of the Day and26more channels"
+        "Disney+ Hotstar India [$] (geo/R)",
+        "Hub Premier 1 HD",
+        "ESPN Extra (Caribbean)",
+        "FuboTV Canada ($/geo/R)",
+        "BBC Sport Online (Audio)",
+        "BBC Radio Merseyside",
+        "FOX (México) [$] (geo/R)",
+        "Sky Sports Premier League HD",
+        "Sky Sports (highlights)",
+        "USA Network HD",
+        "SiriusXM FC",
+        "Cambodia and26more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -2204,6 +2331,23 @@
       "match_url": "https://icdb.tv/match/324269-DAZN-IT-v-ZONA-SERIE-B"
     },
     {
+      "title": "Cracovia v Górnik Zabrze",
+      "teams": [
+        "Cracovia",
+        "Górnik Zabrze"
+      ],
+      "date": "06/09/2026",
+      "time": "12:45",
+      "tournament": "Polish Ekstraklasa",
+      "channels": [
+        "Canal+ Sport 3 Polska HD"
+      ],
+      "commentators": [
+        "Kamyk94"
+      ],
+      "match_url": "https://icdb.tv/match/322369-Cracovia-v-Grnik-Zabrze"
+    },
+    {
       "title": "talkSPORT GameDay Live",
       "date": "06/09/2026",
       "time": "12:30",
@@ -2255,6 +2399,23 @@
         "Bksm"
       ],
       "match_url": "https://icdb.tv/match/325011-Brann-v-Aalesund"
+    },
+    {
+      "title": "Servette v St Gallen",
+      "teams": [
+        "Servette",
+        "St Gallen"
+      ],
+      "date": "06/09/2026",
+      "time": "12:00",
+      "tournament": "Swiss Super League",
+      "channels": [
+        "Blue Sport D 1 HD"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/324044-Servette-v-St-Gallen"
     },
     {
       "title": "Eibar v Granada",
@@ -2443,6 +2604,24 @@
       "match_url": "https://icdb.tv/match/322352-Tottenham-Hotspur-v-West-Ham-United"
     },
     {
+      "title": "Costa Adeje Tenerife v Deportivo A Coruña",
+      "teams": [
+        "Costa Adeje Tenerife",
+        "Deportivo A Coruña"
+      ],
+      "date": "06/09/2026",
+      "time": "10:45",
+      "tournament": "Spanish Liga F Femenino",
+      "channels": [
+        "RTVE Play ($/geo/R)",
+        "Teledeporte España"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/322885-Costa-Adeje-Tenerife-v-Deportivo-A-Corua"
+    },
+    {
       "title": "Juventus v AC Milan",
       "teams": [
         "Juventus",
@@ -2452,10 +2631,12 @@
       "time": "10:30",
       "tournament": "Italian Womens Serie A Cup",
       "channels": [
+        "STC TV App",
         "StarzPlay",
-        "STC TV App"
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/324640-Juventus-v-AC-Milan"
