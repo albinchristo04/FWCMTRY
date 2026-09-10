@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-10T18:05:08.794628+00:00",
+  "scraped_at": "2026-09-10T22:15:44.015365+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 66,
+  "total_matches": 73,
   "matches": [
     {
       "title": "Sevilla v Valencia",
@@ -71,9 +71,12 @@
       "time": "18:45",
       "tournament": "Scottish League Cup",
       "channels": [
-        "BBC Sounds APP",
         "BBC Radio Scotland Extra",
-        "BBC Sport Online (Audio)"
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Premier Sports 1 HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "SonnyCorry"
@@ -159,6 +162,23 @@
       "match_url": "https://icdb.tv/match/323208-BBC-Premier-League-KickOff"
     },
     {
+      "title": "Millonarios v Deportivo Cali",
+      "teams": [
+        "Millonarios",
+        "Deportivo Cali"
+      ],
+      "date": "11/09/2026",
+      "time": "01:00",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/325598-Millonarios-v-Deportivo-Cali"
+    },
+    {
       "title": "Independiente del Valle v Flamengo",
       "teams": [
         "Independiente del Valle",
@@ -168,29 +188,86 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "beIN Sports MENA 2 HD"
+        "Disney+ Brazil [$]",
+        "Rádio BandNews FM",
+        "Disney+ Argentina ($/geo/R)",
+        "Rádio Tupi",
+        "ESPN (South America)",
+        "ESPN (Brazil)",
+        "GE TV",
+        "Energia 97",
+        "ESPN 5 (Chile)",
+        "Rádio Bandeirantes",
+        "Rádio CBN",
+        "beIN Sports US 3",
+        "Fox Sports (Argentina)",
+        "Rádio TMC",
+        "Mi CHV (Chile)  (geo/R)",
+        "ESPN 3 (México)",
+        "beIN Sports MENA 2 HD",
+        "ESPN Premium (Chile)",
+        "Rádio Jovem Pan",
+        "Pluto TV CHI (geo/R) and0more channels"
       ],
       "commentators": [
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/324094-Independiente-del-Valle-v-Flamengo"
     },
     {
-      "title": "Cienciano v Nacional Montevideo",
+      "title": "Cienciano v Torque",
       "teams": [
         "Cienciano",
-        "Nacional Montevideo"
+        "Torque"
       ],
       "date": "11/09/2026",
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "D Sports (Peru)",
+        "D Sports (South America)",
+        "D Sports (Uruguay)",
         "beIN Sports MENA 3 HD"
       ],
       "commentators": [
+        "luca80sp",
         "ysscores"
       ],
-      "match_url": "https://icdb.tv/match/324093-Cienciano-v-Nacional-Montevideo"
+      "match_url": "https://icdb.tv/match/324093-Cienciano-v-Torque"
+    },
+    {
+      "title": "Orsomarso v Tigres FC",
+      "teams": [
+        "Orsomarso",
+        "Tigres FC"
+      ],
+      "date": "10/09/2026",
+      "time": "22:00",
+      "tournament": "Colombian Categoría Primera B",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/325599-Orsomarso-v-Tigres-FC"
+    },
+    {
+      "title": "BBC Match of the Day",
+      "date": "10/09/2026",
+      "time": "21:40",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "BBC *RED Button HD",
+        "BBC Match of the Day",
+        "BBC One / HD",
+        "BBC iPlayer (geo/R)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/325601-BBC-Match-of-the-Day"
     },
     {
       "title": "BBC Euro Leagues",
@@ -217,15 +294,30 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "Diretta Gol - Sky Sport 251",
+        "ESPN (CentroAmérica)",
+        "ESPN (South America)",
+        "ESPN 2 (Argentina)",
+        "FlashScore (audio)",
+        "Flashscore UK",
+        "HBO Max (uk only) [$/geo/R]",
+        "HBO Max Brasil [geo/r] [$]",
+        "NRK Sport",
+        "RTÉ 2 Ireland / HD (highlights)",
         "Sky Sport 253 Italia HD",
         "Sky Sport Calcio HD",
+        "TNT (brazil)",
+        "TNT Sports 2 HD (UK)",
         "Virgin Media Play (geo/R)",
         "Virgin Media Two HD",
+        "World Feed",
         "beIN Sports MENA 2 HD"
       ],
       "commentators": [
+        "Bksm",
         "Guest-SC",
         "ImpactPlayaz",
+        "apltle12",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323665-Bayern-Munich-v-BodGlimt"
@@ -244,8 +336,12 @@
         "BBC Match of the Day",
         "CBS Sports Network USA",
         "Diretta Gol - Sky Sport 251",
+        "Disney+ Argentina ($/geo/R)",
+        "ESPN Premium (Chile)",
         "HBO Max (uk only) [$/geo/R]",
+        "HBO Max Brasil [geo/r] [$]",
         "Paramount+ USA ($/geo/R)",
+        "RTÉ 2 Ireland / HD (highlights)",
         "Sky Sport 252 Italia HD",
         "Sky Sport Business Italia / HD",
         "Sky Sport Uno Italia HD",
@@ -257,7 +353,9 @@
       "commentators": [
         "Crowe24",
         "Guest-SC",
+        "ImpactPlayaz",
         "Mikhail17",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323664-Como-1907-v-RB-Leipzig"
@@ -272,27 +370,37 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "Diretta Gol - Sky Sport 251",
-        "HBO Max (uk only) [$/geo/R]",
-        "Ictimai TV HD",
-        "MUTV (radio commentary)",
-        "Paramount+ USA ($/geo/R)",
+        "ESPN 2 (South America)",
         "Sky Sport 254 Italia HD",
-        "TNT Sports (highlights)",
-        "TNT Sports 1 HD (UK)",
-        "TNT Sports Ultimate 4K (UK)",
+        "Champions League App",
+        "beIN Sports MENA English 1 HD",
+        "Flashscore UK",
         "beIN Sports MENA 1 HD",
+        "Virgin Media Two / HD (Highlights)",
+        "RTÉ Player (geo/R)",
         "talkSPORT",
-        "talkSPORT App"
+        "Ictimai TV HD",
+        "BBC (highlights)",
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports Ultimate 4K (UK)",
+        "TNT Sports 1 HD (UK)",
+        "ESPN (Argentina)",
+        "World Feed",
+        "ESPN 5 (Chile)",
+        "UEFA.com (audio)",
+        "Space (Brazil)",
+        "talkSPORT App and11more channels"
       ],
       "commentators": [
         "AnthonyB94",
         "Crowe24",
         "Guest-SC",
+        "ImpactPlayaz",
+        "Kalali Jesse",
         "Mikhail17",
         "ZC2020",
         "apltle12",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323663-Manchester-United-v-Sabah"
@@ -312,8 +420,11 @@
         "Canal+ Foot HD",
         "Canal+ Live 1 France HD",
         "Diretta Gol - Sky Sport 251",
+        "Disney+ Central America [$]",
+        "ESPN 3 (South America)",
         "HBO Max (uk only) [$/geo/R]",
         "HBO Max Brasil [geo/r] [$]",
+        "RTÉ 2 Ireland / HD (highlights)",
         "Sky Sport 255 Italia HD",
         "TNT Sports 5 HD",
         "World Feed",
@@ -323,6 +434,7 @@
         "Cr17",
         "Crowe24",
         "Guest-SC",
+        "ImpactPlayaz",
         "Mikhail17",
         "luca80sp",
         "ysscores"
@@ -339,10 +451,15 @@
       "time": "19:00",
       "tournament": "English League One",
       "channels": [
-        "Sky Sports Football HD"
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports News / HD",
+        "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "AnthonyB94",
+        "SonnyCorry",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/323022-Stevenage-v-Luton-Town"
     },
@@ -378,9 +495,12 @@
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Max Italia",
         "HBO Max (uk only) [$/geo/R]",
+        "HBO Max Brasil [geo/r] [$]",
+        "RTÉ 2 Ireland / HD (highlights)",
         "Sky Sport 253 Italia HD",
         "Sky Sport Business Italia / HD",
         "Sky Sport Uno Italia HD",
+        "TNT (brazil)",
         "TNT Sports 2 HD (UK)",
         "TNT Sports 6",
         "Virgin Media Play (geo/R)",
@@ -393,6 +513,7 @@
         "ImpactPlayaz",
         "Mikhail17",
         "apltle12",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323661-Fenerbahe-v-Roma"
@@ -412,9 +533,12 @@
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Max Italia",
         "HBO Max (uk only) [$/geo/R]",
+        "HBO Max Brasil [geo/r] [$]",
         "Megogo Futbol 1 ($/geo/R)",
+        "RTÉ 2 Ireland / HD (highlights)",
         "Sky Sport 254 Italia HD",
         "Sky Sport Calcio HD",
+        "Space (Brazil)",
         "TNT Sports 3 HD (UK)",
         "World Feed",
         "beIN Sports MENA 2 HD"
@@ -422,8 +546,10 @@
       "commentators": [
         "Crowe24",
         "Guest-SC",
+        "ImpactPlayaz",
         "Mikhail17",
         "apltle12",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323660-PSV-Eindhoven-v-Shakhtar-Donetsk"
@@ -438,12 +564,54 @@
       "time": "16:15",
       "tournament": "UAE Pro League",
       "channels": [
-        "AD Sports 1"
+        "AD Sports 1",
+        "Dubai Sports 1"
       ],
       "commentators": [
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/325265-Al-Ain-v-Al-Wasl"
+    },
+    {
+      "title": "China U-20 v Nigeria U-20",
+      "teams": [
+        "China U-20",
+        "Nigeria U-20"
+      ],
+      "date": "10/09/2026",
+      "time": "16:00",
+      "tournament": "FIFA U-20 Women's World Cup",
+      "channels": [
+        "Fox Soccer Plus USA",
+        "TSN Canada Premium",
+        "Telemundo Deportes Ahora",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/325588-China-U20-v-Nigeria-U20"
+    },
+    {
+      "title": "Colombia U-20 v Portugal U-20",
+      "teams": [
+        "Colombia U-20",
+        "Portugal U-20"
+      ],
+      "date": "10/09/2026",
+      "time": "16:00",
+      "tournament": "FIFA U-20 Women's World Cup",
+      "channels": [
+        "FOX ONE (USA) [$] (geo/R)",
+        "Fox Sports 2 (US)",
+        "NBC Universo USA",
+        "TSN Canada Premium",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/325587-Colombia-U20-v-Portugal-U20"
     },
     {
       "title": "- SKY IT - v Champions League Show",
@@ -474,10 +642,12 @@
       "tournament": "UEFA Youth League (U-19)",
       "channels": [
         "UEFA.TV [online] (geo/R)",
-        "World Feed"
+        "World Feed",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/325577-Bayern-Munich-U19-v-BodGlimt-U19"
     },
@@ -491,7 +661,8 @@
       "time": "13:40",
       "tournament": "UAE Pro League",
       "channels": [
-        "AD Sports 1"
+        "AD Sports 1",
+        "Dubai Sports 1"
       ],
       "commentators": [
         "ysscores"
@@ -508,12 +679,54 @@
       "time": "13:40",
       "tournament": "UAE Pro League",
       "channels": [
-        "AD Sports 2"
+        "AD Sports 2",
+        "Dubai Sports 2"
       ],
       "commentators": [
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/325263-Dubai-United-v-Shabab-Al-Ahli"
+    },
+    {
+      "title": "South Korea U-20 v Costa Rica U-20",
+      "teams": [
+        "South Korea U-20",
+        "Costa Rica U-20"
+      ],
+      "date": "10/09/2026",
+      "time": "13:00",
+      "tournament": "FIFA U-20 Women's World Cup",
+      "channels": [
+        "Fox Soccer Plus USA",
+        "TSN Canada Premium",
+        "Telemundo App (USA)",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/325586-South-Korea-U20-v-Costa-Rica-U20"
+    },
+    {
+      "title": "Spain U-20 v New Caledonia U-20",
+      "teams": [
+        "Spain U-20",
+        "New Caledonia U-20"
+      ],
+      "date": "10/09/2026",
+      "time": "13:00",
+      "tournament": "FIFA U-20 Women's World Cup",
+      "channels": [
+        "FOX ONE (USA) [$] (geo/R)",
+        "Fox Sports 2 (US)",
+        "TSN Canada Premium",
+        "Telemundo Deportes Ahora",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/325578-Spain-U20-v-New-Caledonia-U20"
     },
     {
       "title": "Los Angeles FC v New York Red Bulls",
@@ -578,25 +791,25 @@
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
         "ESPN (South America)",
-        "World Feed",
-        "beIN Sports MENA 2 HD",
-        "Fox Sports (Argentina)",
-        "Rádio TMC",
-        "beIN Sports Australia 3 HD",
-        "ESPN Premium (Chile)",
-        "TV Globo",
-        "Rádio BandNews FM",
-        "Paramount+ BRA ($/geo/R)",
-        "GE TV",
-        "Disney+ Argentina ($/geo/R)",
-        "beIN Sports MENA English 1 HD",
-        "Rádio CBN",
-        "Rádio Bandeirantes",
-        "Energia 97",
+        "ESPN 5 (Chile)",
         "beIN Connect USA",
-        "ESPN 3 (México)",
+        "Rádio BandNews FM",
+        "beIN Sports MENA 2 HD",
+        "beIN Sports Australia 3 HD",
+        "Energia 97",
+        "Rádio Bandeirantes",
+        "TV Globo",
+        "Disney+ Argentina ($/geo/R)",
+        "Rádio TMC",
+        "ESPN Premium (Chile)",
+        "Fox Sports (Argentina)",
         "globoplay",
-        "ESPN 5 (Chile) and0more channels"
+        "Rádio CBN",
+        "World Feed",
+        "beIN Sports MENA English 1 HD",
+        "ESPN 3 (México)",
+        "GE TV",
+        "Paramount+ BRA ($/geo/R) and0more channels"
       ],
       "commentators": [
         "HWP",
@@ -829,26 +1042,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "TNT Sports 1 HD (UK)",
-        "Disney+ Argentina ($/geo/R)",
-        "Fox Sports (Argentina)",
-        "HBO Max Brasil [geo/r] [$]",
-        "BBC Final Score",
-        "RTÉ 2 Ireland / HD",
-        "Virgin Media Two / HD (Highlights)",
-        "RTÉ Player (geo/R)",
-        "TNT (brazil)",
-        "talkSPORT",
-        "BBC *RED Button HD",
-        "ESPN (South America)",
-        "beIN Sports MENA 3 HD",
-        "Canal+ Österreich [€]",
         "FlashScore (audio)",
-        "talkSPORT App",
+        "ESPN 5 (CentroAmérica)",
+        "BBC *RED Button HD",
+        "Soccer Special",
+        "Canal+ Österreich [€]",
+        "Disney+ Argentina ($/geo/R)",
+        "BBC (highlights)",
         "BBC iPlayer (geo/R)",
-        "BBC Radio Merseyside",
+        "talkSPORT",
+        "BBC Sounds APP",
+        "TNT (brazil)",
+        "beIN Sports MENA 3 HD",
+        "talkSPORT App",
         "World Feed",
-        "Flashscore UK and11more channels"
+        "TNT Sports 1 HD (UK)",
+        "BBC Radio Merseyside",
+        "HBO Max Brasil [geo/r] [$]",
+        "HBO Max (uk only) [$/geo/R]",
+        "ESPN (South America)",
+        "BBC Final Score and11more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -872,26 +1085,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Virgin Media Two HD",
-        "YouTube: TNT Sports Brasil",
-        "HBO Max (uk only) [$/geo/R]",
-        "TNT Sports 2 HD (UK)",
-        "talkSPORT 2",
-        "ESPN (Argentina)",
-        "TNT Sports (highlights)",
-        "Sky Sports News / HD",
-        "Arsenal App",
-        "talkSPORT App",
-        "Soccer Special",
-        "Virgin Media Play (geo/R)",
-        "BBC (highlights)",
-        "BBC Match of the Day",
         "FlashScore (audio)",
-        "HBO Max Brasil [geo/r] [$]",
         "beIN Sports MENA 2 HD",
+        "Space (Brazil)",
+        "HBO Max Brasil [geo/r] [$]",
+        "Sky Sports News / HD",
+        "talkSPORT App",
+        "talkSPORT 2",
+        "BBC Match of the Day",
+        "Paramount+ USA ($/geo/R)",
         "RTÉ 2 Ireland / HD (highlights)",
-        "Prime Video Italia [$]",
-        "ESPN (CentroAmérica) and8more channels"
+        "Soccer Special",
+        "YouTube: TNT Sports Brasil",
+        "ESPN 5 (South America)",
+        "ESPN Premium (Chile)",
+        "Virgin Media Two HD",
+        "ESPN (CentroAmérica)",
+        "World Feed",
+        "BBC (highlights)",
+        "TNT Sports (highlights)",
+        "Flashscore UK and8more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -984,26 +1197,26 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT",
-        "Sky Sports Main Event HD",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "LUTV ($/geo/R)",
-        "TV2 Play Norge ($/geo/R)",
-        "CFC+ ($/geo/R)",
-        "BBC Radio 5 Sports Extra 3",
-        "Soccer Special",
-        "Disney+ Brazil [$]",
+        "World Feed",
+        "BBC Look North",
         "BBC Radio London",
-        "TV3+ Norge HD",
+        "TV2 Play Norge ($/geo/R)",
+        "Soccer Special",
         "ITV EFL Carabao Cup Highlights",
-        "Sky Sports Main Event UHD",
+        "Disney+ Brazil [$]",
+        "CFC+ ($/geo/R)",
+        "ViaPlay Norge HD",
         "BBC RADIO 5 LIVE",
         "Sky Sports News / HD",
-        "ESPN (Brazil)",
+        "Sky Sports (highlights)",
+        "TV3+ Norge HD",
+        "BBC Sounds APP",
+        "beIN Sports MENA 5 HD",
         "BBC Radio Leeds",
-        "ViaPlay Norge HD",
-        "World Feed and2more channels"
+        "talkSPORT",
+        "BBC Radio 5 Sports Extra 3",
+        "LUTV ($/geo/R)",
+        "Sky Sports Main Event UHD and4more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1011,6 +1224,7 @@
         "Bksm",
         "Crowe24",
         "HWP",
+        "JACKLUFC",
         "RussVMedia",
         "SonnyCorry",
         "luca80sp",
@@ -1090,6 +1304,7 @@
       "channels": [
         "BBC RADIO 5 LIVE",
         "BBC Radio Derby",
+        "BBC Radio WM (FM)",
         "ITV English Football League Highlights",
         "Sky Sports (highlights)",
         "Sky Sports News / HD",
@@ -1117,6 +1332,7 @@
       "tournament": "English Championship",
       "channels": [
         "BBC Radio Norfolk",
+        "BBC Radio WM",
         "ITV English Football League Highlights",
         "Sky Sports (highlights)",
         "Sky Sports+ [via APP]",
@@ -1300,26 +1516,26 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
-        "ARD Audiothek",
-        "HBO Max Brasil [geo/r] [$]",
-        "Space (Brazil)",
-        "TNT Sports 5 HD",
-        "RTÉ 2 Ireland / HD (highlights)",
         "BBC (highlights)",
-        "ARD-Hörfunk",
-        "NRK Sport",
-        "beIN Sports MENA 2 HD",
-        "ESPN 3 (Argentina)",
         "TV2 Play Norge ($/geo/R)",
+        "Virgin Media Two / HD (Highlights)",
+        "TNT Sports 5 HD",
+        "ESPN 5 (South America)",
+        "BBC Match of the Day",
+        "RTÉ 2 Ireland / HD (highlights)",
         "HBO Max (uk only) [$/geo/R]",
-        "World Feed",
+        "ARD-Hörfunk",
         "ESPN (Chile)",
+        "NRK Sport",
+        "ESPN 3 (Argentina)",
         "Sportschau Live (Audio)",
         "ESPN 5 (CentroAmérica)",
+        "beIN Sports MENA 2 HD",
         "Canal+ Extra 2 Polska HD",
-        "ESPN 5 (South America)",
-        "Virgin Media Two / HD (Highlights)",
-        "BBC Match of the Day and0more channels"
+        "ARD Audiothek",
+        "World Feed",
+        "Space (Brazil)",
+        "HBO Max Brasil [geo/r] [$] and0more channels"
       ],
       "commentators": [
         "Bksm",
