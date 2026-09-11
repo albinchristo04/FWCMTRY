@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-11T09:21:52.856837+00:00",
+  "scraped_at": "2026-09-11T14:03:53.127077+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 71,
+  "total_matches": 72,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -28,8 +28,9 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "Disney+ UK & Ireland (£/€/geo/R)",
         "LaLiga TV International HD",
-        "Disney+ UK & Ireland (£/€/geo/R)"
+        "World Feed"
       ],
       "commentators": [
         "ImpactPlayaz"
@@ -93,10 +94,11 @@
       "time": "16:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "LaLiga TV International HD",
         "Premier Sports 2 HD",
         "Premier Sports 2 HD (ROI only)",
-        "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "ImpactPlayaz"
@@ -113,15 +115,20 @@
       "time": "16:30",
       "tournament": "English Premier League",
       "channels": [
-        "NBC USA HD",
         "BBC RADIO 5 LIVE",
-        "Peacock USA ($/geo/R)",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "NBC App (USA)"
+        "NBC App (USA)",
+        "NBC USA HD",
+        "Peacock USA ($/geo/R)",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "Sky Sports Premier League HD"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/323395-Tottenham-Hotspur-v-Everton"
     },
@@ -242,10 +249,12 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
+        "Sky Sports (highlights)",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "Mikhail17"
       ],
       "match_url": "https://icdb.tv/match/323373-Bournemouth-v-Brentford"
     },
@@ -425,6 +434,20 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/323338-Grimsby-Town-v-Bristol-Rovers"
+    },
+    {
+      "title": "Sky Soccer Saturday",
+      "date": "12/09/2026",
+      "time": "11:00",
+      "tournament": "British Football",
+      "channels": [
+        "Sky Sports News / HD",
+        "Soccer Saturday"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/326148-Sky-Soccer-Saturday"
     },
     {
       "title": "Sevilla v Valencia",
@@ -779,25 +802,25 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "GE TV",
-        "World Feed",
-        "Energia 97",
+        "Pluto TV CHI (geo/R)",
+        "Disney+ Brazil [$]",
+        "Mi CHV (Chile) (geo/R)",
+        "Rádio TMC",
         "Fox Sports (Argentina)",
         "ESPN (Brazil)",
-        "Rádio Bandeirantes",
-        "Mi CHV (Chile)  (geo/R)",
-        "ESPN 5 (Chile)",
-        "Rádio BandNews FM",
-        "Rádio CBN",
-        "Disney+ Brazil [$]",
-        "Rádio Tupi",
-        "Pluto TV CHI (geo/R)",
-        "Rádio TMC",
-        "beIN Sports MENA 2 HD",
-        "ESPN 3 (México)",
+        "World Feed",
+        "Rádio Jovem Pan",
         "ESPN Premium (Chile)",
-        "ESPN (South America)",
+        "Rádio Tupi",
+        "Energia 97",
+        "ESPN 3 (México)",
         "Disney+ Argentina ($/geo/R)",
+        "GE TV",
+        "Rádio CBN",
+        "ESPN (South America)",
+        "Rádio BandNews FM",
+        "Rádio Bandeirantes",
+        "beIN Sports MENA 2 HD",
         "beIN Sports US 3 and1more channels"
       ],
       "commentators": [
@@ -982,26 +1005,26 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "TNT Sports Ultimate 4K (UK)",
-        "TNT Sports (highlights)",
-        "Diretta Gol - Sky Sport 251",
-        "Sky Sport 254 Italia HD",
-        "Flashscore UK",
+        "RTÉ 2 Ireland / HD",
         "BBC (highlights)",
+        "Space (Brazil)",
         "HBO Max (uk only) [$/geo/R]",
-        "beIN Sports MENA English 1 HD",
+        "Sky Sport 254 Italia HD",
         "Virgin Media Two / HD (Highlights)",
+        "BBC RADIO 5 LIVE",
+        "TNT Sports (highlights)",
+        "beIN Sports MENA English 1 HD",
+        "MUTV (radio commentary)",
+        "Ictimai TV HD",
         "RTÉ Player (geo/R)",
-        "Premier Sports 1 HD (ROI only)",
-        "FlashScore (audio)",
-        "ESPN 2 (South America)",
-        "BBC Match of the Day",
+        "HBO Max Brasil [geo/r] [$]",
         "Champions League App",
-        "ESPN 5 (Chile)",
-        "talkSPORT",
-        "TNT Sports 1 HD (UK)",
-        "ESPN 2 (CentroAmérica)",
-        "beIN Sports MENA 1 HD and11more channels"
+        "beIN Sports MENA 1 HD",
+        "Paramount+ USA ($/geo/R)",
+        "ESPN 2 (South America)",
+        "Flashscore UK",
+        "World Feed",
+        "ESPN (Argentina) and11more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -1063,13 +1086,15 @@
       "time": "19:00",
       "tournament": "English League One",
       "channels": [
+        "BBC Three Counties Radio",
+        "Sky Sports (highlights)",
         "Sky Sports Football HD",
-        "World Feed",
         "Sky Sports News / HD",
-        "Sky Sports (highlights)"
+        "World Feed"
       ],
       "commentators": [
         "AnthonyB94",
+        "Crowe24",
         "SonnyCorry",
         "apltle12"
       ],
@@ -1434,26 +1459,26 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "TV Globo",
-        "beIN Sports MENA English 1 HD",
-        "GE TV",
-        "beIN Sports MENA 2 HD",
-        "Rádio BandNews FM",
-        "Energia 97",
-        "Rádio TMC",
-        "Rádio CBN",
-        "ESPN 5 (Chile)",
-        "Paramount+ BRA ($/geo/R)",
-        "ESPN (South America)",
-        "Fox Sports (Argentina)",
-        "Rádio Bandeirantes",
-        "ESPN Premium (Chile)",
-        "Disney+ Argentina ($/geo/R)",
+        "World Feed",
         "beIN Sports Australia 3 HD",
         "ESPN 3 (México)",
-        "World Feed",
+        "ESPN Premium (Chile)",
+        "Rádio Bandeirantes",
+        "Energia 97",
+        "TV Globo",
+        "Paramount+ BRA ($/geo/R)",
+        "beIN Connect USA",
+        "ESPN (South America)",
         "globoplay",
-        "beIN Connect USA and0more channels"
+        "beIN Sports MENA English 1 HD",
+        "GE TV",
+        "Rádio TMC",
+        "Rádio CBN",
+        "Disney+ Argentina ($/geo/R)",
+        "ESPN 5 (Chile)",
+        "Fox Sports (Argentina)",
+        "Rádio BandNews FM",
+        "beIN Sports MENA 2 HD and0more channels"
       ],
       "commentators": [
         "HWP",
