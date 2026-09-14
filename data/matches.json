@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-14T10:19:48.846652+00:00",
+  "scraped_at": "2026-09-14T19:44:18.360149+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 123,
+  "total_matches": 131,
   "matches": [
     {
       "title": "Elche v Real Madrid",
@@ -50,8 +50,8 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT",
         "BBC RADIO 5 LIVE",
+        "talkSPORT",
         "talkSPORT App"
       ],
       "commentators": [
@@ -73,13 +73,31 @@
         "BBC RADIO 5 LIVE",
         "BBC Radio Merseyside",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "Sky Sports News / HD",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Bwfcol",
-        "Crowe24"
+        "Crowe24",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/323644-Liverpool-v-Tottenham-Hotspur"
+    },
+    {
+      "title": "Sky Soccer Special",
+      "date": "15/09/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "Sky Sports News / HD",
+        "Soccer Special"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/326861-Sky-Soccer-Special"
     },
     {
       "title": "Alavés v Valencia",
@@ -145,25 +163,34 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC Radio Newcastle",
+        "Canal+ Foot HD",
+        "FlashScore (audio)",
         "LUTV ($/geo/R)",
-        "SiriusXM FC",
-        "Sky Sports Main Event HD",
-        "Sky Sports Main Event UHD",
-        "Sky Sports News / HD",
-        "Sky Sports Premier League HD",
-        "USA Network App (USA)",
         "USA Network HD",
-        "YouTube: LUTV",
-        "beIN Sports MENA 2 HD",
-        "talkSPORT",
+        "USA Network App (USA)",
+        "Sky Sports Main Event HD",
         "talkSPORT App",
-        "talkSPORT International"
+        "Flashscore UK",
+        "beIN Sports MENA 2 HD",
+        "Sky Sports News / HD",
+        "talkSPORT",
+        "Sky Sports Main Event UHD",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio Newcastle",
+        "YouTube: LUTV",
+        "Sky Sports (highlights)",
+        "World Feed",
+        "talkSPORT International",
+        "SiriusXM FC",
+        "Sky Sports Premier League HD and0more channels"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "AnthonyB94",
         "Crowe24",
+        "SYLVESTRE",
         "SonnyCorry",
+        "apltle12",
         "bigddan11",
         "ysscores"
       ],
@@ -179,12 +206,12 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "LaLiga TV International HD",
+        "beIN Sports MENA 5 HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "Premier Sports Player UK (£/geo/R)",
         "World Feed",
-        "beIN Sports MENA 5 HD"
+        "LaLiga TV International HD",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
         "ImpactPlayaz",
@@ -203,9 +230,19 @@
       "tournament": "Italian Serie A",
       "channels": [
         "Peacock USA ($/geo/R)",
-        "StarzPlay"
+        "Inter TV (highlights)",
+        "TNT Sports 1 HD (UK)",
+        "DAZN France ($/geo/R)",
+        "Inter [app] (geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "StarzPlay",
+        "HBO Max (uk only) [$/geo/R]"
       ],
       "commentators": [
+        "Cr17",
+        "Crowe24",
+        "Guest-SC",
+        "Mikhail17",
         "bigddan11",
         "ysscores"
       ],
@@ -246,6 +283,23 @@
       "match_url": "https://icdb.tv/match/325860-Esteghlal-Tehran-v-Al-Sadd"
     },
     {
+      "title": "West Ham United U-21 v Southampton U-21",
+      "teams": [
+        "West Ham United U-21",
+        "Southampton U-21"
+      ],
+      "date": "14/09/2026",
+      "time": "18:00",
+      "tournament": "English PL 2",
+      "channels": [
+        "West Ham TV ($/geo/R)"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/326862-West-Ham-United-U21-v-Southampton-U21"
+    },
+    {
       "title": "BBC Monday Night Club",
       "date": "14/09/2026",
       "time": "18:00",
@@ -261,6 +315,40 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/325217-BBC-Monday-Night-Club"
+    },
+    {
+      "title": "EFL Championship Review Show",
+      "date": "14/09/2026",
+      "time": "17:00",
+      "tournament": "English Championship",
+      "channels": [
+        "Bein Sport 1 EN",
+        "World Feed"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/326880-EFL-Championship-Review-Show"
+    },
+    {
+      "title": "Bodø/Glimt v Sandefjord",
+      "teams": [
+        "Bodø/Glimt",
+        "Sandefjord"
+      ],
+      "date": "14/09/2026",
+      "time": "17:00",
+      "tournament": "Norwegian Eliteserien",
+      "channels": [
+        "TV2 Sport 1 Norge HD",
+        "Direkte Sport ($/geo/R)",
+        "TV2 Play Norge ($/geo/R)",
+        "NRK Sport"
+      ],
+      "commentators": [
+        "Bksm"
+      ],
+      "match_url": "https://icdb.tv/match/325815-BodGlimt-v-Sandefjord"
     },
     {
       "title": "Gaziantep v Fenerbahçe",
@@ -289,10 +377,18 @@
       "time": "16:30",
       "tournament": "Italian Serie A",
       "channels": [
+        "World Feed",
         "Peacock USA ($/geo/R)",
+        "DAZN France ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN 2 Italia HD",
+        "Zona Gol Serie A - DAZN Italia",
         "StarzPlay"
       ],
       "commentators": [
+        "Braylon",
+        "Cr17",
+        "Guest-SC",
         "bigddan11",
         "ysscores"
       ],
@@ -308,11 +404,19 @@
       "time": "16:30",
       "tournament": "Italian Serie A",
       "channels": [
-        "NBC Universo USA",
+        "World Feed",
         "Peacock USA ($/geo/R)",
+        "NBC Universo USA",
+        "DAZN France ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN 1 Italia HD",
+        "Zona Gol Serie A - DAZN Italia",
         "StarzPlay"
       ],
       "commentators": [
+        "Braylon",
+        "Cr17",
+        "Guest-SC",
         "bigddan11",
         "ysscores"
       ],
@@ -328,9 +432,17 @@
       "time": "16:00",
       "tournament": "AFC Champions League Elite",
       "channels": [
-        "beIN Sports MENA 1 HD"
+        "World Feed",
+        "beIN Sports MENA English 1 HD",
+        "beIN Sports MENA 1 HD",
+        "Azam Sports 2 HD",
+        "Paramount+ AUS ($/geo/R)",
+        "Astro Football HD",
+        "YouTube: AFC Asian Cup",
+        "FanCode India ($/geo/R)"
       ],
       "commentators": [
+        "Mikhail17",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/325848-Al-Shamal-v-Al-Ittihad"
@@ -345,9 +457,15 @@
       "time": "16:00",
       "tournament": "AFC Champions League Elite",
       "channels": [
-        "beIN Sports MENA 2 HD"
+        "World Feed",
+        "beIN Sports MENA 2 HD",
+        "Azam Sports 1 HD",
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: AFC Asian Cup",
+        "FanCode India ($/geo/R)"
       ],
       "commentators": [
+        "Mikhail17",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/325847-Shabab-Al-Ahli-v-Tractor-Sazi"
@@ -379,12 +497,61 @@
       "time": "13:45",
       "tournament": "AFC Champions League Elite",
       "channels": [
-        "beIN Sports MENA 2 HD"
+        "World Feed",
+        "beIN Sports MENA English 1 HD",
+        "beIN Sports MENA 2 HD",
+        "Astro Stadium HD",
+        "Paramount+ AUS ($/geo/R)",
+        "YouTube: AFC Asian Cup",
+        "FanCode India ($/geo/R)"
       ],
       "commentators": [
+        "Mikhail17",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/325843-Neftchi-v-Air-Force-Club"
+    },
+    {
+      "title": "Fanzone",
+      "date": "14/09/2026",
+      "time": "13:30",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/326875-Fanzone"
+    },
+    {
+      "title": "The EFL Show",
+      "date": "14/09/2026",
+      "time": "13:00",
+      "tournament": "English Football League",
+      "channels": [
+        "Sky Sports News / HD"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/326857-The-EFL-Show"
+    },
+    {
+      "title": "Sky Sports Ref Watch",
+      "date": "14/09/2026",
+      "time": "10:00",
+      "tournament": "British Football",
+      "channels": [
+        "Sky Sports News / HD",
+        "Sky Sports Premier League HD",
+        "Sky Sports Ref Watch"
+      ],
+      "commentators": [
+        "LukeA206"
+      ],
+      "match_url": "https://icdb.tv/match/326858-Sky-Sports-Ref-Watch"
     },
     {
       "title": "Cúcuta v Millonarios",
@@ -429,9 +596,6 @@
       "date": "14/09/2026",
       "time": "00:30",
       "tournament": "Argentinean Primera División",
-      "channels": [
-        "World Feed"
-      ],
       "commentators": [
         "HWP"
       ],
@@ -569,6 +733,21 @@
       "match_url": "https://icdb.tv/match/326802-Atltico-Grau-v-Alianza-Atltico"
     },
     {
+      "title": "TalkSport Trans Europe Express",
+      "date": "13/09/2026",
+      "time": "20:00",
+      "tournament": "European Football",
+      "channels": [
+        "talkRadio",
+        "talkSPORT",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/326856-TalkSport-Trans-Europe-Express"
+    },
+    {
       "title": "Famalicão v Sporting Lisbon",
       "teams": [
         "Famalicão",
@@ -675,12 +854,15 @@
       "time": "18:45",
       "tournament": "French Ligue 1",
       "channels": [
+        "Amazon Prime UK [$]",
         "Ligue 1+ ($/geo/R)",
+        "Ligue 1+ (UK/IRL)",
         "PSG TV",
         "World Feed"
       ],
       "commentators": [
         "HWP",
+        "Mikhail17",
         "SYLVESTRE",
         "TV Monitor"
       ],
@@ -696,18 +878,18 @@
       "time": "18:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "World Feed",
-        "Peacock USA ($/geo/R)",
         "CBS Sports Network USA",
-        "TNT Sports 1 HD (UK)",
-        "TNT Sports (highlights)",
-        "DAZN UK [$] (geo/R)",
-        "DAZN Italia ($/geo/R)",
         "DAZN 1 Italia HD",
-        "StarzPlay",
-        "STC TV App",
+        "DAZN Italia ($/geo/R)",
+        "DAZN UK [$] (geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
         "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "Peacock USA ($/geo/R)",
+        "STC TV App",
+        "StarzPlay",
+        "TNT Sports (highlights)",
+        "TNT Sports 1 HD (UK)",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -1072,14 +1254,16 @@
       "time": "16:00",
       "tournament": "Italian Serie A",
       "channels": [
-        "World Feed",
-        "Peacock USA ($/geo/R)",
         "CBS Sports Network USA",
-        "StarzPlay",
+        "DAZN Italia ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Peacock USA ($/geo/R)",
         "STC TV App",
-        "Paramount+ USA ($/geo/R)"
+        "StarzPlay",
+        "World Feed"
       ],
       "commentators": [
+        "Guest-SC",
         "bigddan11",
         "ysscores"
       ],
@@ -1146,26 +1330,26 @@
       "time": "15:30",
       "tournament": "English Premier League",
       "channels": [
-        "beIN Sports MENA English 1 HD",
-        "BBC World Service",
-        "BBC (highlights)",
-        "Sport 24 At Sea HD",
-        "Sky Sports Main Event UHD",
-        "ViaPlay Nederland HD",
+        "Star Sports Select HD1",
+        "Astro Premier League HD",
         "Canal+ France HD",
+        "NOW Premier League TV (hk)",
+        "Canal+ Foot HD",
+        "BBC Sport Online (Audio)",
+        "FuboTV Canada ($/geo/R)",
+        "Recast: Manchester City [$]",
+        "ViaPlay Sverige HD",
         "BBC Match of the Day",
         "Astro GO (geo/R)",
+        "Sport 24 At Sea HD",
+        "SiriusXM FC",
+        "World Feed",
+        "Sky Sports Main Event HD",
+        "MUTV (radio commentary)",
         "NBCSN",
-        "See Dansk HD",
-        "Laos)  [$] (geo/R)",
-        "Astro Grandstand HD",
-        "ViaPlay Norge HD",
-        "FuboTV Canada ($/geo/R)",
         "ViaPlay Danmark HD",
-        "ViaPlay Sverige HD",
-        "Disney+ Hotstar India [$] (geo/R)",
-        "Sky Sports (highlights)",
-        "MUTV (radio commentary) and44more channels"
+        "talkSPORT International",
+        "talkSPORT and44more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -1834,15 +2018,19 @@
       "time": "13:00",
       "tournament": "English Womens Super League",
       "channels": [
-        "World Feed",
-        "Stan Sport Australia ($/geo/R)",
+        "All Red Video ($/geo/R)",
+        "LFC TV HD",
+        "Paramount+ USA ($/geo/R)",
         "Sky Sport 5 NZ HD",
         "Sky Sports+ [via APP]",
-        "Paramount+ USA ($/geo/R)",
+        "SpursPlay ($/geo/R)",
+        "Stan Sport Australia ($/geo/R)",
+        "World Feed",
         "YouTube: Sky Sports WSL"
       ],
       "commentators": [
-        "AndyRoo_0860"
+        "AndyRoo_0860",
+        "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/323712-Liverpool-v-Tottenham-Hotspur"
     },
@@ -1878,14 +2066,17 @@
       "time": "13:00",
       "tournament": "Italian Serie A",
       "channels": [
-        "World Feed",
-        "Peacock USA ($/geo/R)",
         "CBS Sports Network USA",
-        "StarzPlay",
+        "DAZN 1 Italia HD",
+        "DAZN Italia ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Peacock USA ($/geo/R)",
         "STC TV App",
-        "Paramount+ USA ($/geo/R)"
+        "StarzPlay",
+        "World Feed"
       ],
       "commentators": [
+        "Guest-SC",
         "bigddan11",
         "ysscores"
       ],
@@ -1918,26 +2109,26 @@
       "time": "13:00",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sports News / HD",
-        "Sport 24 In Flight HD",
         "talkSPORT International",
-        "MONOMAX (Thailand",
-        "NOW Premier League TV (hk)",
-        "BBC Radio Sussex",
         "SiriusXM FC",
-        "Stan Sport Australia ($/geo/R)",
-        "beIN Sports MENA English 1 HD",
-        "USA Network HD",
-        "Sky Sports Main Event HD",
-        "USA Network App (USA)",
-        "BBC RADIO 5 LIVE",
-        "Sport 24 At Sea HD",
-        "BBC Radio Surrey",
         "SuperSport Premier League HD",
+        "beIN Sports MENA English 1 HD",
+        "BBC (highlights)",
+        "BBC Sounds APP",
+        "NOW Premier League TV (hk)",
+        "Sport 24 At Sea HD",
+        "Sky Sports Main Event HD",
+        "BBC RADIO 5 LIVE",
+        "Disney+ Hotstar India [$] (geo/R)",
+        "USA Network HD",
+        "Sky Sport 8 NZ HD",
         "Hub Premier 1 HD",
-        "Cambodia",
-        "Canal+ Foot HD",
-        "FuboTV Canada ($/geo/R) and19more channels"
+        "Sky Sports Premier League HD",
+        "BBC Radio Sussex",
+        "beIN Sports MENA 4 HD",
+        "Sport 24 In Flight HD",
+        "Laos)  [$] (geo/R)",
+        "talkSPORT and19more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -2161,23 +2352,24 @@
       "time": "11:00",
       "tournament": "English Womens Super League",
       "channels": [
-        "Sky Sports MIX UK HD",
-        "World Feed",
-        "talkSPORT",
         "BBC RADIO 5 LIVE",
-        "Sky Sports News / HD",
-        "BBC Sounds APP",
-        "Sky Sports (highlights)",
-        "Stan Sport Australia ($/geo/R)",
         "BBC Radio 5 Sports Extra",
-        "Sport 3 Israel HD",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
         "Blue Sport 4 Live HD",
+        "CFC+ ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
         "Sky One UK HD",
         "Sky Sport 5 NZ HD",
-        "BBC Sport Online (Audio)",
+        "Sky Sports (highlights)",
+        "Sky Sports MIX UK HD",
+        "Sky Sports News / HD",
         "Sky Sports+ Channel",
+        "Sport 3 Israel HD",
+        "Stan Sport Australia ($/geo/R)",
+        "World Feed",
         "YouTube: Barclays Women's Super League",
-        "Paramount+ USA ($/geo/R)"
+        "talkSPORT"
       ],
       "commentators": [
         "AndyRoo_0860",
