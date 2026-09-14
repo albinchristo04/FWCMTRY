@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-14T03:18:41.603027+00:00",
+  "scraped_at": "2026-09-14T10:19:48.846652+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 108,
+  "total_matches": 123,
   "matches": [
     {
       "title": "Elche v Real Madrid",
@@ -145,25 +145,27 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sports Main Event HD",
-        "Sky Sports Premier League HD",
-        "talkSPORT",
-        "SiriusXM FC",
-        "Sky Sports News / HD",
         "BBC Radio Newcastle",
-        "YouTube: LUTV",
-        "talkSPORT International",
-        "talkSPORT App",
-        "USA Network HD",
+        "LUTV ($/geo/R)",
+        "SiriusXM FC",
+        "Sky Sports Main Event HD",
         "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "Sky Sports Premier League HD",
         "USA Network App (USA)",
-        "LUTV ($/geo/R)"
+        "USA Network HD",
+        "YouTube: LUTV",
+        "beIN Sports MENA 2 HD",
+        "talkSPORT",
+        "talkSPORT App",
+        "talkSPORT International"
       ],
       "commentators": [
         "AnthonyB94",
         "Crowe24",
         "SonnyCorry",
-        "bigddan11"
+        "bigddan11",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323910-Leeds-United-v-Newcastle-United"
     },
@@ -177,14 +179,16 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
+        "Premier Sports Player UK (£/geo/R)",
         "World Feed",
-        "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "beIN Sports MENA 5 HD"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323731-Villarreal-v-Real-Betis"
     },
@@ -198,12 +202,48 @@
       "time": "18:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "Peacock USA ($/geo/R)"
+        "Peacock USA ($/geo/R)",
+        "StarzPlay"
       ],
       "commentators": [
-        "bigddan11"
+        "bigddan11",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323909-Inter-Milan-v-Udinese"
+    },
+    {
+      "title": "Al Ahli v Pakhtakor",
+      "teams": [
+        "Al Ahli",
+        "Pakhtakor"
+      ],
+      "date": "14/09/2026",
+      "time": "18:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 3 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325861-Al-Ahli-v-Pakhtakor"
+    },
+    {
+      "title": "Esteghlal Tehran v Al Sadd",
+      "teams": [
+        "Esteghlal Tehran",
+        "Al Sadd"
+      ],
+      "date": "14/09/2026",
+      "time": "18:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325860-Esteghlal-Tehran-v-Al-Sadd"
     },
     {
       "title": "BBC Monday Night Club",
@@ -223,6 +263,23 @@
       "match_url": "https://icdb.tv/match/325217-BBC-Monday-Night-Club"
     },
     {
+      "title": "Gaziantep v Fenerbahçe",
+      "teams": [
+        "Gaziantep",
+        "Fenerbahçe"
+      ],
+      "date": "14/09/2026",
+      "time": "17:00",
+      "tournament": "Türkiye Süper Lig",
+      "channels": [
+        "beIN Sports MENA 6 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/323702-Gaziantep-v-Fenerbahe"
+    },
+    {
       "title": "Como 1907 v Parma",
       "teams": [
         "Como 1907",
@@ -232,10 +289,12 @@
       "time": "16:30",
       "tournament": "Italian Serie A",
       "channels": [
-        "Peacock USA ($/geo/R)"
+        "Peacock USA ($/geo/R)",
+        "StarzPlay"
       ],
       "commentators": [
-        "bigddan11"
+        "bigddan11",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323709-Como-1907-v-Parma"
     },
@@ -249,13 +308,49 @@
       "time": "16:30",
       "tournament": "Italian Serie A",
       "channels": [
+        "NBC Universo USA",
         "Peacock USA ($/geo/R)",
-        "NBC Universo USA"
+        "StarzPlay"
       ],
       "commentators": [
-        "bigddan11"
+        "bigddan11",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323686-Torino-v-Roma"
+    },
+    {
+      "title": "Al Shamal v Al Ittihad",
+      "teams": [
+        "Al Shamal",
+        "Al Ittihad"
+      ],
+      "date": "14/09/2026",
+      "time": "16:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325848-Al-Shamal-v-Al-Ittihad"
+    },
+    {
+      "title": "Shabab Al Ahli v Tractor Sazi",
+      "teams": [
+        "Shabab Al Ahli",
+        "Tractor Sazi"
+      ],
+      "date": "14/09/2026",
+      "time": "16:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325847-Shabab-Al-Ahli-v-Tractor-Sazi"
     },
     {
       "title": "Shakhtar Donetsk v Chornomorets",
@@ -275,6 +370,23 @@
       "match_url": "https://icdb.tv/match/325421-Shakhtar-Donetsk-v-Chornomorets"
     },
     {
+      "title": "Neftchi v Air Force Club",
+      "teams": [
+        "Neftchi",
+        "Air Force Club"
+      ],
+      "date": "14/09/2026",
+      "time": "13:45",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325843-Neftchi-v-Air-Force-Club"
+    },
+    {
       "title": "Cúcuta v Millonarios",
       "teams": [
         "Cúcuta",
@@ -290,6 +402,40 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/326789-Ccuta-v-Millonarios"
+    },
+    {
+      "title": "San Diego FC v Philadelphia Union",
+      "teams": [
+        "San Diego FC",
+        "Philadelphia Union"
+      ],
+      "date": "14/09/2026",
+      "time": "01:00",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/323905-San-Diego-FC-v-Philadelphia-Union"
+    },
+    {
+      "title": "Huracán v Racing Club",
+      "teams": [
+        "Huracán",
+        "Racing Club"
+      ],
+      "date": "14/09/2026",
+      "time": "00:30",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/325841-Huracn-v-Racing-Club"
     },
     {
       "title": "Once Caldas v Deportivo Cali",
@@ -326,6 +472,23 @@
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/326811-Portland-Thorns-v-Chicago-Stars"
+    },
+    {
+      "title": "Independiente v San Lorenzo",
+      "teams": [
+        "Independiente",
+        "San Lorenzo"
+      ],
+      "date": "13/09/2026",
+      "time": "22:15",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/325838-Independiente-v-San-Lorenzo"
     },
     {
       "title": "BBC Match of the Day",
@@ -415,9 +578,11 @@
       "time": "19:30",
       "tournament": "Portuguese Liga 1",
       "channels": [
-        "Shasha"
+        "Shasha",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/325125-Famalico-v-Sporting-Lisbon"
@@ -458,6 +623,23 @@
       "match_url": "https://icdb.tv/match/326783-Pereira-v-Bucaramanga"
     },
     {
+      "title": "Tenerife v Leganés",
+      "teams": [
+        "Tenerife",
+        "Leganés"
+      ],
+      "date": "13/09/2026",
+      "time": "19:00",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/325834-Tenerife-v-Legans"
+    },
+    {
       "title": "Real Sociedad v Atlético Madrid",
       "teams": [
         "Real Sociedad",
@@ -493,12 +675,14 @@
       "time": "18:45",
       "tournament": "French Ligue 1",
       "channels": [
-        "World Feed",
-        "Ligue 1+ ($/geo/R)"
+        "Ligue 1+ ($/geo/R)",
+        "PSG TV",
+        "World Feed"
       ],
       "commentators": [
         "HWP",
-        "SYLVESTRE"
+        "SYLVESTRE",
+        "TV Monitor"
       ],
       "match_url": "https://icdb.tv/match/323754-Brest-v-Paris-St-Germain"
     },
@@ -705,6 +889,19 @@
       "match_url": "https://icdb.tv/match/325827-Fredrikstad-v-Sarpsborg-08"
     },
     {
+      "title": "- Scottish Cup Draw -",
+      "date": "13/09/2026",
+      "time": "17:00",
+      "tournament": "Scottish Cup",
+      "channels": [
+        "YouTube: Scottish Cup"
+      ],
+      "commentators": [
+        "Bo98"
+      ],
+      "match_url": "https://icdb.tv/match/326836-Scottish-Cup-Draw"
+    },
+    {
       "title": "Washington Spirit v Boston Legacy",
       "teams": [
         "Washington Spirit",
@@ -736,9 +933,11 @@
       "time": "17:00",
       "tournament": "Portuguese Liga 1",
       "channels": [
-        "Shasha"
+        "Shasha",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/325123-Benfica-v-Gil-Vicente"
@@ -763,6 +962,23 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323701-Galatasaray-v-Kocaelispor"
+    },
+    {
+      "title": "Mallorca v Sabadell",
+      "teams": [
+        "Mallorca",
+        "Sabadell"
+      ],
+      "date": "13/09/2026",
+      "time": "16:30",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/325823-Mallorca-v-Sabadell"
     },
     {
       "title": "Getafe v Deportivo A Coruña",
@@ -930,26 +1146,26 @@
       "time": "15:30",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sport 8 NZ HD",
-        "ViaPlay Suomi HD",
-        "ViaPlay Norge HD",
-        "Astro Premier League HD",
-        "Off the Ball",
-        "Stan Sport Australia ($/geo/R)",
-        "Premier League+ (Singapore)",
-        "Flashscore UK",
-        "MUTV / HD (highlights)",
-        "Sky Sports (highlights)",
-        "beIN Sports MENA 1 HD",
         "beIN Sports MENA English 1 HD",
-        "Sky Sports Main Event UHD",
-        "MUTV (radio commentary)",
-        "ViaPlay Sverige HD",
-        "Sky Sports News / HD",
-        "FuboTV Canada ($/geo/R)",
         "BBC World Service",
+        "BBC (highlights)",
+        "Sport 24 At Sea HD",
+        "Sky Sports Main Event UHD",
         "ViaPlay Nederland HD",
-        "V Sport Premium / HD (Sweden) and44more channels"
+        "Canal+ France HD",
+        "BBC Match of the Day",
+        "Astro GO (geo/R)",
+        "NBCSN",
+        "See Dansk HD",
+        "Laos)  [$] (geo/R)",
+        "Astro Grandstand HD",
+        "ViaPlay Norge HD",
+        "FuboTV Canada ($/geo/R)",
+        "ViaPlay Danmark HD",
+        "ViaPlay Sverige HD",
+        "Disney+ Hotstar India [$] (geo/R)",
+        "Sky Sports (highlights)",
+        "MUTV (radio commentary) and44more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -1287,6 +1503,23 @@
       "match_url": "https://icdb.tv/match/325803-Luzern-v-Basel"
     },
     {
+      "title": "Real Valladolid v Real Oviedo",
+      "teams": [
+        "Real Valladolid",
+        "Real Oviedo"
+      ],
+      "date": "13/09/2026",
+      "time": "14:15",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/325801-Real-Valladolid-v-Real-Oviedo"
+    },
+    {
       "title": "Levante v Barcelona",
       "teams": [
         "Levante",
@@ -1317,6 +1550,25 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323737-Levante-v-Barcelona"
+    },
+    {
+      "title": "Racing Genk v AA Gent",
+      "teams": [
+        "Racing Genk",
+        "AA Gent"
+      ],
+      "date": "13/09/2026",
+      "time": "14:00",
+      "tournament": "Belgian Pro League",
+      "channels": [
+        "DAZN Ireland ($/geo/R)",
+        "DAZN UK [$] (geo/R)",
+        "DAZN Worldwide ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/325288-Racing-Genk-v-AA-Gent"
     },
     {
       "title": "Leicester City v Durham",
@@ -1666,26 +1918,26 @@
       "time": "13:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC Radio Surrey",
+        "Sky Sports News / HD",
+        "Sport 24 In Flight HD",
+        "talkSPORT International",
         "MONOMAX (Thailand",
-        "beIN Sports MENA English 1 HD",
-        "FuboTV Canada ($/geo/R)",
-        "Premier League+ (Singapore)",
-        "Sky Sports (highlights)",
-        "BBC RADIO 5 LIVE",
-        "BBC Match of the Day",
-        "Sky Sports Main Event HD",
-        "SuperSport Premier League HD",
-        "talkSPORT",
-        "BBC Sport Online (Audio)",
-        "Disney+ Hotstar India [$] (geo/R)",
-        "BBC Sounds APP",
-        "ESPN Extra (Caribbean)",
-        "Laos) [$] (geo/R)",
-        "Sky Sports Premier League HD",
-        "BBC CWR",
         "NOW Premier League TV (hk)",
-        "USA Network HD and19more channels"
+        "BBC Radio Sussex",
+        "SiriusXM FC",
+        "Stan Sport Australia ($/geo/R)",
+        "beIN Sports MENA English 1 HD",
+        "USA Network HD",
+        "Sky Sports Main Event HD",
+        "USA Network App (USA)",
+        "BBC RADIO 5 LIVE",
+        "Sport 24 At Sea HD",
+        "BBC Radio Surrey",
+        "SuperSport Premier League HD",
+        "Hub Premier 1 HD",
+        "Cambodia",
+        "Canal+ Foot HD",
+        "FuboTV Canada ($/geo/R) and19more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -1791,6 +2043,25 @@
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/323694-Stuttgart-v-Wolfsburg"
+    },
+    {
+      "title": "Club Brugge v Antwerp",
+      "teams": [
+        "Club Brugge",
+        "Antwerp"
+      ],
+      "date": "13/09/2026",
+      "time": "11:30",
+      "tournament": "Belgian Pro League",
+      "channels": [
+        "DAZN Ireland ($/geo/R)",
+        "DAZN UK [$] (geo/R)",
+        "DAZN Worldwide ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/325285-Club-Brugge-v-Antwerp"
     },
     {
       "title": "Heidenheim v Holstein Kiel",
@@ -1926,24 +2197,26 @@
       "time": "11:00",
       "tournament": "Scottish League Cup",
       "channels": [
-        "Premier Sports 1 HD",
-        "Rangers TV [$] (geo/R)",
-        "World Feed",
-        "talkSPORT",
         "BBC RADIO 5 LIVE",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
         "BBC Sounds APP",
-        "STV News",
-        "Radio Clyde 1",
         "BBC Sport Online (Audio)",
+        "Premier Sports 1 HD",
         "Premier Sports Player UK (£/geo/R)",
-        "STV Radio"
+        "Radio Clyde 1",
+        "Rangers TV [$] (geo/R)",
+        "STV News",
+        "STV Radio",
+        "Sky Sports News / HD",
+        "Sportdigital FUSSBALL HD",
+        "World Feed",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
-        "SonnyCorry"
+        "SonnyCorry",
+        "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/323687-Rangers-v-Celtic"
     },
