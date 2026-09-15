@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-15T03:20:31.834296+00:00",
+  "scraped_at": "2026-09-15T09:46:51.940083+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 44,
+  "total_matches": 61,
   "matches": [
     {
       "title": "- English League Cup Draw -",
@@ -81,10 +81,33 @@
       "date": "16/09/2026",
       "time": "19:00",
       "tournament": "UEFA Europa League",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/324234-Sturm-Graz-v-Rennes"
+    },
+    {
+      "title": "Sunderland v AZ Alkmaar",
+      "teams": [
+        "Sunderland",
+        "AZ Alkmaar"
+      ],
+      "date": "16/09/2026",
+      "time": "19:00",
+      "tournament": "UEFA Europa League",
+      "channels": [
+        "BBC Radio Newcastle",
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports 1 HD (UK)",
+        "TNT Sports Ultimate 4K (UK)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/324233-Sunderland-v-AZ-Alkmaar"
     },
     {
       "title": "Manchester United v Brighton H.A.",
@@ -174,6 +197,57 @@
       "match_url": "https://icdb.tv/match/324443-Deportivo-A-Corua-v-Sevilla"
     },
     {
+      "title": "São Paulo v Boca Juniors",
+      "teams": [
+        "São Paulo",
+        "Boca Juniors"
+      ],
+      "date": "16/09/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/324228-So-Paulo-v-Boca-Juniors"
+    },
+    {
+      "title": "Platense v Fluminense",
+      "teams": [
+        "Platense",
+        "Fluminense"
+      ],
+      "date": "15/09/2026",
+      "time": "22:00",
+      "tournament": "CONMEBOL Copa Libertadores",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/324131-Platense-v-Fluminense"
+    },
+    {
+      "title": "Vasco da Gama v Independiente Santa Fé",
+      "teams": [
+        "Vasco da Gama",
+        "Independiente Santa Fé"
+      ],
+      "date": "15/09/2026",
+      "time": "22:00",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/324130-Vasco-da-Gama-v-Independiente-Santa-F"
+    },
+    {
       "title": "Elche v Real Madrid",
       "teams": [
         "Elche",
@@ -183,13 +257,15 @@
       "time": "19:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/324442-Elche-v-Real-Madrid"
     },
@@ -203,10 +279,12 @@
       "time": "19:00",
       "tournament": "Italian Cup (Coppa Italia)",
       "channels": [
-        "Italia 1 HD"
+        "Italia 1 HD",
+        "MBC Action"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/324117-Fiorentina-v-Pisa"
     },
@@ -220,13 +298,22 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT",
+        "Arsenal App",
+        "Arsenal.com",
         "BBC RADIO 5 LIVE",
+        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports+ Channel",
+        "Sky Sports+ [via APP]",
+        "beIN Sports MENA 4 HD",
+        "talkSPORT",
         "talkSPORT App"
       ],
       "commentators": [
         "Bwfcol",
-        "Crowe24"
+        "Crowe24",
+        "rockvii",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323645-Ipswich-Town-v-Arsenal"
     },
@@ -240,18 +327,22 @@
       "time": "19:00",
       "tournament": "English League Cup",
       "channels": [
-        "talkSPORT 2",
         "BBC RADIO 5 LIVE",
-        "Sky Sports News / HD",
         "BBC Radio Merseyside",
-        "talkSPORT App",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "ITV 4 HD",
+        "ITV X (geo/R)",
+        "Sky Sports News / HD",
+        "beIN Sports MENA 3 HD",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Bwfcol",
         "Crowe24",
-        "SonnyCorry"
+        "SonnyCorry",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323644-Liverpool-v-Tottenham-Hotspur"
     },
@@ -265,12 +356,67 @@
       "time": "18:45",
       "tournament": "English League Cup",
       "channels": [
-        "Fulham FC TV ($/geo/R)"
+        "Fulham FC TV ($/geo/R)",
+        "beIN Sports MENA 5 HD"
       ],
       "commentators": [
-        "AnthonyB94"
+        "AnthonyB94",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/323637-West-Ham-United-v-Fulham"
+    },
+    {
+      "title": "Falkirk v Hearts",
+      "teams": [
+        "Falkirk",
+        "Hearts"
+      ],
+      "date": "15/09/2026",
+      "time": "18:45",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "Falkirk TV [$]",
+        "Hearts TV"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/319505-Falkirk-v-Hearts"
+    },
+    {
+      "title": "Hibernian v Kilmarnock",
+      "teams": [
+        "Hibernian",
+        "Kilmarnock"
+      ],
+      "date": "15/09/2026",
+      "time": "18:45",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "Hibs TV",
+        "KillieTV"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/319501-Hibernian-v-Kilmarnock"
+    },
+    {
+      "title": "Al Hilal v Al Gharafa",
+      "teams": [
+        "Al Hilal",
+        "Al Gharafa"
+      ],
+      "date": "15/09/2026",
+      "time": "18:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325889-Al-Hilal-v-Al-Gharafa"
     },
     {
       "title": "Sky Soccer Special",
@@ -304,6 +450,38 @@
       "match_url": "https://icdb.tv/match/324441-Alavs-v-Valencia"
     },
     {
+      "title": "Ajax v Willem II",
+      "teams": [
+        "Ajax",
+        "Willem II"
+      ],
+      "date": "15/09/2026",
+      "time": "18:00",
+      "tournament": "Dutch Eredivisie",
+      "channels": [
+        "Dubai Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/324123-Ajax-v-Willem-II"
+    },
+    {
+      "title": "Match Officials Mic'd Up",
+      "date": "15/09/2026",
+      "time": "17:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Sky Sports Premier League HD",
+        "TNT Sports 1 HD",
+        "World Feed"
+      ],
+      "commentators": [
+        "AnthonyB94"
+      ],
+      "match_url": "https://icdb.tv/match/326942-Match-Officials-Micd-Up"
+    },
+    {
       "title": "Rayo Vallecano v Espanyol",
       "teams": [
         "Rayo Vallecano",
@@ -313,15 +491,34 @@
       "time": "17:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "beIN Sports MENA 8 HD"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/324440-Rayo-Vallecano-v-Espanyol"
+    },
+    {
+      "title": "Al Ain v Al Nassr",
+      "teams": [
+        "Al Ain",
+        "Al Nassr"
+      ],
+      "date": "15/09/2026",
+      "time": "16:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325873-Al-Ain-v-Al-Nassr"
     },
     {
       "title": "Genoa v SüdTirol",
@@ -339,6 +536,125 @@
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/324116-Genoa-v-SdTirol"
+    },
+    {
+      "title": "Gol Gohar v Al Jazira",
+      "teams": [
+        "Gol Gohar",
+        "Al Jazira"
+      ],
+      "date": "15/09/2026",
+      "time": "13:45",
+      "tournament": "AFC Champions League 2",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/326915-Gol-Gohar-v-Al-Jazira"
+    },
+    {
+      "title": "Arkadag v Muharraq",
+      "teams": [
+        "Arkadag",
+        "Muharraq"
+      ],
+      "date": "15/09/2026",
+      "time": "13:45",
+      "tournament": "AFC Champions League 2",
+      "channels": [
+        "beIN Sports MENA 3 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/326914-Arkadag-v-Muharraq"
+    },
+    {
+      "title": "Johor Darul Ta'zim v Buriram United",
+      "teams": [
+        "Johor Darul Ta'zim",
+        "Buriram United"
+      ],
+      "date": "15/09/2026",
+      "time": "12:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325869-Johor-Darul-Tazim-v-Buriram-United"
+    },
+    {
+      "title": "Beijing Guoan v Pohang Steelers",
+      "teams": [
+        "Beijing Guoan",
+        "Pohang Steelers"
+      ],
+      "date": "15/09/2026",
+      "time": "12:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 4 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325868-Beijing-Guoan-v-Pohang-Steelers"
+    },
+    {
+      "title": "Kashima Antlers v Newcastle Jets",
+      "teams": [
+        "Kashima Antlers",
+        "Newcastle Jets"
+      ],
+      "date": "15/09/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325867-Kashima-Antlers-v-Newcastle-Jets"
+    },
+    {
+      "title": "Daejeon Citizen v Kyoto Sanga",
+      "teams": [
+        "Daejeon Citizen",
+        "Kyoto Sanga"
+      ],
+      "date": "15/09/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 4 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325865-Daejeon-Citizen-v-Kyoto-Sanga"
+    },
+    {
+      "title": "Ratchaburi v Shanghai Port",
+      "teams": [
+        "Ratchaburi",
+        "Shanghai Port"
+      ],
+      "date": "15/09/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 5 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/325864-Ratchaburi-v-Shanghai-Port"
     },
     {
       "title": "Bahia v Remo",
@@ -368,31 +684,32 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "Sport 24 In Flight HD",
-        "USA Network App (USA)",
-        "BBC Radio Newcastle",
+        "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
-        "talkSPORT International",
-        "World Feed",
-        "Sky Sports Premier League HD",
-        "USA Network HD",
-        "FlashScore (audio)",
-        "Premier League+ (Singapore)",
-        "Sky Sport 8 NZ HD",
         "Flashscore UK",
         "LUTV ($/geo/R)",
-        "Sky Sports Main Event UHD",
+        "talkSPORT International",
+        "Sport 24 At Sea HD",
+        "Premier League+ (Singapore)",
+        "Sky Sport Max Italia HD",
+        "YouTube: LUTV",
+        "Sky Sports (highlights)",
+        "Sport 24 In Flight HD",
+        "BBC Radio Newcastle",
+        "Sky Sports Premier League HD",
+        "Stan Sport Australia ($/geo/R)",
+        "BBC Radio Leeds",
+        "Sky Sport 8 NZ HD",
         "talkSPORT",
-        "Sky Sports Main Event HD",
-        "BBC RADIO 5 LIVE",
-        "SiriusXM FC",
-        "SuperSport Premier League HD",
-        "Sky Sports (highlights) and8more channels"
+        "World Feed",
+        "talkSPORT App",
+        "SuperSport Premier League HD and10more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
         "AnthonyB94",
         "Crowe24",
+        "Guest-SC",
         "JACKLUFC",
         "SYLVESTRE",
         "SonnyCorry",
@@ -452,16 +769,21 @@
       "time": "18:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "World Feed",
-        "Peacock USA ($/geo/R)",
-        "Inter TV (highlights)",
-        "TNT Sports 1 HD (UK)",
         "DAZN France ($/geo/R)",
-        "Inter [app] (geo/R)",
         "DAZN Italia ($/geo/R)",
-        "StarzPlay",
+        "HBO Max (uk only) [$/geo/R]",
+        "Inter TV (highlights)",
+        "Inter [app] (geo/R)",
+        "Peacock USA ($/geo/R)",
         "STC TV App",
-        "HBO Max (uk only) [$/geo/R]"
+        "Sky Sport 251 Italia HD",
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Calcio HD",
+        "Sky Sport Italia 4K UHD",
+        "Sky Sport Uno Italia HD",
+        "StarzPlay",
+        "TNT Sports 1 HD (UK)",
+        "World Feed"
       ],
       "commentators": [
         "Cr17",
@@ -629,14 +951,15 @@
       "time": "16:30",
       "tournament": "Italian Serie A",
       "channels": [
-        "World Feed",
-        "Peacock USA ($/geo/R)",
+        "DAZN 2 Italia HD",
         "DAZN France ($/geo/R)",
         "DAZN Italia ($/geo/R)",
-        "DAZN 2 Italia HD",
-        "Zona Gol Serie A - DAZN Italia",
+        "Peacock USA ($/geo/R)",
+        "STC TV App",
+        "Sky Sport Business 2 Italia / HD",
         "StarzPlay",
-        "STC TV App"
+        "World Feed",
+        "Zona Gol Serie A - DAZN Italia"
       ],
       "commentators": [
         "Braylon",
@@ -657,15 +980,16 @@
       "time": "16:30",
       "tournament": "Italian Serie A",
       "channels": [
-        "World Feed",
-        "Peacock USA ($/geo/R)",
-        "NBC Universo USA",
+        "DAZN 1 Italia HD",
         "DAZN France ($/geo/R)",
         "DAZN Italia ($/geo/R)",
-        "DAZN 1 Italia HD",
-        "Zona Gol Serie A - DAZN Italia",
+        "NBC Universo USA",
+        "Peacock USA ($/geo/R)",
+        "STC TV App",
+        "Sky Sport Business Italia / HD",
         "StarzPlay",
-        "STC TV App"
+        "World Feed",
+        "Zona Gol Serie A - DAZN Italia"
       ],
       "commentators": [
         "Braylon",
@@ -758,9 +1082,9 @@
       "match_url": "https://icdb.tv/match/325421-Shakhtar-Donetsk-v-Chornomorets"
     },
     {
-      "title": "Neftchi v Air Force Club",
+      "title": "Neftchi Fergana v Air Force Club",
       "teams": [
-        "Neftchi",
+        "Neftchi Fergana",
         "Air Force Club"
       ],
       "date": "14/09/2026",
@@ -780,7 +1104,7 @@
         "Mikhail17",
         "ysscores"
       ],
-      "match_url": "https://icdb.tv/match/325843-Neftchi-v-Air-Force-Club"
+      "match_url": "https://icdb.tv/match/325843-Neftchi-Fergana-v-Air-Force-Club"
     },
     {
       "title": "Fanzone",
