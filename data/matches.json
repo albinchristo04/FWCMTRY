@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-18T09:22:58.292931+00:00",
+  "scraped_at": "2026-09-18T14:06:30.517444+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 92,
+  "total_matches": 102,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -47,7 +47,8 @@
       "channels": [
         "DAZN Italia ($/geo/R)",
         "Disney+ UK & Ireland (£/€/geo/R)",
-        "LaLiga TV International HD"
+        "LaLiga TV International HD",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
@@ -187,9 +188,13 @@
       "time": "16:45",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC Radio 5 Sports Extra 3",
+        "BBC Radio Scotland Extra",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
         "Premier Sports 1 HD",
-        "World Feed",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "SonnyCorry"
@@ -317,6 +322,109 @@
       "match_url": "https://icdb.tv/match/324720-Athletic-Bilbao-v-Alavs"
     },
     {
+      "title": "Peterborough United v Doncaster Rovers",
+      "teams": [
+        "Peterborough United",
+        "Doncaster Rovers"
+      ],
+      "date": "19/09/2026",
+      "time": "14:00",
+      "tournament": "English League One",
+      "channels": [
+        "BBC Radio Sheffield",
+        "Rovers+"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327240-Peterborough-United-v-Doncaster-Rovers"
+    },
+    {
+      "title": "Reading v Notts County",
+      "teams": [
+        "Reading",
+        "Notts County"
+      ],
+      "date": "19/09/2026",
+      "time": "14:00",
+      "tournament": "English League One",
+      "channels": [
+        "Royals TV"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327239-Reading-v-Notts-County"
+    },
+    {
+      "title": "Blackpool v Plymouth Argyle",
+      "teams": [
+        "Blackpool",
+        "Plymouth Argyle"
+      ],
+      "date": "19/09/2026",
+      "time": "14:00",
+      "tournament": "English League One",
+      "channels": [
+        "Argyle TV ($/geo/R)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327238-Blackpool-v-Plymouth-Argyle"
+    },
+    {
+      "title": "Leyton Orient v Barnsley",
+      "teams": [
+        "Leyton Orient",
+        "Barnsley"
+      ],
+      "date": "19/09/2026",
+      "time": "14:00",
+      "tournament": "English League One",
+      "channels": [
+        "Orient Live"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327237-Leyton-Orient-v-Barnsley"
+    },
+    {
+      "title": "Queens Park Rangers v Preston N.E.",
+      "teams": [
+        "Queens Park Rangers",
+        "Preston N.E."
+      ],
+      "date": "19/09/2026",
+      "time": "14:00",
+      "tournament": "English Championship",
+      "channels": [
+        "QPR+"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327236-Queens-Park-Rangers-v-Preston-NE"
+    },
+    {
+      "title": "Portsmouth v Blackburn Rovers",
+      "teams": [
+        "Portsmouth",
+        "Blackburn Rovers"
+      ],
+      "date": "19/09/2026",
+      "time": "14:00",
+      "tournament": "English Championship",
+      "channels": [
+        "Pompey+"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327235-Portsmouth-v-Blackburn-Rovers"
+    },
+    {
       "title": "Birmingham City v Middlesbrough",
       "teams": [
         "Birmingham City",
@@ -343,9 +451,11 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
+        "BBC Radio Newcastle",
+        "BBC Sounds APP",
         "NBCSN",
-        "Sky Sports News / HD",
-        "Peacock USA ($/geo/R)"
+        "Peacock USA ($/geo/R)",
+        "Sky Sports News / HD"
       ],
       "commentators": [
         "Crowe24",
@@ -441,6 +551,20 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/324702-Mnchengladbach-v-Mainz-05"
+    },
+    {
+      "title": "- OPEN ALL MICS -",
+      "date": "19/09/2026",
+      "time": "13:00",
+      "tournament": "Scottish Football",
+      "channels": [
+        "BBC Radio Scotland",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/327232-OPEN-ALL-MICS"
     },
     {
       "title": "Udinese v Cagliari",
@@ -592,6 +716,26 @@
       "match_url": "https://icdb.tv/match/324680-Chelsea-v-Birmingham-City"
     },
     {
+      "title": "Redcar Town v Darlington",
+      "teams": [
+        "Redcar Town",
+        "Darlington"
+      ],
+      "date": "19/09/2026",
+      "time": "11:30",
+      "tournament": "English FA Cup",
+      "channels": [
+        "BBC (highlights)",
+        "BBC *RED Button HD",
+        "BBC Sport Online",
+        "BBC iPlayer (geo/R)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327233-Redcar-Town-v-Darlington"
+    },
+    {
       "title": "Cardiff City v Charlton Athletic",
       "teams": [
         "Cardiff City",
@@ -607,6 +751,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/324678-Cardiff-City-v-Charlton-Athletic"
+    },
+    {
+      "title": "Burton Albion v Mansfield Town",
+      "teams": [
+        "Burton Albion",
+        "Mansfield Town"
+      ],
+      "date": "19/09/2026",
+      "time": "11:30",
+      "tournament": "English League One",
+      "channels": [
+        "iFollow (Mansfield Town)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/324677-Burton-Albion-v-Mansfield-Town"
     },
     {
       "title": "Millwall v West Ham United",
@@ -718,6 +879,7 @@
       "time": "19:00",
       "tournament": "English Championship",
       "channels": [
+        "SkySportsFootball HD",
         "Sky Sports News / HD"
       ],
       "commentators": [
@@ -767,6 +929,7 @@
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
         "Premier Sports Player UK (£/geo/R)",
+        "World Feed",
         "beIN Sports MENA 3 HD"
       ],
       "commentators": [
@@ -885,7 +1048,7 @@
       "channels": [
         "BBC Scotland / HD",
         "BBC iPlayer (geo/R)",
-        "BBC Sport Scotland Online"
+        "BBCSportScotland Online"
       ],
       "commentators": [
         "SonnyCorry"
@@ -944,6 +1107,20 @@
       "match_url": "https://icdb.tv/match/325218-BBC-Premier-League-KickOff"
     },
     {
+      "title": "Welcome to the Weekend",
+      "date": "18/09/2026",
+      "time": "11:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327234-Welcome-to-the-Weekend"
+    },
+    {
       "title": "Torque v Cienciano",
       "teams": [
         "Torque",
@@ -983,26 +1160,26 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "ESPN 5 (CentroAmérica)",
-        "Rádio TMC Rio",
-        "ESPN (Chile)",
-        "ESPN (Colombia)",
-        "ESPN (Brazil)",
-        "Disney+ Argentina ($/geo/R)",
-        "Energia 97",
-        "Rádio Tupi",
-        "ESPN Mexico",
-        "Disney+ Brazil [$]",
-        "ESPN 2 (Peru)",
-        "GE TV",
-        "ESPN Ecuador",
-        "ESPN 2 (Uruguay)",
-        "ESPN Premium (Chile)",
-        "ESPN Venezuela",
         "Rádio BandNews FM",
+        "Rádio Bandeirantes",
         "World Feed",
-        "Mach Deportes",
-        "Fox Sports (Argentina) and1more channels"
+        "ESPN Mexico",
+        "ESPN 2 (Peru)",
+        "ESPN Venezuela",
+        "ESPN Premium (Chile)",
+        "Disney+ Brazil [$]",
+        "Fox Sports (Argentina)",
+        "Energia 97",
+        "ESPN Ecuador",
+        "Rádio Tupi",
+        "ESPN (Brazil)",
+        "ESPN (Colombia)",
+        "ESPN (Chile)",
+        "GE TV",
+        "ESPN 5 (CentroAmérica)",
+        "ESPN 2 (Uruguay)",
+        "Rádio TMC Rio",
+        "Mach Deportes and1more channels"
       ],
       "commentators": [
         "HWP",
@@ -1426,26 +1603,26 @@
       "time": "18:30",
       "tournament": "English League Cup",
       "channels": [
-        "Disney+ South America [$]",
-        "ESPN 3 (Centroamérica)",
-        "Flashscore UK",
+        "BBC Radio Norfolk",
         "FlashScore (audio)",
+        "Sky Sports (highlights)",
+        "BBC RADIO 5 LIVE",
+        "talkSPORT App",
+        "BBC Sport Online (Audio)",
+        "World Feed",
+        "YouTube: Man City",
+        "BBC Sounds APP",
+        "City+",
+        "beIN Sports MENA 2 HD",
         "Recast: Manchester City [$]",
         "Sky Sports+ [via APP]",
-        "BBC Sounds APP",
-        "beIN Sports MENA 2 HD",
-        "BBC Sport Online (Audio)",
-        "talkSPORT App",
-        "ESPN (Brazil)",
         "Sky Sports News / HD",
-        "BBC Radio Norfolk",
-        "World Feed",
         "Disney+ Brazil [$]",
+        "ESPN (Brazil)",
+        "Flashscore UK",
+        "Disney+ South America [$]",
         "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "YouTube: Man City",
-        "City+",
-        "Sky Sports (highlights) and0more channels"
+        "ESPN 3 (Centroamérica) and0more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1872,26 +2049,26 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "beIN Sports MENA 3 HD",
+        "globoplay",
+        "World Feed",
         "TV Globo",
-        "ESPN Ecuador",
-        "ESPN (Colombia)",
-        "ESPN 5 (Chile)",
-        "ESPN Uruguay",
-        "Rádio CBN",
-        "ESPN Venezuela",
-        "ESPN Paraguay",
-        "Fox Sports (Argentina)",
-        "Paramount+ BRA ($/geo/R)",
-        "105 FM",
-        "GE TV",
-        "Rádio Jovem Pan",
         "Energia 97",
+        "Disney+ Argentina ($/geo/R)",
+        "ESPN Paraguay",
+        "ESPN Bolivia",
+        "Rádio BandNews FM",
+        "GE TV",
+        "ESPN Peru",
+        "105 FM",
+        "Rádio Bandeirantes",
         "ESPN Premium (Chile)",
         "ESPN 4 (México)",
-        "World Feed",
-        "Disney+ Argentina ($/geo/R)",
-        "Rádio BandNews FM and5more channels"
+        "ESPN Venezuela",
+        "Rádio TMC",
+        "ESPN (Colombia)",
+        "Rádio CBN",
+        "Rádio Jovem Pan",
+        "beIN Sports MENA 3 HD and5more channels"
       ],
       "commentators": [
         "HWP",
