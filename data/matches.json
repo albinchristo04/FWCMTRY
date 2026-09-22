@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-22T14:20:28.361416+00:00",
+  "scraped_at": "2026-09-22T18:30:03.466890+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 32,
+  "total_matches": 41,
   "matches": [
     {
       "title": "Chelsea v Austria Vienna",
@@ -49,6 +49,59 @@
       "match_url": "https://icdb.tv/match/327521-talkSPORT-Kick-Off"
     },
     {
+      "title": "Independiente Santa Fé v Deportivo Cali",
+      "teams": [
+        "Independiente Santa Fé",
+        "Deportivo Cali"
+      ],
+      "date": "23/09/2026",
+      "time": "01:00",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win Sports",
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/328014-Independiente-Santa-F-v-Deportivo-Cali"
+    },
+    {
+      "title": "Independiente Medellín v Jaguares Córdoba",
+      "teams": [
+        "Independiente Medellín",
+        "Jaguares Córdoba"
+      ],
+      "date": "22/09/2026",
+      "time": "23:00",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win Sports",
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/328012-Independiente-Medelln-v-Jaguares-Crdoba"
+    },
+    {
+      "title": "Independiente Valle del Cauca v Inter Palmira",
+      "teams": [
+        "Independiente Valle del Cauca",
+        "Inter Palmira"
+      ],
+      "date": "22/09/2026",
+      "time": "21:00",
+      "tournament": "Colombian Categoría Primera B",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/328015-Independiente-Valle-del-Cauca-v-Inter-Palmira"
+    },
+    {
       "title": "Juventus v Benfica",
       "teams": [
         "Juventus",
@@ -59,9 +112,13 @@
       "tournament": "UEFA Womens Champions League",
       "channels": [
         "Disney+ Europe (€/geo/R)",
-        "Disney+ UK & Ireland (£/€/geo/R)"
+        "Disney+ Italia ($/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "World Feed"
       ],
       "commentators": [
+        "AndyRoo_0860",
+        "Guest-SC",
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/327915-Juventus-v-Benfica"
@@ -80,13 +137,33 @@
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
         "Disney+ Europe (€/geo/R)",
-        "Disney+ UK & Ireland (£/€/geo/R)"
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "World Feed",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/326141-Arsenal-v-HB-Kge"
+    },
+    {
+      "title": "Leicester City v Fulham U-21",
+      "teams": [
+        "Leicester City",
+        "Fulham U-21"
+      ],
+      "date": "22/09/2026",
+      "time": "18:00",
+      "tournament": "English Football League Trophy",
+      "channels": [
+        "BBC Radio Leicester"
+      ],
+      "commentators": [
+        "Penfold1982"
+      ],
+      "match_url": "https://icdb.tv/match/328013-Leicester-City-v-Fulham-U21"
     },
     {
       "title": "talkSPORT Kick Off",
@@ -101,6 +178,41 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/327520-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "Luton Town v Ipswich Town U-21",
+      "teams": [
+        "Luton Town",
+        "Ipswich Town U-21"
+      ],
+      "date": "22/09/2026",
+      "time": "18:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "BBC Three Counties Radio"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/325303-Luton-Town-v-Ipswich-Town-U21"
+    },
+    {
+      "title": "Salford City v Sheffield Wednesday",
+      "teams": [
+        "Salford City",
+        "Sheffield Wednesday"
+      ],
+      "date": "22/09/2026",
+      "time": "18:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "talkSPORT 2",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/325297-Salford-City-v-Sheffield-Wednesday"
     },
     {
       "title": "Tranmere Rovers v Shrewsbury Town",
@@ -120,6 +232,37 @@
       "match_url": "https://icdb.tv/match/325295-Tranmere-Rovers-v-Shrewsbury-Town"
     },
     {
+      "title": "York City v Rotherham United",
+      "teams": [
+        "York City",
+        "Rotherham United"
+      ],
+      "date": "22/09/2026",
+      "time": "18:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "BBC Radio Sheffield"
+      ],
+      "commentators": [
+        "M7"
+      ],
+      "match_url": "https://icdb.tv/match/325293-York-City-v-Rotherham-United"
+    },
+    {
+      "title": "BBC WM Sport",
+      "date": "22/09/2026",
+      "time": "17:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC Radio WM",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/328016-BBC-WM-Sport"
+    },
+    {
       "title": "Inter Milan v BK Häcken",
       "teams": [
         "Inter Milan",
@@ -129,9 +272,13 @@
       "time": "16:45",
       "tournament": "UEFA Womens Champions League",
       "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ Italia ($/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
         "World Feed"
       ],
       "commentators": [
+        "Guest-SC",
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/327913-Inter-Milan-v-BK-Hcken"
@@ -146,14 +293,41 @@
       "time": "16:45",
       "tournament": "UEFA Womens Champions League",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "CBS Sports Golazo Network (US)",
         "City+",
         "CityTV (highlights)",
-        "Recast: Manchester City [$]"
+        "Disney+ Brazil [$]",
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "ESPN 4 (Brazil)",
+        "Paramount+ USA ($/geo/R)",
+        "Recast: Manchester City [$]",
+        "World Feed"
       ],
       "commentators": [
-        "apltle12"
+        "AndyRoo_0860",
+        "Crowe24",
+        "ImpactPlayaz",
+        "apltle12",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/327892-Bayern-Munich-v-Manchester-City"
+    },
+    {
+      "title": "Disney+ UWCL: The Hangout",
+      "date": "22/09/2026",
+      "time": "16:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "YouTube: ESPN UK"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/328010-Disney-UWCL-The-Hangout"
     },
     {
       "title": "Cuiabá v Náutico",
