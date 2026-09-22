@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-22T09:38:35.239182+00:00",
+  "scraped_at": "2026-09-22T14:20:28.361416+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 31,
+  "total_matches": 32,
   "matches": [
     {
       "title": "Chelsea v Austria Vienna",
@@ -49,6 +49,24 @@
       "match_url": "https://icdb.tv/match/327521-talkSPORT-Kick-Off"
     },
     {
+      "title": "Juventus v Benfica",
+      "teams": [
+        "Juventus",
+        "Benfica"
+      ],
+      "date": "22/09/2026",
+      "time": "19:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/327915-Juventus-v-Benfica"
+    },
+    {
       "title": "Arsenal v HB Køge",
       "teams": [
         "Arsenal",
@@ -60,10 +78,13 @@
       "channels": [
         "BBC RADIO 5 LIVE",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/326141-Arsenal-v-HB-Kge"
     },
@@ -452,10 +473,15 @@
       "time": "16:00",
       "tournament": "German Frauen Bundesliga",
       "channels": [
-        "Bremen Eins"
+        "Bremen Eins",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)",
+        "Sport 1 Germany HD"
       ],
       "commentators": [
-        "ethanh05"
+        "ethanh05",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/325215-Werder-Bremen-v-Stuttgart"
     },
