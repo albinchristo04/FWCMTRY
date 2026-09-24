@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-24T14:38:01.642255+00:00",
+  "scraped_at": "2026-09-24T18:50:06.132691+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 49,
+  "total_matches": 56,
   "matches": [
     {
       "title": "Türkiye v France",
@@ -31,9 +31,11 @@
       "tournament": "UEFA Nations League",
       "channels": [
         "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)"
+        "DAZN Schweiz [$] (geo/R)",
+        "World Feed"
       ],
       "commentators": [
+        "Crowe24",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/326332-Italy-v-Belgium"
@@ -129,6 +131,42 @@
       "match_url": "https://icdb.tv/match/328139-Australia-v-Brazil"
     },
     {
+      "title": "Atlético Nacional v Millonarios",
+      "teams": [
+        "Atlético Nacional",
+        "Millonarios"
+      ],
+      "date": "25/09/2026",
+      "time": "00:30",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win Sports",
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/328267-Atltico-Nacional-v-Millonarios"
+    },
+    {
+      "title": "Gualaceo v Independiente del Valle",
+      "teams": [
+        "Gualaceo",
+        "Independiente del Valle"
+      ],
+      "date": "25/09/2026",
+      "time": "00:00",
+      "tournament": "Ecuadorian Cup",
+      "channels": [
+        "D Sports (South America)",
+        "Mach Deportes"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/328277-Gualaceo-v-Independiente-del-Valle"
+    },
+    {
       "title": "Cameroon v Comoros",
       "teams": [
         "Cameroon",
@@ -192,10 +230,14 @@
         "DAZN 2 Bar Deutsch HD",
         "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
+        "NRK Sport",
         "Sky Sport Arena Italia HD",
+        "TV2 Direkte Norge HD",
+        "TV2 Play Norge ($/geo/R)",
         "beIN Sports MENA 4 HD"
       ],
       "commentators": [
+        "Bksm",
         "Guest-SC",
         "kurtogen",
         "ysscores"
@@ -212,9 +254,11 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "SporTV 3 Brazil HD",
         "beIN Xtra 1"
       ],
       "commentators": [
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/327367-Liechtenstein-v-Lithuania"
@@ -229,8 +273,8 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)"
+        "DAZN Schweiz [$] (geo/R)",
+        "DAZN Deutsch ($/geo/R)"
       ],
       "commentators": [
         "kurtogen"
@@ -268,13 +312,20 @@
         "RTL Schweiz HD",
         "RTL Österreich HD",
         "RTS 2 Suisse HD",
+        "RTVE Play ($/geo/R)",
         "SRF Zwei Schweiz HD",
         "Sky Sport Business Italia / HD",
         "Sky Sport Uno Italia HD",
-        "TV8 Italia HD"
+        "TV8 Italia HD",
+        "TVE La 1 HD España",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD",
+        "beIN Sports MENA English 1 HD"
       ],
       "commentators": [
         "Guest-SC",
+        "ImpactPlayaz",
+        "Ste",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/325538-Netherlands-v-Germany"
@@ -289,12 +340,15 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "RTÉ (Highlights)",
         "RTÉ 2 Ireland / HD",
         "RTÉ News",
         "RTÉ Player (geo/R)",
+        "World Feed",
         "beIN Sports MENA 5 HD"
       ],
       "commentators": [
+        "Crowe24",
         "ImpactPlayaz",
         "ysscores"
       ],
@@ -310,8 +364,10 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "BBC (highlights)",
         "BBC One Wales HD",
         "BBC RADIO 5 LIVE",
+        "BBC Radio Wales",
         "BBC Sounds APP",
         "BBC Sport Online",
         "BBC Sport Online (Audio)",
@@ -320,11 +376,14 @@
         "DAZN 1 Bar Deutsch HD",
         "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
+        "S4C / HD (United Kingdom)",
+        "S4C Clic ($/geo/R)",
         "SporTV Brazil HD",
         "beIN Sports MENA 3 HD"
       ],
       "commentators": [
         "Crowe24",
+        "RHJR",
         "kurtogen",
         "luca80sp",
         "ysscores"
@@ -374,8 +433,8 @@
       "time": "18:00",
       "tournament": "Arabian Gulf Cup",
       "channels": [
-        "AD Sports 1",
-        "Sportdigital FUSSBALL HD"
+        "Sportdigital FUSSBALL HD",
+        "AD Sports 1"
       ],
       "commentators": [
         "kurtogen",
@@ -396,6 +455,57 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/327522-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "Congo DR v Equatorial Guinea",
+      "teams": [
+        "Congo DR",
+        "Equatorial Guinea"
+      ],
+      "date": "24/09/2026",
+      "time": "16:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/328272-Congo-DR-v-Equatorial-Guinea"
+    },
+    {
+      "title": "Mauritania v Central African Republic",
+      "teams": [
+        "Mauritania",
+        "Central African Republic"
+      ],
+      "date": "24/09/2026",
+      "time": "16:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/328271-Mauritania-v-Central-African-Republic"
+    },
+    {
+      "title": "Libya v Botswana",
+      "teams": [
+        "Libya",
+        "Botswana"
+      ],
+      "date": "24/09/2026",
+      "time": "16:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/328270-Libya-v-Botswana"
     },
     {
       "title": "Latvia U-21 v Germany U-21",
@@ -426,11 +536,16 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "Disney+ Brazil [$]",
+        "ESPN 4 (Brazil)",
         "Sky Sport Calcio HD",
+        "World Feed",
         "beIN Sports MENA 3 HD"
       ],
       "commentators": [
+        "Crowe24",
         "Guest-SC",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/327366-Andorra-v-Malta"
@@ -451,6 +566,46 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/328053-UAE-v-Yemen"
+    },
+    {
+      "title": "South Korea v Ecuador",
+      "teams": [
+        "South Korea",
+        "Ecuador"
+      ],
+      "date": "24/09/2026",
+      "time": "11:00",
+      "tournament": "Friendly International",
+      "channels": [
+        "EcuadorTV",
+        "Mach Deportes",
+        "Radioactiva Ecuador",
+        "TC Televisión (Ecuador)",
+        "Teleamazonas"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/328276-South-Korea-v-Ecuador"
+    },
+    {
+      "title": "Japan v Uruguay",
+      "teams": [
+        "Japan",
+        "Uruguay"
+      ],
+      "date": "24/09/2026",
+      "time": "10:05",
+      "tournament": "Friendly International",
+      "channels": [
+        "AUF TV",
+        "D Sports (Uruguay)",
+        "Telemundo Deportes Ahora"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/328274-Japan-v-Uruguay"
     },
     {
       "title": "Seattle Sounders v Real Salt Lake",
@@ -828,9 +983,12 @@
       "time": "16:00",
       "tournament": "Friendly International",
       "channels": [
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport X Dansk HD",
         "World Feed"
       ],
       "commentators": [
+        "Vallis",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/327923-Azerbaijan-v-Tajikistan"
