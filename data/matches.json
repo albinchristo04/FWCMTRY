@@ -1,8 +1,80 @@
 {
-  "scraped_at": "2026-09-23T22:41:04.085369+00:00",
+  "scraped_at": "2026-09-24T03:05:31.756079+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 59,
+  "total_matches": 30,
   "matches": [
+    {
+      "title": "Türkiye v France",
+      "teams": [
+        "Türkiye",
+        "France"
+      ],
+      "date": "25/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/328140-Trkiye-v-France"
+    },
+    {
+      "title": "talkSPORT Kick Off",
+      "date": "25/09/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "talkSPORT",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327523-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "Georgia v Northern Ireland",
+      "teams": [
+        "Georgia",
+        "Northern Ireland"
+      ],
+      "date": "25/09/2026",
+      "time": "16:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "BBC (highlights)",
+        "BBC Sport NI Online",
+        "BBC Sport Online",
+        "BBC Two / HD",
+        "BBC iPlayer (geo/R)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/325600-Georgia-v-Northern-Ireland"
+    },
+    {
+      "title": "Australia v Brazil",
+      "teams": [
+        "Australia",
+        "Brazil"
+      ],
+      "date": "25/09/2026",
+      "time": "10:00",
+      "tournament": "Friendly International",
+      "channels": [
+        "GE TV",
+        "SporTV Brazil HD",
+        "TV Globo",
+        "globoplay"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/328139-Australia-v-Brazil"
+    },
     {
       "title": "Kosovo v Ireland",
       "teams": [
@@ -32,14 +104,14 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC One Wales HD",
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP",
-        "BBC Sport Online",
-        "BBC Sport Online (Audio)",
-        "BBC Two / HD",
+        "SporTV Brazil HD",
         "BBC iPlayer (geo/R)",
-        "SporTV Brazil HD"
+        "BBC Sport Online",
+        "BBC RADIO 5 LIVE",
+        "BBC Two / HD",
+        "BBC One Wales HD",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
       ],
       "commentators": [
         "Crowe24",
@@ -77,6 +149,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/327522-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "Seattle Sounders v Real Salt Lake",
+      "teams": [
+        "Seattle Sounders",
+        "Real Salt Lake"
+      ],
+      "date": "24/09/2026",
+      "time": "01:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/304452-Seattle-Sounders-v-Real-Salt-Lake"
     },
     {
       "title": "America Cali v Aguilas Doradas",
@@ -139,12 +228,12 @@
       "time": "19:00",
       "tournament": "UEFA Womens Champions League",
       "channels": [
+        "World Feed",
         "CBS Sports Golazo Network (US)",
-        "Disney+ Espana ($/geo/R)",
-        "Disney+ Europe (€/geo/R)",
         "Disney+ UK & Ireland (£/€/geo/R)",
-        "Paramount+ USA ($/geo/R)",
-        "World Feed"
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ Espana ($/geo/R)",
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -394,9 +483,6 @@
       "date": "23/09/2026",
       "time": "16:00",
       "tournament": "Friendly International",
-      "channels": [
-        "World Feed"
-      ],
       "commentators": [
         "apltle12"
       ],
@@ -457,636 +543,6 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/328014-Independiente-Santa-F-v-Deportivo-Cali"
-    },
-    {
-      "title": "Independiente Medellín v Jaguares Córdoba",
-      "teams": [
-        "Independiente Medellín",
-        "Jaguares Córdoba"
-      ],
-      "date": "22/09/2026",
-      "time": "23:00",
-      "tournament": "Colombian Primera A",
-      "channels": [
-        "Win Sports",
-        "Win+ Fútbol (Colombia)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/328012-Independiente-Medelln-v-Jaguares-Crdoba"
-    },
-    {
-      "title": "Independiente Valle del Cauca v Inter Palmira",
-      "teams": [
-        "Independiente Valle del Cauca",
-        "Inter Palmira"
-      ],
-      "date": "22/09/2026",
-      "time": "21:00",
-      "tournament": "Colombian Categoría Primera B",
-      "channels": [
-        "Win+ Fútbol (Colombia)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/328015-Independiente-Valle-del-Cauca-v-Inter-Palmira"
-    },
-    {
-      "title": "Real Madrid v Paris St Germain",
-      "teams": [
-        "Real Madrid",
-        "Paris St Germain"
-      ],
-      "date": "22/09/2026",
-      "time": "19:00",
-      "tournament": "UEFA Womens Champions League",
-      "channels": [
-        "Disney+ Brazil [$]",
-        "ESPN (Brazil)",
-        "World Feed"
-      ],
-      "commentators": [
-        "apltle12",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/328017-Real-Madrid-v-Paris-St-Germain"
-    },
-    {
-      "title": "Juventus v Benfica",
-      "teams": [
-        "Juventus",
-        "Benfica"
-      ],
-      "date": "22/09/2026",
-      "time": "19:00",
-      "tournament": "UEFA Womens Champions League",
-      "channels": [
-        "World Feed",
-        "Disney+ UK & Ireland (£/€/geo/R)",
-        "Disney+ Europe (€/geo/R)",
-        "Disney+ Italia ($/geo/R)"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "Guest-SC",
-        "ImpactPlayaz"
-      ],
-      "match_url": "https://icdb.tv/match/327915-Juventus-v-Benfica"
-    },
-    {
-      "title": "Real Madrid v Paris St Germain",
-      "teams": [
-        "Real Madrid",
-        "Paris St Germain"
-      ],
-      "date": "22/09/2026",
-      "time": "19:00",
-      "tournament": "UEFA Womens Champions League",
-      "channels": [
-        "World Feed",
-        "ESPN (Brazil)",
-        "Esport3 (Catalunya)",
-        "3Cat (geo/R)",
-        "Disney+ Brazil [$]",
-        "Disney+ UK & Ireland (£/€/geo/R)",
-        "Disney+ Europe (€/geo/R)",
-        "Disney+ Espana ($/geo/R)"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "ImpactPlayaz",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/327914-Real-Madrid-v-Paris-St-Germain"
-    },
-    {
-      "title": "Arsenal v HB Køge",
-      "teams": [
-        "Arsenal",
-        "HB Køge"
-      ],
-      "date": "22/09/2026",
-      "time": "19:00",
-      "tournament": "UEFA Womens Champions League",
-      "channels": [
-        "Arsenal App",
-        "Arsenal TV (highlights)",
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "Disney+ Europe (€/geo/R)",
-        "Disney+ UK & Ireland (£/€/geo/R)",
-        "World Feed",
-        "talkSPORT"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "Crowe24",
-        "ImpactPlayaz"
-      ],
-      "match_url": "https://icdb.tv/match/326141-Arsenal-v-HB-Kge"
-    },
-    {
-      "title": "Kilwinning Rangers v Auchinleck Talbot",
-      "teams": [
-        "Kilwinning Rangers",
-        "Auchinleck Talbot"
-      ],
-      "date": "22/09/2026",
-      "time": "18:45",
-      "tournament": "Scottish Lowland League",
-      "channels": [
-        "Youtube: Scottish Football Network"
-      ],
-      "commentators": [
-        "rory"
-      ],
-      "match_url": "https://icdb.tv/match/328142-Kilwinning-Rangers-v-Auchinleck-Talbot"
-    },
-    {
-      "title": "East Kilbride v Celtic B",
-      "teams": [
-        "East Kilbride",
-        "Celtic B"
-      ],
-      "date": "22/09/2026",
-      "time": "18:45",
-      "tournament": "Scottish Challenge Cup",
-      "channels": [
-        "Premier Sports 1 HD",
-        "Premier Sports Player UK (£/geo/R)"
-      ],
-      "commentators": [
-        "rory"
-      ],
-      "match_url": "https://icdb.tv/match/325314-East-Kilbride-v-Celtic-B"
-    },
-    {
-      "title": "Bradford City v Newcastle United U-21",
-      "teams": [
-        "Bradford City",
-        "Newcastle United U-21"
-      ],
-      "date": "22/09/2026",
-      "time": "18:30",
-      "tournament": "English League Trophy",
-      "channels": [
-        "BBC Radio Leeds"
-      ],
-      "commentators": [
-        "JACKLUFC"
-      ],
-      "match_url": "https://icdb.tv/match/325312-Bradford-City-v-Newcastle-United-U21"
-    },
-    {
-      "title": "Leicester City v Fulham U-21",
-      "teams": [
-        "Leicester City",
-        "Fulham U-21"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English Football League Trophy",
-      "channels": [
-        "BBC Radio Leicester",
-        "Foxes Hub"
-      ],
-      "commentators": [
-        "Penfold1982"
-      ],
-      "match_url": "https://icdb.tv/match/328013-Leicester-City-v-Fulham-U21"
-    },
-    {
-      "title": "talkSPORT Kick Off",
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "British Football",
-      "channels": [
-        "talkSPORT",
-        "talkSPORT App"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/327520-talkSPORT-Kick-Off"
-    },
-    {
-      "title": "Barnsley v Leeds United U-21",
-      "teams": [
-        "Barnsley",
-        "Leeds United U-21"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "Sky Sports+ [via APP]",
-        "YouTube: EFL (Extended Highlights)"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/326835-Barnsley-v-Leeds-United-U21"
-    },
-    {
-      "title": "Rochdale v Liverpool U-21",
-      "teams": [
-        "Rochdale",
-        "Liverpool U-21"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "Sky Sports (highlights)",
-        "Sky Sports+ [via APP]",
-        "YouTube: EFL (Extended Highlights)"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/326834-Rochdale-v-Liverpool-U21"
-    },
-    {
-      "title": "Wigan Athletic v Blackpool",
-      "teams": [
-        "Wigan Athletic",
-        "Blackpool"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "Sky Sports+ [via APP]"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/326833-Wigan-Athletic-v-Blackpool"
-    },
-    {
-      "title": "Burton Albion v Notts Forest U-21",
-      "teams": [
-        "Burton Albion",
-        "Notts Forest U-21"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "BBC Radio Derby"
-      ],
-      "commentators": [
-        "M7"
-      ],
-      "match_url": "https://icdb.tv/match/325309-Burton-Albion-v-Notts-Forest-U21"
-    },
-    {
-      "title": "Cheltenham v Exeter City",
-      "teams": [
-        "Cheltenham",
-        "Exeter City"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "Sky Sports+ [via APP]"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/325308-Cheltenham-v-Exeter-City"
-    },
-    {
-      "title": "Crewe Alexandra v Aston Villa U-21",
-      "teams": [
-        "Crewe Alexandra",
-        "Aston Villa U-21"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "Sky Sports+ [via APP]"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/325306-Crewe-Alexandra-v-Aston-Villa-U21"
-    },
-    {
-      "title": "Gillingham v Cambridge United",
-      "teams": [
-        "Gillingham",
-        "Cambridge United"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "CUFC TV",
-        "Sky Sports+ [via APP]"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/325305-Gillingham-v-Cambridge-United"
-    },
-    {
-      "title": "Luton Town v Ipswich Town U-21",
-      "teams": [
-        "Luton Town",
-        "Ipswich Town U-21"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "BBC Three Counties Radio"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/325303-Luton-Town-v-Ipswich-Town-U21"
-    },
-    {
-      "title": "Milton Keynes Dons v Crawley Town",
-      "teams": [
-        "Milton Keynes Dons",
-        "Crawley Town"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "Sky Sports+ [via APP]"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/325302-Milton-Keynes-Dons-v-Crawley-Town"
-    },
-    {
-      "title": "Notts County v Grimsby Town",
-      "teams": [
-        "Notts County",
-        "Grimsby Town"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "Pies Player ($/geo/R)",
-        "Sky Sports+ [via APP]"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/325301-Notts-County-v-Grimsby-Town"
-    },
-    {
-      "title": "Salford City v Sheffield Wednesday",
-      "teams": [
-        "Salford City",
-        "Sheffield Wednesday"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "talkSPORT 2",
-        "talkSPORT App"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/325297-Salford-City-v-Sheffield-Wednesday"
-    },
-    {
-      "title": "Tranmere Rovers v Shrewsbury Town",
-      "teams": [
-        "Tranmere Rovers",
-        "Shrewsbury Town"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "BBC Radio Shropshire"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/325295-Tranmere-Rovers-v-Shrewsbury-Town"
-    },
-    {
-      "title": "Walsall v Stevenage",
-      "teams": [
-        "Walsall",
-        "Stevenage"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "Sky Sports+ [via APP]"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/325294-Walsall-v-Stevenage"
-    },
-    {
-      "title": "York City v Rotherham United",
-      "teams": [
-        "York City",
-        "Rotherham United"
-      ],
-      "date": "22/09/2026",
-      "time": "18:00",
-      "tournament": "English League Trophy",
-      "channels": [
-        "BBC Radio Sheffield"
-      ],
-      "commentators": [
-        "M7"
-      ],
-      "match_url": "https://icdb.tv/match/325293-York-City-v-Rotherham-United"
-    },
-    {
-      "title": "RTÉ Inside Sport",
-      "date": "22/09/2026",
-      "time": "17:00",
-      "tournament": "European Football",
-      "channels": [
-        "RTE Radio 1"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/328134-RT-Inside-Sport"
-    },
-    {
-      "title": "BBC WM Sport",
-      "date": "22/09/2026",
-      "time": "17:00",
-      "tournament": "British Football",
-      "channels": [
-        "BBC Radio WM",
-        "BBC Sounds APP"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/328016-BBC-WM-Sport"
-    },
-    {
-      "title": "Inter Milan v BK Häcken",
-      "teams": [
-        "Inter Milan",
-        "BK Häcken"
-      ],
-      "date": "22/09/2026",
-      "time": "16:45",
-      "tournament": "UEFA Womens Champions League",
-      "channels": [
-        "World Feed",
-        "Disney+ UK & Ireland (£/€/geo/R)",
-        "Disney+ Europe (€/geo/R)",
-        "Disney+ Italia ($/geo/R)"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "ImpactPlayaz"
-      ],
-      "match_url": "https://icdb.tv/match/327913-Inter-Milan-v-BK-Hcken"
-    },
-    {
-      "title": "Bayern Munich v Manchester City",
-      "teams": [
-        "Bayern Munich",
-        "Manchester City"
-      ],
-      "date": "22/09/2026",
-      "time": "16:45",
-      "tournament": "UEFA Womens Champions League",
-      "channels": [
-        "BBC RADIO 5 LIVE",
-        "CBS Sports Golazo Network (US)",
-        "City+",
-        "CityTV (highlights)",
-        "Disney+ Brazil [$]",
-        "Disney+ Europe (€/geo/R)",
-        "Disney+ UK & Ireland (£/€/geo/R)",
-        "ESPN 4 (Brazil)",
-        "Paramount+ USA ($/geo/R)",
-        "Recast: Manchester City [$]",
-        "World Feed"
-      ],
-      "commentators": [
-        "AndyRoo_0860",
-        "Crowe24",
-        "ImpactPlayaz",
-        "apltle12",
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/327892-Bayern-Munich-v-Manchester-City"
-    },
-    {
-      "title": "Disney+ UWCL: The Hangout",
-      "date": "22/09/2026",
-      "time": "16:00",
-      "tournament": "UEFA Womens Champions League",
-      "channels": [
-        "Disney+ Europe (€/geo/R)",
-        "Disney+ UK & Ireland (£/€/geo/R)",
-        "YouTube: ESPN UK"
-      ],
-      "commentators": [
-        "ImpactPlayaz"
-      ],
-      "match_url": "https://icdb.tv/match/328010-Disney-UWCL-The-Hangout"
-    },
-    {
-      "title": "Cuiabá v Náutico",
-      "teams": [
-        "Cuiabá",
-        "Náutico"
-      ],
-      "date": "22/09/2026",
-      "time": "00:30",
-      "tournament": "Brazilian Série B",
-      "channels": [
-        "Disney+ Brazil [$]",
-        "ESPN (Brazil)",
-        "SportyNet",
-        "Xsports (Brazil)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/327918-Cuiab-v-Nutico"
-    },
-    {
-      "title": "Real Cartagena v Envigado",
-      "teams": [
-        "Real Cartagena",
-        "Envigado"
-      ],
-      "date": "22/09/2026",
-      "time": "00:30",
-      "tournament": "Colombian Categoría Primera B",
-      "channels": [
-        "Win Sports",
-        "Win+ Fútbol (Colombia)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/327881-Real-Cartagena-v-Envigado"
-    },
-    {
-      "title": "Corinthians v Bahia",
-      "teams": [
-        "Corinthians",
-        "Bahia"
-      ],
-      "date": "22/09/2026",
-      "time": "00:30",
-      "tournament": "Brazilian Feminino Série A1",
-      "channels": [
-        "Canal UOL",
-        "N Sports",
-        "Rádio Sociedade da Bahia",
-        "SporTV Brazil HD",
-        "TV Brasil"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/327543-Corinthians-v-Bahia"
-    },
-    {
-      "title": "Lanús v Estudiantes LP",
-      "teams": [
-        "Lanús",
-        "Estudiantes LP"
-      ],
-      "date": "22/09/2026",
-      "time": "00:15",
-      "tournament": "Argentinean Primera División",
-      "channels": [
-        "ESPN (Argentina)",
-        "ESPN Premium (Argentina)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/327884-Lans-v-Estudiantes-LP"
     }
   ]
 }
