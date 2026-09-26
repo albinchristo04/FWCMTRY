@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-26T18:18:50.660068+00:00",
+  "scraped_at": "2026-09-26T22:22:13.694260+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 116,
+  "total_matches": 118,
   "matches": [
     {
       "title": "Utah Royals v North Carolina Courage",
@@ -297,7 +297,8 @@
       "tournament": "CONCACAF Nations League",
       "channels": [
         "Fox Soccer Plus USA",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
@@ -342,7 +343,8 @@
       "channels": [
         "FOX ONE (USA) [$] (geo/R)",
         "FOX Sports on Tubi",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
@@ -421,12 +423,31 @@
       "tournament": "CONCACAF Nations League",
       "channels": [
         "FOX ONE (USA) [$] (geo/R)",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/328366-Montserrat-v-British-Virgin-Islands"
+    },
+    {
+      "title": "Queen of the South v Rangers B",
+      "teams": [
+        "Queen of the South",
+        "Rangers B"
+      ],
+      "date": "26/09/2026",
+      "time": "19:00",
+      "tournament": "Scottish Challenge Cup",
+      "channels": [
+        "Premier Sports 1 HD",
+        "Premier Sports Player UK (£/geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/326408-Queen-of-the-South-v-Rangers-B"
     },
     {
       "title": "Albania v Belarus",
@@ -438,12 +459,17 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "Diretta Gol - Sky Sport Calcio",
+        "Monomax Streaming ($/geo/R)",
+        "Sport TV Belarus",
+        "SuperSport Kickoff HD",
+        "UEFA (highlights)",
         "beIN Sports MENA 5 HD",
-        "fuboTV",
-        "Diretta Gol - Sky Sport Calcio"
+        "fuboTV"
       ],
       "commentators": [
         "Guest-SC",
+        "Mikhail17",
         "bigddan11",
         "ysscores"
       ],
@@ -486,8 +512,8 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "fuboTV",
-        "beIN Sports MENA 4 HD"
+        "beIN Sports MENA 4 HD",
+        "fuboTV"
       ],
       "commentators": [
         "bigddan11",
@@ -505,32 +531,33 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "JB Sports",
-        "DAZN Schweiz [$] (geo/R)",
-        "Diretta Gol - Sky Sport Calcio",
-        "FOX ONE (USA) [$] (geo/R)",
-        "RTVE Play ($/geo/R)",
-        "beIN Sports MENA 1 HD",
-        "BBC RADIO 5 LIVE",
-        "Virgin Media Play (geo/R)",
-        "Virgin Media Two HD",
-        "talkSPORT App",
-        "The Commentary Hub",
-        "Sky Sport Uno Italia HD",
-        "Fox Sports 2 (US)",
         "ITV1 / HD",
-        "ITV X (geo/R)",
-        "STV Player (geo/R)",
+        "DAZN (highlights)",
+        "FlashScore (audio)",
+        "Sky Sport Business Italia / HD",
+        "RTVE Play ($/geo/R)",
+        "DAZN 1 UK HD",
+        "FlashScore App",
+        "DAZN Schweiz [$] (geo/R)",
+        "STV (Scotland) / HD",
+        "Virgin Media Play (geo/R)",
         "talkSPORT",
-        "BBC Sounds APP",
-        "talkRadio",
-        "Sky Sport Business Italia / HD and6more channels"
+        "Sky Sports News / HD",
+        "beIN Sports MENA English 1 HD",
+        "Flashscore UK",
+        "Sony Sports TEN 2 India HD",
+        "Sky Sport Uno Italia HD",
+        "SuperSport MáXimo 2A HD",
+        "beIN Sports MENA 1 HD",
+        "SuperSport Grandstand HD",
+        "Fox Sports 2 (US) and22more channels"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
         "ImpactPlayaz",
         "JB",
+        "Mikhail17",
         "apltle12",
         "bigddan11",
         "kurtogen",
@@ -592,7 +619,8 @@
       "time": "18:00",
       "tournament": "Arabian Gulf Cup",
       "channels": [
-        "AD Sports 2"
+        "AD Sports 2",
+        "KSA Sport 1"
       ],
       "commentators": [
         "ysscores"
@@ -631,11 +659,14 @@
       "time": "16:30",
       "tournament": "English League Two",
       "channels": [
-        "Sky Sports (highlights)",
         "Sky Sports Football HD",
-        "Sky Sports News / HD"
+        "World Feed",
+        "Sky Sports News / HD",
+        "Sky Sports (highlights)",
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "M7",
         "SonnyCorry",
         "apltle12"
@@ -686,12 +717,9 @@
       "time": "16:00",
       "tournament": "English Womens Super League",
       "channels": [
-        "Canal GOAT (Brazil)",
-        "Sky Sports (highlights)",
-        "Sky Sports Premier League HD"
+        "Canal GOAT (Brazil)"
       ],
       "commentators": [
-        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/328580-London-City-Lionesses-v-Brighton-HA"
@@ -706,10 +734,14 @@
       "time": "16:00",
       "tournament": "FIFA U-20 Women's World Cup",
       "channels": [
+        "FOX ONE (USA) [$] (geo/R)",
+        "FOX Sports on Tubi",
         "SporTV 2 Brazil HD",
-        "Telemundo Deportes Ahora"
+        "Telemundo Deportes Ahora",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "bigddan11",
         "luca80sp"
       ],
@@ -762,10 +794,12 @@
         "SuperSport MáXimo 2A HD",
         "SuperSport Premier League HD",
         "UEFA (highlights)",
+        "World Feed",
         "beIN Sports MENA 2 HD",
         "beIN Sports MENA English 1 HD"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Guest-SC",
         "Mikhail17",
         "bigddan11",
@@ -831,21 +865,27 @@
       "match_url": "https://icdb.tv/match/327376-San-Marino-v-Finland"
     },
     {
-      "title": "London City Lionesses v Brighton H.A.",
+      "title": "London City v Brighton H.A.",
       "teams": [
-        "London City Lionesses",
+        "London City",
         "Brighton H.A."
       ],
       "date": "26/09/2026",
       "time": "16:00",
       "tournament": "English Womens Super League",
       "channels": [
-        "World Feed"
+        "Sky Sports Premier League HD",
+        "World Feed",
+        "Stan Sport Australia ($/geo/R)",
+        "Sky Sport 4 NZ HD",
+        "Sky Go UK [online]",
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24"
       ],
-      "match_url": "https://icdb.tv/match/326397-London-City-Lionesses-v-Brighton-HA"
+      "match_url": "https://icdb.tv/match/326397-London-City-v-Brighton-HA"
     },
     {
       "title": "Kuwait v Iraq",
@@ -857,7 +897,8 @@
       "time": "15:00",
       "tournament": "Arabian Gulf Cup",
       "channels": [
-        "AD Sports 1"
+        "AD Sports 1",
+        "Alkass 1"
       ],
       "commentators": [
         "ysscores"
@@ -1086,10 +1127,13 @@
       "time": "14:00",
       "tournament": "English League Two",
       "channels": [
-        "BBC Radio Lancashire (FM)"
+        "BBC Radio Lancashire (FM)",
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/326378-Fleetwood-Town-v-Rochdale"
     },
@@ -1103,10 +1147,10 @@
       "time": "14:00",
       "tournament": "English League Two",
       "channels": [
-        "ITV English Football League Highlights",
+        "Soccer Saturday",
         "Sky Sports (highlights)",
-        "Sky Sports+ [via APP]",
-        "Soccer Saturday"
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
         "LukeA206",
@@ -1166,10 +1210,13 @@
       "time": "14:00",
       "tournament": "English League Two",
       "channels": [
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]",
         "Soccer Saturday"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/326368-Shrewsbury-Town-v-Colchester-United"
     },
@@ -1184,10 +1231,13 @@
       "tournament": "English League Two",
       "channels": [
         "BBC Radio Lancashire",
-        "BBC Radio Wiltshire"
+        "BBC Radio Wiltshire",
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/326366-Swindon-Town-v-Accrington-Stanley"
     },
@@ -1202,11 +1252,14 @@
       "tournament": "English League Two",
       "channels": [
         "BBC RADIO 5 LIVE",
-        "Soccer Saturday",
-        "BBC Radio WM"
+        "BBC Radio WM",
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]",
+        "Soccer Saturday"
       ],
       "commentators": [
         "Crowe24",
+        "LukeA206",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/326365-Tranmere-Rovers-v-Walsall"
@@ -1246,6 +1299,8 @@
       "tournament": "English League Two",
       "channels": [
         "BBC RADIO 5 LIVE",
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]",
         "Soccer Saturday"
       ],
       "commentators": [
@@ -1370,26 +1425,26 @@
       "time": "13:00",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC Sport Scotland Online",
+        "BBC Two Wales HD",
+        "SporTV Brazil HD",
+        "FOX ONE (USA) [$] (geo/R)",
+        "BBC RADIO 5 LIVE",
         "Virgin Media Two HD",
-        "Sony Sports TEN 1 India HD",
-        "FlashScore (audio)",
-        "BBC Sport Online (Audio)",
-        "Radio Clyde 1",
-        "UEFA (highlights)",
         "BBC Sounds APP",
-        "FlashScore App",
-        "talkSPORT",
-        "SuperSport MáXimo 2A HD",
-        "BBC One / HD",
-        "BBC Radio 5 Sports Extra 3",
-        "BBC Radio Scotland",
-        "World Feed",
-        "Monomax Streaming ($/geo/R)",
-        "SuperSport Premier League HD",
-        "Flashscore UK",
         "beIN Sports MENA 3 HD",
-        "BBC iPlayer (geo/R) and10more channels"
+        "talkSPORT",
+        "UEFA (highlights)",
+        "BBC Radio Scotland",
+        "SuperSport Premier League HD",
+        "Virgin Media Play (geo/R)",
+        "Flashscore UK",
+        "BBC Radio 5 Sports Extra 3",
+        "FlashScore App",
+        "BBC One / HD",
+        "FlashScore (audio)",
+        "BBC iPlayer (geo/R)",
+        "Monomax Streaming ($/geo/R)",
+        "BBC Sport Online (Audio) and10more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1433,22 +1488,22 @@
       "time": "12:30",
       "tournament": "English Womens Super League",
       "channels": [
-        "BBC (highlights)",
-        "BBC *RED Button HD",
-        "BBC RADIO 5 LIVE",
-        "BBC Radio 5 Sports Extra",
-        "BBC Sounds APP",
-        "BBC Sport Online",
-        "BBC Sport Online (Audio)",
-        "BBC iPlayer (geo/R)",
-        "City+",
-        "Paramount+ USA ($/geo/R)",
-        "Recast: Manchester City [$]",
-        "Sky Sports+ [via APP]",
         "Sportdigital 1+ Deutsch HD",
-        "Stan Sport Australia ($/geo/R)",
+        "BBC *RED Button HD",
+        "BBC iPlayer (geo/R)",
+        "BBC Sport Online",
         "World Feed",
-        "YouTube: Barclays Women's Super League"
+        "BBC RADIO 5 LIVE",
+        "BBC (highlights)",
+        "BBC Sounds APP",
+        "City+",
+        "Stan Sport Australia ($/geo/R)",
+        "BBC Radio 5 Sports Extra",
+        "Recast: Manchester City [$]",
+        "BBC Sport Online (Audio)",
+        "Sky Sports+ [via APP]",
+        "YouTube: Barclays Women's Super League",
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1506,6 +1561,24 @@
       "match_url": "https://icdb.tv/match/326339-Ceuta-v-Real-Sociedad-II"
     },
     {
+      "title": "Burnley v Bristol City",
+      "teams": [
+        "Burnley",
+        "Bristol City"
+      ],
+      "date": "26/09/2026",
+      "time": "11:00",
+      "tournament": "English WSL 2",
+      "channels": [
+        "YouTube: Barclays Women's Super League",
+        "YouTube: Barclays Women's Super League 2"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/326336-Burnley-v-Bristol-City"
+    },
+    {
       "title": "Juventus v Napoli",
       "teams": [
         "Juventus",
@@ -1514,9 +1587,6 @@
       "date": "26/09/2026",
       "time": "10:30",
       "tournament": "Italian Womens Serie A",
-      "channels": [
-        "World Feed"
-      ],
       "commentators": [
         "apltle12"
       ],
@@ -2202,26 +2272,26 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
-        "Diretta Gol - Sky Sport Calcio",
-        "beIN Sports MENA English 1 HD",
-        "TV2 Play Danmark ($/geo/R)",
-        "BBC Two / HD",
-        "SuperSport MáXimo 1 HD",
-        "TV2 Sport X Dansk HD",
-        "World Feed",
-        "SuperSport MáXimo 2A HD",
         "BBC (highlights)",
-        "BBC Sounds APP",
-        "SuperSport Premier League HD",
-        "beIN Sports MENA 2 HD",
-        "Fox Soccer Plus USA",
-        "Flashscore UK",
-        "FlashScore (audio)",
-        "BBC RADIO 5 LIVE",
-        "BBC Sport Online",
-        "BBC Sport Online (Audio)",
+        "Diretta Gol - Sky Sport Calcio",
         "Sony Sports TEN 1 India HD",
-        "BBC Radio Foyle and8more channels"
+        "BBC RADIO 5 LIVE",
+        "beIN Connect Australia",
+        "SuperSport Premier League HD",
+        "BBC Radio 5 Sports Extra 2",
+        "SuperSport MáXimo 1 HD",
+        "BBC Sport NI Online",
+        "BBC Radio Foyle",
+        "beIN Sports MENA 2 HD",
+        "BBC iPlayer (geo/R)",
+        "Flashscore UK",
+        "beIN Sports MENA English 1 HD",
+        "FlashScore (audio)",
+        "TV2 Sport X Dansk HD",
+        "BBC Sport Online (Audio)",
+        "The Commentary Hub",
+        "FlashScore App",
+        "BBC Sounds APP and8more channels"
       ],
       "commentators": [
         "Crowe24",
