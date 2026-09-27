@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-27T03:35:51.048698+00:00",
+  "scraped_at": "2026-09-27T10:22:09.181369+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 124,
+  "total_matches": 131,
   "matches": [
     {
       "title": "Belgium v France",
@@ -136,11 +136,13 @@
       "tournament": "UEFA Nations League",
       "channels": [
         "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/327384-Norway-v-Portugal"
     },
@@ -155,12 +157,14 @@
       "tournament": "UEFA Nations League",
       "channels": [
         "ARD Das Erste / HD",
-        "DAZN Schweiz [$] (geo/R)",
         "DAZN Deutsch [$] (delayed",
-        "geo/R)"
+        "geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/326704-Germany-v-Greece"
     },
@@ -184,6 +188,23 @@
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/326703-Israel-v-Ireland"
+    },
+    {
+      "title": "Pescara v Spezia",
+      "teams": [
+        "Pescara",
+        "Spezia"
+      ],
+      "date": "27/09/2026",
+      "time": "18:30",
+      "tournament": "Italian Serie C Girone B",
+      "channels": [
+        "RAI Sport+ HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/326701-Pescara-v-Spezia"
     },
     {
       "title": "Bahrain v U.A.E.",
@@ -229,14 +250,50 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
         "ORF 1 Austria HD",
-        "DAZN Deutsch ($/geo/R)"
+        "beIN Sports MENA 3 HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/327383-Austria-v-Kosovo"
+    },
+    {
+      "title": "Gibraltar v Andorra",
+      "teams": [
+        "Gibraltar",
+        "Andorra"
+      ],
+      "date": "27/09/2026",
+      "time": "16:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Xtra 2"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/327382-Gibraltar-v-Andorra"
+    },
+    {
+      "title": "Denmark v Wales",
+      "teams": [
+        "Denmark",
+        "Wales"
+      ],
+      "date": "27/09/2026",
+      "time": "16:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/326696-Denmark-v-Wales"
     },
     {
       "title": "Serbia v Netherlands",
@@ -250,11 +307,13 @@
       "channels": [
         "DAZN Deutsch [$] (geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "World Feed"
+        "World Feed",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "HWP",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/320953-Serbia-v-Netherlands"
     },
@@ -282,6 +341,23 @@
       "match_url": "https://icdb.tv/match/326694-Chelsea-v-Arsenal"
     },
     {
+      "title": "Yemen v Qatar",
+      "teams": [
+        "Yemen",
+        "Qatar"
+      ],
+      "date": "27/09/2026",
+      "time": "15:00",
+      "tournament": "Arabian Gulf Cup",
+      "channels": [
+        "AD Sports 2"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328079-Yemen-v-Qatar"
+    },
+    {
       "title": "Sturm Graz v Austria Vienna",
       "teams": [
         "Sturm Graz",
@@ -297,6 +373,20 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/328078-Sturm-Graz-v-Austria-Vienna"
+    },
+    {
+      "title": "BBC Sportsound",
+      "date": "27/09/2026",
+      "time": "13:00",
+      "tournament": "Scottish Football",
+      "channels": [
+        "BBC Radio Scotland",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/328655-BBC-Sportsound"
     },
     {
       "title": "Rapid Vienna v Salzburg",
@@ -347,6 +437,23 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/327589-talkSPORT-The-Sunday-Session"
+    },
+    {
+      "title": "Lithuania v Azerbaijan",
+      "teams": [
+        "Lithuania",
+        "Azerbaijan"
+      ],
+      "date": "27/09/2026",
+      "time": "13:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/327381-Lithuania-v-Azerbaijan"
     },
     {
       "title": "Karlsruhe v Eintracht Frankfurt",
@@ -449,6 +556,23 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/328642-Schalke-04-v-SGS-Essen"
+    },
+    {
+      "title": "Inter Milan v Fiorentina",
+      "teams": [
+        "Inter Milan",
+        "Fiorentina"
+      ],
+      "date": "27/09/2026",
+      "time": "11:00",
+      "tournament": "Italian Womens Serie A",
+      "channels": [
+        "RAI Sport + HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/328076-Inter-Milan-v-Fiorentina"
     },
     {
       "title": "Rangers v Celtic",
@@ -1034,26 +1158,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "TVE La 1 HD España",
-        "BBC Sounds APP",
-        "ITV (highlights)",
+        "FlashScore App",
         "FlashScore (audio)",
-        "DAZN Deutsch ($/geo/R)",
-        "Monomax Streaming ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "SuperSport MáXimo 1 HD",
-        "Virgin Media Two HD",
-        "DAZN 1 UK HD",
-        "beIN Sports MENA 1 HD",
-        "JB Sports",
-        "BBC Sport Online (Audio)",
-        "Flashscore UK",
+        "beIN Sports Australia 2 HD",
+        "talkRadio",
+        "Diretta Gol - Sky Sport Calcio",
         "BBC RADIO 5 LIVE",
-        "Puls 4 Österreich HD",
-        "Sky Sport Business Italia / HD",
+        "BBC Sport Online (Audio)",
+        "SuperSport MáXimo 2A HD",
         "Sky Sport Uno Italia HD",
+        "Italia 1 HD",
+        "TVE La 1 HD España",
+        "DAZN Schweiz [$] (geo/R)",
+        "The Commentary Hub",
+        "ITV (highlights)",
+        "Monomax Streaming ($/geo/R)",
+        "ITV X (geo/R)",
+        "Puls 4 Österreich HD",
         "STV (Scotland) / HD",
-        "ITV X (geo/R) and23more channels"
+        "DAZN 1 UK HD",
+        "talkSPORT App and25more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1064,6 +1188,7 @@
         "apltle12",
         "bigddan11",
         "kurtogen",
+        "mvjr4",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/326407-England-v-Spain"
@@ -1251,11 +1376,13 @@
       "channels": [
         "FOX ONE (USA) [$] (geo/R)",
         "FOX Sports on Tubi",
+        "Rai Play [online]",
         "SporTV 2 Brazil HD",
         "Telemundo Deportes Ahora",
         "World Feed"
       ],
       "commentators": [
+        "Guest-SC",
         "apltle12",
         "bigddan11",
         "luca80sp"
@@ -2053,26 +2180,26 @@
       "time": "13:00",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC Radio 5 Sports Extra 3",
-        "BBC RADIO 5 LIVE",
-        "beIN Sports MENA 3 HD",
-        "Radio Clyde 1",
-        "beIN Sports MENA English 2 HD",
-        "BBC Two Wales HD",
-        "Virgin Media Two HD",
-        "BBC Sounds APP",
+        "SuperSport Premier League HD",
+        "Sony Sports TEN 1 India HD",
+        "Sky Sport 257 Italia HD",
+        "BBC iPlayer (geo/R)",
+        "FlashScore (audio)",
+        "FlashScore App",
+        "SuperSport MáXimo 1 HD",
+        "Monomax Streaming ($/geo/R)",
+        "SporTV Brazil HD",
+        "Fox Sports 2 (US)",
         "World Feed",
         "UEFA (highlights)",
-        "Monomax Streaming ($/geo/R)",
-        "BBC Radio Scotland",
-        "talkSPORT",
-        "SuperSport MáXimo 1 HD",
-        "FlashScore (audio)",
-        "Flashscore UK",
-        "Fox Sports 2 (US)",
-        "BBC iPlayer (geo/R)",
+        "SuperSport MáXimo 2A HD",
+        "FOX ONE (USA) [$] (geo/R)",
+        "BBC Sport Online (Audio)",
+        "Soccer Saturday",
         "BBC One / HD",
-        "Virgin Media Play (geo/R) and10more channels"
+        "Flashscore UK",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio 5 Sports Extra 3 and11more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -2085,6 +2212,7 @@
         "apltle12",
         "bigddan11",
         "luca80sp",
+        "mvjr4",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/326348-Slovenia-v-Scotland"
