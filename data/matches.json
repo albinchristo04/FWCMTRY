@@ -1,8 +1,98 @@
 {
-  "scraped_at": "2026-09-26T22:22:13.694260+00:00",
+  "scraped_at": "2026-09-27T03:35:51.048698+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 118,
+  "total_matches": 124,
   "matches": [
+    {
+      "title": "Belgium v France",
+      "teams": [
+        "Belgium",
+        "France"
+      ],
+      "date": "28/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN Schweiz [$] (geo/R)",
+        "RTS 2 Suisse HD",
+        "SRF Zwei Schweiz HD",
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/327390-Belgium-v-France"
+    },
+    {
+      "title": "Türkiye v Italy",
+      "teams": [
+        "Türkiye",
+        "Italy"
+      ],
+      "date": "28/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN Schweiz [$] (geo/R)",
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/326854-Trkiye-v-Italy"
+    },
+    {
+      "title": "Northern Ireland v Hungary",
+      "teams": [
+        "Northern Ireland",
+        "Hungary"
+      ],
+      "date": "28/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "BBC iPlayer (geo/R)",
+        "BBC Sport Online",
+        "BBC Sport NI Online",
+        "BBC (highlights)",
+        "BBC Three HD"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/326853-Northern-Ireland-v-Hungary"
+    },
+    {
+      "title": "talkSPORT Kick Off",
+      "date": "28/09/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "talkSPORT",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/328127-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "BBC Monday Night Club",
+      "date": "28/09/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
+        "BBC Sport Online",
+        "BBC iPlayer (geo/R)",
+        "Youtube: BBC Football"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/327152-BBC-Monday-Night-Club"
+    },
     {
       "title": "Utah Royals v North Carolina Courage",
       "teams": [
@@ -36,6 +126,25 @@
       "match_url": "https://icdb.tv/match/328126-TalkSport-Trans-Europe-Express"
     },
     {
+      "title": "Norway v Portugal",
+      "teams": [
+        "Norway",
+        "Portugal"
+      ],
+      "date": "27/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Schweiz [$] (geo/R)",
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/327384-Norway-v-Portugal"
+    },
+    {
       "title": "Germany v Greece",
       "teams": [
         "Germany",
@@ -45,7 +154,10 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "ARD Das Erste / HD"
+        "ARD Das Erste / HD",
+        "DAZN Schweiz [$] (geo/R)",
+        "DAZN Deutsch [$] (delayed",
+        "geo/R)"
       ],
       "commentators": [
         "kurtogen"
@@ -63,8 +175,8 @@
       "tournament": "UEFA Nations League",
       "channels": [
         "RTÉ 2 Ireland / HD",
-        "RTÉ News",
         "RTÉ Player (geo/R)",
+        "RTÉ News",
         "Virgin Media News"
       ],
       "commentators": [
@@ -72,6 +184,23 @@
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/326703-Israel-v-Ireland"
+    },
+    {
+      "title": "Bahrain v U.A.E.",
+      "teams": [
+        "Bahrain",
+        "U.A.E."
+      ],
+      "date": "27/09/2026",
+      "time": "18:00",
+      "tournament": "Arabian Gulf Cup",
+      "channels": [
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328080-Bahrain-v-UAE"
     },
     {
       "title": "Spain U-20 v North Korea U-20",
@@ -91,6 +220,25 @@
       "match_url": "https://icdb.tv/match/328604-Spain-U20-v-North-Korea-U20"
     },
     {
+      "title": "Austria v Kosovo",
+      "teams": [
+        "Austria",
+        "Kosovo"
+      ],
+      "date": "27/09/2026",
+      "time": "16:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN Schweiz [$] (geo/R)",
+        "ORF 1 Austria HD",
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/327383-Austria-v-Kosovo"
+    },
+    {
       "title": "Serbia v Netherlands",
       "teams": [
         "Serbia",
@@ -100,10 +248,13 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN Deutsch [$] (geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "World Feed"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/320953-Serbia-v-Netherlands"
     },
@@ -131,6 +282,57 @@
       "match_url": "https://icdb.tv/match/326694-Chelsea-v-Arsenal"
     },
     {
+      "title": "Sturm Graz v Austria Vienna",
+      "teams": [
+        "Sturm Graz",
+        "Austria Vienna"
+      ],
+      "date": "27/09/2026",
+      "time": "13:30",
+      "tournament": "Austrian Frauen Bundesliga",
+      "channels": [
+        "ORF Sport+ Austria HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328078-Sturm-Graz-v-Austria-Vienna"
+    },
+    {
+      "title": "Rapid Vienna v Salzburg",
+      "teams": [
+        "Rapid Vienna",
+        "Salzburg"
+      ],
+      "date": "27/09/2026",
+      "time": "13:00",
+      "tournament": "Austrian Frauen Bundesliga",
+      "channels": [
+        "LAOLA1"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328650-Rapid-Vienna-v-Salzburg"
+    },
+    {
+      "title": "Mönchengladbach v Bayern Munich",
+      "teams": [
+        "Mönchengladbach",
+        "Bayern Munich"
+      ],
+      "date": "27/09/2026",
+      "time": "13:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "Sky Sport MIX Deutsch HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/327951-Mnchengladbach-v-Bayern-Munich"
+    },
+    {
       "title": "talkSPORT The Sunday Session",
       "date": "27/09/2026",
       "time": "13:00",
@@ -145,6 +347,108 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/327589-talkSPORT-The-Sunday-Session"
+    },
+    {
+      "title": "Karlsruhe v Eintracht Frankfurt",
+      "teams": [
+        "Karlsruhe",
+        "Eintracht Frankfurt"
+      ],
+      "date": "27/09/2026",
+      "time": "12:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328646-Karlsruhe-v-Eintracht-Frankfurt"
+    },
+    {
+      "title": "SC Sand v Wolfsburg",
+      "teams": [
+        "SC Sand",
+        "Wolfsburg"
+      ],
+      "date": "27/09/2026",
+      "time": "12:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328645-SC-Sand-v-Wolfsburg"
+    },
+    {
+      "title": "Magdeburg v Union Berlin",
+      "teams": [
+        "Magdeburg",
+        "Union Berlin"
+      ],
+      "date": "27/09/2026",
+      "time": "12:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328644-Magdeburg-v-Union-Berlin"
+    },
+    {
+      "title": "Viktoria Berlin v Bayer Leverkusen",
+      "teams": [
+        "Viktoria Berlin",
+        "Bayer Leverkusen"
+      ],
+      "date": "27/09/2026",
+      "time": "12:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "ZDF Sportstudio Online"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/327950-Viktoria-Berlin-v-Bayer-Leverkusen"
+    },
+    {
+      "title": "Greuther Fürth v Hoffenheim",
+      "teams": [
+        "Greuther Fürth",
+        "Hoffenheim"
+      ],
+      "date": "27/09/2026",
+      "time": "11:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328643-Greuther-Frth-v-Hoffenheim"
+    },
+    {
+      "title": "Schalke 04 v SGS Essen",
+      "teams": [
+        "Schalke 04",
+        "SGS Essen"
+      ],
+      "date": "27/09/2026",
+      "time": "11:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328642-Schalke-04-v-SGS-Essen"
     },
     {
       "title": "Rangers v Celtic",
@@ -165,6 +469,57 @@
       "match_url": "https://icdb.tv/match/326670-Rangers-v-Celtic"
     },
     {
+      "title": "L.A. Galaxy v Colorado Rapids",
+      "teams": [
+        "L.A. Galaxy",
+        "Colorado Rapids"
+      ],
+      "date": "27/09/2026",
+      "time": "02:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/327026-LA-Galaxy-v-Colorado-Rapids"
+    },
+    {
+      "title": "San Jose Earthquakes v Portland Timbers",
+      "teams": [
+        "San Jose Earthquakes",
+        "Portland Timbers"
+      ],
+      "date": "27/09/2026",
+      "time": "02:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/327025-San-Jose-Earthquakes-v-Portland-Timbers"
+    },
+    {
+      "title": "Vancouver Whitecaps v DC United",
+      "teams": [
+        "Vancouver Whitecaps",
+        "DC United"
+      ],
+      "date": "27/09/2026",
+      "time": "02:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/327024-Vancouver-Whitecaps-v-DC-United"
+    },
+    {
       "title": "Sint Maarten v Belize",
       "teams": [
         "Sint Maarten",
@@ -175,12 +530,31 @@
       "tournament": "CONCACAF Nations League",
       "channels": [
         "Fox Soccer Plus USA",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/328371-Sint-Maarten-v-Belize"
+    },
+    {
+      "title": "Real Salt Lake v New England Revolution",
+      "teams": [
+        "Real Salt Lake",
+        "New England Revolution"
+      ],
+      "date": "27/09/2026",
+      "time": "01:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/327023-Real-Salt-Lake-v-New-England-Revolution"
     },
     {
       "title": "Mexico v Colombia",
@@ -232,6 +606,110 @@
       "match_url": "https://icdb.tv/match/328414-Portland-Thorns-v-Houston-Dash"
     },
     {
+      "title": "Austin v San Diego FC",
+      "teams": [
+        "Austin",
+        "San Diego FC"
+      ],
+      "date": "27/09/2026",
+      "time": "00:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/327021-Austin-v-San-Diego-FC"
+    },
+    {
+      "title": "Dallas v Los Angeles FC",
+      "teams": [
+        "Dallas",
+        "Los Angeles FC"
+      ],
+      "date": "27/09/2026",
+      "time": "00:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/327020-Dallas-v-Los-Angeles-FC"
+    },
+    {
+      "title": "Houston Dynamo v Sporting Kansas City",
+      "teams": [
+        "Houston Dynamo",
+        "Sporting Kansas City"
+      ],
+      "date": "27/09/2026",
+      "time": "00:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/327019-Houston-Dynamo-v-Sporting-Kansas-City"
+    },
+    {
+      "title": "Nashville SC v Toronto FC",
+      "teams": [
+        "Nashville SC",
+        "Toronto FC"
+      ],
+      "date": "27/09/2026",
+      "time": "00:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/327018-Nashville-SC-v-Toronto-FC"
+    },
+    {
+      "title": "Seattle Sounders v Minnesota United",
+      "teams": [
+        "Seattle Sounders",
+        "Minnesota United"
+      ],
+      "date": "27/09/2026",
+      "time": "00:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/327017-Seattle-Sounders-v-Minnesota-United"
+    },
+    {
+      "title": "Atlanta United v New York City",
+      "teams": [
+        "Atlanta United",
+        "New York City"
+      ],
+      "date": "26/09/2026",
+      "time": "23:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV",
+        "Apple TV ($/geo/R)"
+      ],
+      "commentators": [
+        "Beaty",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/326414-Atlanta-United-v-New-York-City"
+    },
+    {
       "title": "Canada v Chile",
       "teams": [
         "Canada",
@@ -241,9 +719,11 @@
       "time": "23:00",
       "tournament": "Friendly International",
       "channels": [
-        "Mega (Chile)"
+        "Mega (Chile)",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/328570-Canada-v-Chile"
@@ -259,7 +739,8 @@
       "tournament": "CONCACAF Nations League",
       "channels": [
         "Fox Soccer Plus USA",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
@@ -279,6 +760,7 @@
         "Ion Television (USA)",
         "NWSL+ International (geo/R)",
         "Scripps Sports Network",
+        "World Feed",
         "iHeart Radio"
       ],
       "commentators": [
@@ -322,6 +804,7 @@
         "TV360 (Peru)",
         "Telemundo (usa)",
         "Westwood One Sports (USA)",
+        "World Feed",
         "Youtube: Bicolor+ (Peru)",
         "truTV (USA)"
       ],
@@ -464,12 +947,14 @@
         "Sport TV Belarus",
         "SuperSport Kickoff HD",
         "UEFA (highlights)",
+        "World Feed",
         "beIN Sports MENA 5 HD",
         "fuboTV"
       ],
       "commentators": [
         "Guest-SC",
         "Mikhail17",
+        "apltle12",
         "bigddan11",
         "ysscores"
       ],
@@ -485,16 +970,28 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "Amazon Prime UK [$]",
+        "Amazon Prime Video Sport UK (Highlights)",
         "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
         "Diretta Gol - Sky Sport Calcio",
         "Fubo Sports USA ($/geo/R)",
+        "Monomax Streaming ($/geo/R)",
         "Sky Sport 254 Italia HD",
+        "Sony Sports TEN 1 India HD",
         "SporTV 2 Brazil HD",
-        "beIN Sports MENA 2 HD"
+        "SuperSport Football Plus HD",
+        "SuperSport MáXimo 360",
+        "UEFA (highlights)",
+        "World Feed",
+        "beIN Sports Australia 3 HD",
+        "beIN Sports MENA 2 HD",
+        "beIN Sports MENA English 2 HD"
       ],
       "commentators": [
         "Guest-SC",
+        "Mikhail17",
+        "apltle12",
         "bigddan11",
         "kurtogen",
         "luca80sp",
@@ -512,10 +1009,16 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "Monomax Streaming ($/geo/R)",
+        "SuperSport LaLiga HD",
+        "UEFA (highlights)",
+        "World Feed",
         "beIN Sports MENA 4 HD",
         "fuboTV"
       ],
       "commentators": [
+        "Mikhail17",
+        "apltle12",
         "bigddan11",
         "ysscores"
       ],
@@ -531,26 +1034,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "ITV1 / HD",
-        "DAZN (highlights)",
+        "TVE La 1 HD España",
+        "BBC Sounds APP",
+        "ITV (highlights)",
         "FlashScore (audio)",
-        "Sky Sport Business Italia / HD",
-        "RTVE Play ($/geo/R)",
-        "DAZN 1 UK HD",
-        "FlashScore App",
+        "DAZN Deutsch ($/geo/R)",
+        "Monomax Streaming ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "STV (Scotland) / HD",
-        "Virgin Media Play (geo/R)",
-        "talkSPORT",
-        "Sky Sports News / HD",
-        "beIN Sports MENA English 1 HD",
-        "Flashscore UK",
-        "Sony Sports TEN 2 India HD",
-        "Sky Sport Uno Italia HD",
-        "SuperSport MáXimo 2A HD",
+        "SuperSport MáXimo 1 HD",
+        "Virgin Media Two HD",
+        "DAZN 1 UK HD",
         "beIN Sports MENA 1 HD",
-        "SuperSport Grandstand HD",
-        "Fox Sports 2 (US) and22more channels"
+        "JB Sports",
+        "BBC Sport Online (Audio)",
+        "Flashscore UK",
+        "BBC RADIO 5 LIVE",
+        "Puls 4 Österreich HD",
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Uno Italia HD",
+        "STV (Scotland) / HD",
+        "ITV X (geo/R) and23more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -579,12 +1082,21 @@
         "DAZN Schweiz [$] (delayed",
         "geo/R)",
         "Fox Soccer Plus USA",
+        "Monomax Streaming ($/geo/R)",
         "RTS 2 Suisse HD",
         "SRF Zwei Schweiz HD",
+        "Sony Sports TEN 5 India HD",
         "SporTV 3 Brazil HD",
+        "SuperSport Football HD",
+        "SuperSport MáXimo 3A HD",
+        "UEFA (highlights)",
+        "World Feed",
+        "beIN Sports Australia 1 HD",
         "beIN Sports MENA 3 HD"
       ],
       "commentators": [
+        "Mikhail17",
+        "apltle12",
         "bigddan11",
         "kurtogen",
         "luca80sp",
@@ -619,10 +1131,12 @@
       "time": "18:00",
       "tournament": "Arabian Gulf Cup",
       "channels": [
+        "Sportdigital FUSSBALL HD",
         "AD Sports 2",
         "KSA Sport 1"
       ],
       "commentators": [
+        "kurtogen",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328073-Oman-v-Saudi-Arabia"
@@ -663,6 +1177,7 @@
         "World Feed",
         "Sky Sports News / HD",
         "Sky Sports (highlights)",
+        "ITV English Football League Highlights",
         "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
@@ -757,12 +1272,12 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
-        "Diretta Gol - Sky Sport Uno Italia",
-        "SuperSport LaLiga HD",
-        "UEFA (highlights)",
         "World Feed",
+        "fuboTV",
+        "Diretta Gol - Sky Sport Uno Italia",
+        "UEFA (highlights)",
         "beIN Sports MENA 4 HD",
-        "fuboTV"
+        "SuperSport LaLiga HD"
       ],
       "commentators": [
         "Guest-SC",
@@ -783,20 +1298,20 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "World Feed",
         "Diretta Gol - Sky Sport Uno Italia",
-        "Disney+ Brazil [$]",
-        "ESPN (Brazil)",
         "Fox Soccer Plus USA",
-        "Monomax Streaming ($/geo/R)",
-        "Sky Sport 257 Italia HD",
+        "UEFA (highlights)",
+        "ESPN (Brazil)",
+        "SuperSport MáXimo 2A HD",
+        "beIN Sports MENA English 1 HD",
+        "beIN Sports MENA 2 HD",
         "Sony Sports TEN 2 India HD",
         "SuperSport MáXimo 1 HD",
-        "SuperSport MáXimo 2A HD",
         "SuperSport Premier League HD",
-        "UEFA (highlights)",
-        "World Feed",
-        "beIN Sports MENA 2 HD",
-        "beIN Sports MENA English 1 HD"
+        "Disney+ Brazil [$]",
+        "Sky Sport 257 Italia HD",
+        "Monomax Streaming ($/geo/R)"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -818,15 +1333,15 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "SporTV Brazil HD",
+        "World Feed",
         "Diretta Gol - Sky Sport Uno Italia",
         "Fubo Sports USA ($/geo/R)",
-        "Sony Sports TEN 5 India HD",
-        "SporTV Brazil HD",
-        "SuperSport Football Plus HD",
-        "SuperSport MáXimo 360",
         "UEFA (highlights)",
-        "World Feed",
-        "beIN Sports MENA 1 HD"
+        "SuperSport Football Plus HD",
+        "beIN Sports MENA 1 HD",
+        "Sony Sports TEN 5 India HD",
+        "SuperSport MáXimo 360"
       ],
       "commentators": [
         "Guest-SC",
@@ -848,12 +1363,12 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
-        "Diretta Gol - Sky Sport Uno Italia",
-        "SuperSport Football HD",
-        "UEFA (highlights)",
         "World Feed",
+        "fuboTV",
+        "Diretta Gol - Sky Sport Uno Italia",
+        "UEFA (highlights)",
         "beIN Sports MENA 3 HD",
-        "fuboTV"
+        "SuperSport Football HD"
       ],
       "commentators": [
         "Guest-SC",
@@ -888,6 +1403,41 @@
       "match_url": "https://icdb.tv/match/326397-London-City-v-Brighton-HA"
     },
     {
+      "title": "Germany U-20 v France U-20",
+      "teams": [
+        "Germany U-20",
+        "France U-20"
+      ],
+      "date": "26/09/2026",
+      "time": "15:30",
+      "tournament": "UEFA U-20 Elite League",
+      "channels": [
+        "DFB-TV",
+        "Sky Sport News Deutsch HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328648-Germany-U20-v-France-U20"
+    },
+    {
+      "title": "Georgia U-21 v Greece U-21",
+      "teams": [
+        "Georgia U-21",
+        "Greece U-21"
+      ],
+      "date": "26/09/2026",
+      "time": "15:00",
+      "tournament": "UEFA U-21 Championship 2027 Qualifiers",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328565-Georgia-U21-v-Greece-U21"
+    },
+    {
       "title": "Kuwait v Iraq",
       "teams": [
         "Kuwait",
@@ -897,10 +1447,12 @@
       "time": "15:00",
       "tournament": "Arabian Gulf Cup",
       "channels": [
+        "Sportdigital FUSSBALL HD",
         "AD Sports 1",
         "Alkass 1"
       ],
       "commentators": [
+        "kurtogen",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328070-Kuwait-v-Iraq"
@@ -1004,10 +1556,12 @@
       "time": "14:00",
       "tournament": "German W/Cup (DFB-Pokal Frauen)",
       "channels": [
-        "World Feed"
+        "World Feed",
+        "Sky Sport MIX Deutsch HD"
       ],
       "commentators": [
-        "apltle12"
+        "apltle12",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/327945-Bochum-v-Werder-Bremen"
     },
@@ -1059,10 +1613,12 @@
       "tournament": "English League Two",
       "channels": [
         "BBC Radio Bristol",
-        "Sky Sports (highlights)",
         "BBC Radio Somerset",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]"
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]",
+        "Soccer Saturday",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -1082,11 +1638,12 @@
       "tournament": "English League One",
       "channels": [
         "BBC RADIO 5 LIVE",
-        "Soccer Saturday",
-        "Sky Sports (highlights)",
         "ITV English Football League Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports+ Channel",
         "Sky Sports+ [via APP]",
-        "Sky Sports+ Channel"
+        "Soccer Saturday",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -1127,8 +1684,8 @@
       "time": "14:00",
       "tournament": "English League Two",
       "channels": [
-        "BBC Radio Lancashire (FM)",
         "ITV English Football League Highlights",
+        "BBC Radio Lancashire (FM)",
         "Sky Sports+ [via APP]"
       ],
       "commentators": [
@@ -1147,10 +1704,11 @@
       "time": "14:00",
       "tournament": "English League Two",
       "channels": [
-        "Soccer Saturday",
-        "Sky Sports (highlights)",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]"
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]",
+        "Soccer Saturday",
+        "World Feed"
       ],
       "commentators": [
         "LukeA206",
@@ -1210,9 +1768,9 @@
       "time": "14:00",
       "tournament": "English League Two",
       "channels": [
+        "Soccer Saturday",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]",
-        "Soccer Saturday"
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
         "Crowe24",
@@ -1252,10 +1810,10 @@
       "tournament": "English League Two",
       "channels": [
         "BBC RADIO 5 LIVE",
+        "Soccer Saturday",
         "BBC Radio WM",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]",
-        "Soccer Saturday"
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
         "Crowe24",
@@ -1274,11 +1832,12 @@
       "time": "14:00",
       "tournament": "English League One",
       "channels": [
-        "talkSPORT",
-        "Soccer Saturday",
-        "Sky Sports (highlights)",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]"
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]",
+        "Soccer Saturday",
+        "World Feed",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
@@ -1299,9 +1858,9 @@
       "tournament": "English League Two",
       "channels": [
         "BBC RADIO 5 LIVE",
+        "Soccer Saturday",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]",
-        "Soccer Saturday"
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
         "Crowe24",
@@ -1319,12 +1878,13 @@
       "time": "14:00",
       "tournament": "English League One",
       "channels": [
-        "talkSPORT 2",
-        "Soccer Saturday",
-        "talkSPORT App",
-        "Sky Sports (highlights)",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]"
+        "Sky Sports (highlights)",
+        "Sky Sports+ [via APP]",
+        "Soccer Saturday",
+        "World Feed",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
@@ -1333,6 +1893,23 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/326362-Stockport-County-v-Peterborough-United"
+    },
+    {
+      "title": "Eintracht 1949 v Chemnitz",
+      "teams": [
+        "Eintracht 1949",
+        "Chemnitz"
+      ],
+      "date": "26/09/2026",
+      "time": "14:00",
+      "tournament": "German Regionalliga: Nordost",
+      "channels": [
+        "OstSportTV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/326361-Eintracht-1949-v-Chemnitz"
     },
     {
       "title": "BBC 5 Live Sport",
@@ -1347,6 +1924,57 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/328560-BBC-5-Live-Sport"
+    },
+    {
+      "title": "St Pölten v Kleinmünchen/BW Linz",
+      "teams": [
+        "St Pölten",
+        "Kleinmünchen/BW Linz"
+      ],
+      "date": "26/09/2026",
+      "time": "13:00",
+      "tournament": "Austrian Frauen Bundesliga",
+      "channels": [
+        "LAOLA1"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328649-St-Plten-v-KleinmnchenBW-Linz"
+    },
+    {
+      "title": "Potsdam v Stuttgart",
+      "teams": [
+        "Potsdam",
+        "Stuttgart"
+      ],
+      "date": "26/09/2026",
+      "time": "13:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328641-Potsdam-v-Stuttgart"
+    },
+    {
+      "title": "Meppen v Hamburg",
+      "teams": [
+        "Meppen",
+        "Hamburg"
+      ],
+      "date": "26/09/2026",
+      "time": "13:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328640-Meppen-v-Hamburg"
     },
     {
       "title": "Kenya v Eritrea",
@@ -1425,26 +2053,26 @@
       "time": "13:00",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC Two Wales HD",
-        "SporTV Brazil HD",
-        "FOX ONE (USA) [$] (geo/R)",
+        "BBC Radio 5 Sports Extra 3",
         "BBC RADIO 5 LIVE",
+        "beIN Sports MENA 3 HD",
+        "Radio Clyde 1",
+        "beIN Sports MENA English 2 HD",
+        "BBC Two Wales HD",
         "Virgin Media Two HD",
         "BBC Sounds APP",
-        "beIN Sports MENA 3 HD",
-        "talkSPORT",
+        "World Feed",
         "UEFA (highlights)",
-        "BBC Radio Scotland",
-        "SuperSport Premier League HD",
-        "Virgin Media Play (geo/R)",
-        "Flashscore UK",
-        "BBC Radio 5 Sports Extra 3",
-        "FlashScore App",
-        "BBC One / HD",
-        "FlashScore (audio)",
-        "BBC iPlayer (geo/R)",
         "Monomax Streaming ($/geo/R)",
-        "BBC Sport Online (Audio) and10more channels"
+        "BBC Radio Scotland",
+        "talkSPORT",
+        "SuperSport MáXimo 1 HD",
+        "FlashScore (audio)",
+        "Flashscore UK",
+        "Fox Sports 2 (US)",
+        "BBC iPlayer (geo/R)",
+        "BBC One / HD",
+        "Virgin Media Play (geo/R) and10more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1460,6 +2088,23 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/326348-Slovenia-v-Scotland"
+    },
+    {
+      "title": "Wacker Burghausen v 1860 Munich",
+      "teams": [
+        "Wacker Burghausen",
+        "1860 Munich"
+      ],
+      "date": "26/09/2026",
+      "time": "12:45",
+      "tournament": "German Regionalliga: Bayern",
+      "channels": [
+        "BR Fernsehen HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/326338-Wacker-Burghausen-v-1860-Munich"
     },
     {
       "title": "Torres v Vado",
@@ -1514,6 +2159,57 @@
       "match_url": "https://icdb.tv/match/326347-Charlton-Athletic-v-Manchester-City"
     },
     {
+      "title": "Hertha Berlin v FC Cologne",
+      "teams": [
+        "Hertha Berlin",
+        "FC Cologne"
+      ],
+      "date": "26/09/2026",
+      "time": "12:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328639-Hertha-Berlin-v-FC-Cologne"
+    },
+    {
+      "title": "Andernach v Freiburg",
+      "teams": [
+        "Andernach",
+        "Freiburg"
+      ],
+      "date": "26/09/2026",
+      "time": "12:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328638-Andernach-v-Freiburg"
+    },
+    {
+      "title": "Ingolstadt v Mainz 05",
+      "teams": [
+        "Ingolstadt",
+        "Mainz 05"
+      ],
+      "date": "26/09/2026",
+      "time": "12:00",
+      "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328637-Ingolstadt-v-Mainz-05"
+    },
+    {
       "title": "Off the Ball",
       "date": "26/09/2026",
       "time": "12:00",
@@ -1526,6 +2222,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/328542-Off-the-Ball"
+    },
+    {
+      "title": "Lok Leipzig v Rot-Weiss Erfurt",
+      "teams": [
+        "Lok Leipzig",
+        "Rot-Weiss Erfurt"
+      ],
+      "date": "26/09/2026",
+      "time": "12:00",
+      "tournament": "German Regionalliga: Nordost",
+      "channels": [
+        "MDR Fernsehen HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/327938-Lok-Leipzig-v-RotWeiss-Erfurt"
     },
     {
       "title": "talkSPORT The Saturday Session",
@@ -1587,6 +2300,9 @@
       "date": "26/09/2026",
       "time": "10:30",
       "tournament": "Italian Womens Serie A",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "apltle12"
       ],
@@ -1782,712 +2498,6 @@
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/328358-Jamaica-v-Guatemala"
-    },
-    {
-      "title": "Racing Louisville v San Diego Wave",
-      "teams": [
-        "Racing Louisville",
-        "San Diego Wave"
-      ],
-      "date": "25/09/2026",
-      "time": "22:45",
-      "tournament": "National Women's Soccer League (NWSL)",
-      "channels": [
-        "KUSI News (KUSI 51.1)",
-        "NWSL+ International (geo/R)",
-        "NWSL+ USA (geo/R)",
-        "OneSoccer",
-        "World Feed"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/328399-Racing-Louisville-v-San-Diego-Wave"
-    },
-    {
-      "title": "Grenada v Cuba",
-      "teams": [
-        "Grenada",
-        "Cuba"
-      ],
-      "date": "25/09/2026",
-      "time": "21:00",
-      "tournament": "CONCACAF Nations League",
-      "channels": [
-        "Fox Soccer Plus USA",
-        "OneSoccer",
-        "World Feed"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/328356-Grenada-v-Cuba"
-    },
-    {
-      "title": "Bermuda v Guadeloupe",
-      "teams": [
-        "Bermuda",
-        "Guadeloupe"
-      ],
-      "date": "25/09/2026",
-      "time": "19:00",
-      "tournament": "CONCACAF Nations League",
-      "channels": [
-        "FOX ONE (USA) [$] (geo/R)",
-        "FOX Sports on Tubi",
-        "OneSoccer",
-        "World Feed"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/328354-Bermuda-v-Guadeloupe"
-    },
-    {
-      "title": "Algeria v Zambia",
-      "teams": [
-        "Algeria",
-        "Zambia"
-      ],
-      "date": "25/09/2026",
-      "time": "19:00",
-      "tournament": "CAF African Cup of Nations",
-      "channels": [
-        "Algeria TV",
-        "World Feed",
-        "beIN Sports MENA 4 HD"
-      ],
-      "commentators": [
-        "apltle12",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/328065-Algeria-v-Zambia"
-    },
-    {
-      "title": "Egypt v Angola",
-      "teams": [
-        "Egypt",
-        "Angola"
-      ],
-      "date": "25/09/2026",
-      "time": "19:00",
-      "tournament": "CAF African Cup of Nations",
-      "channels": [
-        "Time Sport",
-        "World Feed",
-        "beIN Sports MENA 1 HD"
-      ],
-      "commentators": [
-        "apltle12",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/328064-Egypt-v-Angola"
-    },
-    {
-      "title": "Mali v Cape Verde",
-      "teams": [
-        "Mali",
-        "Cape Verde"
-      ],
-      "date": "25/09/2026",
-      "time": "19:00",
-      "tournament": "CAF African Cup of Nations",
-      "channels": [
-        "World Feed",
-        "beIN Xtra 1"
-      ],
-      "commentators": [
-        "apltle12",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/328063-Mali-v-Cape-Verde"
-    },
-    {
-      "title": "Morocco v Gabon",
-      "teams": [
-        "Morocco",
-        "Gabon"
-      ],
-      "date": "25/09/2026",
-      "time": "19:00",
-      "tournament": "CAF African Cup of Nations",
-      "channels": [
-        "beIN Sports MENA 3 HD",
-        "Arryadia TNT"
-      ],
-      "commentators": [
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/328062-Morocco-v-Gabon"
-    },
-    {
-      "title": "Sweden v Romania",
-      "teams": [
-        "Sweden",
-        "Romania"
-      ],
-      "date": "25/09/2026",
-      "time": "18:45",
-      "tournament": "UEFA Nations League",
-      "channels": [
-        "Amazon Prime UK [$]",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "Diretta Gol - Sky Sport Calcio",
-        "Fox Soccer Plus USA",
-        "SuperSport Football HD",
-        "SuperSport GOtv Africa",
-        "World Feed",
-        "beIN Connect Australia",
-        "beIN Sports Australia 1 HD",
-        "beIN Sports MENA English 2 HD"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "Mikhail17",
-        "bigddan11",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/327371-Sweden-v-Romania"
-    },
-    {
-      "title": "Poland v Bosnia-Herzegovina",
-      "teams": [
-        "Poland",
-        "Bosnia-Herzegovina"
-      ],
-      "date": "25/09/2026",
-      "time": "18:45",
-      "tournament": "UEFA Nations League",
-      "channels": [
-        "Amazon Prime UK [$]",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "Diretta Gol - Sky Sport Calcio",
-        "Fubo Sports USA ($/geo/R)",
-        "Sony Sports TEN 5 India HD",
-        "SuperSport Kickoff HD",
-        "World Feed",
-        "beIN Connect Australia",
-        "beIN Sports MENA 8 HD"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "Mikhail17",
-        "bigddan11",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/327370-Poland-v-BosniaHerzegovina"
-    },
-    {
-      "title": "Montenegro v Cyprus",
-      "teams": [
-        "Montenegro",
-        "Cyprus"
-      ],
-      "date": "25/09/2026",
-      "time": "18:45",
-      "tournament": "UEFA Nations League",
-      "channels": [
-        "Diretta Gol - Sky Sport Calcio",
-        "Megogo Futbol 6 ($/geo/R)",
-        "SuperSport OTT 5",
-        "World Feed",
-        "beIN Connect Australia",
-        "beIN Xtra 3",
-        "fuboTV"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "Mikhail17",
-        "bigddan11",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/327369-Montenegro-v-Cyprus"
-    },
-    {
-      "title": "Hungary v Ukraine",
-      "teams": [
-        "Hungary",
-        "Ukraine"
-      ],
-      "date": "25/09/2026",
-      "time": "18:45",
-      "tournament": "UEFA Nations League",
-      "channels": [
-        "Amazon Prime UK [$]",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "Diretta Gol - Sky Sport Calcio",
-        "Megogo Futbol 1 ($/geo/R)",
-        "Megogo Sport Ukraine HD",
-        "SuperSport LaLiga HD",
-        "SuperSport Laliga Nigeria HD",
-        "SuperSport MáXimo 3A HD",
-        "World Feed",
-        "beIN Connect Australia",
-        "beIN Xtra 2",
-        "fuboTV"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "Mikhail17",
-        "bigddan11",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/326333-Hungary-v-Ukraine"
-    },
-    {
-      "title": "Italy v Belgium",
-      "teams": [
-        "Italy",
-        "Belgium"
-      ],
-      "date": "25/09/2026",
-      "time": "18:45",
-      "tournament": "UEFA Nations League",
-      "channels": [
-        "Amazon Prime UK [$]",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "FOX ONE (USA) [$] (geo/R)",
-        "Fox Sports 2 (US)",
-        "RAI 1 Italia HD",
-        "Sky Sport Calcio (delayed)",
-        "Sony Sports TEN 1 India HD",
-        "SuperSport Football Plus HD",
-        "SuperSport MáXimo 360",
-        "Virgin Media Play (geo/R)",
-        "Virgin Media Two HD",
-        "World Feed",
-        "beIN Connect Australia",
-        "beIN Sports Australia 3 HD",
-        "beIN Sports MENA 6 HD"
-      ],
-      "commentators": [
-        "Crowe24",
-        "Guest-SC",
-        "ImpactPlayaz",
-        "Mikhail17",
-        "bigddan11",
-        "kurtogen",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/326332-Italy-v-Belgium"
-    },
-    {
-      "title": "Türkiye v France",
-      "teams": [
-        "Türkiye",
-        "France"
-      ],
-      "date": "25/09/2026",
-      "time": "18:45",
-      "tournament": "UEFA Nations League",
-      "channels": [
-        "Amazon Prime UK [$]",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "Diretta Gol - Sky Sport Calcio",
-        "Sky Sport 251 Italia HD",
-        "Sony Sports TEN 2 India HD",
-        "SporTV Brazil HD",
-        "SuperSport MáXimo 1 HD",
-        "SuperSport MáXimo 2A HD",
-        "SuperSport Premier League HD",
-        "TF1 France HD",
-        "TF1+ France HD",
-        "World Feed",
-        "beIN Connect Australia",
-        "beIN Sports Australia 2 HD",
-        "beIN Sports MENA 2 HD",
-        "beIN Sports MENA English 1 HD",
-        "fuboTV"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "Mikhail17",
-        "SYLVESTRE",
-        "bigddan11",
-        "kurtogen",
-        "luca80sp",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/326133-Trkiye-v-France"
-    },
-    {
-      "title": "England U-21 v Kazakhstan U-21",
-      "teams": [
-        "England U-21",
-        "Kazakhstan U-21"
-      ],
-      "date": "25/09/2026",
-      "time": "18:30",
-      "tournament": "UEFA U-21 Championship 2027 Qualifiers",
-      "channels": [
-        "talkSPORT",
-        "England App"
-      ],
-      "commentators": [
-        "Crowe24",
-        "RussVMedia"
-      ],
-      "match_url": "https://icdb.tv/match/328408-England-U21-v-Kazakhstan-U21"
-    },
-    {
-      "title": "BBC 5 Live Sport",
-      "date": "25/09/2026",
-      "time": "18:00",
-      "tournament": "English Premier League",
-      "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Radio Manchester",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/328410-BBC-5-Live-Sport"
-    },
-    {
-      "title": "talkSPORT Thank Football It's Friday",
-      "date": "25/09/2026",
-      "time": "18:00",
-      "tournament": "British Football",
-      "channels": [
-        "talkSPORT",
-        "talkSPORT App"
-      ],
-      "commentators": [
-        "Crowe24"
-      ],
-      "match_url": "https://icdb.tv/match/327523-talkSPORT-Thank-Football-Its-Friday"
-    },
-    {
-      "title": "Switzerland U-21 v Luxembourg U-21",
-      "teams": [
-        "Switzerland U-21",
-        "Luxembourg U-21"
-      ],
-      "date": "25/09/2026",
-      "time": "17:30",
-      "tournament": "UEFA U-21 Championship 2027 Qualifiers",
-      "channels": [
-        "SRF Play (geo/R)"
-      ],
-      "commentators": [
-        "Johnny17"
-      ],
-      "match_url": "https://icdb.tv/match/326928-Switzerland-U21-v-Luxembourg-U21"
-    },
-    {
-      "title": "TSV Havelse v Fortuna Cologne",
-      "teams": [
-        "TSV Havelse",
-        "Fortuna Cologne"
-      ],
-      "date": "25/09/2026",
-      "time": "17:00",
-      "tournament": "German 3. Liga",
-      "channels": [
-        "Magenta Deutsch Sport ($/geo/R)"
-      ],
-      "commentators": [
-        "kurtogen"
-      ],
-      "match_url": "https://icdb.tv/match/325985-TSV-Havelse-v-Fortuna-Cologne"
-    },
-    {
-      "title": "Sudan v Ethiopia",
-      "teams": [
-        "Sudan",
-        "Ethiopia"
-      ],
-      "date": "25/09/2026",
-      "time": "16:00",
-      "tournament": "CAF African Cup of Nations",
-      "channels": [
-        "World Feed",
-        "beIN Sports MENA 1 HD"
-      ],
-      "commentators": [
-        "apltle12",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/328288-Sudan-v-Ethiopia"
-    },
-    {
-      "title": "Nigeria v Madagascar",
-      "teams": [
-        "Nigeria",
-        "Madagascar"
-      ],
-      "date": "25/09/2026",
-      "time": "16:00",
-      "tournament": "CAF African Cup of Nations",
-      "channels": [
-        "World Feed",
-        "beIN Sports MENA 1 HD",
-        "beIN Sports MENA 3 HD"
-      ],
-      "commentators": [
-        "apltle12",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/328060-Nigeria-v-Madagascar"
-    },
-    {
-      "title": "Armenia v Latvia",
-      "teams": [
-        "Armenia",
-        "Latvia"
-      ],
-      "date": "25/09/2026",
-      "time": "16:00",
-      "tournament": "UEFA Nations League",
-      "channels": [
-        "Diretta Gol - Sky Sport Calcio",
-        "Fubo Sports USA ($/geo/R)",
-        "SuperSport OTT 5",
-        "World Feed",
-        "beIN Connect Australia",
-        "beIN Sports Australia 1 HD",
-        "beIN Sports MENA 6 HD"
-      ],
-      "commentators": [
-        "Guest-SC",
-        "Mikhail17",
-        "bigddan11",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/327188-Armenia-v-Latvia"
-    },
-    {
-      "title": "Georgia v Northern Ireland",
-      "teams": [
-        "Georgia",
-        "Northern Ireland"
-      ],
-      "date": "25/09/2026",
-      "time": "16:00",
-      "tournament": "UEFA Nations League",
-      "channels": [
-        "BBC (highlights)",
-        "Diretta Gol - Sky Sport Calcio",
-        "Sony Sports TEN 1 India HD",
-        "BBC RADIO 5 LIVE",
-        "beIN Connect Australia",
-        "SuperSport Premier League HD",
-        "BBC Radio 5 Sports Extra 2",
-        "SuperSport MáXimo 1 HD",
-        "BBC Sport NI Online",
-        "BBC Radio Foyle",
-        "beIN Sports MENA 2 HD",
-        "BBC iPlayer (geo/R)",
-        "Flashscore UK",
-        "beIN Sports MENA English 1 HD",
-        "FlashScore (audio)",
-        "TV2 Sport X Dansk HD",
-        "BBC Sport Online (Audio)",
-        "The Commentary Hub",
-        "FlashScore App",
-        "BBC Sounds APP and8more channels"
-      ],
-      "commentators": [
-        "Crowe24",
-        "Guest-SC",
-        "JB",
-        "Mikhail17",
-        "Vallis",
-        "apltle12",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/326127-Georgia-v-Northern-Ireland"
-    },
-    {
-      "title": "Finland U-21 v Spain U-21",
-      "teams": [
-        "Finland U-21",
-        "Spain U-21"
-      ],
-      "date": "25/09/2026",
-      "time": "15:30",
-      "tournament": "UEFA U-21 Championship 2027 Qualifiers",
-      "channels": [
-        "RTVE Play ($/geo/R)",
-        "Teledeporte España"
-      ],
-      "commentators": [
-        "ImpactPlayaz"
-      ],
-      "match_url": "https://icdb.tv/match/328287-Finland-U21-v-Spain-U21"
-    },
-    {
-      "title": "Mozambique v Senegal",
-      "teams": [
-        "Mozambique",
-        "Senegal"
-      ],
-      "date": "25/09/2026",
-      "time": "13:00",
-      "tournament": "CAF African Cup of Nations",
-      "channels": [
-        "World Feed",
-        "beIN Sports MENA 3 HD"
-      ],
-      "commentators": [
-        "apltle12",
-        "ysscores"
-      ],
-      "match_url": "https://icdb.tv/match/328059-Mozambique-v-Senegal"
-    },
-    {
-      "title": "Subway Players Cup Highlights Show",
-      "date": "25/09/2026",
-      "time": "12:00",
-      "tournament": "English Womens League Cup",
-      "channels": [
-        "YouTube: Barclays Women's Super League"
-      ],
-      "commentators": [
-        "AndyRoo_0860"
-      ],
-      "match_url": "https://icdb.tv/match/328423-Subway-Players-Cup-Highlights-Show"
-    },
-    {
-      "title": "Australia v Brazil",
-      "teams": [
-        "Australia",
-        "Brazil"
-      ],
-      "date": "25/09/2026",
-      "time": "10:00",
-      "tournament": "Friendly International",
-      "channels": [
-        "GE TV",
-        "SporTV Brazil HD",
-        "TV Globo",
-        "globoplay"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/328139-Australia-v-Brazil"
-    },
-    {
-      "title": "Costa Rica v Curaçao",
-      "teams": [
-        "Costa Rica",
-        "Curaçao"
-      ],
-      "date": "25/09/2026",
-      "time": "02:00",
-      "tournament": "CONCACAF Nations League",
-      "channels": [
-        "FOX ONE (USA) [$] (geo/R)",
-        "Fox Sports 2 (US)",
-        "OneSoccer",
-        "World Feed"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/328313-Costa-Rica-v-Curaao"
-    },
-    {
-      "title": "Atlético Nacional v Millonarios",
-      "teams": [
-        "Atlético Nacional",
-        "Millonarios"
-      ],
-      "date": "25/09/2026",
-      "time": "00:30",
-      "tournament": "Colombian Primera A",
-      "channels": [
-        "Win Sports",
-        "Win+ Fútbol (Colombia)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/328267-Atltico-Nacional-v-Millonarios"
-    },
-    {
-      "title": "Haiti v Trinidad & Tobago",
-      "teams": [
-        "Haiti",
-        "Trinidad & Tobago"
-      ],
-      "date": "25/09/2026",
-      "time": "00:00",
-      "tournament": "CONCACAF Nations League",
-      "channels": [
-        "Fox Soccer Plus USA",
-        "OneSoccer",
-        "World Feed"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/328312-Haiti-v-Trinidad-Tobago"
-    },
-    {
-      "title": "Cayman Islands v Dominica",
-      "teams": [
-        "Cayman Islands",
-        "Dominica"
-      ],
-      "date": "25/09/2026",
-      "time": "00:00",
-      "tournament": "CONCACAF Nations League",
-      "channels": [
-        "FOX ONE (USA) [$] (geo/R)",
-        "FOX Sports on Tubi",
-        "OneSoccer",
-        "World Feed"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/328311-Cayman-Islands-v-Dominica"
-    },
-    {
-      "title": "Dominican Republic v Nicaragua",
-      "teams": [
-        "Dominican Republic",
-        "Nicaragua"
-      ],
-      "date": "25/09/2026",
-      "time": "00:00",
-      "tournament": "CONCACAF Nations League",
-      "channels": [
-        "FOX ONE (USA) [$] (geo/R)",
-        "Fox Sports 2 (US)",
-        "OneSoccer",
-        "World Feed"
-      ],
-      "commentators": [
-        "bigddan11"
-      ],
-      "match_url": "https://icdb.tv/match/328310-Dominican-Republic-v-Nicaragua"
-    },
-    {
-      "title": "Gualaceo v Independiente del Valle",
-      "teams": [
-        "Gualaceo",
-        "Independiente del Valle"
-      ],
-      "date": "25/09/2026",
-      "time": "00:00",
-      "tournament": "Ecuadorian Cup",
-      "channels": [
-        "D Sports (South America)",
-        "Mach Deportes"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/328277-Gualaceo-v-Independiente-del-Valle"
     }
   ]
 }
