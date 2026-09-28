@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28T11:26:27.504773+00:00",
+  "scraped_at": "2026-09-28T21:04:20.438412+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 99,
+  "total_matches": 105,
   "matches": [
     {
       "title": "Congo BR v Cameroon",
@@ -41,12 +41,15 @@
         "ITV1 / HD",
         "STV (Scotland) / HD",
         "STV Player (geo/R)",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD",
         "fuboTV",
         "talkSPORT",
         "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
+        "ImpactPlayaz",
         "apltle12",
         "bigddan11",
         "kurtogen"
@@ -138,6 +141,24 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/328471-Zambia-v-Togo"
+    },
+    {
+      "title": "Lesotho v Morocco",
+      "teams": [
+        "Lesotho",
+        "Morocco"
+      ],
+      "date": "29/09/2026",
+      "time": "13:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "DAZN Deutsch [$] (geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328213-Lesotho-v-Morocco"
     },
     {
       "title": "Guatemala v El Salvador",
@@ -263,7 +284,8 @@
       "channels": [
         "FOX ONE (USA) [$] (geo/R)",
         "FOX Sports on Tubi",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
@@ -280,15 +302,31 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "FOX ONE (USA) [$] (geo/R)",
-        "Fox Sports 2 (US)",
-        "RTS 2 Suisse HD",
         "SRF Zwei Schweiz HD",
-        "beIN Sports MENA 2 HD"
+        "RTS 2 Suisse HD",
+        "beIN Sports MENA English 1 HD",
+        "beIN Sports Australia 3 HD",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "DAZN Deutsch ($/geo/R)",
+        "SuperSport MáXimo 2A HD",
+        "Sony Sports TEN 2 India HD",
+        "TF1 France HD",
+        "Virgin Media Two HD",
+        "SuperSport Grandstand HD",
+        "SuperSport MáXimo 1 HD",
+        "UEFA (highlights)",
+        "SuperSport Premier League HD",
+        "Virgin Media Play (geo/R)",
+        "World Feed",
+        "Fox Sports 2 (US)",
+        "DAZN (highlights)",
+        "Monomax Streaming ($/geo/R)",
+        "Amazon Prime UK [$] and4more channels"
       ],
       "commentators": [
+        "ImpactPlayaz",
+        "Mikhail17",
+        "SYLVESTRE",
         "bigddan11",
         "kurtogen",
         "ysscores"
@@ -305,10 +343,22 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "Amazon Prime UK [$]",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "DAZN (highlights)",
         "Fox Soccer Plus USA",
-        "beIN Sports MENA 4 HD"
+        "Monomax Streaming ($/geo/R)",
+        "Sony Sports TEN 5 India HD",
+        "SuperSport LaLiga HD",
+        "SuperSport Laliga Nigeria HD",
+        "SuperSport MáXimo 3A HD",
+        "UEFA (highlights)",
+        "World Feed",
+        "beIN Sports MENA 4 HD",
+        "beIN Sports MENA English 2 HD"
       ],
       "commentators": [
+        "Mikhail17",
         "bigddan11",
         "ysscores"
       ],
@@ -324,10 +374,18 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "Amazon Prime UK [$]",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "DAZN (highlights)",
+        "Monomax Streaming ($/geo/R)",
+        "SuperSport Kickoff HD",
+        "UEFA (highlights)",
+        "World Feed",
         "beIN Sports MENA 6 HD",
         "fuboTV"
       ],
       "commentators": [
+        "Mikhail17",
         "bigddan11",
         "ysscores"
       ],
@@ -343,14 +401,29 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "Amazon Prime UK [$]",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "DAZN (highlights)",
         "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
+        "Monomax Streaming ($/geo/R)",
+        "RAI 1 Italia HD",
+        "Sony Sports TEN 1 India HD",
+        "SporTV Brazil HD",
+        "SuperSport Football Plus HD",
+        "SuperSport MáXimo 360",
+        "UEFA (highlights)",
+        "World Feed",
         "beIN Sports MENA 3 HD",
         "fuboTV"
       ],
       "commentators": [
+        "Crowe24",
+        "Guest-SC",
+        "Mikhail17",
         "bigddan11",
         "kurtogen",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/326854-Trkiye-v-Italy"
@@ -365,16 +438,31 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC (highlights)",
-        "BBC Sport NI Online",
-        "BBC Sport Online",
-        "BBC Three HD",
-        "BBC iPlayer (geo/R)",
+        "UEFA (highlights)",
         "Fubo Sports USA ($/geo/R)",
-        "beIN Sports MENA 5 HD"
+        "BBC Sport NI Online",
+        "beIN Sports Australia 1 HD",
+        "beIN Sports MENA 5 HD",
+        "BBC Three HD",
+        "FlashScore App",
+        "Sony Sports TEN 3 India HD",
+        "Monomax Streaming ($/geo/R)",
+        "FlashScore (audio)",
+        "BBC Radio Ulster",
+        "BBC (highlights)",
+        "BBC Radio 5 Sports Extra",
+        "Flashscore UK",
+        "DAZN (highlights)",
+        "BBC One Northern Ireland HD",
+        "SuperSport Football HD",
+        "BBC Sport Online",
+        "World Feed",
+        "BBC RADIO 5 LIVE and4more channels"
       ],
       "commentators": [
         "Crowe24",
+        "Mikhail17",
+        "apltle12",
         "bigddan11",
         "ysscores"
       ],
@@ -455,10 +543,19 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN (highlights)",
         "Fubo Sports USA ($/geo/R)",
-        "beIN Sports MENA 1 HD"
+        "Monomax Streaming ($/geo/R)",
+        "Sony Sports TEN 2 India HD",
+        "SuperSport MáXimo 1 HD",
+        "SuperSport MáXimo 2A HD",
+        "UEFA (highlights)",
+        "World Feed",
+        "beIN Sports MENA 1 HD",
+        "beIN Sports MENA English 1 HD"
       ],
       "commentators": [
+        "Mikhail17",
         "bigddan11",
         "ysscores"
       ],
@@ -474,11 +571,19 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN (highlights)",
         "FOX ONE (USA) [$] (geo/R)",
         "Fox Sports 2 (US)",
-        "beIN Sports MENA 2 HD"
+        "Monomax Streaming ($/geo/R)",
+        "Sony Sports TEN 1 India HD",
+        "SuperSport OTT 5",
+        "UEFA (highlights)",
+        "World Feed",
+        "beIN Sports MENA 2 HD",
+        "beIN Sports MENA English 2 HD"
       ],
       "commentators": [
+        "Mikhail17",
         "bigddan11",
         "ysscores"
       ],
@@ -494,14 +599,72 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN (highlights)",
         "Fox Soccer Plus USA",
+        "Monomax Streaming ($/geo/R)",
+        "Sony Sports TEN 5 India HD",
+        "SuperSport OTT 8",
+        "UEFA (highlights)",
+        "World Feed",
         "beIN Sports MENA 3 HD"
       ],
       "commentators": [
+        "Mikhail17",
         "bigddan11",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/327385-Latvia-v-Cyprus"
+    },
+    {
+      "title": "Aberdeen v Hibernian",
+      "teams": [
+        "Aberdeen",
+        "Hibernian"
+      ],
+      "date": "28/09/2026",
+      "time": "12:00",
+      "tournament": "Scottish SWPL 1",
+      "channels": [
+        "BBC Sportscene"
+      ],
+      "commentators": [
+        "Kelpie93"
+      ],
+      "match_url": "https://icdb.tv/match/328866-Aberdeen-v-Hibernian"
+    },
+    {
+      "title": "Brøndby v ASA Aarhus",
+      "teams": [
+        "Brøndby",
+        "ASA Aarhus"
+      ],
+      "date": "28/09/2026",
+      "time": "11:00",
+      "tournament": "Danish A-Liga Women",
+      "channels": [
+        "TV2 Play Danmark ($/geo/R)"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/328863-Brndby-v-ASA-Aarhus"
+    },
+    {
+      "title": "Germany U-17 v Venezuela U-17",
+      "teams": [
+        "Germany U-17",
+        "Venezuela U-17"
+      ],
+      "date": "28/09/2026",
+      "time": "09:00",
+      "tournament": "Friendly International",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328867-Germany-U17-v-Venezuela-U17"
     },
     {
       "title": "Deportivo Cali v Aguilas Doradas",
@@ -820,26 +983,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "DAZN Deutsch ($/geo/R)",
-        "NRK Sport",
-        "TV2 Direkte Norge HD",
-        "beIN Sports MENA 1 HD",
         "SuperSport MáXimo 360",
-        "Monomax Streaming ($/geo/R)",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "SuperSport MáXimo 1 HD",
-        "DAZN Schweiz [$] (geo/R)",
-        "ARD Sportschau",
-        "UEFA (highlights)",
-        "Virgin Media Three",
         "Disney+ Brazil [$]",
-        "beIN Sports MENA English 1 HD",
-        "SuperSport MáXimo 2A HD",
-        "Sony Sports TEN 2 India HD",
         "World Feed",
         "TVE La 1 HD España",
+        "TV2 Direkte Norge HD",
+        "TV2 Play Danmark ($/geo/R)",
+        "ESPN (Brazil)",
+        "beIN Sports MENA 1 HD",
+        "DAZN Schweiz [$] (geo/R)",
+        "TV2 Sport X Dansk HD",
+        "TV2 Play Norge ($/geo/R)",
+        "Monomax Streaming ($/geo/R)",
+        "Virgin Media Three",
+        "SuperSport MáXimo 1 HD",
+        "Amazon Prime UK [$]",
+        "DAZN 1 Bar Deutsch HD",
+        "SuperSport MáXimo 2A HD",
+        "beIN Sports MENA English 1 HD",
         "RTVE Play ($/geo/R)",
-        "TV2 Play Norge ($/geo/R) and7more channels"
+        "Amazon Prime Video Sport UK (Highlights) and9more channels"
       ],
       "commentators": [
         "Bksm",
@@ -847,6 +1010,7 @@
         "ImpactPlayaz",
         "Mikhail17",
         "RHJR",
+        "Vallis",
         "kurtogen",
         "luca80sp",
         "ysscores"
@@ -876,6 +1040,7 @@
         "SporTV Brazil HD",
         "SuperSport Football Plus HD",
         "SuperSport MáXimo 3A HD",
+        "TV2 Play Danmark ($/geo/R)",
         "UEFA (highlights)",
         "World Feed",
         "beIN Sports Australia 2 HD",
@@ -884,6 +1049,7 @@
       "commentators": [
         "Mikhail17",
         "RHJR",
+        "Vallis",
         "apltle12",
         "kurtogen",
         "luca80sp",
@@ -901,26 +1067,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "Virgin Media News",
-        "FlashScore (audio)",
-        "Flashscore UK",
-        "Fox Soccer Plus USA",
-        "FlashScore App",
-        "Monomax Streaming ($/geo/R)",
-        "BBC RADIO 5 LIVE",
-        "RTÉ Player (geo/R)",
-        "beIN Sports Australia 1 HD",
-        "Amazon Prime UK [$]",
-        "SuperSport LaLiga HD",
-        "UEFA (highlights)",
-        "Sony Sports TEN 5 India HD",
-        "SuperSport Laliga Nigeria HD",
-        "beIN Sports MENA English 2 HD",
-        "World Feed",
         "RTÉ 2 Ireland / HD",
-        "SuperSport GOtv Africa",
+        "FlashScore (audio)",
+        "SuperSport Laliga Nigeria HD",
+        "RTÉ Player (geo/R)",
+        "UEFA (highlights)",
+        "BBC RADIO 5 LIVE",
+        "Virgin Media News",
+        "Monomax Streaming ($/geo/R)",
         "RTÉ News",
-        "FOX ONE (USA) [$] (geo/R) and0more channels"
+        "FOX ONE (USA) [$] (geo/R)",
+        "Sony Sports TEN 5 India HD",
+        "Amazon Prime UK [$]",
+        "Fox Soccer Plus USA",
+        "beIN Sports Australia 1 HD",
+        "beIN Sports MENA English 2 HD",
+        "FlashScore App",
+        "SuperSport LaLiga HD",
+        "World Feed",
+        "SuperSport GOtv Africa",
+        "Flashscore UK and0more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1103,32 +1269,33 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
-        "SuperSport Laliga Nigeria HD",
-        "BBC Radio Wales",
-        "BBC RADIO 5 LIVE",
-        "Fubo Sports USA ($/geo/R)",
-        "FlashScore App",
-        "SuperSport MáXimo 3A HD",
-        "Flashscore UK",
-        "SuperSport LaLiga HD",
-        "Virgin Media Two HD",
-        "Virgin Media Play (geo/R)",
-        "ESPN (Brazil)",
-        "beIN Sports Australia 1 HD",
-        "UEFA (highlights)",
         "ARD Sportschau",
-        "BBC Radio 5 Sports Extra 3",
-        "BBC One / HD",
-        "Monomax Streaming ($/geo/R)",
+        "SuperSport Laliga Nigeria HD",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD",
+        "Fubo Sports USA ($/geo/R)",
+        "UEFA (highlights)",
         "Disney+ Brazil [$]",
+        "beIN Sports Australia 1 HD",
+        "Sony Sports TEN 5 India HD",
+        "BBC Radio Wales",
+        "S4C / HD (United Kingdom)",
+        "Monomax Streaming ($/geo/R)",
+        "S4C Clic ($/geo/R)",
+        "BBC Sport Online",
+        "BBC Sport Online (Audio)",
+        "ESPN (Brazil)",
+        "TV2 Play Danmark ($/geo/R)",
+        "BBC Sounds APP",
         "beIN Sports MENA English 1 HD",
-        "talkSPORT and11more channels"
+        "BBC One / HD and13more channels"
       ],
       "commentators": [
         "Crowe24",
         "ImpactPlayaz",
         "Mikhail17",
         "RHJR",
+        "Vallis",
         "apltle12",
         "luca80sp",
         "ysscores"
@@ -1145,27 +1312,30 @@
       "time": "16:00",
       "tournament": "UEFA Nations League",
       "channels": [
-        "DAZN Deutsch [$] (geo/R)",
-        "SporTV Brazil HD",
-        "World Feed",
-        "DAZN Schweiz [$] (geo/R)",
-        "beIN Sports Australia 3 HD",
-        "Amazon Prime UK [$]",
-        "Fox Sports 2 USA HD",
-        "UEFA (highlights)",
-        "SuperSport MáXimo 2A HD",
-        "beIN Sports MENA 1 HD",
         "ARD Sportschau",
-        "SuperSport MáXimo 1 HD",
-        "SuperSport Premier League HD",
-        "FOX ONE (USA) [$] (geo/R)",
+        "Amazon Prime UK [$]",
         "Amazon Prime Video Sport UK (Highlights)",
-        "Monomax Streaming ($/geo/R)"
+        "DAZN Deutsch [$] (geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "FOX ONE (USA) [$] (geo/R)",
+        "Fox Sports 2 USA HD",
+        "Monomax Streaming ($/geo/R)",
+        "SporTV Brazil HD",
+        "SuperSport MáXimo 1 HD",
+        "SuperSport MáXimo 2A HD",
+        "SuperSport Premier League HD",
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport X Dansk HD",
+        "UEFA (highlights)",
+        "World Feed",
+        "beIN Sports Australia 3 HD",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "HWP",
         "Mikhail17",
         "RHJR",
+        "Vallis",
         "kurtogen",
         "luca80sp",
         "ysscores"
@@ -1200,24 +1370,26 @@
       "time": "15:30",
       "tournament": "English Womens Super League",
       "channels": [
-        "BBC RADIO 5 LIVE",
+        "Sky Sports Premier League HD",
         "BBC Radio 5 Sports Extra 2",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "BBC World Service",
-        "CBS Sports Golazo N/W (geo/R)",
-        "CFC+ ($/geo/R)",
+        "Sportdigital 1+ Deutsch HD",
         "Chelsea TV",
         "Paramount+ USA ($/geo/R)",
-        "Sky Sport Select NZ HD",
-        "Sky Sports (highlights)",
-        "Sky Sports Main Event HD",
-        "Sky Sports Main Event UHD",
-        "Sky Sports Premier League HD",
-        "Sportdigital 1+ Deutsch HD",
-        "Stan Sport Australia ($/geo/R)",
         "World Feed",
-        "YouTube: Barclays Women's Super League"
+        "Sky Sport Select NZ HD",
+        "BBC Sounds APP",
+        "Sky Sports (highlights)",
+        "CBS Sports Golazo N/W (geo/R)",
+        "CFC+ ($/geo/R)",
+        "Arsenal App",
+        "YouTube: Barclays Women's Super League",
+        "Sky Sports Main Event UHD",
+        "BBC Sport Online (Audio)",
+        "BBC RADIO 5 LIVE",
+        "BBC World Service",
+        "Sky Sports Main Event HD",
+        "Arsenal Player",
+        "Stan Sport Australia ($/geo/R) and0more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1378,10 +1550,12 @@
       "time": "13:00",
       "tournament": "German W/Cup (DFB-Pokal Frauen)",
       "channels": [
-        "World Feed",
-        "Sky Sport MIX Deutsch HD"
+        "Sky Sport MIX Deutsch HD",
+        "ViaPlay Danmark HD",
+        "World Feed"
       ],
       "commentators": [
+        "Vallis",
         "apltle12",
         "kurtogen"
       ],
@@ -1682,6 +1856,23 @@
       "match_url": "https://icdb.tv/match/327950-Viktoria-Berlin-v-Bayer-Leverkusen"
     },
     {
+      "title": "Erzgebirge Aue v Chemie Leipzig",
+      "teams": [
+        "Erzgebirge Aue",
+        "Chemie Leipzig"
+      ],
+      "date": "27/09/2026",
+      "time": "12:00",
+      "tournament": "German Regionalliga: Nordost",
+      "channels": [
+        "OstSportTV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/327190-Erzgebirge-Aue-v-Chemie-Leipzig"
+    },
+    {
       "title": "Manchester United v West Ham United",
       "teams": [
         "Manchester United",
@@ -1706,6 +1897,24 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/326672-Manchester-United-v-West-Ham-United"
+    },
+    {
+      "title": "Midtjylland v FC Copenhagen",
+      "teams": [
+        "Midtjylland",
+        "FC Copenhagen"
+      ],
+      "date": "27/09/2026",
+      "time": "11:00",
+      "tournament": "Danish A-Liga Women",
+      "channels": [
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport X Dansk HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/328868-Midtjylland-v-FC-Copenhagen"
     },
     {
       "title": "BBC 5 Live Sport",
