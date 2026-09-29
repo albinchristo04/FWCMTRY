@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-29T04:10:02.524877+00:00",
+  "scraped_at": "2026-09-29T11:05:19.799198+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 41,
+  "total_matches": 59,
   "matches": [
     {
       "title": "BBC Euro Leagues",
@@ -144,6 +144,23 @@
       "match_url": "https://icdb.tv/match/328877-British-Virgin-Islands-v-Turks-Caicos-Islands"
     },
     {
+      "title": "Somalia v Ivory Coast",
+      "teams": [
+        "Somalia",
+        "Ivory Coast"
+      ],
+      "date": "29/09/2026",
+      "time": "19:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Xtra 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328875-Somalia-v-Ivory-Coast"
+    },
+    {
       "title": "Congo BR v Cameroon",
       "teams": [
         "Congo BR",
@@ -153,13 +170,100 @@
       "time": "19:00",
       "tournament": "CAF African Cup of Nations",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "beIN Sports MENA 6 HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328220-Congo-BR-v-Cameroon"
+    },
+    {
+      "title": "Bulgaria v Estonia",
+      "teams": [
+        "Bulgaria",
+        "Estonia"
+      ],
+      "date": "29/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Sports MENA 8 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/327794-Bulgaria-v-Estonia"
+    },
+    {
+      "title": "Luxembourg v Iceland",
+      "teams": [
+        "Luxembourg",
+        "Iceland"
+      ],
+      "date": "29/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Sports MENA 5 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/327792-Luxembourg-v-Iceland"
+    },
+    {
+      "title": "San Marino v Albania",
+      "teams": [
+        "San Marino",
+        "Albania"
+      ],
+      "date": "29/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Sports MENA 9 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/327791-San-Marino-v-Albania"
+    },
+    {
+      "title": "Slovakia v Kazakhstan",
+      "teams": [
+        "Slovakia",
+        "Kazakhstan"
+      ],
+      "date": "29/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Sports MENA 7 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/327790-Slovakia-v-Kazakhstan"
+    },
+    {
+      "title": "Slovenia v North Macedonia",
+      "teams": [
+        "Slovenia",
+        "North Macedonia"
+      ],
+      "date": "29/09/2026",
+      "time": "18:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Sports MENA English 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/327789-Slovenia-v-North-Macedonia"
     },
     {
       "title": "Czechia v England",
@@ -171,28 +275,30 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "STV (Scotland) / HD",
-        "Virgin Media Two HD",
-        "STV Player (geo/R)",
-        "talkSPORT",
         "BBC RADIO 5 LIVE",
-        "ITV (highlights)",
-        "DAZN Schweiz [$] (geo/R)",
-        "ITV1 / HD",
-        "fuboTV",
-        "talkSPORT App",
         "BBC Sounds APP",
-        "ITV X (geo/R)",
         "BBC Sport Online (Audio)",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "ITV (highlights)",
+        "ITV X (geo/R)",
+        "ITV1 / HD",
+        "STV (Scotland) / HD",
+        "STV Player (geo/R)",
         "Virgin Media Play (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "Virgin Media Two HD",
+        "beIN Sports MENA 3 HD",
+        "fuboTV",
+        "talkSPORT",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
         "ImpactPlayaz",
         "apltle12",
         "bigddan11",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/326941-Czechia-v-England"
     },
@@ -206,16 +312,18 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "Puls 4 Österreich HD",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "fuboTV",
         "Mediaset 20 Italia HD",
-        "DAZN Deutsch ($/geo/R)"
+        "Puls 4 Österreich HD",
+        "beIN Sports MENA 2 HD",
+        "fuboTV"
       ],
       "commentators": [
         "Guest-SC",
         "bigddan11",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/326939-Spain-v-Croatia"
     },
@@ -230,22 +338,41 @@
       "tournament": "UEFA Nations League",
       "channels": [
         "BBC Scotland / HD",
-        "BBC iPlayer (geo/R)",
-        "BBC Two / HD",
-        "fuboTV",
         "BBC Sport Scotland Online",
-        "RTS 2 Suisse HD",
-        "SRF Zwei Schweiz HD",
+        "BBC Two / HD",
+        "BBC iPlayer (geo/R)",
         "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (delayed",
-        "geo/R)"
+        "geo/R)",
+        "RTS 2 Suisse HD",
+        "SRF Zwei Schweiz HD",
+        "beIN Sports MENA 4 HD",
+        "fuboTV"
       ],
       "commentators": [
         "Crowe24",
         "bigddan11",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/326938-Scotland-v-Switzerland"
+    },
+    {
+      "title": "Oman v Kuwait",
+      "teams": [
+        "Oman",
+        "Kuwait"
+      ],
+      "date": "29/09/2026",
+      "time": "17:30",
+      "tournament": "Arabian Gulf Cup",
+      "channels": [
+        "AD Sports 2"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328085-Oman-v-Kuwait"
     },
     {
       "title": "Saudi Arabia v Iraq",
@@ -257,12 +384,31 @@
       "time": "17:30",
       "tournament": "Arabian Gulf Cup",
       "channels": [
+        "AD Sports 1",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328084-Saudi-Arabia-v-Iraq"
+    },
+    {
+      "title": "Benin v Mauritania",
+      "teams": [
+        "Benin",
+        "Mauritania"
+      ],
+      "date": "29/09/2026",
+      "time": "17:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328873-Benin-v-Mauritania"
     },
     {
       "title": "Zambia v Togo",
@@ -274,13 +420,168 @@
       "time": "16:00",
       "tournament": "CAF African Cup of Nations",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "beIN Sports MENA 9 HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328471-Zambia-v-Togo"
+    },
+    {
+      "title": "Uganda v Libya",
+      "teams": [
+        "Uganda",
+        "Libya"
+      ],
+      "date": "29/09/2026",
+      "time": "16:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328219-Uganda-v-Libya"
+    },
+    {
+      "title": "Guinea-Bissau v Nigeria",
+      "teams": [
+        "Guinea-Bissau",
+        "Nigeria"
+      ],
+      "date": "29/09/2026",
+      "time": "16:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 4 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328218-GuineaBissau-v-Nigeria"
+    },
+    {
+      "title": "Ghana v Gambia",
+      "teams": [
+        "Ghana",
+        "Gambia"
+      ],
+      "date": "29/09/2026",
+      "time": "16:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328217-Ghana-v-Gambia"
+    },
+    {
+      "title": "Cape Verde v Rwanda",
+      "teams": [
+        "Cape Verde",
+        "Rwanda"
+      ],
+      "date": "29/09/2026",
+      "time": "16:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 8 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328083-Cape-Verde-v-Rwanda"
+    },
+    {
+      "title": "Finland v Belarus",
+      "teams": [
+        "Finland",
+        "Belarus"
+      ],
+      "date": "29/09/2026",
+      "time": "16:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Sports MENA 5 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/327793-Finland-v-Belarus"
+    },
+    {
+      "title": "Moldova v Faroe Islands",
+      "teams": [
+        "Moldova",
+        "Faroe Islands"
+      ],
+      "date": "29/09/2026",
+      "time": "16:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "beIN Sports MENA 6 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/327788-Moldova-v-Faroe-Islands"
+    },
+    {
+      "title": "Ethiopia v Senegal",
+      "teams": [
+        "Ethiopia",
+        "Senegal"
+      ],
+      "date": "29/09/2026",
+      "time": "13:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 6 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328216-Ethiopia-v-Senegal"
+    },
+    {
+      "title": "Mozambique v Sudan",
+      "teams": [
+        "Mozambique",
+        "Sudan"
+      ],
+      "date": "29/09/2026",
+      "time": "13:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 5 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328215-Mozambique-v-Sudan"
+    },
+    {
+      "title": "Burundi v Algeria",
+      "teams": [
+        "Burundi",
+        "Algeria"
+      ],
+      "date": "29/09/2026",
+      "time": "13:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328214-Burundi-v-Algeria"
     },
     {
       "title": "Lesotho v Morocco",
@@ -293,12 +594,48 @@
       "tournament": "CAF African Cup of Nations",
       "channels": [
         "DAZN Deutsch [$] (geo/R)",
-        "DAZN Schweiz [$] (geo/R)"
+        "DAZN Schweiz [$] (geo/R)",
+        "beIN Sports MENA 3 HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328213-Lesotho-v-Morocco"
+    },
+    {
+      "title": "South Sudan v Egypt",
+      "teams": [
+        "South Sudan",
+        "Egypt"
+      ],
+      "date": "29/09/2026",
+      "time": "13:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328082-South-Sudan-v-Egypt"
+    },
+    {
+      "title": "Comoros v Namibia",
+      "teams": [
+        "Comoros",
+        "Namibia"
+      ],
+      "date": "29/09/2026",
+      "time": "11:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 9 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328776-Comoros-v-Namibia"
     },
     {
       "title": "Guatemala v El Salvador",
@@ -455,26 +792,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "SuperSport MáXimo 1 HD",
-        "beIN Sports Australia 3 HD",
+        "Amazon Prime Video Sport UK (Highlights)",
         "SRF Zwei Schweiz HD",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN 1 Bar Deutsch HD",
-        "SuperSport Grandstand HD",
-        "beIN Sports MENA English 1 HD",
-        "World Feed",
-        "RTS 2 Suisse HD",
-        "Virgin Media Two HD",
-        "DAZN (highlights)",
-        "Sony Sports TEN 2 India HD",
-        "SuperSport MáXimo 2A HD",
-        "Fox Sports 2 (US)",
-        "UEFA (highlights)",
+        "SuperSport MáXimo 1 HD",
+        "beIN Sports MENA 2 HD",
         "SuperSport Premier League HD",
         "FOX ONE (USA) [$] (geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
+        "DAZN 1 Bar Deutsch HD",
+        "UEFA (highlights)",
         "Virgin Media Play (geo/R)",
-        "Amazon Prime Video Sport UK (Highlights) and4more channels"
+        "Fox Sports 2 (US)",
+        "Monomax Streaming ($/geo/R)",
+        "World Feed",
+        "Sony Sports TEN 2 India HD",
+        "beIN Sports Australia 3 HD",
+        "DAZN (highlights)",
+        "TF1 France HD",
+        "RTS 2 Suisse HD",
+        "Amazon Prime UK [$]",
+        "DAZN Schweiz [$] (geo/R)",
+        "SuperSport MáXimo 2A HD and5more channels"
       ],
       "commentators": [
         "ImpactPlayaz",
@@ -527,15 +864,16 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "beIN Sports MENA 6 HD",
-        "World Feed",
-        "fuboTV",
         "Amazon Prime UK [$]",
-        "UEFA (highlights)",
-        "SuperSport Kickoff HD",
-        "DAZN (highlights)",
         "Amazon Prime Video Sport UK (Highlights)",
-        "Monomax Streaming ($/geo/R)"
+        "DAZN (highlights)",
+        "Monomax Streaming ($/geo/R)",
+        "SuperSport Kickoff HD",
+        "UEFA (highlights)",
+        "Vix (usa)",
+        "World Feed",
+        "beIN Sports MENA 6 HD",
+        "fuboTV"
       ],
       "commentators": [
         "Mikhail17",
@@ -591,26 +929,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC Sport Online",
         "BBC iPlayer (geo/R)",
-        "beIN Sports Australia 1 HD",
-        "BBC RADIO 5 LIVE",
         "BBC One Northern Ireland HD",
-        "BBC Sport NI Online",
-        "BBC Radio Ulster",
-        "FlashScore App",
-        "BBC Radio Foyle",
-        "BBC Radio 5 Sports Extra",
+        "Flashscore UK",
         "DAZN (highlights)",
-        "BBC Three HD",
         "SuperSport Football HD",
         "BBC Sport Online (Audio)",
-        "BBC (highlights)",
-        "BBC Sounds APP",
         "beIN Sports MENA 5 HD",
-        "World Feed",
+        "UEFA (highlights)",
         "FlashScore (audio)",
-        "Flashscore UK and4more channels"
+        "BBC Radio Foyle",
+        "BBC Radio Ulster",
+        "FlashScore App",
+        "Sony Sports TEN 3 India HD",
+        "World Feed",
+        "Monomax Streaming ($/geo/R)",
+        "BBC Sport Online",
+        "beIN Sports Australia 1 HD",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio 5 Sports Extra",
+        "BBC Sounds APP and4more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -681,9 +1019,11 @@
       "time": "16:00",
       "tournament": "CAF African Cup of Nations",
       "channels": [
+        "World Feed",
         "beIN Sports MENA 8 HD"
       ],
       "commentators": [
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328469-Central-African-Republic-v-Burkina-Faso"
@@ -771,23 +1111,6 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/327385-Latvia-v-Cyprus"
-    },
-    {
-      "title": "Aberdeen v Hibernian",
-      "teams": [
-        "Aberdeen",
-        "Hibernian"
-      ],
-      "date": "28/09/2026",
-      "time": "12:00",
-      "tournament": "Scottish SWPL 1",
-      "channels": [
-        "BBC Sportscene"
-      ],
-      "commentators": [
-        "Kelpie93"
-      ],
-      "match_url": "https://icdb.tv/match/328866-Aberdeen-v-Hibernian"
     },
     {
       "title": "Brøndby v ASA Aarhus",
