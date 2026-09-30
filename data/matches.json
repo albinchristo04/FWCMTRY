@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-30T10:54:16.494897+00:00",
+  "scraped_at": "2026-09-30T19:49:20.810486+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 52,
+  "total_matches": 61,
   "matches": [
     {
       "title": "Manchester City v Real Madrid",
@@ -73,8 +73,8 @@
       "tournament": "UEFA Nations League",
       "channels": [
         "RTÉ 2 Ireland / HD",
-        "RTÉ Player (geo/R)",
-        "RTÉ News"
+        "RTÉ News",
+        "RTÉ Player (geo/R)"
       ],
       "commentators": [
         "ImpactPlayaz"
@@ -113,6 +113,21 @@
       "match_url": "https://icdb.tv/match/328204-talkSPORT-Kick-Off"
     },
     {
+      "title": "Disney+ UWCL: The Hangout",
+      "date": "01/10/2026",
+      "time": "16:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "YouTube: ESPN UK"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/329052-Disney-UWCL-The-Hangout"
+    },
+    {
       "title": "Azerbaijan v Liechtenstein",
       "teams": [
         "Azerbaijan",
@@ -130,6 +145,25 @@
       "match_url": "https://icdb.tv/match/327953-Azerbaijan-v-Liechtenstein"
     },
     {
+      "title": "Benfica v Bayern Munich",
+      "teams": [
+        "Benfica",
+        "Bayern Munich"
+      ],
+      "date": "30/09/2026",
+      "time": "19:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "World Feed",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "Disney+ Europe (€/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/329049-Benfica-v-Bayern-Munich"
+    },
+    {
       "title": "OL Lyonnes v Chelsea",
       "teams": [
         "OL Lyonnes",
@@ -140,12 +174,32 @@
       "tournament": "UEFA Womens Champions League",
       "channels": [
         "Disney+ Europe (€/geo/R)",
-        "Disney+ UK & Ireland (£/€/geo/R)"
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "TV2 Play Norge ($/geo/R)",
+        "TV2 Sport 1 Norge HD"
       ],
       "commentators": [
+        "Bksm",
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/328944-OL-Lyonnes-v-Chelsea"
+    },
+    {
+      "title": "Scotland U-21 v Azerbaijan U-21",
+      "teams": [
+        "Scotland U-21",
+        "Azerbaijan U-21"
+      ],
+      "date": "30/09/2026",
+      "time": "18:30",
+      "tournament": "UEFA U-21 Championship 2027 Qualifiers",
+      "channels": [
+        "YouTube: Scotland National Team"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/328983-Scotland-U21-v-Azerbaijan-U21"
     },
     {
       "title": "BBC Euro Leagues",
@@ -160,6 +214,24 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/328005-BBC-Euro-Leagues"
+    },
+    {
+      "title": "Rangers v Hammarby",
+      "teams": [
+        "Rangers",
+        "Hammarby"
+      ],
+      "date": "30/09/2026",
+      "time": "18:00",
+      "tournament": "UEFA Women's Europa Cup",
+      "channels": [
+        "Rangers TV [$] (geo/R)",
+        "YouTube: Rangers Football Club (Official)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/329053-Rangers-v-Hammarby"
     },
     {
       "title": "talkSPORT Kick Off",
@@ -193,6 +265,50 @@
       "match_url": "https://icdb.tv/match/328087-Bahrain-v-Yemen"
     },
     {
+      "title": "BK Häcken v Juventus",
+      "teams": [
+        "BK Häcken",
+        "Juventus"
+      ],
+      "date": "30/09/2026",
+      "time": "16:45",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "World Feed",
+        "UEFA (highlights)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "Disney+ Europe (€/geo/R)"
+      ],
+      "commentators": [
+        "AndyRoo_0860",
+        "ImpactPlayaz",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/329046-BK-Hcken-v-Juventus"
+    },
+    {
+      "title": "Paris FC v Arsenal",
+      "teams": [
+        "Paris FC",
+        "Arsenal"
+      ],
+      "date": "30/09/2026",
+      "time": "16:45",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "World Feed",
+        "UEFA (highlights)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "Disney+ Europe (€/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz",
+        "Mikhail17",
+        "RussVMedia"
+      ],
+      "match_url": "https://icdb.tv/match/329045-Paris-FC-v-Arsenal"
+    },
+    {
       "title": "Roma v Barcelona",
       "teams": [
         "Roma",
@@ -202,15 +318,55 @@
       "time": "16:45",
       "tournament": "UEFA Womens Champions League",
       "channels": [
+        "3Cat (geo/R)",
         "Disney+ España (€/geo/R)",
         "Disney+ Europe (€/geo/R)",
-        "Disney+ UK & Ireland (£/€/geo/R)"
+        "Disney+ Italia ($/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "TV3 Catalunya HD",
+        "UEFA (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
-        "ImpactPlayaz"
+        "Guest-SC",
+        "ImpactPlayaz",
+        "Mikhail17"
       ],
       "match_url": "https://icdb.tv/match/328344-Roma-v-Barcelona"
+    },
+    {
+      "title": "Disney+ UWCL: The Hangout",
+      "date": "30/09/2026",
+      "time": "16:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "YouTube: ESPN UK"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/329051-Disney-UWCL-The-Hangout"
+    },
+    {
+      "title": "Mexico v Peru",
+      "teams": [
+        "Mexico",
+        "Peru"
+      ],
+      "date": "30/09/2026",
+      "time": "01:00",
+      "tournament": "Friendly International",
+      "channels": [
+        "TUDN Español USA",
+        "Univision"
+      ],
+      "commentators": [
+        "Beaty"
+      ],
+      "match_url": "https://icdb.tv/match/329050-Mexico-v-Peru"
     },
     {
       "title": "Belize v St. Vincent and the Grenadines",
@@ -232,6 +388,25 @@
       "match_url": "https://icdb.tv/match/328881-Belize-v-St-Vincent-and-the-Grenadines"
     },
     {
+      "title": "United States v Chile",
+      "teams": [
+        "United States",
+        "Chile"
+      ],
+      "date": "30/09/2026",
+      "time": "00:00",
+      "tournament": "Friendly International",
+      "channels": [
+        "HBO Max USA [$] (geo/R)",
+        "TNT (US)",
+        "truTV (USA)"
+      ],
+      "commentators": [
+        "Beaty"
+      ],
+      "match_url": "https://icdb.tv/match/329042-United-States-v-Chile"
+    },
+    {
       "title": "Anguilla v Aruba",
       "teams": [
         "Anguilla",
@@ -243,9 +418,11 @@
       "channels": [
         "FOX ONE (USA) [$] (geo/R)",
         "Fox Sports 2 (US)",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/328880-Anguilla-v-Aruba"
@@ -262,9 +439,11 @@
       "channels": [
         "FOX ONE (USA) [$] (geo/R)",
         "Fox Sports 2 (US)",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/328879-French-Guiana-v-Sint-Maarten"
@@ -301,9 +480,11 @@
       "tournament": "CONCACAF Nations League",
       "channels": [
         "Fox Soccer Plus USA",
-        "OneSoccer"
+        "OneSoccer",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/328877-British-Virgin-Islands-v-Turks-Caicos-Islands"
@@ -318,9 +499,11 @@
       "time": "19:00",
       "tournament": "CAF African Cup of Nations",
       "channels": [
+        "World Feed",
         "beIN Xtra 1"
       ],
       "commentators": [
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328875-Somalia-v-Ivory-Coast"
@@ -475,26 +658,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "FlashScore App",
-        "SuperSport Premier League HD",
-        "ITV1 / HD",
-        "fuboTV",
-        "Flashscore UK",
-        "talkSPORT",
-        "World Feed",
-        "beIN Sports MENA English 1 HD",
-        "ITV (highlights)",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN (highlights)",
-        "talkSPORT App",
-        "ITV X (geo/R)",
-        "JB Sports",
-        "Monomax Streaming ($/geo/R)",
-        "STV (Scotland) / HD",
         "BBC Sport Online (Audio)",
+        "Virgin Media Two HD",
+        "STV Player (geo/R)",
+        "beIN Sports MENA English 1 HD",
+        "BBC RADIO 5 LIVE",
         "SuperSport MáXimo 2A HD",
-        "BBC Sounds APP",
-        "Virgin Media Play (geo/R) and11more channels"
+        "talkSPORT",
+        "DAZN (highlights)",
+        "DAZN Deutsch ($/geo/R)",
+        "SuperSport Premier League HD",
+        "Sky Sports News / HD",
+        "talkSPORT App",
+        "beIN Sports Australia 3 HD",
+        "ITV X (geo/R)",
+        "Sony Sports TEN 1 India HD",
+        "UEFA (highlights)",
+        "Monomax Streaming ($/geo/R)",
+        "Sky News",
+        "Virgin Media Play (geo/R)",
+        "World Feed and12more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -519,26 +702,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "SuperSport Grandstand HD",
-        "RTVE Play ($/geo/R)",
-        "UEFA (highlights)",
-        "fuboTV",
-        "World Feed",
-        "TVE La 1 HD España",
-        "Mediaset 20 Italia HD",
-        "Monomax Streaming ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "DAZN (highlights)",
-        "SuperSport Football Plus HD",
         "beIN Sports MENA 2 HD",
-        "Amazon Prime UK [$]",
-        "DAZN Deutsch ($/geo/R)",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "Puls 4 Österreich HD",
         "beIN Sports Australia 2 HD",
-        "SuperSport MáXimo 360",
+        "SuperSport MáXimo 1 HD",
+        "UEFA (highlights)",
+        "SuperSport Football Plus HD",
+        "World Feed",
         "Sony Sports TEN 2 India HD",
-        "SuperSport MáXimo 1 HD and0more channels"
+        "fuboTV",
+        "Puls 4 Österreich HD",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "Amazon Prime UK [$]",
+        "DAZN (highlights)",
+        "Mediaset 20 Italia HD",
+        "RTVE Play ($/geo/R)",
+        "SuperSport MáXimo 360",
+        "DAZN Deutsch ($/geo/R)",
+        "Monomax Streaming ($/geo/R)",
+        "SuperSport Grandstand HD",
+        "TVE La 1 HD España",
+        "DAZN Schweiz [$] (geo/R) and0more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -560,26 +743,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "DAZN (highlights)",
-        "BBC Two / HD",
-        "BBC (highlights)",
-        "BBC Radio 5 Sports Extra",
-        "BBC iPlayer (geo/R)",
-        "RTS 2 Suisse HD",
-        "FlashScore App",
-        "SuperSport MáXimo 3A HD",
-        "BBC RADIO 5 LIVE",
-        "SuperSport LaLiga HD",
         "BBC Sport Online (Audio)",
+        "SuperSport MáXimo 3A HD",
+        "RTS 2 Suisse HD",
         "DAZN Deutsch ($/geo/R)",
-        "Sony Sports TEN 5 India HD",
-        "fuboTV",
-        "Flashscore UK",
-        "DAZN Schweiz [$] (delayed",
-        "FlashScore (audio)",
-        "BBC Sport Scotland Online",
         "UEFA (highlights)",
-        "SRF Zwei Schweiz HD and8more channels"
+        "SRF Zwei Schweiz HD",
+        "BBC Scotland / HD",
+        "FlashScore App",
+        "DAZN Schweiz [$] (delayed",
+        "BBC Sport Scotland Online",
+        "BBC (highlights)",
+        "World Feed",
+        "Monomax Streaming ($/geo/R)",
+        "fuboTV",
+        "BBC Sounds APP",
+        "beIN Sports MENA 4 HD",
+        "FlashScore (audio)",
+        "Sony Sports TEN 5 India HD",
+        "BBC iPlayer (geo/R)",
+        "beIN Sports Australia 1 HD and8more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -641,9 +824,11 @@
       "time": "17:00",
       "tournament": "CAF African Cup of Nations",
       "channels": [
+        "World Feed",
         "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328873-Benin-v-Mauritania"
@@ -676,11 +861,13 @@
       "time": "16:00",
       "tournament": "CAF African Cup of Nations",
       "channels": [
-        "beIN Sports MENA 9 HD",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "World Feed",
+        "beIN Sports MENA 9 HD"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen",
         "ysscores"
       ],
@@ -735,9 +922,11 @@
       "time": "16:00",
       "tournament": "CAF African Cup of Nations",
       "channels": [
+        "World Feed",
         "beIN Sports MENA 2 HD"
       ],
       "commentators": [
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328217-Ghana-v-Gambia"
@@ -752,9 +941,11 @@
       "time": "16:00",
       "tournament": "CAF African Cup of Nations",
       "channels": [
+        "World Feed",
         "beIN Sports MENA 8 HD"
       ],
       "commentators": [
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328083-Cape-Verde-v-Rwanda"
