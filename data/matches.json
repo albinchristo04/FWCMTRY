@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-30T19:49:20.810486+00:00",
+  "scraped_at": "2026-09-30T23:27:37.694823+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 61,
+  "total_matches": 62,
   "matches": [
     {
       "title": "Manchester City v Real Madrid",
@@ -154,12 +154,14 @@
       "time": "19:00",
       "tournament": "UEFA Womens Champions League",
       "channels": [
-        "World Feed",
+        "Disney+ Europe (€/geo/R)",
         "Disney+ UK & Ireland (£/€/geo/R)",
-        "Disney+ Europe (€/geo/R)"
+        "UEFA (highlights)",
+        "World Feed"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "Mikhail17"
       ],
       "match_url": "https://icdb.tv/match/329049-Benfica-v-Bayern-Munich"
     },
@@ -176,11 +178,13 @@
         "Disney+ Europe (€/geo/R)",
         "Disney+ UK & Ireland (£/€/geo/R)",
         "TV2 Play Norge ($/geo/R)",
-        "TV2 Sport 1 Norge HD"
+        "TV2 Sport 1 Norge HD",
+        "UEFA (highlights)"
       ],
       "commentators": [
         "Bksm",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "Mikhail17"
       ],
       "match_url": "https://icdb.tv/match/328944-OL-Lyonnes-v-Chelsea"
     },
@@ -243,7 +247,7 @@
         "talkSPORT App"
       ],
       "commentators": [
-        "Crowe24"
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/328128-talkSPORT-Kick-Off"
     },
@@ -257,7 +261,8 @@
       "time": "17:30",
       "tournament": "Arabian Gulf Cup",
       "channels": [
-        "AD Sports 2"
+        "AD Sports 2",
+        "Alkass 2"
       ],
       "commentators": [
         "ysscores"
@@ -296,15 +301,17 @@
       "time": "16:45",
       "tournament": "UEFA Womens Champions League",
       "channels": [
-        "World Feed",
-        "UEFA (highlights)",
+        "Disney+ Europe (€/geo/R)",
         "Disney+ UK & Ireland (£/€/geo/R)",
-        "Disney+ Europe (€/geo/R)"
+        "ESPN UK / HD",
+        "UEFA (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "ImpactPlayaz",
         "Mikhail17",
-        "RussVMedia"
+        "RussVMedia",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/329045-Paris-FC-v-Arsenal"
     },
@@ -349,6 +356,23 @@
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/329051-Disney-UWCL-The-Hangout"
+    },
+    {
+      "title": "Eritrea v South Africa",
+      "teams": [
+        "Eritrea",
+        "South Africa"
+      ],
+      "date": "30/09/2026",
+      "time": "16:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "beIN Sports MENA 3 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328221-Eritrea-v-South-Africa"
     },
     {
       "title": "Mexico v Peru",
@@ -658,26 +682,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC Sport Online (Audio)",
+        "BBC Sounds APP",
+        "World Feed",
         "Virgin Media Two HD",
         "STV Player (geo/R)",
+        "UEFA (highlights)",
+        "SuperSport Premier League HD",
+        "BBC Sport Online (Audio)",
+        "DAZN (highlights)",
+        "The Commentary Hub",
+        "Flashscore UK",
+        "DAZN Schweiz [$] (geo/R)",
+        "talkSPORT",
+        "STV (Scotland) / HD",
+        "Sony Sports TEN 1 India HD",
         "beIN Sports MENA English 1 HD",
         "BBC RADIO 5 LIVE",
         "SuperSport MáXimo 2A HD",
-        "talkSPORT",
-        "DAZN (highlights)",
-        "DAZN Deutsch ($/geo/R)",
-        "SuperSport Premier League HD",
-        "Sky Sports News / HD",
+        "ITV (highlights)",
         "talkSPORT App",
-        "beIN Sports Australia 3 HD",
-        "ITV X (geo/R)",
-        "Sony Sports TEN 1 India HD",
-        "UEFA (highlights)",
-        "Monomax Streaming ($/geo/R)",
-        "Sky News",
-        "Virgin Media Play (geo/R)",
-        "World Feed and12more channels"
+        "JB Sports and12more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -702,26 +726,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "beIN Sports MENA 2 HD",
-        "beIN Sports Australia 2 HD",
-        "SuperSport MáXimo 1 HD",
-        "UEFA (highlights)",
-        "SuperSport Football Plus HD",
-        "World Feed",
-        "Sony Sports TEN 2 India HD",
-        "fuboTV",
-        "Puls 4 Österreich HD",
         "Amazon Prime Video Sport UK (Highlights)",
-        "Amazon Prime UK [$]",
-        "DAZN (highlights)",
-        "Mediaset 20 Italia HD",
-        "RTVE Play ($/geo/R)",
-        "SuperSport MáXimo 360",
-        "DAZN Deutsch ($/geo/R)",
-        "Monomax Streaming ($/geo/R)",
+        "Puls 4 Österreich HD",
         "SuperSport Grandstand HD",
+        "beIN Sports MENA 2 HD",
+        "SuperSport Football Plus HD",
+        "SuperSport MáXimo 1 HD",
+        "fuboTV",
+        "beIN Sports Australia 2 HD",
+        "DAZN Deutsch ($/geo/R)",
+        "SuperSport MáXimo 360",
+        "Monomax Streaming ($/geo/R)",
         "TVE La 1 HD España",
-        "DAZN Schweiz [$] (geo/R) and0more channels"
+        "UEFA (highlights)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Sony Sports TEN 2 India HD",
+        "Amazon Prime UK [$]",
+        "World Feed",
+        "RTVE Play ($/geo/R)",
+        "DAZN (highlights)",
+        "Mediaset 20 Italia HD and0more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -743,26 +767,26 @@
       "time": "18:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC Sport Online (Audio)",
-        "SuperSport MáXimo 3A HD",
-        "RTS 2 Suisse HD",
-        "DAZN Deutsch ($/geo/R)",
-        "UEFA (highlights)",
-        "SRF Zwei Schweiz HD",
         "BBC Scotland / HD",
-        "FlashScore App",
-        "DAZN Schweiz [$] (delayed",
-        "BBC Sport Scotland Online",
+        "SRF Zwei Schweiz HD",
+        "beIN Sports Australia 1 HD",
+        "BBC Sport Online (Audio)",
+        "BBC iPlayer (geo/R)",
+        "BBC Two / HD",
+        "Flashscore UK",
         "BBC (highlights)",
         "World Feed",
-        "Monomax Streaming ($/geo/R)",
-        "fuboTV",
+        "BBC RADIO 5 LIVE",
         "BBC Sounds APP",
         "beIN Sports MENA 4 HD",
+        "SuperSport MáXimo 3A HD",
+        "SuperSport LaLiga HD",
+        "RTS 2 Suisse HD",
+        "DAZN Deutsch ($/geo/R)",
+        "fuboTV",
+        "geo/R)",
         "FlashScore (audio)",
-        "Sony Sports TEN 5 India HD",
-        "BBC iPlayer (geo/R)",
-        "beIN Sports Australia 1 HD and8more channels"
+        "BBC Radio Scotland and8more channels"
       ],
       "commentators": [
         "Crowe24",
