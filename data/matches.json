@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-08T04:26:52.036775+00:00",
+  "scraped_at": "2026-10-08T11:46:41.054171+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 20,
+  "total_matches": 31,
   "matches": [
     {
       "title": "Málaga v Espanyol",
@@ -54,10 +54,13 @@
       "time": "18:45",
       "tournament": "French Ligue 1",
       "channels": [
+        "DAZN Deutsch [$] (geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "SuperSport 2 Albania HD"
       ],
       "commentators": [
-        "anarildoalia"
+        "anarildoalia",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/328322-Lens-v-Lyon"
     },
@@ -78,6 +81,40 @@
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/328320-Bohemians-v-Waterford"
+    },
+    {
+      "title": "Germany v Australia",
+      "teams": [
+        "Germany",
+        "Australia"
+      ],
+      "date": "09/10/2026",
+      "time": "18:30",
+      "tournament": "Friendly International (W)",
+      "channels": [
+        "ZDF / HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330532-Germany-v-Australia"
+    },
+    {
+      "title": "Borussia Dortmund v Werder Bremen",
+      "teams": [
+        "Borussia Dortmund",
+        "Werder Bremen"
+      ],
+      "date": "09/10/2026",
+      "time": "18:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328319-Borussia-Dortmund-v-Werder-Bremen"
     },
     {
       "title": "talkSPORT Thank Football It's Friday",
@@ -110,6 +147,40 @@
       "match_url": "https://icdb.tv/match/328342-BBC-Premier-League-KickOff"
     },
     {
+      "title": "Bayern Munich II v Unterhaching",
+      "teams": [
+        "Bayern Munich II",
+        "Unterhaching"
+      ],
+      "date": "09/10/2026",
+      "time": "17:00",
+      "tournament": "German Regionalliga: Bayern",
+      "channels": [
+        "BR24 Sport [online]"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330582-Bayern-Munich-II-v-Unterhaching"
+    },
+    {
+      "title": "Preußen Münster v Rot-Weiss Essen",
+      "teams": [
+        "Preußen Münster",
+        "Rot-Weiss Essen"
+      ],
+      "date": "09/10/2026",
+      "time": "17:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330470-Preuen-Mnster-v-RotWeiss-Essen"
+    },
+    {
       "title": "Greece v England",
       "teams": [
         "Greece",
@@ -131,6 +202,57 @@
       "match_url": "https://icdb.tv/match/328657-Greece-v-England"
     },
     {
+      "title": "Braunschweig v Holstein Kiel",
+      "teams": [
+        "Braunschweig",
+        "Holstein Kiel"
+      ],
+      "date": "09/10/2026",
+      "time": "16:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 4 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328491-Braunschweig-v-Holstein-Kiel"
+    },
+    {
+      "title": "Heidenheim v Kaiserslautern",
+      "teams": [
+        "Heidenheim",
+        "Kaiserslautern"
+      ],
+      "date": "09/10/2026",
+      "time": "16:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 3 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/328490-Heidenheim-v-Kaiserslautern"
+    },
+    {
+      "title": "- SKY DE - v - KONFERENZ -",
+      "teams": [
+        "- SKY DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "09/10/2026",
+      "time": "16:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330573-SKY-DE-v-KONFERENZ"
+    },
+    {
       "title": "Kazakhstan v Ireland",
       "teams": [
         "Kazakhstan",
@@ -150,18 +272,71 @@
       "match_url": "https://icdb.tv/match/328343-Kazakhstan-v-Ireland"
     },
     {
+      "title": "Palmeiras v Bahia",
+      "teams": [
+        "Palmeiras",
+        "Bahia"
+      ],
+      "date": "09/10/2026",
+      "time": "00:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Dubai Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328795-Palmeiras-v-Bahia"
+    },
+    {
+      "title": "Santos v Flamengo",
+      "teams": [
+        "Santos",
+        "Flamengo"
+      ],
+      "date": "08/10/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Dubai Sports 1",
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen",
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328787-Santos-v-Flamengo"
+    },
+    {
       "title": "talkSPORT Kick Off",
       "date": "08/10/2026",
       "time": "18:00",
       "tournament": "British Football",
       "channels": [
         "talkSPORT",
-        "talkSPORT AppRugby Union statistics"
+        "talkSPORT App"
       ],
       "commentators": [
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/329072-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "CFR Cluj v Universitatea Cluj",
+      "teams": [
+        "CFR Cluj",
+        "Universitatea Cluj"
+      ],
+      "date": "08/10/2026",
+      "time": "17:30",
+      "tournament": "Romanian Superliga",
+      "channels": [
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/317605-CFR-Cluj-v-Universitatea-Cluj"
     },
     {
       "title": "Cruzeiro v São Paulo",
@@ -243,9 +418,11 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Premiere (Brazil)",
-        "RecordTV"
+        "RecordTV",
+        "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
+        "kurtogen",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/330453-Internacional-v-Corinthians"
@@ -280,6 +457,20 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/328223-BBC-Euro-Leagues"
+    },
+    {
+      "title": "BBC 5 Live Sport",
+      "date": "07/10/2026",
+      "time": "18:00",
+      "tournament": "English Football League",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/330581-BBC-5-Live-Sport"
     },
     {
       "title": "BBC WM Sport",
