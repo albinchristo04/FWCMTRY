@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-09T04:30:37.651217+00:00",
+  "scraped_at": "2026-10-09T11:39:15.156939+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 71,
+  "total_matches": 76,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -177,18 +177,20 @@
       "time": "16:30",
       "tournament": "English Premier League",
       "channels": [
-        "NBC USA HD",
         "BBC RADIO 5 LIVE",
-        "MUTV / HD (radio commentary)",
-        "Peacock USA ($/geo/R)",
         "BBC Sounds APP",
-        "Sky Sport Premier League DE HD",
         "BBC Sport Online (Audio)",
-        "NBC App (USA)"
+        "MUTV / HD (radio commentary)",
+        "NBC App (USA)",
+        "NBC USA HD",
+        "Peacock USA ($/geo/R)",
+        "Sky Sport Premier League DE HD",
+        "Sky Sports News / HD"
       ],
       "commentators": [
         "AnthonyB94",
         "Crowe24",
+        "SonnyCorry",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/328528-Manchester-United-v-Tottenham-Hotspur"
@@ -327,6 +329,24 @@
       "match_url": "https://icdb.tv/match/330579-Fylde-v-Scunthorpe-United"
     },
     {
+      "title": "Middlesbrough v Wolves",
+      "teams": [
+        "Middlesbrough",
+        "Wolves"
+      ],
+      "date": "10/10/2026",
+      "time": "14:00",
+      "tournament": "English Championship",
+      "channels": [
+        "talkSPORT 2",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/329971-Middlesbrough-v-Wolves"
+    },
+    {
       "title": "Hearts v St Mirren",
       "teams": [
         "Hearts",
@@ -359,6 +379,23 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/329822-Dundee-United-v-Hibernian"
+    },
+    {
+      "title": "Bolton Wanderers v Stoke City",
+      "teams": [
+        "Bolton Wanderers",
+        "Stoke City"
+      ],
+      "date": "10/10/2026",
+      "time": "14:00",
+      "tournament": "English Championship",
+      "channels": [
+        "BBC Radio Manchester"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/329821-Bolton-Wanderers-v-Stoke-City"
     },
     {
       "title": "Rangers v Kilmarnock",
@@ -772,6 +809,20 @@
       "match_url": "https://icdb.tv/match/325315-Arsenal-v-Leeds-United"
     },
     {
+      "title": "Sky Soccer Saturday",
+      "date": "10/10/2026",
+      "time": "11:00",
+      "tournament": "British Football",
+      "channels": [
+        "Sky Sports News / HD",
+        "Soccer Saturday"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/330752-Sky-Soccer-Saturday"
+    },
+    {
       "title": "Darmstadt 98 v Energie Cottbus",
       "teams": [
         "Darmstadt 98",
@@ -866,10 +917,12 @@
       "time": "19:15",
       "tournament": "Portuguese Liga 1",
       "channels": [
+        "Shasha",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329246-Sporting-Braga-v-Sporting-Lisbon"
     },
@@ -883,9 +936,9 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "World Feed",
         "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "ImpactPlayaz"
@@ -902,12 +955,13 @@
       "time": "19:00",
       "tournament": "English Championship",
       "channels": [
+        "ITV English Football League Highlights",
+        "QPR+",
+        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "Sky Sports News / HD",
-        "Sky Sports (highlights)",
-        "ITV English Football League Highlights",
         "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
         "YouTube: EFL (Extended Highlights)"
       ],
       "commentators": [
@@ -928,11 +982,13 @@
       "channels": [
         "DAZN Deutsch [$] (geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "SuperSport 2 Albania HD"
+        "SuperSport 2 Albania HD",
+        "beIN Sports MENA 4 HD"
       ],
       "commentators": [
         "anarildoalia",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328322-Lens-v-Lyon"
     },
@@ -981,12 +1037,31 @@
       "time": "18:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
+        "MBC Shahid | Sports",
         "Sky Sport Bundesliga HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328319-Borussia-Dortmund-v-Werder-Bremen"
+    },
+    {
+      "title": "Al Nassr v Al Diriyah",
+      "teams": [
+        "Al Nassr",
+        "Al Diriyah"
+      ],
+      "date": "09/10/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329941-Al-Nassr-v-Al-Diriyah"
     },
     {
       "title": "PSV Eindhoven v Heerenveen",
@@ -998,10 +1073,12 @@
       "time": "18:00",
       "tournament": "Dutch Eredivisie",
       "channels": [
+        "Dubai Sports 2",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329589-PSV-Eindhoven-v-Heerenveen"
     },
@@ -1142,6 +1219,23 @@
       "match_url": "https://icdb.tv/match/330573-SKY-DE-v-KONFERENZ"
     },
     {
+      "title": "Al Fateh v Al Ahli",
+      "teams": [
+        "Al Fateh",
+        "Al Ahli"
+      ],
+      "date": "09/10/2026",
+      "time": "14:55",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/328796-Al-Fateh-v-Al-Ahli"
+    },
+    {
       "title": "Kazakhstan v Ireland",
       "teams": [
         "Kazakhstan",
@@ -1192,12 +1286,16 @@
         "Dubai Sports 1",
         "Dubai Sports 2",
         "GE TV",
+        "Premier Sports 2 HD (ROI only)",
+        "Premier Sports 2 UK HD",
+        "Premier Sports Player UK (£/geo/R)",
         "Premiere (Brazil)",
         "TV Globo",
         "World Feed",
         "globoplay"
       ],
       "commentators": [
+        "Mikhail17",
         "apltle12",
         "luca80sp",
         "ysscores"
@@ -1232,11 +1330,15 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Dubai Sports 1",
+        "Premier Sports 2 HD (ROI only)",
+        "Premier Sports 2 UK HD",
+        "Premier Sports Player UK (£/geo/R)",
         "Premiere (Brazil)",
         "Sportdigital FUSSBALL HD",
         "World Feed"
       ],
       "commentators": [
+        "Mikhail17",
         "apltle12",
         "kurtogen",
         "luca80sp",
