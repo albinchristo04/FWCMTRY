@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-09T19:59:52.231096+00:00",
+  "scraped_at": "2026-10-09T23:58:25.938174+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 95,
+  "total_matches": 97,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -194,26 +194,26 @@
       "time": "16:30",
       "tournament": "English Premier League",
       "channels": [
-        "Disney+ Caribbean [$]",
-        "Cambodia",
-        "BBC RADIO 5 LIVE",
-        "Star Sports Select HD1",
-        "BBC Sport Online (Audio)",
         "SuperSport Premier League HD",
-        "NBC USA HD",
-        "MUTV / HD (radio commentary)",
-        "MONOMAX (Thailand",
-        "Hub Premier 1 HD",
+        "Disney+ Hotstar India [$] (geo/R)",
+        "Sky Sports News / HD",
+        "Laos) [$] (geo/R)",
+        "BBC RADIO 5 LIVE",
+        "ESPN Extra (Caribbean)",
+        "BBC Sport Online (Audio)",
+        "Sky Sport Premier League DE HD",
+        "Sport 24 At Sea HD",
+        "Sport 24 In Flight HD",
+        "Premier League TV",
+        "Stan Sport Australia ($/geo/R)",
         "FuboTV Canada ($/geo/R)",
+        "BBC Sounds APP",
+        "Peacock USA ($/geo/R)",
         "NOW Premier League TV (hk)",
         "Premier League+ (Singapore)",
-        "ESPN Extra (Caribbean)",
-        "Disney+ Hotstar India [$] (geo/R)",
+        "Cambodia",
         "Sky Sport 8 NZ HD",
-        "Stan Sport Australia ($/geo/R)",
-        "Premier League TV",
-        "NBC App (USA)",
-        "Peacock USA ($/geo/R) and6more channels"
+        "Hub Premier 1 HD and6more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -1058,6 +1058,20 @@
       "match_url": "https://icdb.tv/match/329246-Sporting-Braga-v-Sporting-Lisbon"
     },
     {
+      "title": "BBC 5 Live Sport",
+      "date": "09/10/2026",
+      "time": "19:00",
+      "tournament": "FIFA Women's World Cup",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/330790-BBC-5-Live-Sport"
+    },
+    {
       "title": "Málaga v Espanyol",
       "teams": [
         "Málaga",
@@ -1123,18 +1137,18 @@
       "time": "18:45",
       "tournament": "French Ligue 1",
       "channels": [
-        "DAZN Deutsch [$] (geo/R)",
-        "World Feed",
-        "DAZN Schweiz [$] (geo/R)",
         "Amazon Prime UK [$]",
-        "beIN Sports MENA 4 HD",
-        "Vidio",
-        "SuperSport 2 Albania HD",
-        "SuperSport MáXimo 360",
-        "SuperSport Kickoff HD",
-        "Ligue 1+ (UK/IRL)",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "DAZN Deutsch [$] (geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "ITV French Ligue 1 Highlights",
-        "Amazon Prime Video Sport UK (Highlights)"
+        "Ligue 1+ (UK/IRL)",
+        "SuperSport 2 Albania HD",
+        "SuperSport Kickoff HD",
+        "SuperSport MáXimo 360",
+        "Vidio",
+        "World Feed",
+        "beIN Sports MENA 4 HD"
       ],
       "commentators": [
         "Mikhail17",
@@ -1173,9 +1187,14 @@
       "time": "18:30",
       "tournament": "Friendly International (W)",
       "channels": [
+        "10 Play (geo/R)",
+        "Paramount+ AUS ($/geo/R)",
+        "World Feed",
+        "YouTube: German Football (geo/R)",
         "ZDF / HD"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330532-Germany-v-Australia"
@@ -1190,17 +1209,17 @@
       "time": "18:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "DAZN Canada ($/geo/R)",
-        "BBC iPlayer (geo/R)",
-        "BBC Sport Online",
-        "World Feed",
-        "beIN Sports Australia 1 HD",
         "BBC (highlights)",
+        "BBC Sport Online",
+        "BBC Sport Website (geo/R)",
+        "BBC iPlayer (geo/R)",
         "BBC iPlayer 4K (geo/R)",
-        "Sky Sport Bundesliga HD",
-        "MBC Shahid | Sports",
+        "DAZN Canada ($/geo/R)",
         "Fandango",
-        "BBC Sport Website (geo/R)"
+        "MBC Shahid | Sports",
+        "Sky Sport Bundesliga HD",
+        "World Feed",
+        "beIN Sports Australia 1 HD"
       ],
       "commentators": [
         "Mikhail17",
@@ -1304,17 +1323,18 @@
       "time": "18:00",
       "tournament": "Saudi Pro League",
       "channels": [
-        "World Feed",
-        "Fox Soccer Plus USA",
-        "SuperSport ESPN HD",
-        "Vidio",
-        "ST Sports Premium HD",
-        "FOX ONE (USA) [$] (geo/R)",
-        "SPOTV (Asia)",
-        "YouTube: Saudi Pro League",
-        "Thmanyah 1",
         "Azam Sports 5 HD",
-        "MaxStream TV"
+        "FOX ONE (USA) [$] (geo/R)",
+        "Fox Soccer Plus USA",
+        "MaxStream TV",
+        "SPOTV (Asia)",
+        "ST Sports Premium HD",
+        "SuperSport ESPN HD",
+        "Thmanyah 1",
+        "Thmanyah APP",
+        "Vidio",
+        "World Feed",
+        "YouTube: Saudi Pro League"
       ],
       "commentators": [
         "Mikhail17",
@@ -1373,6 +1393,20 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/328342-BBC-Premier-League-KickOff"
+    },
+    {
+      "title": "Team Talks",
+      "date": "09/10/2026",
+      "time": "17:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/330793-Team-Talks"
     },
     {
       "title": "BBC WM Sport",
@@ -1472,14 +1506,16 @@
       "time": "16:30",
       "tournament": "FIFA Womens World Cup 2027 Qualifiers",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "ITV (highlights)",
+        "ITV X (geo/R)",
+        "ITV1 / HD",
         "STV (Scotland) / HD",
         "STV Player (geo/R)",
-        "BBC RADIO 5 LIVE",
-        "ITV (highlights)",
-        "ITV1 / HD",
-        "BBC Sounds APP",
-        "ITV X (geo/R)",
-        "BBC Sport Online (Audio)"
+        "talkSPORT",
+        "talkSPORT 2"
       ],
       "commentators": [
         "Crowe24"
@@ -1572,16 +1608,17 @@
       "time": "14:55",
       "tournament": "Saudi Pro League",
       "channels": [
-        "World Feed",
-        "Fox Sports 2 (US)",
-        "SuperSport ESPN HD",
-        "Vidio",
         "Azam Sports 3 HD",
-        "SPOTV 2 (SEA & HK)",
         "FOX ONE (USA) [$] (geo/R)",
-        "YouTube: Saudi Pro League",
+        "Fox Sports 2 (US)",
+        "MaxStream TV",
+        "SPOTV 2 (SEA & HK)",
+        "SuperSport ESPN HD",
         "Thmanyah 1",
-        "MaxStream TV"
+        "Thmanyah APP",
+        "Vidio",
+        "World Feed",
+        "YouTube: Saudi Pro League"
       ],
       "commentators": [
         "Mikhail17",
