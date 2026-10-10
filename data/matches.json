@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-10T19:07:28.890543+00:00",
+  "scraped_at": "2026-10-10T23:12:57.180328+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 174,
+  "total_matches": 177,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -616,6 +616,24 @@
       "match_url": "https://icdb.tv/match/329055-BBC-Match-of-the-Day"
     },
     {
+      "title": "Vasco da Gama v Remo",
+      "teams": [
+        "Vasco da Gama",
+        "Remo"
+      ],
+      "date": "10/10/2026",
+      "time": "21:00",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "CazéTV",
+        "RecordTV"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/330976-Vasco-da-Gama-v-Remo"
+    },
+    {
       "title": "Brazil v Argentina",
       "teams": [
         "Brazil",
@@ -636,6 +654,20 @@
       "match_url": "https://icdb.tv/match/330960-Brazil-v-Argentina"
     },
     {
+      "title": "The Saturday Wrap",
+      "date": "10/10/2026",
+      "time": "19:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/330977-The-Saturday-Wrap"
+    },
+    {
       "title": "Ajax v NEC Nijmegen",
       "teams": [
         "Ajax",
@@ -645,10 +677,12 @@
       "time": "19:00",
       "tournament": "Dutch Eredivisie",
       "channels": [
+        "Dubai Sports 1",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329615-Ajax-v-NEC-Nijmegen"
     },
@@ -662,14 +696,16 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "World Feed",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN France ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "beIN Sports MENA 2 HD",
-        "LaLiga TV International HD",
         "Disney+ UK & Ireland (£/€/geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "LaLiga TV International HD",
+        "World Feed",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
+        "Cr17",
         "ImpactPlayaz",
         "kurtogen",
         "ysscores"
@@ -696,6 +732,7 @@
         "FuboTV Canada ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
         "Peacock USA ($/geo/R)",
+        "STC TV App",
         "StarzPlay",
         "TLN (Canada)",
         "World Feed"
@@ -759,9 +796,9 @@
       "time": "18:45",
       "tournament": "French Ligue 1",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "beIN Sports MENA 1 HD",
-        "DAZN Deutsch ($/geo/R)"
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "kurtogen",
@@ -779,11 +816,14 @@
       "time": "18:30",
       "tournament": "Friendly International (W)",
       "channels": [
+        "HBO Max USA [$] (geo/R)",
         "RTVE Play ($/geo/R)",
+        "TNT Sports",
         "Teledeporte España",
         "World Feed"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "ImpactPlayaz",
         "apltle12"
       ],
@@ -871,6 +911,7 @@
       "tournament": "Saudi Pro League",
       "channels": [
         "Thmanyah 1",
+        "Thmanyah APP",
         "World Feed"
       ],
       "commentators": [
@@ -906,12 +947,14 @@
       "time": "16:45",
       "tournament": "Dutch Eredivisie",
       "channels": [
+        "Dubai Sports 1",
         "Sportdigital FUSSBALL HD",
         "World Feed"
       ],
       "commentators": [
         "apltle12",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329609-Feyenoord-v-AZ-Alkmaar"
     },
@@ -949,26 +992,26 @@
       "time": "16:30",
       "tournament": "English Premier League",
       "channels": [
-        "Stan Sport Australia ($/geo/R)",
-        "Sky Sports Main Event UHD",
-        "Cambodia",
-        "Laos)  [$] (geo/R)",
+        "BBC Radio Manchester",
+        "beIN 4K",
+        "Flashscore UK",
+        "Disney+ Caribbean [$]",
+        "NOW Premier League TV (hk)",
+        "FlashScore (audio)",
         "Astro Sports UHD",
-        "Sky Sports Main Event HD",
+        "Sport 24 At Sea HD",
+        "SiriusXM FC",
+        "BBC Sounds APP",
         "beIN Sports MENA 1 HD",
-        "Disney+ Hotstar India [$] (geo/R)",
-        "talkSPORT",
-        "SuperSport Premier League HD",
-        "Sky Sports News / HD",
-        "Premier League+ (Singapore)",
+        "BBC Match of the Day",
+        "talkSPORT (Ireland)‎",
+        "Sky Sport Premier League DE HD",
         "MUTV / HD (radio commentary)",
         "Sky Sports (highlights)",
-        "Sky Sport 8 NZ HD",
-        "SiriusXM FC",
-        "Premier League TV",
-        "NOW Premier League TV (hk)",
-        "Sport 24 In Flight HD",
-        "Sky Sports Premier League HD and29more channels"
+        "Astro Grandstand HD",
+        "Peacock USA ($/geo/R)",
+        "Sky Sports Premier League HD",
+        "Star Sports Select HD1 and30more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -994,15 +1037,16 @@
       "time": "16:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "Sky Sports Football HD",
         "DAZN Canada ($/geo/R)",
-        "World Feed",
-        "USA Network HD",
+        "MBC Action",
+        "MBC Shahid | Sports",
         "Peacock USA ($/geo/R)",
-        "Sky Sports (highlights)",
-        "Sky Sport Top Event HD",
         "Sky Sport Bundesliga HD",
-        "MBC Action"
+        "Sky Sport Top Event HD",
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "USA Network HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -1056,8 +1100,8 @@
       "time": "16:00",
       "tournament": "Swiss Super League",
       "channels": [
-        "Blue Sport 1 Live UHD",
         "Blue Sport 2 Live HD",
+        "Blue Sport 1 Live UHD",
         "RTS 2 Suisse HD",
         "SRF Zwei Schweiz HD"
       ],
@@ -1096,6 +1140,7 @@
       "tournament": "Türkiye Süper Lig",
       "channels": [
         "World Feed",
+        "beIN Sports HD 1 TR",
         "beIN Sports MENA 7 HD"
       ],
       "commentators": [
@@ -1117,6 +1162,7 @@
         "CBS Sports Golazo Network (US)",
         "DAZN 1 Italia HD",
         "DAZN Deutsch ($/geo/R)",
+        "DAZN France ($/geo/R)",
         "DAZN Italia ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
         "FuboTV Canada ($/geo/R)",
@@ -1125,11 +1171,13 @@
         "NBC Universo USA",
         "Paramount+ USA ($/geo/R)",
         "Peacock USA ($/geo/R)",
+        "STC TV App",
         "StarzPlay",
         "TLN (Canada)",
         "World Feed"
       ],
       "commentators": [
+        "Cr17",
         "Guest-SC",
         "Mikhail17",
         "bigddan11",
@@ -1148,11 +1196,13 @@
       "time": "15:15",
       "tournament": "French Ligue 1",
       "channels": [
+        "Ligue 1+ ($/geo/R)",
         "World Feed",
         "beIN Sports MENA 6 HD"
       ],
       "commentators": [
         "HWP",
+        "SYLVESTRE",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329825-Lille-v-Le-Havre"
@@ -1167,7 +1217,8 @@
       "time": "14:55",
       "tournament": "Saudi Pro League",
       "channels": [
-        "Thmanyah 2"
+        "Thmanyah 2",
+        "Thmanyah APP"
       ],
       "commentators": [
         "ysscores"
@@ -1524,15 +1575,15 @@
       "time": "14:00",
       "tournament": "English League One",
       "channels": [
-        "BBC Final Score",
+        "World Feed",
+        "talkSPORT",
         "BBC RADIO 5 LIVE",
         "BBC Radio Leicester",
-        "EFL Goals: Leagues 1 & 2",
-        "Foxes Hub",
-        "ITV English Football League Highlights",
+        "BBC Final Score",
         "Soccer Saturday",
-        "World Feed",
-        "talkSPORT"
+        "ITV English Football League Highlights",
+        "Foxes Hub",
+        "EFL Goals: Leagues 1 & 2"
       ],
       "commentators": [
         "Crowe24",
@@ -1553,13 +1604,13 @@
       "time": "14:00",
       "tournament": "English League Two",
       "channels": [
-        "BBC Final Score",
         "BBC RADIO 5 LIVE",
+        "BBC Final Score",
+        "Soccer Saturday",
         "BBC Radio Bristol",
-        "BBC Radio Somerset (MW)",
-        "EFL Goals: Leagues 1 & 2",
         "ITV English Football League Highlights",
-        "Soccer Saturday"
+        "BBC Radio Somerset (MW)",
+        "EFL Goals: Leagues 1 & 2"
       ],
       "commentators": [
         "Crowe24",
@@ -1685,15 +1736,15 @@
       "time": "14:00",
       "tournament": "English Championship",
       "channels": [
-        "BBC Final Score",
-        "BBC RADIO 5 LIVE",
-        "BBC Radio Lancashire (FM)",
-        "BBC Three Counties Radio (FM)",
-        "ITV English Football League Highlights",
-        "Sky Sports (highlights)",
-        "Soccer Saturday",
         "World Feed",
-        "talkSPORT"
+        "talkSPORT",
+        "BBC RADIO 5 LIVE",
+        "BBC Final Score",
+        "Soccer Saturday",
+        "Sky Sports (highlights)",
+        "ITV English Football League Highlights",
+        "BBC Three Counties Radio (FM)",
+        "BBC Radio Lancashire (FM)"
       ],
       "commentators": [
         "Crowe24",
@@ -1726,6 +1777,7 @@
       "commentators": [
         "Crowe24",
         "LukeA206",
+        "NDV",
         "apltle12",
         "mvjr4"
       ],
@@ -1783,18 +1835,18 @@
       "time": "14:00",
       "tournament": "English Championship",
       "channels": [
-        "BBC Final Score",
-        "BBC RADIO 5 LIVE",
-        "BBC Radio WM (DAB Black Country)",
-        "ITV English Football League Highlights",
-        "Sky Sports (highlights)",
-        "Soccer Saturday",
-        "Wolves App (English)",
-        "Wolves TV ($/geo/R)",
         "World Feed",
-        "talkSPORT",
         "talkSPORT 2",
-        "talkSPORT App"
+        "talkSPORT",
+        "BBC RADIO 5 LIVE",
+        "BBC Final Score",
+        "Soccer Saturday",
+        "talkSPORT App",
+        "Sky Sports (highlights)",
+        "Wolves TV ($/geo/R)",
+        "ITV English Football League Highlights",
+        "BBC Radio WM (DAB Black Country)",
+        "Wolves App (English)"
       ],
       "commentators": [
         "Crowe24",
@@ -1814,12 +1866,12 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC (highlights)",
         "BBC Radio Scotland",
+        "Soccer Saturday",
         "BBC Sportscene",
-        "Hearts TV",
+        "BBC (highlights)",
         "Radio Clyde 1",
-        "Soccer Saturday"
+        "Hearts TV"
       ],
       "commentators": [
         "HWP",
@@ -1838,10 +1890,10 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC (highlights)",
         "BBC Radio Scotland",
-        "BBC Sportscene",
         "Hibs TV",
+        "BBC Sportscene",
+        "BBC (highlights)",
         "Radio Clyde 1"
       ],
       "commentators": [
@@ -1860,12 +1912,12 @@
       "time": "14:00",
       "tournament": "English Championship",
       "channels": [
-        "BBC Final Score",
-        "BBC RADIO 5 LIVE",
+        "talkSPORT",
         "BBC Radio Manchester",
-        "Sky Sports (highlights)",
+        "BBC RADIO 5 LIVE",
+        "BBC Final Score",
         "Soccer Saturday",
-        "talkSPORT"
+        "Sky Sports (highlights)"
       ],
       "commentators": [
         "Crowe24",
@@ -1956,25 +2008,26 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC Final Score",
-        "BBC RADIO 5 LIVE",
-        "BBC Radio 5 Sports Extra",
-        "BBC Radio 5 Sports Extra 2",
-        "BBC Radio WM (FM)",
-        "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "FlashScore (audio)",
-        "FlashScore App",
-        "Flashscore UK",
-        "Sky Sports (highlights)",
-        "Soccer Saturday",
-        "USA Network App (USA)",
+        "talkSPORT",
+        "BBC Sounds APP",
         "USA Network HD",
-        "VillaTV",
+        "BBC Match of the Day",
+        "BBC Final Score",
+        "BBC (highlights)",
+        "Soccer Saturday",
         "World Feed",
         "beIN Sports MENA 2 HD",
-        "talkSPORT",
-        "talkSPORT International"
+        "USA Network App (USA)",
+        "BBC Radio 5 Sports Extra 2",
+        "Flashscore UK",
+        "FlashScore (audio)",
+        "VillaTV",
+        "Sky Sports (highlights)",
+        "BBC Radio 5 Sports Extra",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio WM (FM)",
+        "talkSPORT International and1more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1998,7 +2051,9 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
+        "BBC (highlights)",
         "BBC Final Score",
+        "BBC Match of the Day",
         "BBC RADIO 5 LIVE",
         "BBC Radio Newcastle",
         "FlashScore (audio)",
@@ -2031,11 +2086,11 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC (highlights)",
         "BBC Radio Scotland",
         "BBC Sportscene",
-        "Falkirk TV [$]",
-        "Radio Clyde 1"
+        "BBC (highlights)",
+        "Radio Clyde 1",
+        "Falkirk TV [$]"
       ],
       "commentators": [
         "HWP",
@@ -2075,26 +2130,26 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
-        "Flashscore UK",
-        "NBCSN",
         "Peacock USA ($/geo/R)",
-        "ViaPlay Norge HD",
-        "BBC Sounds APP",
-        "talkSPORT (Ireland)‎",
-        "BBC Sport Online (Audio)",
-        "talkSPORT",
-        "BBC Final Score",
-        "V Sport Premier League HD",
-        "World Feed",
         "Sky Sports News / HD",
-        "BBC (highlights)",
-        "Hub Premier 5 HD ($/geo/R)",
-        "SiriusXM FC",
+        "V Sport Premier League HD",
+        "talkSPORT (Ireland)‎",
+        "Flashscore UK",
+        "BBC Final Score",
+        "BBC Match of the Day",
+        "BBC Radio Solent",
         "Sky Sports (highlights)",
-        "Soccer Saturday",
-        "Premier Sports 1 HD (ROI only)",
-        "BBC World Service",
-        "beIN Sports MENA 1 HD and9more channels"
+        "BBC Sport Online (Audio)",
+        "BBC Sounds APP",
+        "NBCSN",
+        "talkSPORT International",
+        "FlashScore (audio)",
+        "BBC (highlights)",
+        "talkSPORT",
+        "Sky Sport 4 NZ HD",
+        "BBC Radio London",
+        "SiriusXM FC",
+        "BBC World Service and9more channels"
       ],
       "commentators": [
         "Bksm",
@@ -2120,7 +2175,8 @@
       "time": "13:50",
       "tournament": "Saudi Pro League",
       "channels": [
-        "Thmanyah 3"
+        "Thmanyah 3",
+        "Thmanyah APP"
       ],
       "commentators": [
         "ysscores"
@@ -2185,16 +2241,16 @@
       "time": "13:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "DAZN Canada ($/geo/R)",
-        "SporTV Brazil HD",
-        "World Feed",
-        "Peacock USA ($/geo/R)",
-        "Telemundo (usa)",
-        "Sky Sport Bundesliga HD",
         "DAZN Bundesliga-Konferenz",
-        "MBC Shahid | Sports",
+        "DAZN Canada ($/geo/R)",
         "Fandango",
-        "MaxStream TV"
+        "MBC Shahid | Sports",
+        "MaxStream TV",
+        "Peacock USA ($/geo/R)",
+        "Sky Sport Bundesliga HD",
+        "SporTV Brazil HD",
+        "Telemundo (usa)",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -2216,16 +2272,17 @@
       "time": "13:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "DAZN Canada ($/geo/R)",
-        "Sky Sport Bundesliga 2 HD",
-        "World Feed",
-        "Peacock USA ($/geo/R)",
-        "RTL Schweiz HD",
-        "RTL Deutschland HD",
-        "RTL Österreich HD",
         "DAZN Bundesliga-Konferenz",
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
         "MBC Action",
-        "Fandango"
+        "MBC Shahid | Sports",
+        "Peacock USA ($/geo/R)",
+        "RTL Deutschland HD",
+        "RTL Schweiz HD",
+        "RTL Österreich HD",
+        "Sky Sport Bundesliga 2 HD",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11",
@@ -2244,13 +2301,13 @@
       "time": "13:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "DAZN Canada ($/geo/R)",
-        "Sky Sport Bundesliga 5 HD",
-        "World Feed",
-        "Peacock USA ($/geo/R)",
         "DAZN Bundesliga-Konferenz",
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
         "MBC Shahid | Sports",
-        "Fandango"
+        "Peacock USA ($/geo/R)",
+        "Sky Sport Bundesliga 5 HD",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11",
@@ -2269,13 +2326,13 @@
       "time": "13:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
+        "DAZN Canada ($/geo/R)",
+        "Sky Sport Bundesliga 3 HD",
+        "World Feed",
+        "Peacock USA ($/geo/R)",
         "ARD Sportschau",
         "DAZN Bundesliga-Konferenz",
-        "DAZN Canada ($/geo/R)",
-        "Fandango",
-        "Peacock USA ($/geo/R)",
-        "Sky Sport Bundesliga 3 HD",
-        "World Feed"
+        "Fandango"
       ],
       "commentators": [
         "RHJR",
@@ -2294,14 +2351,14 @@
       "time": "13:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "DAZN Canada ($/geo/R)",
-        "Sky Sport Bundesliga 4 HD",
-        "World Feed",
-        "Peacock USA ($/geo/R)",
         "DAZN Bundesliga-Konferenz",
-        "Telemundo Deportes Ahora",
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
         "MBC Shahid | Sports",
-        "Fandango"
+        "Peacock USA ($/geo/R)",
+        "Sky Sport Bundesliga 4 HD",
+        "Telemundo Deportes Ahora",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11",
@@ -2347,9 +2404,9 @@
       "time": "13:00",
       "tournament": "Italian Serie BKT",
       "channels": [
-        "Destination Calcio (geo/R)",
+        "World Feed",
         "Fox Soccer Plus USA",
-        "World Feed"
+        "Destination Calcio (geo/R)"
       ],
       "commentators": [
         "apltle12"
@@ -2366,13 +2423,14 @@
       "time": "13:00",
       "tournament": "Italian Serie A",
       "channels": [
-        "World Feed",
-        "Peacock USA ($/geo/R)",
-        "FuboTV Canada ($/geo/R)",
-        "DAZN Italia ($/geo/R)",
         "DAZN 1 Italia HD",
+        "DAZN Italia ($/geo/R)",
+        "FuboTV Canada ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Peacock USA ($/geo/R)",
         "Shasha",
-        "Paramount+ USA ($/geo/R)"
+        "StarzPlay",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
@@ -2394,6 +2452,7 @@
         "Disney+ Brazil [$]",
         "ESPN 3 (Brazil)",
         "World Feed",
+        "beIN Sports HD 1 TR",
         "beIN Xtra 1"
       ],
       "commentators": [
@@ -2481,13 +2540,13 @@
       "time": "12:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "beIN Sports MENA 5 HD",
-        "World Feed",
-        "DAZN Schweiz [$] (geo/R)",
         "** ABANDONED **",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "LaLiga TV International HD",
         "Premier Sports Player UK (£/geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "World Feed",
+        "beIN Sports MENA 5 HD"
       ],
       "commentators": [
         "ImpactPlayaz",
@@ -2523,8 +2582,8 @@
       "time": "12:00",
       "tournament": "German 3. Liga",
       "channels": [
-        "ARD Sportschau",
-        "Magenta Deutsch Sport ($/geo/R)"
+        "Magenta Deutsch Sport ($/geo/R)",
+        "ARD Sportschau"
       ],
       "commentators": [
         "RHJR",
@@ -2542,9 +2601,9 @@
       "time": "12:00",
       "tournament": "German 3. Liga",
       "channels": [
-        "ARD Sportschau",
         "BR Fernsehen HD",
         "Magenta Deutsch Sport ($/geo/R)",
+        "ARD Sportschau",
         "NDR Fernsehen HD"
       ],
       "commentators": [
@@ -2626,10 +2685,14 @@
       "tournament": "English League One",
       "channels": [
         "Argyle TV ($/geo/R)",
-        "BBC RADIO 5 LIVE"
+        "BBC RADIO 5 LIVE",
+        "EFL Goals: Leagues 1 & 2",
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/328496-Plymouth-Argyle-v-AFC-Wimbledon"
     },
@@ -2717,26 +2780,26 @@
       "time": "11:30",
       "tournament": "English Premier League",
       "channels": [
-        "talkSPORT International",
-        "BBC (highlights)",
-        "World Feed",
-        "talkSPORT (Ireland)‎",
-        "beIN Sports MENA 1 HD",
-        "talkSPORT App",
-        "Disney+ Brazil [$]",
-        "USA Network HD",
-        "ViaPlay Norge HD",
-        "TNT Sports (highlights)",
-        "Sport 24 In Flight HD",
-        "Flashscore UK",
-        "Canal+ Foot HD",
         "Premier League TV",
-        "LUTV ($/geo/R)",
-        "TNT Sports Ultimate 4K (UK)",
+        "BBC Match of the Day",
+        "Disney+ Brazil [$]",
+        "ViaPlay Norge HD",
+        "Arsenal App",
         "HBO Max (uk only) [$/geo/R]",
+        "LUTV ($/geo/R)",
+        "TNT Sports (highlights)",
+        "talkSPORT International",
+        "BBC Radio Leeds",
         "Sky Sport Premier League DE HD",
-        "FlashScore Brazil",
-        "ARD Sportschau and21more channels"
+        "Canal+ Foot HD",
+        "BBC RADIO 5 LIVE",
+        "TNT Sports Ultimate 4K (UK)",
+        "RTL+ Deutschland",
+        "beIN 4K",
+        "V Sport Premier League HD",
+        "beIN Sports MENA 1 HD",
+        "Premier League+ (Singapore)",
+        "Canal+ France HD and22more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -2798,9 +2861,9 @@
       "time": "11:00",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "ARD Sportschau",
         "Sky Sport Bundesliga 4 HD",
-        "World Feed"
+        "World Feed",
+        "ARD Sportschau"
       ],
       "commentators": [
         "RHJR",
@@ -2819,9 +2882,9 @@
       "time": "11:00",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "ARD Sportschau",
         "Sky Sport Bundesliga 3 HD",
-        "World Feed"
+        "World Feed",
+        "ARD Sportschau"
       ],
       "commentators": [
         "RHJR",
@@ -2840,9 +2903,9 @@
       "time": "11:00",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "ARD Sportschau",
         "Sky Sport Bundesliga 5 HD",
-        "World Feed"
+        "World Feed",
+        "ARD Sportschau"
       ],
       "commentators": [
         "RHJR",
@@ -2884,6 +2947,24 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/330947-Crystal-Palace-U18-v-Leeds-United-U18"
+    },
+    {
+      "title": "South Melbourne v Melbourne Victory",
+      "teams": [
+        "South Melbourne",
+        "Melbourne Victory"
+      ],
+      "date": "10/10/2026",
+      "time": "08:35",
+      "tournament": "Australian Cup",
+      "channels": [
+        "10 Play (geo/R)",
+        "Paramount+ AUS ($/geo/R)"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/330978-South-Melbourne-v-Melbourne-Victory"
     },
     {
       "title": "Cerezo Osaka v Yokohama F-Marinos",
@@ -3027,21 +3108,23 @@
       "time": "18:45",
       "tournament": "French Ligue 1",
       "channels": [
-        "DAZN Deutsch [$] (geo/R)",
-        "World Feed",
-        "DAZN Schweiz [$] (geo/R)",
         "Amazon Prime UK [$]",
-        "beIN Sports MENA 4 HD",
-        "Vidio",
-        "SuperSport 2 Albania HD",
-        "SuperSport MáXimo 360",
-        "SuperSport Kickoff HD",
-        "Ligue 1+ (UK/IRL)",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "DAZN Deutsch [$] (geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "ITV French Ligue 1 Highlights",
-        "Amazon Prime Video Sport UK (Highlights)"
+        "Ligue 1+ ($/geo/R)",
+        "Ligue 1+ (UK/IRL)",
+        "SuperSport 2 Albania HD",
+        "SuperSport Kickoff HD",
+        "SuperSport MáXimo 360",
+        "Vidio",
+        "World Feed",
+        "beIN Sports MENA 4 HD"
       ],
       "commentators": [
         "Mikhail17",
+        "SYLVESTRE",
         "anarildoalia",
         "apltle12",
         "kurtogen",
