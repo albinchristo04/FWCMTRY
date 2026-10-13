@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-13T05:25:05.197286+00:00",
+  "scraped_at": "2026-10-13T17:21:26.496471+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 52,
+  "total_matches": 68,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -29,10 +29,10 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "World Feed",
-        "TNT Sports 2 HD (UK)",
+        "HBO Max (uk only) [$/geo/R]",
         "TNT Sports (highlights)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports 2 HD (UK)",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -50,20 +50,21 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Canal+ France HD",
+        "Canal+ Live 1 France HD",
+        "City+",
+        "HBO Max (uk only) [$/geo/R]",
         "RTÉ 2 Ireland / HD",
         "RTÉ Player (geo/R)",
-        "Canal+ France HD",
-        "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "talkSPORT App",
-        "BBC Sounds APP",
-        "City+",
-        "Canal+ Live 1 France HD",
         "Recast: Manchester City [$]",
+        "TNT Sports (highlights)",
         "TNT Sports 1 HD (UK)",
         "TNT Sports Ultimate 4K (UK)",
-        "BBC Sport Online (Audio)",
-        "HBO Max (uk only) [$/geo/R]"
+        "talkSPORT",
+        "talkSPORT App"
       ],
       "commentators": [
         "Cr17",
@@ -92,6 +93,27 @@
       "match_url": "https://icdb.tv/match/329038-Roma-v-Real-Madrid"
     },
     {
+      "title": "Shakhtar Donetsk v AEK Athens",
+      "teams": [
+        "Shakhtar Donetsk",
+        "AEK Athens"
+      ],
+      "date": "14/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "BBC (highlights)",
+        "BBC Match of the Day",
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports (highlights)",
+        "TNT Sports 8"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/329034-Shakhtar-Donetsk-v-AEK-Athens"
+    },
+    {
       "title": "LASK Linz v Liverpool",
       "teams": [
         "LASK Linz",
@@ -101,9 +123,11 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
-        "TNT Sports 2 HD (UK)",
+        "HBO Max (uk only) [$/geo/R]",
         "TNT Sports (highlights)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports 2 HD (UK)",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24"
@@ -137,12 +161,77 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "D Sports (South America)",
+        "Disney+ Central America [$]",
+        "ESPN (South America)",
+        "Paramount+ BRA ($/geo/R)",
+        "Rádio CBN",
+        "Rádio TMC Rio",
+        "Rádio Tupi",
+        "SBT (Brazil)",
         "beIN Sports MENA 2 HD"
       ],
       "commentators": [
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/330068-Boca-Juniors-v-Vasco-da-Gama"
+    },
+    {
+      "title": "Brazil v Argentina",
+      "teams": [
+        "Brazil",
+        "Argentina"
+      ],
+      "date": "13/10/2026",
+      "time": "23:30",
+      "tournament": "Friendly International (W)",
+      "channels": [
+        "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/331412-Brazil-v-Argentina"
+    },
+    {
+      "title": "RB Leipzig v PSV Eindhoven",
+      "teams": [
+        "RB Leipzig",
+        "PSV Eindhoven"
+      ],
+      "date": "13/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "Disney+ Central America [$]",
+        "ESPN 7 (South America)",
+        "Flow Sports"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/331410-RB-Leipzig-v-PSV-Eindhoven"
+    },
+    {
+      "title": "Villarreal v Napoli",
+      "teams": [
+        "Villarreal",
+        "Napoli"
+      ],
+      "date": "13/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "Disney+ Argentina ($/geo/R)",
+        "ESPN 6 (CentroAmérica)",
+        "ESPN 6 (South America)",
+        "Fox Sports 2 (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/331409-Villarreal-v-Napoli"
     },
     {
       "title": "Atlético Madrid v Manchester United",
@@ -154,20 +243,32 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Amazon Prime UK [$]",
-        "BBC RADIO 5 LIVE",
+        "talkSPORT App",
+        "ESPN 2 (Colombia)",
         "BBC Sounds APP",
+        "ESPN 2 (Venezuela)",
+        "HBO Max Brasil [geo/r] [$]",
+        "ESPN Peru",
+        "Amazon Prime UK [$]",
         "BBC Sport Online (Audio)",
-        "Premier Sports 1 HD (ROI only)",
-        "Virgin Media Two / HD (Highlights)",
+        "ESPN Bolivia",
         "beIN Sports MENA 5 HD",
         "talkSPORT",
-        "talkSPORT App"
+        "ESPN 2 (CentroAmérica)",
+        "ESPN (Argentina)",
+        "ESPN Uruguay",
+        "BBC RADIO 5 LIVE",
+        "ESPN 2 (Ecuador)",
+        "ESPN Paraguay",
+        "Paramount+ USA ($/geo/R)",
+        "ESPN (Chile)",
+        "Premier Sports 1 HD (ROI only) and2more channels"
       ],
       "commentators": [
         "Crowe24",
         "ImpactPlayaz",
         "apltle12",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328929-Atltico-Madrid-v-Manchester-United"
@@ -184,10 +285,14 @@
       "channels": [
         "Canal+ Foot HD",
         "Canal+ Live 1 France HD",
+        "Disney+ Central America [$]",
+        "ESPN 4 (South America)",
         "HBO Max (uk only) [$/geo/R]",
         "TNT Sports (highlights)",
         "TNT Sports 1 HD (UK)",
         "TNT Sports Ultimate 4K (UK)",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD",
         "beIN Sports MENA 4 HD",
         "talkSPORT 2",
         "talkSPORT App"
@@ -195,7 +300,9 @@
       "commentators": [
         "Cr17",
         "Crowe24",
+        "ImpactPlayaz",
         "apltle12",
+        "luca80sp",
         "rockvii",
         "ysscores"
       ],
@@ -211,14 +318,25 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "Disney+ Argentina ($/geo/R)",
+        "ESPN (CentroAmérica)",
+        "ESPN 5 (South America)",
+        "ESPN Premium (Chile)",
+        "Fox Sports (Argentina)",
         "HBO Max (uk only) [$/geo/R]",
+        "HBO Max Brasil [geo/r] [$]",
+        "Paramount+ USA ($/geo/R)",
+        "TNT (brazil)",
         "TNT Sports (highlights)",
         "TNT Sports 2 HD (UK)",
+        "TRT 1 Türkiye HD",
         "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "Crowe24",
         "apltle12",
+        "luca80sp",
+        "windbuff",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328927-Galatasaray-v-Barcelona"
@@ -235,6 +353,9 @@
       "channels": [
         "BBC (highlights)",
         "BBC Match of the Day",
+        "Disney+ Central America [$]",
+        "ESPN 2 (Argentina)",
+        "ESPN 3 (South America)",
         "HBO Max (uk only) [$/geo/R]",
         "Inter TV (highlights)",
         "Inter [app] (geo/R)",
@@ -245,9 +366,27 @@
       "commentators": [
         "Crowe24",
         "Mikhail17",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328926-Inter-Milan-v-Club-Brugge"
+    },
+    {
+      "title": "RB Leipzig v PSV Eindhoven",
+      "teams": [
+        "RB Leipzig",
+        "PSV Eindhoven"
+      ],
+      "date": "13/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "Blue Sport 4 Live HD"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/328925-RB-Leipzig-v-PSV-Eindhoven"
     },
     {
       "title": "Viking v Bayern Munich",
@@ -259,12 +398,55 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "ESPN (Colombia)",
+        "ESPN 2 (South America)",
+        "ESPN 3 (Argentina)",
+        "ESPN 5 (CentroAmérica)",
+        "ESPN Ecuador",
+        "ESPN Venezuela",
         "beIN Sports MENA 7 HD"
       ],
       "commentators": [
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328924-Viking-v-Bayern-Munich"
+    },
+    {
+      "title": "Wrexham v West Bromwich Albion",
+      "teams": [
+        "Wrexham",
+        "West Bromwich Albion"
+      ],
+      "date": "13/10/2026",
+      "time": "18:45",
+      "tournament": "English Championship",
+      "channels": [
+        "BBC Radio WM (FM)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/328922-Wrexham-v-West-Bromwich-Albion"
+    },
+    {
+      "title": "Bristol City v Blackburn Rovers",
+      "teams": [
+        "Bristol City",
+        "Blackburn Rovers"
+      ],
+      "date": "13/10/2026",
+      "time": "18:45",
+      "tournament": "English Championship",
+      "channels": [
+        "BBC Radio Bristol",
+        "BBC Radio Somerset",
+        "BBC Radio Lancashire (FM)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/328921-Bristol-City-v-Blackburn-Rovers"
     },
     {
       "title": "Wolves v Bolton Wanderers",
@@ -276,6 +458,7 @@
       "time": "18:45",
       "tournament": "English Championship",
       "channels": [
+        "BBC Radio Manchester",
         "Sky Sports (highlights)",
         "ITV English Football League Highlights",
         "Sky Sports+ [via APP]"
@@ -284,6 +467,21 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/328917-Wolves-v-Bolton-Wanderers"
+    },
+    {
+      "title": "TNT Goals Show Xtra",
+      "date": "13/10/2026",
+      "time": "18:30",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Goals Show Extra",
+        "TNT Sports 3 HD (UK)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331404-TNT-Goals-Show-Xtra"
     },
     {
       "title": "Ireland v Kazakhstan",
@@ -295,6 +493,7 @@
       "time": "18:30",
       "tournament": "FIFA Women's World Cup Qualifiers",
       "channels": [
+        "RTE Radio 1",
         "RTÉ 2 Ireland / HD",
         "RTÉ News",
         "RTÉ Player (geo/R)"
@@ -326,6 +525,25 @@
       "match_url": "https://icdb.tv/match/328910-England-v-Greece"
     },
     {
+      "title": "Scotland v Czechia",
+      "teams": [
+        "Scotland",
+        "Czechia"
+      ],
+      "date": "13/10/2026",
+      "time": "18:15",
+      "tournament": "FIFA Womens World Cup 2027 Qualifiers",
+      "channels": [
+        "BBC Scotland / HD",
+        "BBC Sport Scotland Online",
+        "BBC iPlayer (geo/R)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/329249-Scotland-v-Czechia"
+    },
+    {
       "title": "Al Ittihad v Shabab Al Ahli",
       "teams": [
         "Al Ittihad",
@@ -343,6 +561,20 @@
       "match_url": "https://icdb.tv/match/328909-Al-Ittihad-v-Shabab-Al-Ahli"
     },
     {
+      "title": "Sky Soccer Special",
+      "date": "13/10/2026",
+      "time": "18:00",
+      "tournament": "British Football",
+      "channels": [
+        "Sky Sports News / HD",
+        "Soccer Special"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/331408-Sky-Soccer-Special"
+    },
+    {
       "title": "Lens v Sporting Lisbon",
       "teams": [
         "Lens",
@@ -352,11 +584,33 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
+        "SuperSport MáXimo 2A HD",
+        "Canal+ Foot HD",
+        "HBO Max (uk only) [$/geo/R]",
+        "Disney+ Argentina ($/geo/R)",
+        "HBO Max Brasil [geo/r] [$]",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD",
+        "beIN Sports MENA English 1 HD",
+        "ESPN (CentroAmérica)",
         "Canal+ Live 1 France HD",
-        "Canal+ Foot HD"
+        "BBC Match of the Day",
+        "Fox Sports (Argentina)",
+        "ESPN (South America)",
+        "TNT Sports 2 HD (UK)",
+        "TSN Malta 7 HD",
+        "Sony Sports TEN 2 India HD",
+        "World Feed",
+        "Paramount+ USA ($/geo/R)",
+        "BBC (highlights)",
+        "TNT Sports (highlights) and1more channels"
       ],
       "commentators": [
-        "Cr17"
+        "Cr17",
+        "ImpactPlayaz",
+        "Mikhail17",
+        "clayts450",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/328891-Lens-v-Sporting-Lisbon"
     },
@@ -370,12 +624,54 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
+        "BBC (highlights)",
+        "BBC Match of the Day",
+        "ESPN 2 (CentroAmérica)",
+        "ESPN 2 (South America)",
+        "ESPN Premium (Chile)",
+        "HBO Max (uk only) [$/geo/R]",
+        "HBO Max Brasil [geo/r] [$]",
+        "Paramount+ USA ($/geo/R)",
+        "Sony Sports TEN 1 India HD",
+        "Space (Brazil)",
+        "SuperSport MáXimo 1 HD",
+        "SuperSport Premier League HD",
+        "TNT Sports (highlights)",
+        "TNT Sports 4 HD",
+        "TSN Malta 8 HD",
+        "World Feed",
         "beIN Sports MENA 4 HD"
       ],
       "commentators": [
+        "Mikhail17",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328890-Sabah-v-Slavia-Prague"
+    },
+    {
+      "title": "Germany v Japan",
+      "teams": [
+        "Germany",
+        "Japan"
+      ],
+      "date": "13/10/2026",
+      "time": "16:00",
+      "tournament": "Friendly International (W)",
+      "channels": [
+        "CBS Sports Golazo Network (US)",
+        "DAZN Worldwide ($/geo/R)",
+        "Disney+ Brazil [$]",
+        "ESPN 3 (Brazil)",
+        "Paramount+ USA ($/geo/R)",
+        "World Feed",
+        "YouTube: German Football (geo/R)"
+      ],
+      "commentators": [
+        "Mikhail17",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/331411-Germany-v-Japan"
     },
     {
       "title": "Al Seeb v Al Hussein",
@@ -404,9 +700,21 @@
       "time": "16:00",
       "tournament": "AFC Champions League Elite",
       "channels": [
+        "Astro GO (geo/R)",
+        "Astro Grandstand HD",
+        "Azam Sports 2 HD",
+        "Disney+ Brazil [$]",
+        "ESPN 4 (Brazil)",
+        "FanCode ($/geo/R)",
+        "Paramount+ AUS ($/geo/R)",
+        "Sporty TV Africa HD",
+        "World Feed",
+        "YouTube: The AFC Hub",
         "beIN Sports MENA 2 HD"
       ],
       "commentators": [
+        "Mikhail17",
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328889-Al-Sadd-v-Al-Hilal"
@@ -421,9 +729,11 @@
       "time": "14:00",
       "tournament": "UEFA Youth League (U-19)",
       "channels": [
+        "World Feed",
         "beIN Sports MENA 8 HD"
       ],
       "commentators": [
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328887-Villarreal-U19-v-Napoli-U19"
@@ -455,12 +765,41 @@
       "time": "12:15",
       "tournament": "AFC Champions League Elite",
       "channels": [
+        "Astro GO (geo/R)",
+        "FanCode ($/geo/R)",
+        "Paramount+ AUS ($/geo/R)",
+        "World Feed",
+        "YouTube: The AFC Hub",
         "beIN Sports MENA 2 HD"
       ],
       "commentators": [
+        "Mikhail17",
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329010-Buriram-United-v-Beijing-Guoan"
+    },
+    {
+      "title": "Công An Hà Nôi v Kashima Antlers",
+      "teams": [
+        "Công An Hà Nôi",
+        "Kashima Antlers"
+      ],
+      "date": "13/10/2026",
+      "time": "12:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "Astro GO (geo/R)",
+        "Astro Stadium HD",
+        "FanCode ($/geo/R)",
+        "Paramount+ AUS ($/geo/R)",
+        "World Feed",
+        "YouTube: The AFC Hub"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/329009-Cng-An-H-Ni-v-Kashima-Antlers"
     },
     {
       "title": "RB Leipzig U-19 v PSV Eindhoven U-19",
@@ -472,9 +811,11 @@
       "time": "12:00",
       "tournament": "UEFA Youth League (U-19)",
       "channels": [
+        "World Feed",
         "beIN Xtra 1"
       ],
       "commentators": [
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/328886-RB-Leipzig-U19-v-PSV-Eindhoven-U19"
@@ -506,9 +847,17 @@
       "time": "10:00",
       "tournament": "AFC Champions League Elite",
       "channels": [
+        "Astro GO (geo/R)",
+        "Astro Stadium HD",
+        "FanCode ($/geo/R)",
+        "Paramount+ AUS ($/geo/R)",
+        "World Feed",
+        "YouTube: The AFC Hub",
         "beIN Sports MENA 5 HD"
       ],
       "commentators": [
+        "Mikhail17",
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329008-Kyoto-Sanga-v-Ratchaburi"
@@ -523,9 +872,16 @@
       "time": "10:00",
       "tournament": "AFC Champions League Elite",
       "channels": [
+        "Astro GO (geo/R)",
+        "FanCode ($/geo/R)",
+        "Paramount+ AUS ($/geo/R)",
+        "World Feed",
+        "YouTube: The AFC Hub",
         "beIN Sports MENA 3 HD"
       ],
       "commentators": [
+        "Mikhail17",
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329007-Pohang-Steelers-v-Johor-Darul-Tazim"
@@ -540,9 +896,15 @@
       "time": "10:00",
       "tournament": "AFC Champions League Elite",
       "channels": [
+        "Astro GO (geo/R)",
+        "FanCode ($/geo/R)",
+        "Paramount+ AUS ($/geo/R)",
+        "World Feed",
+        "YouTube: The AFC Hub",
         "beIN Sports MENA 4 HD"
       ],
       "commentators": [
+        "Mikhail17",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329006-Shanghai-Port-v-Daejeon-Citizen"
@@ -557,9 +919,17 @@
       "time": "07:45",
       "tournament": "AFC Champions League Elite",
       "channels": [
-        "beIN Sports MENA 2 HD"
+        "Astro GO (geo/R)",
+        "FanCode ($/geo/R)",
+        "Paramount+ AUS ($/geo/R)",
+        "World Feed",
+        "YouTube: The AFC Hub",
+        "beIN Sports MENA 2 HD",
+        "beIN Sports MENA English 1 HD"
       ],
       "commentators": [
+        "Mikhail17",
+        "apltle12",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329005-Newcastle-Jets-v-Gamba-Osaka"
@@ -598,6 +968,34 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/331147-Chapecoense-v-Athletico-Paranaense"
+    },
+    {
+      "title": "The Final Word",
+      "date": "12/10/2026",
+      "time": "22:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331402-The-Final-Word"
+    },
+    {
+      "title": "Extra Time",
+      "date": "12/10/2026",
+      "time": "21:30",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331401-Extra-Time"
     },
     {
       "title": "Ferroviária v Bragantino",
@@ -704,30 +1102,31 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "beIN Sports MENA 2 HD",
-        "FlashScore App",
-        "Sky Sports Premier League HD",
-        "BBC RADIO 5 LIVE",
-        "USA Network App (USA)",
-        "FlashScore (audio)",
-        "talkSPORT",
-        "Sky Sports (highlights)",
-        "Sky Sports Main Event HD",
-        "Sky Sports News / HD",
-        "Flashscore UK",
-        "talkSPORT International",
-        "Sky Sports Audio Description",
-        "World Feed",
-        "Sky Sport Premier League DE HD",
-        "BBC CWR",
+        "Stan Sport Australia ($/geo/R)",
+        "Premier League TV",
         "BBC Radio Newcastle",
-        "BBC (highlights)",
+        "USA Network App (USA)",
+        "FuboTV Canada ($/geo/R)",
+        "Sky Sport 8 NZ HD",
+        "Sky Sport Premier League DE HD",
+        "USA Network HD",
+        "Disney+ Hotstar India [$] (geo/R)",
+        "talkSPORT International",
+        "Disney+ Caribbean [$]",
+        "beIN Sports MENA 2 HD",
         "SiriusXM FC",
-        "Sky Sports Main Event UHD and2more channels"
+        "Sky Sports Main Event UHD",
+        "talkSPORT App",
+        "Flashscore UK",
+        "Sport 24 At Sea HD",
+        "SuperSport Premier League HD",
+        "Sky Sports Audio Description",
+        "BBC CWR and20more channels"
       ],
       "commentators": [
         "Crowe24",
         "M7",
+        "Mikhail17",
         "SonnyCorry",
         "apltle12",
         "bigddan11",
@@ -834,10 +1233,10 @@
       "match_url": "https://icdb.tv/match/329003-Air-Force-Club-v-Al-Ain"
     },
     {
-      "title": "Al Nassr v Neftchi",
+      "title": "Al Nassr v Neftchi Fergana",
       "teams": [
         "Al Nassr",
-        "Neftchi"
+        "Neftchi Fergana"
       ],
       "date": "12/10/2026",
       "time": "18:15",
@@ -860,7 +1259,21 @@
         "kurtogen",
         "ysscores"
       ],
-      "match_url": "https://icdb.tv/match/328811-Al-Nassr-v-Neftchi"
+      "match_url": "https://icdb.tv/match/328811-Al-Nassr-v-Neftchi-Fergana"
+    },
+    {
+      "title": "Talksport The Women's Football Show",
+      "date": "12/10/2026",
+      "time": "18:00",
+      "tournament": "FIFA Womens World Cup 2027 Qualifiers",
+      "channels": [
+        "talkSPORT 2",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331403-Talksport-The-Womens-Football-Show"
     },
     {
       "title": "BBC Monday Night Club",
@@ -1040,6 +1453,23 @@
         "RussVMedia"
       ],
       "match_url": "https://icdb.tv/match/329000-Pakhtakor-v-Al-Qadisiyah"
+    },
+    {
+      "title": "Real Valladolid v Albacete",
+      "teams": [
+        "Real Valladolid",
+        "Albacete"
+      ],
+      "date": "12/10/2026",
+      "time": "12:00",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/329642-Real-Valladolid-v-Albacete"
     },
     {
       "title": "Germany U-17 v Iceland",
