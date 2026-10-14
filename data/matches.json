@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-14T03:29:07.887479+00:00",
+  "scraped_at": "2026-10-14T09:55:39.295134+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 65,
+  "total_matches": 81,
   "matches": [
     {
       "title": "BBC Euro Leagues",
@@ -206,6 +206,23 @@
       "match_url": "https://icdb.tv/match/329108-Torreense-v-Sunderland"
     },
     {
+      "title": "Fluminense v Palmeiras",
+      "teams": [
+        "Fluminense",
+        "Palmeiras"
+      ],
+      "date": "15/10/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Libertadores",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/330079-Fluminense-v-Palmeiras"
+    },
+    {
       "title": "BBC Match of the Day",
       "date": "14/10/2026",
       "time": "21:40",
@@ -231,14 +248,18 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "World Feed",
-        "TNT Sports 2 HD (UK)",
+        "HBO Max (uk only) [$/geo/R]",
         "TNT Sports (highlights)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports 2 HD (UK)",
+        "World Feed",
+        "beIN Sports MENA 4 HD",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
-        "Mikhail17"
+        "Mikhail17",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329040-Aston-Villa-v-Fenerbahe"
     },
@@ -298,6 +319,40 @@
       "match_url": "https://icdb.tv/match/329038-Roma-v-Real-Madrid"
     },
     {
+      "title": "Bodø/Glimt v Borussia Dortmund",
+      "teams": [
+        "Bodø/Glimt",
+        "Borussia Dortmund"
+      ],
+      "date": "14/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "beIN Sports MENA 6 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329037-BodGlimt-v-Borussia-Dortmund"
+    },
+    {
+      "title": "Slovan Bratislava v Stuttgart",
+      "teams": [
+        "Slovan Bratislava",
+        "Stuttgart"
+      ],
+      "date": "14/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "beIN Sports MENA 7 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329035-Slovan-Bratislava-v-Stuttgart"
+    },
+    {
       "title": "Shakhtar Donetsk v AEK Athens",
       "teams": [
         "Shakhtar Donetsk",
@@ -307,16 +362,36 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "BBC Match of the Day",
         "BBC (highlights)",
+        "BBC Match of the Day",
+        "HBO Max (uk only) [$/geo/R]",
         "TNT Sports (highlights)",
         "TNT Sports 8 HD (UK)",
-        "HBO Max (uk only) [$/geo/R]"
+        "beIN Xtra 2"
       ],
       "commentators": [
-        "Mikhail17"
+        "Mikhail17",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329034-Shakhtar-Donetsk-v-AEK-Athens"
+    },
+    {
+      "title": "Al Faisaly v Al Nahda",
+      "teams": [
+        "Al Faisaly",
+        "Al Nahda"
+      ],
+      "date": "14/10/2026",
+      "time": "18:15",
+      "tournament": "AFC Champions League 2",
+      "channels": [
+        "Alkass Six",
+        "beIN Xtra 3"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329030-Al-Faisaly-v-Al-Nahda"
     },
     {
       "title": "Sky Soccer Special",
@@ -363,12 +438,222 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Como TV ($/geo/R)"
+        "Como TV ($/geo/R)",
+        "beIN Sports MENA 4 HD"
       ],
       "commentators": [
-        "Mikhail17"
+        "Mikhail17",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329025-Feyenoord-v-Como-1907"
+    },
+    {
+      "title": "Al Jazira v Arkadag",
+      "teams": [
+        "Al Jazira",
+        "Arkadag"
+      ],
+      "date": "14/10/2026",
+      "time": "16:00",
+      "tournament": "AFC Champions League 2",
+      "channels": [
+        "Alkass Seven",
+        "beIN Sports MENA 6 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329024-Al-Jazira-v-Arkadag"
+    },
+    {
+      "title": "Al Taawoun v Al Rayyan",
+      "teams": [
+        "Al Taawoun",
+        "Al Rayyan"
+      ],
+      "date": "14/10/2026",
+      "time": "16:00",
+      "tournament": "AFC Champions League 2",
+      "channels": [
+        "Alkass 5",
+        "beIN Sports MENA 3 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329023-Al-Taawoun-v-Al-Rayyan"
+    },
+    {
+      "title": "Muharraq v Gol Gohar",
+      "teams": [
+        "Muharraq",
+        "Gol Gohar"
+      ],
+      "date": "14/10/2026",
+      "time": "16:00",
+      "tournament": "AFC Champions League 2",
+      "channels": [
+        "Alkass Six",
+        "beIN Sports MENA 5 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329022-Muharraq-v-Gol-Gohar"
+    },
+    {
+      "title": "Real Betis U-19 v FC Porto U-19",
+      "teams": [
+        "Real Betis U-19",
+        "FC Porto U-19"
+      ],
+      "date": "14/10/2026",
+      "time": "14:00",
+      "tournament": "UEFA Youth League (U-19)",
+      "channels": [
+        "beIN Sports MENA 5 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/331161-Real-Betis-U19-v-FC-Porto-U19"
+    },
+    {
+      "title": "Manchester City U-19 v Paris St Germain U-19",
+      "teams": [
+        "Manchester City U-19",
+        "Paris St Germain U-19"
+      ],
+      "date": "14/10/2026",
+      "time": "14:00",
+      "tournament": "UEFA Youth League (U-19)",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329020-Manchester-City-U19-v-Paris-St-Germain-U19"
+    },
+    {
+      "title": "Nasaf Qarshi v Al Wahda",
+      "teams": [
+        "Nasaf Qarshi",
+        "Al Wahda"
+      ],
+      "date": "14/10/2026",
+      "time": "13:45",
+      "tournament": "AFC Champions League 2",
+      "channels": [
+        "Alkass 5",
+        "beIN Sports MENA 4 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329019-Nasaf-Qarshi-v-Al-Wahda"
+    },
+    {
+      "title": "Persib Bandung v Viettel",
+      "teams": [
+        "Persib Bandung",
+        "Viettel"
+      ],
+      "date": "14/10/2026",
+      "time": "12:15",
+      "tournament": "AFC Champions League 2",
+      "channels": [
+        "beIN Sports MENA 3 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329018-Persib-Bandung-v-Viettel"
+    },
+    {
+      "title": "Roma U-19 v Real Madrid U-19",
+      "teams": [
+        "Roma U-19",
+        "Real Madrid U-19"
+      ],
+      "date": "14/10/2026",
+      "time": "12:00",
+      "tournament": "UEFA Youth League (U-19)",
+      "channels": [
+        "beIN Sports MENA 3 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329017-Roma-U19-v-Real-Madrid-U19"
+    },
+    {
+      "title": "LASK Linz U-19 v Liverpool U-19",
+      "teams": [
+        "LASK Linz U-19",
+        "Liverpool U-19"
+      ],
+      "date": "14/10/2026",
+      "time": "10:00",
+      "tournament": "UEFA Youth League (U-19)",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/331435-LASK-Linz-U19-v-Liverpool-U19"
+    },
+    {
+      "title": "Kashiwa Reysol v Thai Port",
+      "teams": [
+        "Kashiwa Reysol",
+        "Thai Port"
+      ],
+      "date": "14/10/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 5 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329015-Kashiwa-Reysol-v-Thai-Port"
+    },
+    {
+      "title": "Vissel Kobe v Jeonbuk Motors",
+      "teams": [
+        "Vissel Kobe",
+        "Jeonbuk Motors"
+      ],
+      "date": "14/10/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "beIN Sports MENA 2 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329014-Vissel-Kobe-v-Jeonbuk-Motors"
+    },
+    {
+      "title": "Melbourne Victory v FC Seoul",
+      "teams": [
+        "Melbourne Victory",
+        "FC Seoul"
+      ],
+      "date": "14/10/2026",
+      "time": "07:45",
+      "tournament": "AFC Champions League 2",
+      "channels": [
+        "beIN Sports MENA 1 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329013-Melbourne-Victory-v-FC-Seoul"
     },
     {
       "title": "Boca Juniors v Vasco da Gama",
@@ -389,9 +674,12 @@
         "Rádio Tupi",
         "SBT (Brazil)",
         "World Feed",
-        "beIN Sports MENA 2 HD"
+        "beIN Connect USA",
+        "beIN Sports MENA 2 HD",
+        "beIN Sports MENA English 2 HD"
       ],
       "commentators": [
+        "Mikhail17",
         "apltle12",
         "luca80sp",
         "ysscores"
@@ -555,31 +843,32 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Premier Sports 1 HD (ROI only)",
-        "Virgin Media Two / HD (Highlights)",
-        "ESPN 2 (Ecuador)",
-        "BBC iPlayer (geo/R)",
-        "talkSPORT",
-        "Sony Sports TEN 4 India HD",
-        "BBC Final Score",
-        "ESPN Paraguay",
-        "BBC Sport Online (Audio)",
-        "Flashscore UK",
-        "FlashScore (audio)",
-        "FlashScore App",
-        "Space (Brazil)",
-        "BBC Sounds APP",
-        "BBC *RED Button HD",
+        "ESPN 2 (Colombia)",
         "ESPN Bolivia",
-        "ESPN 2 (CentroAmérica)",
-        "SuperSport Football Plus HD",
+        "beIN Sports MENA English 1 HD",
+        "BBC Sounds APP",
         "World Feed",
-        "ESPN (Chile) and21more channels"
+        "YouTube: Manchester United",
+        "ESPN Paraguay",
+        "SuperSport Football Plus HD",
+        "Sony Sports TEN 2 India HD",
+        "BBC Sport Online (Audio)",
+        "MUTV",
+        "TNT Goals Show Extra",
+        "FlashScore (audio)",
+        "BBC Final Score",
+        "Sony Sports TEN 3 India HD",
+        "ESPN (Chile)",
+        "FlashScore Germany",
+        "ESPN 2 (CentroAmérica)",
+        "talkSPORT",
+        "Soccer Special and22more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
         "AnthonyB94",
         "Crowe24",
+        "FlashscoreDE",
         "ImpactPlayaz",
         "Mikhail17",
         "RussVMedia",
@@ -599,31 +888,32 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "TNT Sports (highlights)",
-        "beIN Sports MENA 4 HD",
-        "BBC RADIO 5 LIVE",
-        "FlashScore App",
-        "World Feed",
-        "TSN Malta 2 HD",
-        "Virgin Media Two HD",
-        "Sony Sports TEN 1 India HD",
-        "ESPN 4 (South America)",
-        "SuperSport MáXimo 3A HD",
+        "Flashscore UK",
         "Soccer Special",
-        "SuperSport Premier League HD",
-        "talkSPORT App",
         "Disney+ Central America [$]",
+        "talkSPORT App",
+        "FlashScore App",
+        "Sony Sports TEN 1 India HD",
+        "FlashScore (audio)",
+        "Canal+ Foot HD",
         "TNT Sports Ultimate 4K (UK)",
         "Virgin Media Play (geo/R)",
+        "talkSPORT 2",
+        "BBC RADIO 5 LIVE",
+        "Paramount+ USA ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "SuperSport MáXimo 3A HD",
+        "TNT Sports 1 HD (UK)",
+        "TNT Sports (highlights)",
+        "SuperSport Premier League HD",
         "Canal+ Live 1 France HD",
-        "Canal+ Foot HD",
-        "FlashScore (audio)",
-        "TNT Sports 1 HD (UK) and4more channels"
+        "ESPN 4 (South America) and5more channels"
       ],
       "commentators": [
         "AnthonyB94",
         "Cr17",
         "Crowe24",
+        "FlashscoreDE",
         "HWP",
         "ImpactPlayaz",
         "Mikhail17",
@@ -644,29 +934,30 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Blue Sport 6 Live HD",
-        "Fox Sports (Argentina)",
-        "ESPN (CentroAmérica)",
+        "FlashScore (audio)",
+        "TNT (brazil)",
+        "TNT Sports 2 HD (UK)",
+        "TRT 1 Türkiye HD",
+        "HBO Max Brasil [geo/r] [$]",
         "ESPN Premium (Chile)",
         "FlashScore App",
-        "Flashscore UK",
-        "TSN Malta 5 HD",
-        "Paramount+ USA ($/geo/R)",
         "ESPN 5 (South America)",
+        "Flashscore UK",
         "SuperSport Action HD",
-        "FlashScore (audio)",
-        "TRT 1 Türkiye HD",
-        "HBO Max (uk only) [$/geo/R]",
+        "Fox Sports (Argentina)",
+        "FlashScore Germany",
         "SuperSport MáXimo 2A HD",
-        "TNT Sports (highlights)",
-        "Virgin Media Two / HD (Highlights)",
-        "World Feed",
+        "ESPN (CentroAmérica)",
+        "TSN Malta 5 HD",
+        "beIN Sports MENA 1 HD",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ USA ($/geo/R)",
         "Disney+ Argentina ($/geo/R)",
-        "TNT Sports 2 HD (UK)",
-        "Sony Sports TEN 5 India HD and4more channels"
+        "World Feed and5more channels"
       ],
       "commentators": [
         "Crowe24",
+        "FlashscoreDE",
         "ImpactPlayaz",
         "Johnny17",
         "Mikhail17",
@@ -687,28 +978,30 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "beIN Sports MENA 6 HD",
-        "TSN Malta 4 HD",
-        "World Feed",
-        "ESPN 3 (South America)",
+        "BBC (highlights)",
         "BBC Match of the Day",
         "BBC RADIO 5 LIVE",
-        "BBC (highlights)",
+        "Disney+ Central America [$]",
         "ESPN 2 (Argentina)",
-        "Megogo Futbol 7 ($/geo/R)",
+        "ESPN 3 (South America)",
+        "FlashScore Germany",
+        "HBO Max (uk only) [$/geo/R]",
         "Inter TV (highlights)",
+        "Inter [app] (geo/R)",
+        "Megogo Futbol 7 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "SuperSport Kickoff HD",
         "TNT Sports (highlights)",
         "TNT Sports 5 HD (UK)",
-        "Inter [app] (geo/R)",
-        "Disney+ Central America [$]",
         "TNT Sports Goals Show Xtra",
-        "SuperSport Kickoff HD",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TSN Malta 4 HD",
+        "World Feed",
+        "beIN Sports MENA 6 HD"
       ],
       "commentators": [
         "AndyRoo_0860",
         "Crowe24",
+        "FlashscoreDE",
         "Mikhail17",
         "luca80sp",
         "ysscores"
@@ -725,19 +1018,21 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "TSN Malta 6 HD",
-        "World Feed",
         "BBC RADIO 5 LIVE",
-        "Megogo Futbol 8 ($/geo/R)",
         "Blue Sport 4 Live HD",
+        "FlashScore Germany",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 8 ($/geo/R)",
         "Megogo Sport Ukraine HD",
+        "Paramount+ USA ($/geo/R)",
         "TNT Sports (highlights)",
         "TNT Sports 7 HD (UK)",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TSN Malta 6 HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
+        "FlashscoreDE",
         "Johnny17",
         "Mikhail17"
       ],
@@ -753,31 +1048,32 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "FlashScore (audio)",
-        "Paramount+ USA ($/geo/R)",
-        "ESPN Ecuador",
-        "NRK Sport",
-        "TNT Sports 9 HD (UK)",
-        "Virgin Media Two / HD (Highlights)",
-        "beIN Sports MENA 7 HD",
-        "ESPN 5 (CentroAmérica)",
-        "ESPN Venezuela",
-        "Flashscore UK",
         "TNT Sports Goals Show Xtra",
-        "TNT Sports 4 HD (UK)",
-        "FlashScore App",
-        "TV2 Play Norge ($/geo/R)",
-        "VG+ Sport Norge ($/geo/R)",
         "ESPN 3 (Argentina)",
-        "ESPN (Colombia)",
-        "ESPN 2 (South America)",
+        "Paramount+ USA ($/geo/R)",
+        "Virgin Media Two / HD (Highlights)",
+        "FlashScore App",
+        "HBO Max (uk only) [$/geo/R]",
+        "World Feed",
+        "beIN Sports MENA 7 HD",
         "TNT Sports (highlights)",
-        "World Feed and3more channels"
+        "ESPN Ecuador",
+        "TNT Sports 9 HD (UK)",
+        "VG+ Sport Norge ($/geo/R)",
+        "TSN Malta 7 HD",
+        "NRK Sport",
+        "ESPN 2 (South America)",
+        "TV2 Play Norge ($/geo/R)",
+        "ESPN 5 (CentroAmérica)",
+        "BBC RADIO 5 LIVE",
+        "TNT Sports 4 HD (UK)",
+        "ESPN (Colombia) and4more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
         "Bksm",
         "Crowe24",
+        "FlashscoreDE",
         "ImpactPlayaz",
         "Mikhail17",
         "apltle12",
@@ -796,14 +1092,16 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "TSN Malta 8 HD",
+        "FlashScore Germany",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ USA ($/geo/R)",
         "SuperSport LaLiga HD",
         "TNT Sports (highlights)",
         "TNT Sports 6 HD (UK)",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TSN Malta 8 HD"
       ],
       "commentators": [
+        "FlashscoreDE",
         "Mikhail17"
       ],
       "match_url": "https://icdb.tv/match/328923-Villarreal-v-Napoli"
@@ -949,6 +1247,8 @@
         "Sky Sports+ [via APP]",
         "Soccer Special",
         "Wanderers TV (Bolton Wanderers)",
+        "Wolves App (English)",
+        "Wolves TV ($/geo/R)",
         "World Feed"
       ],
       "commentators": [
@@ -1125,29 +1425,30 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
-        "HBO Max (uk only) [$/geo/R]",
-        "TNT (brazil)",
-        "TSN Malta 7 HD",
-        "Paramount+ USA ($/geo/R)",
-        "SuperSport MáXimo 2A HD",
-        "BBC (highlights)",
-        "Canal+ Foot HD",
-        "Fox Sports (Argentina)",
-        "ESPN (South America)",
-        "TNT Sports 2 HD (UK)",
-        "ESPN (CentroAmérica)",
         "TNT Sports (highlights)",
-        "Canal+ Live 1 France HD",
+        "TNT (brazil)",
         "World Feed",
-        "beIN Sports MENA English 1 HD",
-        "BBC Match of the Day",
-        "Virgin Media Two HD",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ USA ($/geo/R)",
         "HBO Max Brasil [geo/r] [$]",
         "Sony Sports TEN 2 India HD",
-        "Virgin Media Play (geo/R) and1more channels"
+        "FlashScore Germany",
+        "TNT Sports 2 HD (UK)",
+        "BBC (highlights)",
+        "Virgin Media Play (geo/R)",
+        "Canal+ Live 1 France HD",
+        "SuperSport MáXimo 2A HD",
+        "beIN Sports MENA English 1 HD",
+        "Disney+ Argentina ($/geo/R)",
+        "ESPN (South America)",
+        "Fox Sports (Argentina)",
+        "ESPN (CentroAmérica)",
+        "TSN Malta 7 HD",
+        "BBC Match of the Day and2more channels"
       ],
       "commentators": [
         "Cr17",
+        "FlashscoreDE",
         "ImpactPlayaz",
         "Mikhail17",
         "clayts450",
@@ -1165,25 +1466,27 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Sony Sports TEN 1 India HD",
-        "TSN Malta 8 HD",
-        "World Feed",
-        "ESPN 2 (South America)",
+        "BBC (highlights)",
         "BBC Match of the Day",
         "ESPN 2 (CentroAmérica)",
-        "BBC (highlights)",
-        "beIN Sports MENA 4 HD",
+        "ESPN 2 (South America)",
+        "ESPN Premium (Chile)",
+        "FlashScore Germany",
+        "HBO Max (uk only) [$/geo/R]",
         "HBO Max Brasil [geo/r] [$]",
+        "Paramount+ USA ($/geo/R)",
+        "Sony Sports TEN 1 India HD",
         "Space (Brazil)",
         "SuperSport MáXimo 1 HD",
         "SuperSport Premier League HD",
         "TNT Sports (highlights)",
         "TNT Sports 4 HD (UK)",
-        "ESPN Premium (Chile)",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TSN Malta 8 HD",
+        "World Feed",
+        "beIN Sports MENA 4 HD"
       ],
       "commentators": [
+        "FlashscoreDE",
         "Mikhail17",
         "luca80sp",
         "ysscores"
