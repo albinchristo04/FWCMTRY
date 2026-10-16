@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-16T18:37:16.054741+00:00",
+  "scraped_at": "2026-10-16T22:30:46.002094+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 154,
+  "total_matches": 160,
   "matches": [
     {
       "title": "BBC Sportscene",
@@ -1371,6 +1371,40 @@
       "match_url": "https://icdb.tv/match/331773-Cruzeiro-v-LDU-Quito"
     },
     {
+      "title": "Mirassol v Internacional",
+      "teams": [
+        "Mirassol",
+        "Internacional"
+      ],
+      "date": "16/10/2026",
+      "time": "23:00",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Premiere (Brazil)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/332016-Mirassol-v-Internacional"
+    },
+    {
+      "title": "Bahia v São Paulo",
+      "teams": [
+        "Bahia",
+        "São Paulo"
+      ],
+      "date": "16/10/2026",
+      "time": "22:00",
+      "tournament": "Brazilian Women's Cup (Copa do Brasil Feminina)",
+      "channels": [
+        "SporTV Brazil HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/332014-Bahia-v-So-Paulo"
+    },
+    {
       "title": "Burnley v Wolves",
       "teams": [
         "Burnley",
@@ -1380,18 +1414,28 @@
       "time": "19:00",
       "tournament": "English Championship",
       "channels": [
+        "BBC Radio Lancashire (FM)",
+        "CBS Sports Golazo N/W (geo/R)",
+        "Clarets Player",
+        "Clarets+",
+        "ITV English Football League Highlights",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
         "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
         "Wolves App (English)",
         "Wolves TV ($/geo/R)",
+        "World Feed",
         "beIN Sports MENA 1 HD",
         "talkSPORT 2",
         "talkSPORT App"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
+        "Mikhail17",
         "SonnyCorry",
         "ysscores"
       ],
@@ -1407,6 +1451,7 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "World Feed",
         "LaLiga TV International HD",
         "DAZN Italia ($/geo/R)",
         "DAZN Free Italia (geo/r)",
@@ -1428,8 +1473,9 @@
       "time": "19:00",
       "tournament": "Irish Premier Division",
       "channels": [
+        "Virgin Media Two HD",
         "Virgin Media Play (geo/R)",
-        "Virgin Media Two HD"
+        "Virgin Media Audio Description"
       ],
       "commentators": [
         "ImpactPlayaz"
@@ -1446,9 +1492,13 @@
       "time": "18:45",
       "tournament": "French Ligue 1",
       "channels": [
+        "ITV French Ligue 1 Highlights",
+        "Ligue 1+ (UK/IRL)",
+        "World Feed",
         "beIN Sports MENA 3 HD"
       ],
       "commentators": [
+        "Mikhail17",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329258-Le-Mans-v-Toulouse"
@@ -1464,10 +1514,14 @@
       "tournament": "Italian Serie A",
       "channels": [
         "DAZN 1 Italia HD",
-        "DAZN Italia ($/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "StarzPlay",
+        "World Feed"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "apltle12",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329256-Frosinone-v-Sassuolo"
     },
@@ -1481,8 +1535,8 @@
       "time": "18:30",
       "tournament": "Austrian 2. Liga",
       "channels": [
-        "Laola1 Live Stream ($/geo/R)",
-        "ORF Sport+ Austria HD"
+        "ORF Sport+ Austria HD",
+        "Laola1 Live Stream ($/geo/R)"
       ],
       "commentators": [
         "kurtogen"
@@ -1499,10 +1553,12 @@
       "time": "18:30",
       "tournament": "Italian Serie BKT",
       "channels": [
+        "World Feed",
         "DAZN Italia ($/geo/R)",
         "DAZN Free Italia (geo/r)"
       ],
       "commentators": [
+        "Crowe24",
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/330359-Hellas-Verona-v-Catanzaro"
@@ -1517,17 +1573,34 @@
       "time": "18:30",
       "tournament": "Scottish Championship",
       "channels": [
-        "BBC (highlights)",
         "BBC Scotland / HD",
-        "BBC Sport Scotland Online",
         "BBC iPlayer (geo/R)",
-        "World Feed"
+        "World Feed",
+        "BBC (highlights)",
+        "BBC Sport Scotland Online"
       ],
       "commentators": [
         "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/329255-Ayr-United-v-Partick-Thistle"
+    },
+    {
+      "title": "Leganés v Córdoba",
+      "teams": [
+        "Leganés",
+        "Córdoba"
+      ],
+      "date": "16/10/2026",
+      "time": "18:30",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/329254-Legans-v-Crdoba"
     },
     {
       "title": "Eintracht Frankfurt v FC Cologne",
@@ -1539,9 +1612,18 @@
       "time": "18:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "Sky Sport Bundesliga HD"
+        "DAZN Canada ($/geo/R)",
+        "BBC iPlayer (geo/R)",
+        "BBC Sport Online",
+        "World Feed",
+        "BBC (highlights)",
+        "BBC iPlayer 4K (geo/R)",
+        "Sky Sport Bundesliga HD",
+        "Fandango",
+        "BBC Sport Website (geo/R)"
       ],
       "commentators": [
+        "Mikhail17",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/329253-Eintracht-Frankfurt-v-FC-Cologne"
@@ -1621,14 +1703,28 @@
       "time": "17:30",
       "tournament": "Austrian Bundesliga",
       "channels": [
-        "OneFootball [app] ($/geo/R)",
-        "Sky Sport 1 Austria HD"
+        "Sky Sport 1 Austria HD",
+        "OneFootball [app] ($/geo/R)"
       ],
       "commentators": [
         "Mikhail17",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330682-Rapid-Vienna-v-Hartberg"
+    },
+    {
+      "title": "Team Talks",
+      "date": "16/10/2026",
+      "time": "17:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/332011-Team-Talks"
     },
     {
       "title": "Wattenscheid v Gütersloh",
@@ -1692,11 +1788,13 @@
       "time": "16:30",
       "tournament": "German Frauen Bundesliga",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
         "Magenta Deutsch Sport ($/geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331164-Freiburg-v-RB-Leipzig"
@@ -1762,9 +1860,11 @@
       "time": "16:30",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "Sky Sport Bundesliga 3 HD"
+        "Sky Sport Bundesliga 3 HD",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/329377-Holstein-Kiel-v-Hertha-Berlin"
@@ -1779,9 +1879,11 @@
       "time": "16:30",
       "tournament": "German 2. Bundesliga",
       "channels": [
-        "Sky Sport Bundesliga 4 HD"
+        "Sky Sport Bundesliga 4 HD",
+        "World Feed"
       ],
       "commentators": [
+        "apltle12",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/329374-Energie-Cottbus-v-Nuremberg"
@@ -1821,6 +1923,25 @@
       "match_url": "https://icdb.tv/match/331997-Leyton-Orient-v-Blackpool"
     },
     {
+      "title": "Al Qadisiyah v Abha Club",
+      "teams": [
+        "Al Qadisiyah",
+        "Abha Club"
+      ],
+      "date": "16/10/2026",
+      "time": "13:15",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "World Feed",
+        "YouTube: Saudi Pro League"
+      ],
+      "commentators": [
+        "Crowe24",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/330086-Al-Qadisiyah-v-Abha-Club"
+    },
+    {
       "title": "Welcome to the Weekend",
       "date": "16/10/2026",
       "time": "11:00",
@@ -1844,10 +1965,10 @@
       "time": "09:00",
       "tournament": "Australian A League",
       "channels": [
+        "Sportdigital FUSSBALL HD",
+        "Sky Sport 1 NZ HD",
         "10 Play (geo/R)",
         "Paramount+ AUS ($/geo/R)",
-        "Sky Sport 1 NZ HD",
-        "Sportdigital FUSSBALL HD",
         "TNT Sports 2 HD (UK)"
       ],
       "commentators": [
@@ -1866,24 +1987,24 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "ESPN (Brazil)",
         "ESPN Venezuela",
+        "ESPN Premium (Chile)",
+        "Rádio Tupi",
+        "ESPN 5 (CentroAmérica)",
+        "World Feed",
+        "Pluto TV Latin America (geo/R)",
+        "Disney+ Argentina ($/geo/R)",
+        "YouTube: Telefe",
+        "ESPN (Brazil)",
+        "Rádio CBN",
+        "Rádio Bandeirantes",
+        "ESPN 5 (Chile)",
+        "Sportdigital FUSSBALL HD",
+        "beIN Sports Español",
+        "ESPN Peru",
         "ESPN (Colombia)",
         "Disney+ Brazil [$]",
-        "Rádio BandNews FM",
-        "Rádio Bandeirantes",
-        "Energia 97",
-        "ESPN Peru",
         "ESPN Uruguay",
-        "Fox Sports (Argentina)",
-        "ESPN 5 (Chile)",
-        "ESPN Ecuador",
-        "Mi CHV (Chile) (geo/R)",
-        "ESPN 5 (CentroAmérica)",
-        "Pluto TV CHI (geo/R)",
-        "Disney+ Argentina ($/geo/R)",
-        "Rádio TMC Rio",
-        "Rádio Tupi",
         "Rádio Jovem Pan",
         "Telefe (argentina) / HD and12more channels"
       ],
@@ -1978,28 +2099,30 @@
       "time": "19:00",
       "tournament": "UEFA Europa League",
       "channels": [
+        "Blue Sport 4 Live HD",
         "Canal+ France HD",
-        "DAZN Canada ($/geo/R)",
-        "World Feed",
-        "Sony Sports TEN 3 India HD",
-        "Diretta Gol - Sky Sport 251",
-        "SuperSport Football Plus HD",
         "Canal+ Live 1 France HD",
-        "beIN Sports MENA 2 HD",
+        "DAZN Canada ($/geo/R)",
+        "Diretta Gol - Sky Sport 251",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ USA ($/geo/R)",
         "RTL+ Deutschland (geo/R)",
         "RTL+ Deutschland Konferenz",
-        "Blue Sport 4 Live HD",
+        "Sony Sports TEN 3 India HD",
+        "SuperSport Football Plus HD",
         "TNT Sports (highlights)",
         "TNT Sports 6 HD (UK)",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport Mix Italia HD"
+        "World Feed",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
         "Cr17",
         "Guest-SC",
         "Johnny17",
         "Mikhail17",
+        "Vallis",
         "kurtogen",
         "ysscores"
       ],
@@ -2016,31 +2139,32 @@
       "tournament": "UEFA Europa League",
       "channels": [
         "Sky Sport Austria Konferenz",
-        "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport 251",
-        "Sky Sport 4 Austria HD",
-        "Sony Sports TEN 2 India HD",
-        "Sky Sport 252 Italia HD",
-        "Sky Sport Uno Italia HD",
         "SuperSport LaLiga HD",
-        "Blue Sport 5 Live HD",
-        "RTL+ Deutschland (geo/R)",
-        "DAZN Canada ($/geo/R)",
-        "Sky Sport Business Italia / HD",
-        "Paramount+ USA ($/geo/R)",
-        "Diretta Gol - Sky Sport Mix Italia HD",
-        "World Feed",
-        "beIN Sports MENA English 1 HD",
+        "HBO Max (uk only) [$/geo/R]",
+        "Sky Sport Uno Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "TNT Sports 5 HD (UK)",
-        "beIN Sports MENA 1 HD",
+        "Paramount+ USA ($/geo/R)",
+        "SuperSport MáXimo 2A HD",
+        "TSN Malta 2 HD",
+        "RTL+ Deutschland Konferenz",
+        "RTL+ Deutschland (geo/R)",
+        "World Feed",
+        "Blue Sport 5 Live HD",
         "TNT Sports (highlights)",
-        "Sony Sports TEN 4 India HD and4more channels"
+        "Sony Sports TEN 2 India HD",
+        "Sony Sports TEN 4 India HD",
+        "beIN Sports MENA 1 HD",
+        "Diretta Gol - Sky Sport 251",
+        "beIN Sports MENA English 1 HD",
+        "Sky Sport 4 Austria HD and5more channels"
       ],
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
         "Johnny17",
         "Mikhail17",
+        "Vallis",
         "kurtogen",
         "ysscores"
       ],
@@ -2056,26 +2180,26 @@
       "time": "19:00",
       "tournament": "UEFA Europa League",
       "channels": [
-        "TNT Sports (highlights)",
-        "HBO Max (uk only) [$/geo/R]",
-        "SuperSport MáXimo 360",
+        "BBC Sport Online (Audio)",
         "Blue Sport 6 Live HD",
-        "TNT Sports 3 HD (UK)",
-        "RTL+ Deutschland Konferenz",
-        "TV8 Italia HD",
-        "DAZN Canada ($/geo/R)",
-        "Sony Sports TEN 1 India HD",
-        "SuperSport MáXimo 1 HD",
-        "RTL+ Deutschland (geo/R)",
-        "Sky Sport 255 Italia HD",
-        "beIN Sports MENA 5 HD",
-        "FlashScore App",
-        "Diretta Gol - Sky Sport 251",
-        "Diretta Gol - Sky Sport Mix Italia HD",
-        "FlashScore (audio)",
+        "World Feed",
         "BBC RADIO 5 LIVE",
+        "TNT Sports (highlights)",
+        "DAZN Canada ($/geo/R)",
+        "TV8 Italia HD",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ USA ($/geo/R)",
+        "beIN Sports MENA 5 HD",
         "Premier Sports 1 HD (ROI only)",
-        "Sky Sport Arena Italia HD and10more channels"
+        "FlashScore App",
+        "SuperSport MáXimo 1 HD",
+        "Sky Sport 6 Austria HD",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "RTL+ Deutschland Konferenz",
+        "SuperSport MáXimo 360",
+        "Sky Sport Arena Italia HD",
+        "Diretta Gol - Sky Sport 251",
+        "Sony Sports TEN 1 India HD and12more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -2084,6 +2208,7 @@
         "ImpactPlayaz",
         "Mikhail17",
         "SonnyCorry",
+        "Vallis",
         "apltle12",
         "kurtogen",
         "ysscores"
@@ -2101,17 +2226,19 @@
       "tournament": "UEFA Europa League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 11 ($/geo/R)",
-        "TNT Sports (highlights)",
-        "Paramount+ USA ($/geo/R)",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport Mix Italia HD"
+        "Megogo Futbol 11 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "TNT Sports (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/330355-Ferencvros-v-Viktoria-Plzen"
     },
@@ -2126,18 +2253,20 @@
       "tournament": "UEFA Europa League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 8 ($/geo/R)",
-        "TNT Sports (highlights)",
-        "Paramount+ USA ($/geo/R)",
-        "beIN Xtra 2",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport Mix Italia HD"
+        "Megogo Futbol 8 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "TNT Sports (highlights)",
+        "World Feed",
+        "beIN Xtra 2"
       ],
       "commentators": [
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/330354-Dinamo-Zagreb-v-Anderlecht"
@@ -2152,23 +2281,25 @@
       "time": "19:00",
       "tournament": "UEFA Europa League",
       "channels": [
-        "DAZN Canada ($/geo/R)",
-        "World Feed",
-        "Canal+ Live 2 France HD",
-        "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 13 ($/geo/R)",
         "Canal+ Foot HD",
+        "Canal+ Live 2 France HD",
+        "DAZN Canada ($/geo/R)",
+        "Diretta Gol - Sky Sport 251",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 13 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
         "TNT Sports (highlights)",
         "TNT Sports 8 HD (UK)",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport Mix Italia HD"
+        "World Feed"
       ],
       "commentators": [
         "Cr17",
         "Crowe24",
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/330353-Rennes-v-OFI-Crete"
     },
@@ -2183,17 +2314,19 @@
       "tournament": "UEFA Europa League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 14 ($/geo/R)",
-        "TNT Sports (highlights)",
-        "Paramount+ USA ($/geo/R)",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport Mix Italia HD"
+        "Megogo Futbol 14 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "TNT Sports (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/330352-Jagiellonia-v-AraratArmenia"
     },
@@ -2208,18 +2341,20 @@
       "tournament": "UEFA Europa League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 15 ($/geo/R)",
-        "TNT Sports (highlights)",
-        "Paramount+ USA ($/geo/R)",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport Mix Italia HD"
+        "Megogo Futbol 15 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "TNT Sports (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
         "Mikhail17",
-        "RussVMedia"
+        "RussVMedia",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/330351-NEC-Nijmegen-v-Levski-Sofia"
     },
@@ -2236,6 +2371,7 @@
         "DAZN Canada ($/geo/R)",
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "FlashScore Germany",
         "HBO Max (uk only) [$/geo/R]",
         "Paramount+ USA ($/geo/R)",
@@ -2255,6 +2391,7 @@
         "FlashscoreDE",
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/329828-Hoffenheim-v-Besiktas"
@@ -2269,25 +2406,27 @@
       "time": "19:00",
       "tournament": "UEFA Conference League",
       "channels": [
-        "beIN Sports MENA 6 HD",
         "DAZN Canada ($/geo/R)",
-        "TSN Malta 5 HD",
-        "Sky Sport Italia 4K UHD",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
         "Megogo Futbol 9 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sport 254 Italia HD",
+        "Sky Sport Calcio HD",
+        "Sky Sport Italia 4K UHD",
         "SuperSport Football HD",
         "TNT Sports (highlights)",
         "TNT Sports 9 HD (UK)",
-        "Sky Sport Calcio HD",
-        "Sky Sport 254 Italia HD",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport Mix Italia HD"
+        "TSN Malta 5 HD",
+        "World Feed",
+        "beIN Sports MENA 6 HD"
       ],
       "commentators": [
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329136-Atalanta-v-Pafos-FC"
@@ -2330,32 +2469,33 @@
       "time": "19:00",
       "tournament": "UEFA Conference League",
       "channels": [
-        "Diretta Gol - Sky Sport 251",
-        "Diretta Gol - Sky Sport Mix Italia HD",
-        "BBC Radio Surrey",
-        "TNT Sports 2 HD (UK)",
-        "Stan Sport Australia ($/geo/R)",
-        "World Feed",
-        "BBC Radio Sussex",
-        "talkSPORT",
-        "HBO Max (uk only) [$/geo/R]",
-        "V Sport 2 Norge HD",
-        "FlashScore App",
-        "ViaPlay Norge HD",
-        "TNT Sports (highlights)",
-        "DAZN Canada ($/geo/R)",
         "BBC RADIO 5 LIVE",
-        "TSN Malta 6 HD",
+        "Diretta Gol - Sky Sport Mix Italia HD",
         "FlashScore (audio)",
+        "TSN Malta 6 HD",
+        "Diretta Gol - Sky Sport 251",
+        "FlashScore App",
+        "V Sport 2 Norge HD",
+        "TNT Sports 2 HD (UK)",
+        "TNT Sports (highlights)",
+        "ViaPlay Norge HD",
         "Megogo Futbol 7 ($/geo/R)",
+        "World Feed",
+        "DAZN Canada ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "talkSPORT",
         "Paramount+ USA ($/geo/R)",
-        "Flashscore UK and1more channels"
+        "BBC Radio Sussex",
+        "BBC Radio Surrey",
+        "Disney+ Danmark ($/geo/R)",
+        "Sony Sports TEN 5 India HD and2more channels"
       ],
       "commentators": [
         "Bksm",
         "Crowe24",
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/329134-Brighton-HA-v-Kauno-Zalgiris"
@@ -2371,17 +2511,19 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 12 ($/geo/R)",
-        "TNT Sports (highlights)",
-        "Paramount+ USA ($/geo/R)",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport Mix Italia HD"
+        "Megogo Futbol 12 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "TNT Sports (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/329133-FC-Copenhagen-v-Sporting-Braga"
     },
@@ -2398,6 +2540,7 @@
         "DAZN Canada ($/geo/R)",
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "FlashScore Germany",
         "HBO Max (uk only) [$/geo/R]",
         "Megogo Futbol 10 ($/geo/R)",
@@ -2416,6 +2559,7 @@
         "FlashscoreDE",
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "kurtogen",
         "ysscores"
       ],
@@ -2438,6 +2582,7 @@
         "DAZN Canada ($/geo/R)",
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
         "Megogo Futbol 16 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
@@ -2453,7 +2598,8 @@
         "Guest-SC",
         "HWP",
         "Mikhail17",
-        "SonnyCorry"
+        "SonnyCorry",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/329131-Hearts-v-Nordsjlland"
     },
@@ -2468,17 +2614,19 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "TNT Sports (highlights)",
+        "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
         "Megogo Futbol 19 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]",
-        "Diretta Gol - Sky Sport Mix Italia HD"
+        "TNT Sports (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/329130-SintTruiden-v-Iberia-1999"
     },
@@ -2496,6 +2644,7 @@
         "DAZN Canada ($/geo/R)",
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Mix Italia HD",
+        "Disney+ Danmark ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
         "Megogo Futbol 17 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
@@ -2508,6 +2657,7 @@
         "Guest-SC",
         "Johnny17",
         "Mikhail17",
+        "Vallis",
         "kurtogen",
         "ysscores"
       ],
@@ -2523,18 +2673,20 @@
       "time": "19:00",
       "tournament": "English League One",
       "channels": [
+        "ITV English Football League Highlights",
+        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "World Feed",
+        "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
-        "Sky Sports (highlights)",
-        "ITV English Football League Highlights",
-        "Sky Sports Main Event UHD"
+        "ViaPlay Danmark HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
         "NDV",
         "SonnyCorry",
+        "Vallis",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/329128-Mansfield-Town-v-Oxford-United"
@@ -2549,26 +2701,26 @@
       "time": "19:00",
       "tournament": "UEFA Europa League",
       "channels": [
-        "talkSPORT 2",
+        "FlashScore App",
         "TNT Sports (highlights)",
-        "Sky Sport 2 Austria HD",
-        "TSN Malta 1 HD",
-        "TV3+ Norge HD",
-        "HBO Max (uk only) [$/geo/R]",
-        "Flashscore UK",
+        "Disney+ Danmark ($/geo/R)",
         "SuperSport Premier League HD",
-        "Sky Sport Austria Konferenz",
-        "FlashScore (audio)",
-        "TNT Sports Ultimate 4K (UK)",
-        "ViaPlay Norge HD",
-        "AFCB TV (highlights)",
-        "BBC RADIO 5 LIVE",
+        "HBO Max (uk only) [$/geo/R]",
+        "World Feed",
+        "Sky Sport 2 Austria HD",
         "DAZN Canada ($/geo/R)",
-        "talkSPORT App",
+        "talkSPORT 2",
+        "TSN Malta 1 HD",
+        "Sky Sport Austria Konferenz",
+        "Flashscore UK",
+        "AFCB TV (highlights)",
+        "TNT Sports Ultimate 4K (UK)",
+        "talkSPORT",
+        "Servus TV Österreich HD",
         "Premier Sports 2 HD (ROI only)",
-        "Sky Sport 257 Italia HD",
-        "Paramount+ USA ($/geo/R)",
-        "TNT Sports 1 HD (UK) and6more channels"
+        "TV3+ Norge HD",
+        "BBC RADIO 5 LIVE",
+        "TNT Sports 1 HD (UK) and8more channels"
       ],
       "commentators": [
         "Bksm",
@@ -2576,6 +2728,7 @@
         "Guest-SC",
         "ImpactPlayaz",
         "Mikhail17",
+        "Vallis",
         "apltle12",
         "kurtogen",
         "ysscores"
@@ -2607,25 +2760,27 @@
       "time": "16:45",
       "tournament": "UEFA Conference League",
       "channels": [
+        "Canal+ Live 1 France HD",
         "Canal+ Sport France HD",
-        "beIN Sports MENA 5 HD",
         "DAZN Canada ($/geo/R)",
+        "Diretta Gol - Sky Sport 251",
+        "Diretta Gol - Sky Sport Arena Italia",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 8 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "TNT Sports (highlights)",
+        "TNT Sports 10",
         "TSN Malta 7 HD",
         "World Feed",
-        "Diretta Gol - Sky Sport 251",
-        "Canal+ Live 1 France HD",
-        "Megogo Futbol 8 ($/geo/R)",
-        "Diretta Gol - Sky Sport Arena Italia",
-        "TNT Sports 10",
-        "TNT Sports (highlights)",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "beIN Sports MENA 5 HD"
       ],
       "commentators": [
         "Cr17",
         "Crowe24",
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329124-CSKA-Sofia-v-Monaco"
@@ -2643,6 +2798,7 @@
         "DAZN Canada ($/geo/R)",
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Arena Italia",
+        "Disney+ Danmark ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
         "Megogo Futbol 18 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
@@ -2652,7 +2808,8 @@
       "commentators": [
         "Crowe24",
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/329123-Egnatia-v-Midtjylland"
     },
@@ -2667,18 +2824,20 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 15 ($/geo/R)",
         "Diretta Gol - Sky Sport Arena Italia",
-        "TNT Sports (highlights)",
-        "Sony Sports TEN 5 India HD",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 15 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "Sony Sports TEN 5 India HD",
+        "TNT Sports (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/329122-AA-Gent-v-AGF-Aarhus"
     },
@@ -2693,22 +2852,24 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "TSN Malta 6 HD",
-        "beIN Sports MENA 8 HD",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
+        "Diretta Gol - Sky Sport Arena Italia",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ USA ($/geo/R)",
         "RTL+ Deutschland (geo/R)",
         "RTL+ Deutschland Konferenz",
-        "Diretta Gol - Sky Sport Arena Italia",
         "TNT Sports (highlights)",
         "TNT Sports 9 HD (UK)",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TSN Malta 6 HD",
+        "World Feed",
+        "beIN Sports MENA 8 HD"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "kurtogen",
         "ysscores"
       ],
@@ -2725,17 +2886,19 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Arena Italia",
-        "TNT Sports (highlights)",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
         "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/329120-KuPS-Kuopio-v-Trabzonspor"
     },
@@ -2753,6 +2916,7 @@
         "DAZN Canada ($/geo/R)",
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Arena Italia",
+        "Disney+ Danmark ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
         "Megogo Futbol 16 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
@@ -2766,6 +2930,7 @@
         "Crowe24",
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/329119-Lugano-v-Red-Star-Belgrade"
@@ -2781,18 +2946,20 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Arena Italia",
-        "TNT Sports (highlights)",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
         "Megogo Futbol 19 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/329118-Mjllby-AIF-v-Inter-Escaldes"
     },
@@ -2807,18 +2974,20 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 14 ($/geo/R)",
         "Diretta Gol - Sky Sport Arena Italia",
-        "TNT Sports (highlights)",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 14 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/329117-Panathinaikos-v-Borac-Banja-Luka"
     },
@@ -2833,18 +3002,20 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 17 ($/geo/R)",
         "Diretta Gol - Sky Sport Arena Italia",
-        "TNT Sports (highlights)",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 17 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
-        "beIN Xtra 4",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports (highlights)",
+        "World Feed",
+        "beIN Xtra 4"
       ],
       "commentators": [
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "apltle12",
         "ysscores"
       ],
@@ -2861,21 +3032,23 @@
       "tournament": "UEFA Conference League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "TSN Malta 8 HD",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 10 ($/geo/R)",
         "Diretta Gol - Sky Sport Arena Italia",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 10 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
         "TNT Sports (highlights)",
         "TNT Sports 8 HD (UK)",
-        "Paramount+ USA ($/geo/R)",
-        "beIN Xtra 3",
-        "HBO Max (uk only) [$/geo/R]"
+        "TSN Malta 8 HD",
+        "World Feed",
+        "beIN Xtra 3"
       ],
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
         "Mikhail17",
+        "Vallis",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329115-Universitatea-Craiova-v-Getafe"
@@ -2891,19 +3064,21 @@
       "tournament": "UEFA Europa League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "beIN Sports MENA English 2 HD",
-        "Megogo Futbol 11 ($/geo/R)",
         "Diretta Gol - Sky Sport Arena Italia",
-        "TNT Sports (highlights)",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 11 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports (highlights)",
+        "World Feed",
+        "beIN Sports MENA English 2 HD"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
-        "Mikhail17"
+        "Mikhail17",
+        "Vallis"
       ],
       "match_url": "https://icdb.tv/match/329114-AZ-Alkmaar-v-Hapoel-Beer-Sheva"
     },
@@ -2918,18 +3093,20 @@
       "tournament": "UEFA Europa League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 13 ($/geo/R)",
         "Diretta Gol - Sky Sport Arena Italia",
-        "TNT Sports (highlights)",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 13 ($/geo/R)",
         "Paramount+ USA ($/geo/R)",
-        "beIN Xtra 2",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports (highlights)",
+        "World Feed",
+        "beIN Xtra 2"
       ],
       "commentators": [
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329113-Celje-v-Omonia-Nicosia"
@@ -2947,6 +3124,7 @@
         "DAZN Canada ($/geo/R)",
         "Diretta Gol - Sky Sport 251",
         "Diretta Gol - Sky Sport Arena Italia",
+        "Disney+ Danmark ($/geo/R)",
         "FlashScore Germany",
         "HBO Max (uk only) [$/geo/R]",
         "Paramount+ USA ($/geo/R)",
@@ -2967,6 +3145,7 @@
         "FlashscoreDE",
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "kurtogen",
         "ysscores"
       ],
@@ -2982,26 +3161,26 @@
       "time": "16:45",
       "tournament": "UEFA Europa League",
       "channels": [
-        "talkSPORT App",
-        "Canal+ Foot HD",
+        "Sky Sport 4 Austria HD",
+        "Paramount+ USA ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "SuperSport MáXimo 2A HD",
         "TNT Sports 1 HD (UK)",
         "RTL+ Deutschland Konferenz",
-        "Sky Sport MIX Italia HD",
-        "Sky Sport 4 Austria HD",
-        "Sky Sport Austria Konferenz",
         "talkSPORT 2",
-        "Canal+ Live 2 France HD",
-        "Premier Sports 1 HD (ROI only)",
-        "Paramount+ USA ($/geo/R)",
-        "SuperSport MáXimo 2A HD",
-        "HBO Max (uk only) [$/geo/R]",
-        "World Feed",
+        "SuperSport Grandstand HD",
         "Diretta Gol - Sky Sport Arena Italia",
         "Sony Sports TEN 1 India HD",
-        "Sky Sport 255 Italia HD",
-        "SuperSport Grandstand HD",
+        "Diretta Gol - Sky Sport 251",
+        "RTL+ Deutschland (geo/R)",
+        "SuperSport Football Plus HD",
+        "TNT Sports (highlights)",
+        "World Feed",
         "FlashScore App",
-        "Blue Sport 3 Live HD and10more channels"
+        "FlashScore (audio)",
+        "Flashscore UK",
+        "beIN Sports MENA English 1 HD",
+        "beIN Sports MENA 2 HD and11more channels"
       ],
       "commentators": [
         "Cr17",
@@ -3009,6 +3188,7 @@
         "Guest-SC",
         "ImpactPlayaz",
         "Mikhail17",
+        "Vallis",
         "apltle12",
         "kurtogen",
         "ysscores"
@@ -3025,31 +3205,32 @@
       "time": "16:45",
       "tournament": "UEFA Europa League",
       "channels": [
-        "SuperSport Football HD",
-        "beIN Sports MENA 1 HD",
-        "Sky Sport Business Italia / HD",
         "RTL+ Deutschland (geo/R)",
-        "TNT Sports (highlights)",
-        "Sony Sports TEN 2 India HD",
-        "RTL+ Deutschland Konferenz",
-        "TNT Sports 5 HD (UK)",
-        "World Feed",
-        "HBO Max (uk only) [$/geo/R]",
-        "DAZN Canada ($/geo/R)",
-        "Diretta Gol - Sky Sport 251",
-        "Paramount+ USA ($/geo/R)",
+        "SuperSport Football HD",
         "SuperSport MáXimo 3A HD",
-        "Canal+ Österreich [€]",
-        "Sky Sport 253 Italia HD",
-        "Diretta Gol - Sky Sport Arena Italia",
+        "RTL+ Deutschland Konferenz",
         "Blue Sport 2 Live HD",
+        "TNT Sports 5 HD (UK)",
+        "DAZN Canada ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
         "TSN Malta 1 HD",
-        "Sky Sport Uno Italia HD and0more channels"
+        "Diretta Gol - Sky Sport Arena Italia",
+        "Sky Sport Business Italia / HD",
+        "Sony Sports TEN 2 India HD",
+        "TNT Sports (highlights)",
+        "Diretta Gol - Sky Sport 251",
+        "Disney+ Danmark ($/geo/R)",
+        "Sky Sport 253 Italia HD",
+        "Paramount+ USA ($/geo/R)",
+        "beIN Sports MENA 1 HD",
+        "World Feed",
+        "Sky Sport Uno Italia HD and1more channels"
       ],
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
         "Mikhail17",
+        "Vallis",
         "kurtogen",
         "ysscores"
       ],
@@ -3065,23 +3246,25 @@
       "time": "16:45",
       "tournament": "UEFA Europa League",
       "channels": [
-        "V Sport 1 Norge HD",
-        "beIN Sports MENA 7 HD",
         "DAZN Canada ($/geo/R)",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Megogo Futbol 12 ($/geo/R)",
-        "ViaPlay Norge HD",
         "Diretta Gol - Sky Sport Arena Italia",
-        "TNT Sports (highlights)",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 12 ($/geo/R)",
         "NRK Sport",
         "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports (highlights)",
+        "V Sport 1 Norge HD",
+        "ViaPlay Norge HD",
+        "World Feed",
+        "beIN Sports MENA 7 HD"
       ],
       "commentators": [
         "Bksm",
         "Guest-SC",
         "Mikhail17",
+        "Vallis",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329109-Sparta-Prague-v-Lillestrm"
@@ -3096,32 +3279,33 @@
       "time": "16:45",
       "tournament": "UEFA Europa League",
       "channels": [
-        "FlashScore (audio)",
-        "talkSPORT",
-        "SuperSport Premier League HD",
-        "BBC Radio Newcastle",
-        "Megogo Sport Ukraine HD",
         "Flashscore UK",
-        "Diretta Gol - Sky Sport 251",
-        "Diretta Gol - Sky Sport Arena Italia",
-        "FlashScore App",
-        "RTL+ Deutschland Konferenz",
-        "talkSPORT 2",
-        "Megogo Futbol 7 ($/geo/R)",
-        "TNT Sports (highlights)",
         "RTL+ Deutschland (geo/R)",
-        "World Feed",
         "Paramount+ USA ($/geo/R)",
-        "beIN Sports MENA 4 HD",
+        "FlashScore (audio)",
+        "SuperSport Premier League HD",
         "TNT Sports 2 HD (UK)",
+        "Megogo Sport Ukraine HD",
+        "talkSPORT 2",
+        "Sky Sport 5 Austria HD",
+        "HBO Max (uk only) [$/geo/R]",
+        "BBC Radio Newcastle",
         "TSN Malta 5 HD",
-        "Premier Sports 2 HD (ROI only) and4more channels"
+        "beIN Sports MENA 4 HD",
+        "DAZN Canada ($/geo/R)",
+        "talkSPORT",
+        "World Feed",
+        "TNT Sports (highlights)",
+        "RTL+ Deutschland Konferenz",
+        "FlashScore App",
+        "Megogo Futbol 7 ($/geo/R) and5more channels"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
         "ImpactPlayaz",
         "Mikhail17",
+        "Vallis",
         "apltle12",
         "kurtogen",
         "ysscores"
@@ -3139,22 +3323,24 @@
       "tournament": "UEFA Europa League",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "TSN Malta 4 HD",
-        "World Feed",
         "Diretta Gol - Sky Sport 251",
-        "Sky Sport Austria Konferenz",
-        "Sky Sport 6 Austria HD",
-        "SuperSport LaLiga HD",
         "Diretta Gol - Sky Sport Arena Italia",
+        "Disney+ Danmark ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sport 6 Austria HD",
+        "Sky Sport Austria Konferenz",
+        "SuperSport LaLiga HD",
         "TNT Sports (highlights)",
         "TNT Sports 7 HD (UK)",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TSN Malta 4 HD",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
         "Mikhail17",
+        "Vallis",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/329107-Union-St-Gilloise-v-Real-Sociedad"
@@ -3308,6 +3494,19 @@
       "match_url": "https://icdb.tv/match/329101-Gangwon-v-Phnom-Penh-Crown"
     },
     {
+      "title": "UEFA Champions League Highlights Show",
+      "date": "15/10/2026",
+      "time": "07:55",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/332022-UEFA-Champions-League-Highlights-Show"
+    },
+    {
       "title": "Los Angeles FC v Austin FC",
       "teams": [
         "Los Angeles FC",
@@ -3334,26 +3533,26 @@
       "time": "00:30",
       "tournament": "CONMEBOL Copa Libertadores",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "Rádio BandNews FM",
-        "Fox Sports (Argentina)",
-        "Paramount+ BRA ($/geo/R)",
-        "ESPN 5 (Chile)",
-        "globoplay",
         "Rádio Jovem Pan",
-        "TV Globo",
-        "Rádio Tupi",
-        "World Feed",
+        "Rádio TMC",
+        "Rádio BandNews FM",
+        "Rádio TMC Rio",
+        "GE TV",
+        "Rádio CBN",
+        "ESPN Premium (Chile)",
         "beIN Connect USA",
         "Rádio Bandeirantes",
-        "Rádio TMC",
-        "ESPN Premium (Chile)",
+        "ESPN 5 (Chile)",
         "beIN Sports MENA 2 HD",
-        "ESPN (South America)",
-        "GE TV",
+        "Fox Sports (Argentina)",
         "Disney+ Argentina ($/geo/R)",
-        "Rádio TMC Rio",
-        "Rádio CBN and3more channels"
+        "Rádio CBN SP",
+        "beIN Sports Australia 3 HD",
+        "ESPN (South America)",
+        "Rádio Tupi",
+        "Sportdigital FUSSBALL HD",
+        "Paramount+ BRA ($/geo/R)",
+        "TV Globo and3more channels"
       ],
       "commentators": [
         "Mikhail17",
