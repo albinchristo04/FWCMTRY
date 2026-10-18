@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-18T02:58:50.559598+00:00",
+  "scraped_at": "2026-10-18T09:19:50.685638+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 191,
+  "total_matches": 207,
   "matches": [
     {
       "title": "Tottenham Hotspur v Coventry City",
@@ -286,20 +286,22 @@
       "time": "19:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "Premier Sports 1 HD",
-        "Premier Sports 1 HD (ROI only)",
-        "World Feed",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Free Italia (geo/r)",
+        "DAZN Italia ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
         "LaLiga TV International HD",
-        "DAZN Italia ($/geo/R)",
-        "DAZN Free Italia (geo/r)",
+        "Premier Sports 1 HD",
+        "Premier Sports 1 HD (ROI only)",
         "Premier Sports Player UK (£/geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "World Feed",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
         "Guest-SC",
         "ImpactPlayaz",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329702-Real-Madrid-v-Sevilla"
     },
@@ -313,10 +315,12 @@
       "time": "18:45",
       "tournament": "French Ligue 1",
       "channels": [
-        "SuperSport 3 Albania HD"
+        "SuperSport 3 Albania HD",
+        "beIN Sports MENA 2 HD"
       ],
       "commentators": [
-        "anarildoalia"
+        "anarildoalia",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329701-Lyon-v-Nice"
     },
@@ -330,16 +334,35 @@
       "time": "18:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "DAZN Schweiz [$] (geo/R)",
-        "DAZN Italia ($/geo/R)",
         "DAZN 1 Italia HD",
-        "DAZN Deutsch ($/geo/R)"
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "StarzPlay"
       ],
       "commentators": [
         "Guest-SC",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329700-Juventus-v-Lazio"
+    },
+    {
+      "title": "Al Fateh v Al Khaleej",
+      "teams": [
+        "Al Fateh",
+        "Al Khaleej"
+      ],
+      "date": "18/10/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Thmanyah APP"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/330165-Al-Fateh-v-Al-Khaleej"
     },
     {
       "title": "Meppen v TSV Havelse",
@@ -426,15 +449,34 @@
       "time": "16:00",
       "tournament": "Italian Serie A",
       "channels": [
-        "DAZN Schweiz [$] (geo/R)",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Italia ($/geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "DAZN Schweiz [$] (geo/R)",
+        "StarzPlay"
       ],
       "commentators": [
         "Guest-SC",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329693-AC-Milan-v-Atalanta"
+    },
+    {
+      "title": "Ajman v Sharjah",
+      "teams": [
+        "Ajman",
+        "Sharjah"
+      ],
+      "date": "18/10/2026",
+      "time": "15:45",
+      "tournament": "UAE Pro League",
+      "channels": [
+        "AD Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/332405-Ajman-v-Sharjah"
     },
     {
       "title": "Nottingham Forest v Arsenal",
@@ -462,6 +504,7 @@
         "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
         "Sky Sports Premier League HD",
+        "beIN Sports MENA 1 HD",
         "talkSPORT International"
       ],
       "commentators": [
@@ -471,7 +514,8 @@
         "SonnyCorry",
         "apltle12",
         "bigddan11",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329692-Nottingham-Forest-v-Arsenal"
     },
@@ -485,13 +529,15 @@
       "time": "15:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "World Feed",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "MBC Action",
+        "World Feed"
       ],
       "commentators": [
         "Karl98",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329691-Mnchengladbach-v-Hoffenheim"
     },
@@ -512,6 +558,40 @@
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/330368-Cesena-v-Avellino"
+    },
+    {
+      "title": "Le Havre v Auxerre",
+      "teams": [
+        "Le Havre",
+        "Auxerre"
+      ],
+      "date": "18/10/2026",
+      "time": "15:15",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "beIN Sports MENA 4 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329689-Le-Havre-v-Auxerre"
+    },
+    {
+      "title": "Lorient v Monaco",
+      "teams": [
+        "Lorient",
+        "Monaco"
+      ],
+      "date": "18/10/2026",
+      "time": "15:15",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "beIN Xtra 2"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329688-Lorient-v-Monaco"
     },
     {
       "title": "Paris FC v Rennes",
@@ -566,6 +646,23 @@
       "match_url": "https://icdb.tv/match/330708-Sturm-Graz-v-Grazer-AK"
     },
     {
+      "title": "Groningen v Ajax",
+      "teams": [
+        "Groningen",
+        "Ajax"
+      ],
+      "date": "18/10/2026",
+      "time": "14:45",
+      "tournament": "Dutch Eredivisie",
+      "channels": [
+        "Dubai Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329686-Groningen-v-Ajax"
+    },
+    {
       "title": "Duisburg v Viktoria Cologne",
       "teams": [
         "Duisburg",
@@ -592,10 +689,11 @@
       "time": "14:15",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "LaLiga TV International HD",
-        "DAZN Italia ($/geo/R)",
         "DAZN Free Italia (geo/r)",
-        "Premier Sports Player UK (£/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "LaLiga TV International HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
@@ -613,16 +711,18 @@
       "time": "14:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sportdigital FUSSBALL HD",
+        "BBC Radio 5 Sports Extra 2",
         "BBC Radio Scotland",
-        "BBC Sportscene",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "BBC Radio 5 Sports Extra 2"
+        "BBC Sportscene",
+        "Sharjah Sports 2",
+        "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
         "SonnyCorry",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329683-Celtic-v-Hearts"
     },
@@ -659,15 +759,34 @@
       "time": "13:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "World Feed",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "MBC Shahid | Sports",
+        "World Feed"
       ],
       "commentators": [
         "Karl98",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329681-Bayer-Leverkusen-v-Freiburg"
+    },
+    {
+      "title": "Kalba v Al Jazira",
+      "teams": [
+        "Kalba",
+        "Al Jazira"
+      ],
+      "date": "18/10/2026",
+      "time": "13:05",
+      "tournament": "UAE Pro League",
+      "channels": [
+        "AD Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/332400-Kalba-v-Al-Jazira"
     },
     {
       "title": "Juve Stabia v SüdTirol",
@@ -688,6 +807,23 @@
       "match_url": "https://icdb.tv/match/330367-Juve-Stabia-v-SdTirol"
     },
     {
+      "title": "Angers v Marseille",
+      "teams": [
+        "Angers",
+        "Marseille"
+      ],
+      "date": "18/10/2026",
+      "time": "13:00",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "beIN Sports MENA 4 HD"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329672-Angers-v-Marseille"
+    },
+    {
       "title": "Bournemouth v Sunderland",
       "teams": [
         "Bournemouth",
@@ -697,23 +833,25 @@
       "time": "13:00",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sports News / HD",
+        "BBC Radio 5 Sports Extra 2",
         "BBC Radio Newcastle",
-        "talkSPORT International",
-        "Sky Sport 9 Deutsch HD",
         "BBC Sounds APP",
-        "Sky Sports (highlights)",
         "BBC Sport Online (Audio)",
-        "Sky Sports+ Channel",
         "Sky Sport 257 Italia HD",
-        "BBC Radio 5 Sports Extra 2"
+        "Sky Sport 9 Deutsch HD",
+        "Sky Sports (highlights)",
+        "Sky Sports News / HD",
+        "Sky Sports+ Channel",
+        "beIN Sports MENA 3 HD",
+        "talkSPORT International"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
         "SonnyCorry",
         "bigddan11",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329671-Bournemouth-v-Sunderland"
     },
@@ -727,20 +865,22 @@
       "time": "13:00",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sports Premier League HD",
         "NBCSN",
-        "Sky Sports News / HD",
-        "talkSPORT International",
         "Peacock USA ($/geo/R)",
         "Sky Sport MIX Deutsch HD",
-        "Sky Sport MIX Italia HD"
+        "Sky Sport MIX Italia HD",
+        "Sky Sports News / HD",
+        "Sky Sports Premier League HD",
+        "beIN Sports MENA 2 HD",
+        "talkSPORT International"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
         "SonnyCorry",
         "bigddan11",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329670-Brighton-HA-v-Crystal-Palace"
     },
@@ -754,20 +894,21 @@
       "time": "13:00",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sports Main Event HD",
-        "Sky Sport Italia 4K UHD",
         "BBC RADIO 5 LIVE",
-        "SiriusXM FC",
-        "Sky Sports News / HD",
         "BBC Radio Leeds",
-        "talkSPORT International",
-        "USA Network HD",
         "BBC Sounds APP",
-        "Sky Sports (highlights)",
-        "Sky Sports Main Event UHD",
         "BBC Sport Online (Audio)",
+        "SiriusXM FC",
         "Sky Sport Calcio HD",
-        "USA Network App (USA)"
+        "Sky Sport Italia 4K UHD",
+        "Sky Sports (highlights)",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "USA Network App (USA)",
+        "USA Network HD",
+        "beIN Sports MENA 1 HD",
+        "talkSPORT International"
       ],
       "commentators": [
         "Crowe24",
@@ -775,7 +916,8 @@
         "JACKLUFC",
         "SonnyCorry",
         "apltle12",
-        "bigddan11"
+        "bigddan11",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329669-Leeds-United-v-Manchester-United"
     },
@@ -789,14 +931,16 @@
       "time": "13:00",
       "tournament": "Italian Serie A",
       "channels": [
-        "DAZN Schweiz [$] (geo/R)",
-        "DAZN Italia ($/geo/R)",
         "DAZN 1 Italia HD",
-        "DAZN Deutsch ($/geo/R)"
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "StarzPlay"
       ],
       "commentators": [
         "Guest-SC",
-        "kurtogen"
+        "kurtogen",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329668-Fiorentina-v-Como-1907"
     },
@@ -850,6 +994,23 @@
       "match_url": "https://icdb.tv/match/330703-Wolfsberger-AC-v-WSG-Tirol"
     },
     {
+      "title": "Cambuur-Leeuwarden v AZ Alkmaar",
+      "teams": [
+        "Cambuur-Leeuwarden",
+        "AZ Alkmaar"
+      ],
+      "date": "18/10/2026",
+      "time": "12:30",
+      "tournament": "Dutch Eredivisie",
+      "channels": [
+        "Dubai Sports 1"
+      ],
+      "commentators": [
+        "ysscores"
+      ],
+      "match_url": "https://icdb.tv/match/329667-CambuurLeeuwarden-v-AZ-Alkmaar"
+    },
+    {
       "title": "1860 Munich v Bayern Munich II",
       "teams": [
         "1860 Munich",
@@ -876,14 +1037,16 @@
       "time": "12:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "LaLiga TV International HD",
-        "DAZN Italia ($/geo/R)",
         "DAZN Free Italia (geo/r)",
-        "Premier Sports Player UK (£/geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "LaLiga TV International HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "beIN Sports MENA 5 HD"
       ],
       "commentators": [
         "Guest-SC",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329665-Osasuna-v-Racing-Santander"
     },
@@ -985,11 +1148,13 @@
       "time": "10:30",
       "tournament": "Italian Serie A",
       "channels": [
+        "DAZN 1 Italia HD",
         "DAZN Italia ($/geo/R)",
-        "DAZN 1 Italia HD"
+        "StarzPlay"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329659-Udinese-v-Lecce"
     },
@@ -1091,6 +1256,43 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/332287-So-Paulo-v-Vasco-da-Gama"
+    },
+    {
+      "title": "New York City v Los Angeles FC",
+      "teams": [
+        "New York City",
+        "Los Angeles FC"
+      ],
+      "date": "17/10/2026",
+      "time": "23:30",
+      "tournament": "Major League Soccer (MLS)",
+      "channels": [
+        "Apple TV ($/geo/R)"
+      ],
+      "commentators": [
+        "Beaty"
+      ],
+      "match_url": "https://icdb.tv/match/331211-New-York-City-v-Los-Angeles-FC"
+    },
+    {
+      "title": "Wellington Phoenix v Melbourne City",
+      "teams": [
+        "Wellington Phoenix",
+        "Melbourne City"
+      ],
+      "date": "17/10/2026",
+      "time": "23:15",
+      "tournament": "Australian W-League",
+      "channels": [
+        "HBO Max (uk only) [$/geo/R]",
+        "Sky Sport 3 NZ HD",
+        "TNT Sports 3 HD (UK)",
+        "YouTube: A-Leagues (geo/R)"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/332418-Wellington-Phoenix-v-Melbourne-City"
     },
     {
       "title": "North Carolina Courage v San Diego Wave",
@@ -1533,6 +1735,23 @@
       "match_url": "https://icdb.tv/match/330365-Pisa-v-Cremonese"
     },
     {
+      "title": "Cliftonville v Portadown",
+      "teams": [
+        "Cliftonville",
+        "Portadown"
+      ],
+      "date": "17/10/2026",
+      "time": "17:00",
+      "tournament": "Northern Ireland Premiership",
+      "channels": [
+        "NIFL TV ($/geo/R)"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/329427-Cliftonville-v-Portadown"
+    },
+    {
       "title": "Washington Spirit v NJ/NY Gotham",
       "teams": [
         "Washington Spirit",
@@ -1549,7 +1768,8 @@
         "World Feed"
       ],
       "commentators": [
-        "AndyRoo_0860"
+        "AndyRoo_0860",
+        "Beaty"
       ],
       "match_url": "https://icdb.tv/match/331201-Washington-Spirit-v-NJNY-Gotham"
     },
@@ -1563,26 +1783,26 @@
       "time": "16:30",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sport Italia 4K UHD",
-        "BBC Sounds APP",
-        "FlashScore (audio)",
-        "ESPN Extra (Caribbean)",
-        "Sky Audio Description",
-        "Hub Premier 1 HD",
-        "NOW Premier League TV (hk)",
-        "beIN Sports MENA 3 HD",
-        "Star Sports Select HD1",
-        "BBC RADIO 5 LIVE",
-        "Sky Sports (highlights)",
-        "BBC Radio Newcastle",
-        "talkSPORT",
-        "Sky Sports Main Event HD",
-        "BBC Sport Online (Audio)",
-        "Premier League+ (Singapore)",
-        "Premier League TV",
-        "Sky Sports News / HD",
         "Stan Sport Australia ($/geo/R)",
-        "BBC Radio WM and29more channels"
+        "MONOMAX (Thailand",
+        "Disney+ Caribbean [$]",
+        "Sky Sports Audio Description",
+        "SuperSport Premier League HD",
+        "Sky Sport Premier League DE HD",
+        "Sky Sport Italia 4K UHD",
+        "Sky Sports Premier League HD",
+        "Laos) [$] (geo/R)",
+        "NBC App (USA)",
+        "FlashScore App",
+        "talkSPORT (Ireland)‎",
+        "NBC USA HD",
+        "Premier League TV",
+        "Flashscore UK",
+        "Sport 24 In Flight HD",
+        "Cambodia",
+        "ESPN Extra (Caribbean)",
+        "Canal+ Foot HD",
+        "BBC Radio Newcastle and29more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1838,7 +2058,7 @@
         "DAZN Deutsch ($/geo/R)",
         "MONOMAX (Thailand",
         "Cambodia",
-        "Laos)  [$] (geo/R)",
+        "Laos) [$] (geo/R)",
         "Ligue 1+ (UK/IRL)",
         "ITV French Ligue 1 Highlights"
       ],
@@ -1981,6 +2201,91 @@
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/329418-Villarreal-v-Elche"
+    },
+    {
+      "title": "Armagh City v Annagh United",
+      "teams": [
+        "Armagh City",
+        "Annagh United"
+      ],
+      "date": "17/10/2026",
+      "time": "14:00",
+      "tournament": "Northern Ireland Championship",
+      "channels": [
+        "BBC Radio Ulster"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/332465-Armagh-City-v-Annagh-United"
+    },
+    {
+      "title": "Bangor FC v Dungannon Swifts",
+      "teams": [
+        "Bangor FC",
+        "Dungannon Swifts"
+      ],
+      "date": "17/10/2026",
+      "time": "14:00",
+      "tournament": "Northern Ireland Premiership",
+      "channels": [
+        "BBC Radio Ulster"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/332464-Bangor-FC-v-Dungannon-Swifts"
+    },
+    {
+      "title": "Ballymena United v Crusaders",
+      "teams": [
+        "Ballymena United",
+        "Crusaders"
+      ],
+      "date": "17/10/2026",
+      "time": "14:00",
+      "tournament": "Northern Ireland Premiership",
+      "channels": [
+        "BBC Radio Ulster"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/332463-Ballymena-United-v-Crusaders"
+    },
+    {
+      "title": "Glentoran v Limavady United",
+      "teams": [
+        "Glentoran",
+        "Limavady United"
+      ],
+      "date": "17/10/2026",
+      "time": "14:00",
+      "tournament": "Northern Ireland Premiership",
+      "channels": [
+        "BBC Radio Ulster"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/332462-Glentoran-v-Limavady-United"
+    },
+    {
+      "title": "Carrick Rangers v Linfield",
+      "teams": [
+        "Carrick Rangers",
+        "Linfield"
+      ],
+      "date": "17/10/2026",
+      "time": "14:00",
+      "tournament": "Northern Ireland Premiership",
+      "channels": [
+        "BBC Radio Ulster"
+      ],
+      "commentators": [
+        "ethanh05"
+      ],
+      "match_url": "https://icdb.tv/match/332461-Carrick-Rangers-v-Linfield"
     },
     {
       "title": "Colchester United v Exeter City",
@@ -2606,17 +2911,19 @@
       "time": "14:00",
       "tournament": "English Championship",
       "channels": [
-        "World Feed",
-        "talkSPORT",
-        "BBC RADIO 5 LIVE",
         "BBC Final Score",
-        "Soccer Saturday",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio Derby",
+        "ITV English Football League Highlights",
         "Sky Sports (highlights)",
-        "ITV English Football League Highlights"
+        "Soccer Saturday",
+        "World Feed",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
         "LukeA206",
+        "M7",
         "apltle12",
         "mvjr4"
       ],
@@ -2815,26 +3122,26 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
-        "FlashScore App",
-        "City+",
+        "talkSPORT",
+        "World Feed",
+        "Sky Sports News / HD",
         "IRN",
-        "USA Network App (USA)",
-        "Soccer Saturday",
-        "Recast: Manchester City [$]",
-        "Sky Sport MIX Deutsch HD",
-        "RTE Radio 1",
-        "Sky Sport Calcio HD",
+        "BBC Sport Online (Audio)",
+        "BBC Match of the Day",
         "YouTube: Man City",
         "BBC Sounds APP",
-        "BBC RADIO 5 LIVE",
-        "BBC Final Score",
-        "BBC Radio 5 Sports Extra",
-        "Sky Sport 3 NZ HD",
+        "USA Network App (USA)",
+        "BBC (highlights)",
+        "Sky Sport Italia 4K UHD",
+        "RTE Radio 1",
         "Sky Sports (highlights)",
-        "Sky Sports News / HD",
-        "BBC Match of the Day",
-        "FlashScore (audio)",
-        "World Feed and9more channels"
+        "City+",
+        "Sky Sport Calcio HD",
+        "Sky Sport MIX Deutsch HD",
+        "Sky Sport 3 NZ HD",
+        "Flashscore UK",
+        "BBC Radio Suffolk",
+        "Soccer Saturday and9more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -2861,26 +3168,26 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC Sport Online (Audio)",
-        "BBC (highlights)",
-        "beIN Sports MENA 3 HD",
-        "Soccer Saturday",
-        "BBC Radio London",
-        "BBC World Service",
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP",
-        "talkSPORT International",
-        "IRN",
-        "SiriusXM FC",
-        "Flashscore UK",
-        "ARD Sportschau",
         "BBC Final Score",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio Merseyside",
+        "BBC Sounds APP",
+        "BBC Radio London",
+        "Premier Sports 1 HD (ROI only)",
+        "ARD Sportschau",
+        "talkSPORT",
+        "FlashScore App",
+        "Sky Sports (highlights)",
         "Sky Sport Premier League DE HD",
-        "Peacock USA ($/geo/R)",
-        "World Feed",
-        "Sky Sport 258 Italia HD",
+        "beIN Sports MENA 3 HD",
+        "FlashScore (audio)",
         "talkSPORT (Ireland)‎",
-        "RTE Radio 1 and9more channels"
+        "Sky Sport 258 Italia HD",
+        "Soccer Saturday",
+        "BBC (highlights)",
+        "World Feed",
+        "Peacock USA ($/geo/R)",
+        "talkSPORT International and9more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -3609,13 +3916,15 @@
       "tournament": "English League One",
       "channels": [
         "BBC RADIO 5 LIVE",
-        "ITV English Football League Highlights",
+        "BBC Radio Derby",
         "EFL Goals: Leagues 1 & 2",
+        "ITV English Football League Highlights",
         "Sky Sports+ [via APP]"
       ],
       "commentators": [
         "Crowe24",
-        "LukeA206"
+        "LukeA206",
+        "M7"
       ],
       "match_url": "https://icdb.tv/match/329387-Peterborough-United-v-Burton-Albion"
     },
@@ -3703,26 +4012,26 @@
       "time": "11:30",
       "tournament": "English Premier League",
       "channels": [
-        "Astro Premier League HD",
-        "Astro Sports UHD",
-        "BBC Match of the Day",
-        "TNT Sports 1 HD (UK)",
-        "Sport 24 In Flight HD",
         "RTE Radio 1",
+        "Sport 24 At Sea HD",
         "Premier League TV",
-        "Canal+ Live 2 France HD",
-        "Flashscore UK",
-        "Cambodia",
-        "Sky Sport Italia 4K UHD",
-        "Disney+ Caribbean [$]",
         "IRN",
-        "Premier League+ (Singapore)",
-        "Disney+ Hotstar India [$] (geo/R)",
-        "USA Network App (USA)",
-        "USA Network HD",
-        "Canal+ Foot HD",
-        "Hub Premier 1 HD",
-        "Sky Sport 8 NZ HD and34more channels"
+        "Sky Sport Premier League DE HD",
+        "Laos) [$] (geo/R)",
+        "ESPN Extra (Caribbean)",
+        "SiriusXM FC",
+        "FuboTV Canada ($/geo/R)",
+        "Star Sports Select HD1",
+        "TNT Sports Ultimate 4K (UK)",
+        "MONOMAX (Thailand",
+        "BBC Radio Merseyside",
+        "Sky Sport Italia 4K UHD",
+        "Astro GO (geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "NOW Premier League TV (hk)",
+        "Cambodia",
+        "Astro Grandstand HD",
+        "Canal+ Live 2 France HD and34more channels"
       ],
       "commentators": [
         "Crowe24",
