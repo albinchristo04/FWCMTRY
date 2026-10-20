@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-20T03:20:52.435320+00:00",
+  "scraped_at": "2026-10-20T09:48:29.214236+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 43,
+  "total_matches": 46,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -20,6 +20,27 @@
       "match_url": "https://icdb.tv/match/331123-BBC-Match-of-the-Day"
     },
     {
+      "title": "Aston Villa v Viking",
+      "teams": [
+        "Aston Villa",
+        "Viking"
+      ],
+      "date": "21/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports (highlights)",
+        "TNT Sports 2 HD (UK)",
+        "TNT Sports 9 HD (UK)",
+        "TNT Sports Ultimate 4K (UK)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/330382-Aston-Villa-v-Viking"
+    },
+    {
       "title": "Bayern Munich v Arsenal",
       "teams": [
         "Bayern Munich",
@@ -29,15 +50,16 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "HBO Max (uk only) [$/geo/R]",
         "RTÉ 2 Ireland / HD",
         "RTÉ Player (geo/R)",
-        "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "talkSPORT App",
-        "BBC Sounds APP",
+        "TNT Sports (highlights)",
         "TNT Sports 1 HD (UK)",
-        "BBC Sport Online (Audio)",
-        "HBO Max (uk only) [$/geo/R]"
+        "talkSPORT",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
@@ -99,6 +121,20 @@
       "match_url": "https://icdb.tv/match/330376-Sporting-Lisbon-v-LASK-Linz"
     },
     {
+      "title": "TNT Goals Show Xtra",
+      "date": "21/10/2026",
+      "time": "18:45",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports 3 HD (UK)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/332949-TNT-Goals-Show-Xtra"
+    },
+    {
       "title": "Levante v Athletic Bilbao",
       "teams": [
         "Levante",
@@ -155,7 +191,8 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "HBO Max (uk only) [$/geo/R]",
-        "TNT Sports (highlights)"
+        "TNT Sports (highlights)",
+        "TNT Sports 2 HD (UK)"
       ],
       "commentators": [
         "Crowe24"
@@ -172,10 +209,11 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Premier Sports 1 HD (ROI only)",
         "Amazon Prime UK [$]",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "Premier Sports 1 HD (ROI only)",
         "Virgin Media Two / HD (Highlights)",
-        "Amazon Prime Video Sport UK (Highlights)"
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
@@ -218,13 +256,14 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "talkSPORT",
-        "talkSPORT App",
         "City+",
+        "HBO Max (uk only) [$/geo/R]",
         "Recast: Manchester City [$]",
+        "TNT Sports (highlights)",
         "TNT Sports 1 HD (UK)",
         "TNT Sports Ultimate 4K (UK)",
-        "HBO Max (uk only) [$/geo/R]"
+        "talkSPORT",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
@@ -248,6 +287,20 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/330217-Napoli-v-BodGlimt"
+    },
+    {
+      "title": "TNT Goals Show Xtra",
+      "date": "20/10/2026",
+      "time": "18:45",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports 3 HD (UK)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/332948-TNT-Goals-Show-Xtra"
     },
     {
       "title": "BBC Around the Grounds",
@@ -531,25 +584,25 @@
       "tournament": "English Premier League",
       "channels": [
         "World Feed",
-        "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "USA Network App (USA)",
         "USA Network HD",
-        "BBC CWR",
-        "Sky Sport Premier League DE HD",
-        "Sky Sports News / HD",
-        "Sky Sport Arena Italia HD",
-        "SiriusXM FC",
         "SpursPlay ($/geo/R)",
-        "Sky Sports (highlights)",
-        "Sky Sports Main Event UHD",
-        "Sky Sports Main Event HD",
-        "talkSPORT App",
+        "Sky Sport Arena Italia HD",
+        "USA Network App (USA)",
+        "FlashScore App",
+        "Sky Sport 8 NZ HD",
         "Premier League+ (Singapore)",
-        "FlashScore (audio)",
-        "Sky Sports Audio Description",
+        "talkSPORT International",
+        "Sky Sports Premier League HD",
+        "BBC (highlights)",
+        "SuperSport Premier League HD",
+        "Sky Sports (highlights)",
         "SuperSport Grandstand HD",
-        "SuperSport Premier League HD and7more channels"
+        "talkSPORT",
+        "SiriusXM FC",
+        "Sky Sports Audio Description",
+        "Sky Sports Main Event HD",
+        "Sky Sports News / HD",
+        "talkSPORT App and7more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
