@@ -1,8 +1,25 @@
 {
-  "scraped_at": "2026-10-20T09:48:29.214236+00:00",
+  "scraped_at": "2026-10-20T14:39:54.473895+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 46,
+  "total_matches": 65,
   "matches": [
+    {
+      "title": "Montevideo Torque v Atlético Mineiro",
+      "teams": [
+        "Montevideo Torque",
+        "Atlético Mineiro"
+      ],
+      "date": "21/10/2026",
+      "time": "22:00",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330384-Montevideo-Torque-v-Atltico-Mineiro"
+    },
     {
       "title": "BBC Match of the Day",
       "date": "21/10/2026",
@@ -20,6 +37,42 @@
       "match_url": "https://icdb.tv/match/331123-BBC-Match-of-the-Day"
     },
     {
+      "title": "- DAZN DE - v - KONFERENZ -",
+      "teams": [
+        "- DAZN DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "21/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/332951-DAZN-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Reading v Leyton Orient",
+      "teams": [
+        "Reading",
+        "Leyton Orient"
+      ],
+      "date": "21/10/2026",
+      "time": "19:00",
+      "tournament": "English League One",
+      "channels": [
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/330383-Reading-v-Leyton-Orient"
+    },
+    {
       "title": "Aston Villa v Viking",
       "teams": [
         "Aston Villa",
@@ -29,14 +82,18 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
         "HBO Max (uk only) [$/geo/R]",
+        "Sky Sport Austria Konferenz",
         "TNT Sports (highlights)",
         "TNT Sports 2 HD (UK)",
         "TNT Sports 9 HD (UK)",
         "TNT Sports Ultimate 4K (UK)"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330382-Aston-Villa-v-Viking"
     },
@@ -53,9 +110,14 @@
         "BBC RADIO 5 LIVE",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
         "HBO Max (uk only) [$/geo/R]",
         "RTÉ 2 Ireland / HD",
         "RTÉ Player (geo/R)",
+        "Sky Sport 2 Austria HD",
+        "Sky Sport Austria Konferenz",
         "TNT Sports (highlights)",
         "TNT Sports 1 HD (UK)",
         "talkSPORT",
@@ -63,9 +125,30 @@
       ],
       "commentators": [
         "Crowe24",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330381-Bayern-Munich-v-Arsenal"
+    },
+    {
+      "title": "Inter Milan v Shakhtar Donetsk",
+      "teams": [
+        "Inter Milan",
+        "Shakhtar Donetsk"
+      ],
+      "date": "21/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "Sky Sport 4 Austria HD",
+        "Sky Sport Austria Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330380-Inter-Milan-v-Shakhtar-Donetsk"
     },
     {
       "title": "Club Brugge v Lens",
@@ -78,12 +161,34 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "Canal+ France HD",
-        "Canal+ Live 1 France HD"
+        "Canal+ Live 1 France HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "Sky Sport Austria Konferenz"
       ],
       "commentators": [
-        "Cr17"
+        "Cr17",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330379-Club-Brugge-v-Lens"
+    },
+    {
+      "title": "Real Betis v Feyenoord",
+      "teams": [
+        "Real Betis",
+        "Feyenoord"
+      ],
+      "date": "21/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "Sky Sport Austria Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330378-Real-Betis-v-Feyenoord"
     },
     {
       "title": "Real Madrid v RB Leipzig",
@@ -95,11 +200,18 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Virgin Media Two HD",
-        "Virgin Media Play (geo/R)"
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "RTS 2 Suisse HD",
+        "SRF Zwei Schweiz HD",
+        "Sky Sport 3 Austria HD",
+        "Sky Sport Austria Konferenz",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330377-Real-Madrid-v-RB-Leipzig"
     },
@@ -113,10 +225,14 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "Canal+ Österreich [€]",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330376-Sporting-Lisbon-v-LASK-Linz"
     },
@@ -172,11 +288,15 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
+        "Canal+ Foot HD",
         "Canal+ Live 2 France HD",
-        "Canal+ Foot HD"
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "Sky Sport Austria Konferenz"
       ],
       "commentators": [
-        "Cr17"
+        "Cr17",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330375-Lille-v-Galatasaray"
     },
@@ -190,14 +310,73 @@
       "time": "16:45",
       "tournament": "UEFA Champions League",
       "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
         "HBO Max (uk only) [$/geo/R]",
+        "Sky Sport 2 Austria HD",
+        "Sky Sport Austria Konferenz",
         "TNT Sports (highlights)",
-        "TNT Sports 2 HD (UK)"
+        "TNT Sports 2 HD (UK)",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/327178-Como-1907-v-Manchester-United"
+    },
+    {
+      "title": "Real Madrid U-19 v RB Leipzig U-19",
+      "teams": [
+        "Real Madrid U-19",
+        "RB Leipzig U-19"
+      ],
+      "date": "21/10/2026",
+      "time": "14:00",
+      "tournament": "UEFA Youth League (U-19)",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330372-Real-Madrid-U19-v-RB-Leipzig-U19"
+    },
+    {
+      "title": "Vasco da Gama v Boca Juniors",
+      "teams": [
+        "Vasco da Gama",
+        "Boca Juniors"
+      ],
+      "date": "21/10/2026",
+      "time": "00:30",
+      "tournament": "CONMEBOL Copa Sudamericana",
+      "channels": [
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330370-Vasco-da-Gama-v-Boca-Juniors"
+    },
+    {
+      "title": "- DAZN DE - v - KONFERENZ -",
+      "teams": [
+        "- DAZN DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "20/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/332950-DAZN-DE-v-KONFERENZ"
     },
     {
       "title": "Liverpool v Villarreal",
@@ -210,17 +389,41 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "Amazon Prime UK [$]",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "Premier Sports 1 HD (ROI only)",
+        "Amazon Prime VideoSportUK (Highlights)",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "PremierSports1 HD (ROI only)",
+        "Sky Sport 3 Austria HD",
+        "Sky Sport Austria Konferenz",
         "Virgin Media Two / HD (Highlights)",
         "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
         "ImpactPlayaz",
-        "apltle12"
+        "apltle12",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330224-Liverpool-v-Villarreal"
+    },
+    {
+      "title": "Stuttgart v Atlético Madrid",
+      "teams": [
+        "Stuttgart",
+        "Atlético Madrid"
+      ],
+      "date": "20/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "Prime Video Deutsch [$]",
+        "Sky Sport 4 Austria HD",
+        "Sky Sport Austria Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330222-Stuttgart-v-Atltico-Madrid"
     },
     {
       "title": "Paris St Germain v Barcelona",
@@ -232,19 +435,63 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "talkSPORT 2",
-        "talkSPORT App",
-        "Canal+ Live 1 France HD",
         "Canal+ Foot HD",
-        "TNT Sports 2 HD (UK)",
+        "Canal+ Live 1 France HD",
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "HBO Max (uk only) [$/geo/R]",
+        "Sky Sport 2 Austria HD",
+        "Sky Sport Austria Konferenz",
         "TNT Sports (highlights)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports 2 HD (UK)",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Cr17",
-        "Crowe24"
+        "Crowe24",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330221-Paris-St-Germain-v-Barcelona"
+    },
+    {
+      "title": "Roma v Slovan Bratislava",
+      "teams": [
+        "Roma",
+        "Slovan Bratislava"
+      ],
+      "date": "20/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "Sky Sport Austria Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330220-Roma-v-Slovan-Bratislava"
+    },
+    {
+      "title": "FC Porto v PSV Eindhoven",
+      "teams": [
+        "FC Porto",
+        "PSV Eindhoven"
+      ],
+      "date": "20/10/2026",
+      "time": "19:00",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "Sky Sport Austria Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330219-FC-Porto-v-PSV-Eindhoven"
     },
     {
       "title": "Manchester City v AEK Athens",
@@ -257,8 +504,12 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "City+",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
         "HBO Max (uk only) [$/geo/R]",
         "Recast: Manchester City [$]",
+        "Sky Sport 5 Austria HD",
+        "Sky Sport Austria Konferenz",
         "TNT Sports (highlights)",
         "TNT Sports 1 HD (UK)",
         "TNT Sports Ultimate 4K (UK)",
@@ -267,7 +518,8 @@
       ],
       "commentators": [
         "Crowe24",
-        "apltle12"
+        "apltle12",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330218-Manchester-City-v-AEK-Athens"
     },
@@ -281,10 +533,14 @@
       "time": "19:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "Sky Sport Austria Konferenz",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/330217-Napoli-v-BodGlimt"
     },
@@ -317,6 +573,23 @@
       "match_url": "https://icdb.tv/match/330585-BBC-Around-the-Grounds"
     },
     {
+      "title": "AFC Wimbledon v Mansfield Town",
+      "teams": [
+        "AFC Wimbledon",
+        "Mansfield Town"
+      ],
+      "date": "20/10/2026",
+      "time": "18:45",
+      "tournament": "English League One",
+      "channels": [
+        "iFollow (Mansfield Town)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/330216-AFC-Wimbledon-v-Mansfield-Town"
+    },
+    {
       "title": "Bromley v Leicester City",
       "teams": [
         "Bromley",
@@ -328,12 +601,46 @@
       "channels": [
         "Sky Sports (highlights)",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]"
+        "SkySports+[via APP]"
       ],
       "commentators": [
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/330214-Bromley-v-Leicester-City"
+    },
+    {
+      "title": "Doncaster Rovers v Stockport County",
+      "teams": [
+        "Doncaster Rovers",
+        "Stockport County"
+      ],
+      "date": "20/10/2026",
+      "time": "18:45",
+      "tournament": "English League One",
+      "channels": [
+        "Rovers+"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/330211-Doncaster-Rovers-v-Stockport-County"
+    },
+    {
+      "title": "Stevenage v Plymouth Argyle",
+      "teams": [
+        "Stevenage",
+        "Plymouth Argyle"
+      ],
+      "date": "20/10/2026",
+      "time": "18:45",
+      "tournament": "English League One",
+      "channels": [
+        "Argyle TV ($/geo/R)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/330206-Stevenage-v-Plymouth-Argyle"
     },
     {
       "title": "Rochdale v Grimsby Town",
@@ -362,13 +669,34 @@
       "time": "18:45",
       "tournament": "English Championship",
       "channels": [
-        "Wolves TV ($/geo/R)",
-        "Wolves App (English)"
+        "BBC Radio Solent",
+        "Express FM",
+        "Pompey+",
+        "Wolves App (English)",
+        "Wolves TV ($/geo/R)"
       ],
       "commentators": [
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/322892-Wolves-v-Portsmouth"
+    },
+    {
+      "title": "Morocco U-17 v Germany U-17",
+      "teams": [
+        "Morocco U-17",
+        "Germany U-17"
+      ],
+      "date": "20/10/2026",
+      "time": "18:00",
+      "tournament": "FIFA U-17 Women's World Cup",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "FIFA+ on DAZN (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/332952-Morocco-U17-v-Germany-U17"
     },
     {
       "title": "Sky Soccer Special",
@@ -383,6 +711,80 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/332816-Sky-Soccer-Special"
+    },
+    {
+      "title": "Al Nassr v NEOM SC",
+      "teams": [
+        "Al Nassr",
+        "NEOM SC"
+      ],
+      "date": "20/10/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330191-Al-Nassr-v-NEOM-SC"
+    },
+    {
+      "title": "Fenerbahçe v Slavia Prague",
+      "teams": [
+        "Fenerbahçe",
+        "Slavia Prague"
+      ],
+      "date": "20/10/2026",
+      "time": "16:45",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "Sky Sport Austria Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330189-Fenerbahe-v-Slavia-Prague"
+    },
+    {
+      "title": "Sabah v Borussia Dortmund",
+      "teams": [
+        "Sabah",
+        "Borussia Dortmund"
+      ],
+      "date": "20/10/2026",
+      "time": "16:45",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "Sky Sport 2 Austria HD",
+        "Sky Sport Austria Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/330188-Sabah-v-Borussia-Dortmund"
+    },
+    {
+      "title": "Manchester City U-19 v AEK Athens U-19",
+      "teams": [
+        "Manchester City U-19",
+        "AEK Athens U-19"
+      ],
+      "date": "20/10/2026",
+      "time": "14:00",
+      "tournament": "UEFA Youth League (U-19)",
+      "channels": [
+        "Blue ZOOM D Schweiz"
+      ],
+      "commentators": [
+        "Johnny17"
+      ],
+      "match_url": "https://icdb.tv/match/330185-Manchester-City-U19-v-AEK-Athens-U19"
     },
     {
       "title": "Deportivo Pasto v Alianza FC (COL)",
@@ -583,26 +985,26 @@
       "time": "19:00",
       "tournament": "English Premier League",
       "channels": [
-        "World Feed",
-        "USA Network HD",
-        "SpursPlay ($/geo/R)",
-        "Sky Sport Arena Italia HD",
-        "USA Network App (USA)",
-        "FlashScore App",
         "Sky Sport 8 NZ HD",
+        "Sky Sports (highlights)",
+        "Sky Sport Arena Italia HD",
+        "USA Network HD",
+        "Sky Sport Premier League DE HD",
         "Premier League+ (Singapore)",
         "talkSPORT International",
-        "Sky Sports Premier League HD",
-        "BBC (highlights)",
-        "SuperSport Premier League HD",
-        "Sky Sports (highlights)",
-        "SuperSport Grandstand HD",
-        "talkSPORT",
-        "SiriusXM FC",
+        "USA Network App (USA)",
+        "Sky Sports Main Event UHD",
         "Sky Sports Audio Description",
+        "TSN Malta 2 HD",
+        "SuperSport Premier League HD",
+        "World Feed",
+        "FlashScore App",
+        "FlashScore (audio)",
+        "BBC RADIO 5 LIVE",
+        "BBC (highlights)",
         "Sky Sports Main Event HD",
-        "Sky Sports News / HD",
-        "talkSPORT App and7more channels"
+        "SuperSport Grandstand HD",
+        "Flashscore UK and7more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -859,10 +1261,16 @@
       "time": "16:00",
       "tournament": "German Frauen Bundesliga",
       "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)",
+        "Sport 1 Germany HD",
         "World Feed"
       ],
       "commentators": [
-        "apltle12"
+        "apltle12",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331242-Bayern-Munich-v-Stuttgart"
     },
