@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-26T10:46:02.312647+00:00",
+  "scraped_at": "2026-10-26T20:30:44.079573+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 129,
+  "total_matches": 140,
   "matches": [
     {
       "title": "Fleetwood Town v Arsenal",
@@ -24,6 +24,23 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/330589-Fleetwood-Town-v-Arsenal"
+    },
+    {
+      "title": "FC Cologne v Union Berlin",
+      "teams": [
+        "FC Cologne",
+        "Union Berlin"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331391-FC-Cologne-v-Union-Berlin"
     },
     {
       "title": "Roma v Cagliari",
@@ -77,6 +94,34 @@
       "match_url": "https://icdb.tv/match/333482-Coritiba-v-Grmio"
     },
     {
+      "title": "Walsall v Salford City",
+      "teams": [
+        "Walsall",
+        "Salford City"
+      ],
+      "date": "26/10/2026",
+      "time": "20:00",
+      "tournament": "English League Two",
+      "channels": [
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "TSN Malta 8 HD",
+        "World Feed",
+        "beIN Sports MENA English 2 HD"
+      ],
+      "commentators": [
+        "Crowe24",
+        "HWP",
+        "M7",
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/331116-Walsall-v-Salford-City"
+    },
+    {
       "title": "Sevilla v Osasuna",
       "teams": [
         "Sevilla",
@@ -86,10 +131,11 @@
       "time": "20:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "ImpactPlayaz"
@@ -106,13 +152,29 @@
       "time": "19:30",
       "tournament": "French Ligue 1",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "World Feed"
       ],
       "commentators": [
+        "Crowe24",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331040-Paris-St-Germain-v-Lyon"
+    },
+    {
+      "title": "- English FA Cup Draw -",
+      "date": "26/10/2026",
+      "time": "19:00",
+      "tournament": "English Womens FA Cup",
+      "channels": [
+        "YouTube: Channel 4 Sport",
+        "YouTube: TNT Sports"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334182-English-FA-Cup-Draw"
     },
     {
       "title": "talkSPORT Kick Off",
@@ -155,9 +217,11 @@
       "time": "18:45",
       "tournament": "Portuguese Liga 1",
       "channels": [
-        "Sportdigital FUSSBALL HD"
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
+        "HWP",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331113-Santa-Clara-v-Benfica"
@@ -172,12 +236,79 @@
       "time": "18:30",
       "tournament": "Türkiye Süper Lig",
       "channels": [
-        "beIN Sports Türkiye 1 HD"
+        "beIN Sports HK 1 HD",
+        "beIN Sports US 4",
+        "SuperSport ESPN HD",
+        "Disney+ Caribbean [$]",
+        "beIN Sports Australia 3 HD",
+        "beIN Connect Hong Kong",
+        "beIN Connect New Zealand",
+        "beIN Sports Türkiye 1 HD",
+        "FuboTV Canada ($/geo/R)",
+        "beIN Sports Singapore HD",
+        "ESPN Africa",
+        "SportKlub 3 Slovenija",
+        "beIN Connect Malaysia",
+        "beIN Sports Canada HD",
+        "beIN Sports Philippines 3 HD",
+        "SportKlub 1 Hrvatska HD",
+        "beIN Connect Thailand",
+        "beIN Connect Indonesia",
+        "Fubo Sports USA ($/geo/R)",
+        "beIN Connect Canada and7more channels"
       ],
       "commentators": [
+        "HWP",
         "windbuff"
       ],
       "match_url": "https://icdb.tv/match/331112-Galatasaray-v-Fenerbahe"
+    },
+    {
+      "title": "Al Qadisiyah v Al Sadd",
+      "teams": [
+        "Al Qadisiyah",
+        "Al Sadd"
+      ],
+      "date": "26/10/2026",
+      "time": "18:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "beIN Connect USA",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "Azam Sports 3 HD",
+        "Astro GO (geo/R)",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331878-Al-Qadisiyah-v-Al-Sadd"
+    },
+    {
+      "title": "Air Force Club v Pakhtakor",
+      "teams": [
+        "Air Force Club",
+        "Pakhtakor"
+      ],
+      "date": "26/10/2026",
+      "time": "18:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "beIN Connect USA",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "Astro GO (geo/R)",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331877-Air-Force-Club-v-Pakhtakor"
     },
     {
       "title": "Al Nassr v Al Wasl",
@@ -189,12 +320,141 @@
       "time": "18:15",
       "tournament": "AFC Champions League Elite",
       "channels": [
-        "Sportdigital 1+ Deutsch HD"
+        "Sportdigital 1+ Deutsch HD",
+        "**POSTPONED**"
       ],
       "commentators": [
+        "HWP",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331111-Al-Nassr-v-Al-Wasl"
+    },
+    {
+      "title": "Al Ain v Tractor Sazi",
+      "teams": [
+        "Al Ain",
+        "Tractor Sazi"
+      ],
+      "date": "26/10/2026",
+      "time": "16:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "beIN Connect USA",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "Astro GO (geo/R)",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331875-Al-Ain-v-Tractor-Sazi"
+    },
+    {
+      "title": "Besiktas v Istanbul Basaksehir",
+      "teams": [
+        "Besiktas",
+        "Istanbul Basaksehir"
+      ],
+      "date": "26/10/2026",
+      "time": "16:00",
+      "tournament": "Türkiye Süper Lig",
+      "channels": [
+        "beIN Sports US 4",
+        "beIN Sports US HD",
+        "World Feed",
+        "beIN Connect USA",
+        "beIN Connect Canada"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/331109-Besiktas-v-Istanbul-Basaksehir"
+    },
+    {
+      "title": "Caykur Rizespor v Trabzonspor",
+      "teams": [
+        "Caykur Rizespor",
+        "Trabzonspor"
+      ],
+      "date": "26/10/2026",
+      "time": "16:00",
+      "tournament": "Türkiye Süper Lig",
+      "channels": [
+        "World Feed",
+        "beIN Sports Australia 3 HD"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/331108-Caykur-Rizespor-v-Trabzonspor"
+    },
+    {
+      "title": "Al Ahli v Al Gharafa",
+      "teams": [
+        "Al Ahli",
+        "Al Gharafa"
+      ],
+      "date": "26/10/2026",
+      "time": "16:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "Astro Grandstand HD",
+        "beIN Sports MENA English 1 HD",
+        "beIN Connect USA",
+        "Azam Sports 2 HD",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331107-Al-Ahli-v-Al-Gharafa"
+    },
+    {
+      "title": "Neftchi v Al Ittihad",
+      "teams": [
+        "Neftchi",
+        "Al Ittihad"
+      ],
+      "date": "26/10/2026",
+      "time": "13:45",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "Astro Grandstand HD",
+        "beIN Sports MENA English 1 HD",
+        "beIN Connect USA",
+        "Azam Sports 2 HD",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "Mikhail17",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/331873-Neftchi-v-Al-Ittihad"
+    },
+    {
+      "title": "Sky Sports Ref Watch",
+      "date": "26/10/2026",
+      "time": "11:00",
+      "tournament": "British Football",
+      "channels": [
+        "Sky Sports News / HD",
+        "Sky Sports Premier League HD",
+        "Sky Sports Ref Watch"
+      ],
+      "commentators": [
+        "AnthonyB94"
+      ],
+      "match_url": "https://icdb.tv/match/334145-Sky-Sports-Ref-Watch"
     },
     {
       "title": "Tolima v Deportivo Pasto",
@@ -506,10 +766,12 @@
         "ESPN 6 (CentroAmérica)",
         "ESPN 6 (South America)",
         "ESPN Premium (Argentina)",
+        "Premier Sports Player UK (£/geo/R)",
         "Sportdigital FUSSBALL HD",
         "World Feed"
       ],
       "commentators": [
+        "Mikhail17",
         "apltle12",
         "kurtogen",
         "luca80sp"
@@ -817,11 +1079,11 @@
       "time": "17:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "World Feed",
-        "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "ImpactPlayaz"
@@ -920,26 +1182,26 @@
       "time": "16:30",
       "tournament": "English Premier League",
       "channels": [
+        "USA Network App (USA)",
+        "BBC RADIO 5 LIVE",
+        "BBC Sport Online (Audio)",
+        "FlashScore App",
+        "BBC Radio Newcastle",
+        "Sky Sports Main Event HD",
         "BBC (highlights)",
-        "World Feed",
-        "BBC World Service",
-        "Sky Sports (highlights)",
         "Sky Sports Premier League HD",
         "Canal+ Foot HD",
-        "Canal+ France HD",
-        "USA Network App (USA)",
-        "FlashScore (audio)",
-        "FlashScore App",
-        "Sky Sport Premier League DE HD",
-        "BBC Radio Leeds",
-        "BBC Sounds APP",
-        "Sky Sports Main Event UHD",
-        "BBC RADIO 5 LIVE",
-        "USA Network HD",
         "BBC Match of the Day",
         "LUTV ($/geo/R)",
+        "BBC Radio Leeds",
+        "USA Network HD",
+        "FlashScore (audio)",
+        "Flashscore UK",
+        "World Feed",
+        "Sky Sports Audio Description",
         "talkSPORT",
-        "Sky Sports News / HD and6more channels"
+        "Sky Sports (highlights)",
+        "BBC World Service and6more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -981,13 +1243,13 @@
       "time": "16:15",
       "tournament": "French Ligue 1",
       "channels": [
-        "beIN Sports US HD",
+        "Amazon Prime UK [$]",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "ITV French Ligue 1 Highlights",
+        "Ligue 1+ (UK/IRL)",
         "World Feed",
         "beIN Sports Canada HD",
-        "Amazon Prime UK [$]",
-        "Ligue 1+ (UK/IRL)",
-        "ITV French Ligue 1 Highlights",
-        "Amazon Prime Video Sport UK (Highlights)"
+        "beIN Sports US HD"
       ],
       "commentators": [
         "HWP",
@@ -1585,26 +1847,26 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC Radio Solent",
-        "Sky Sports (highlights)",
-        "BBC (highlights)",
-        "MUTV / HD (highlights)",
         "talkSPORT",
-        "Sky Sports Main Event HD",
-        "BBC RADIO 5 LIVE",
-        "Sky Sports Main Event UHD",
-        "BBC Sport Online (Audio)",
         "Laos) [$] (geo/R)",
+        "Peacock USA ($/geo/R)",
         "World Feed",
-        "Cambodia",
-        "FlashScore App",
-        "MUTV / HD (radio commentary)",
-        "beIN Sports MENA English 1 HD",
-        "BBC News HD",
-        "FlashScore (audio)",
-        "NBCSN",
+        "MONOMAX (Thailand",
+        "Sky Sports (highlights)",
+        "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
-        "MONOMAX (Thailand and6more channels"
+        "BBC Sport Online (Audio)",
+        "Sky Sport MIX Deutsch HD",
+        "beIN Sports MENA English 1 HD",
+        "Sky Sports Main Event HD",
+        "BBC Sounds APP",
+        "FlashScore App",
+        "BBC RADIO 5 LIVE",
+        "BBC Match of the Day",
+        "MUTV / HD (radio commentary)",
+        "Flashscore UK",
+        "FlashScore (audio)",
+        "BBC Radio Solent and6more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1629,26 +1891,26 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
-        "FlashScore (audio)",
-        "Astro GO (geo/R)",
+        "Canal+ Foot HD",
+        "World Feed",
         "talkSPORT International",
+        "Sky Sports News / HD",
+        "Astro GO (geo/R)",
         "BBC RADIO 5 LIVE",
         "Sky Sports (highlights)",
-        "Astro Sports UHD",
-        "BBC Sounds APP",
+        "talkSPORT",
+        "FlashScore (audio)",
+        "Sky Sport Premier League DE HD",
         "ESPN (Brazil)",
-        "Canal+ Foot HD",
-        "BBC (highlights)",
-        "BBC Radio 5 Sports Extra 2",
-        "Canal+ France HD",
-        "World Feed",
-        "BBC Sport Online (Audio)",
-        "Sky Sports News / HD",
-        "BBC Radio Merseyside",
-        "FlashScore App",
-        "BBC Match of the Day",
         "Astro Grandstand HD",
-        "Disney+ Brazil [$] and5more channels"
+        "BBC Radio Merseyside",
+        "Sky Sports Premier League HD",
+        "Canal+ France HD",
+        "Flashscore UK",
+        "BBC (highlights)",
+        "BBC Sounds APP",
+        "Disney+ Brazil [$]",
+        "Astro Premier League HD and5more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1672,26 +1934,26 @@
       "time": "14:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC Radio Newcastle",
-        "BBC (highlights)",
-        "FlashScore App",
-        "USA Network HD",
-        "Sky Sports (highlights)",
-        "Palace TV (highlights)",
-        "Sky Sport 6 Deutsch HD",
-        "USA Network App (USA)",
         "BBC Sport Online (Audio)",
         "Flashscore UK",
-        "FlashScore (audio)",
-        "Palace TV+ ($/geo/R)",
+        "Sky Sports (highlights)",
         "Sky Sports+ Channel",
-        "NUFC TV ($/geo/R)",
-        "BBC Sounds APP",
-        "World Feed",
         "BBC Radio London (DAB)",
-        "Sky Sports News / HD",
         "talkSPORT",
-        "BBC RADIO 5 LIVE and2more channels"
+        "Sky Sports News / HD",
+        "FlashScore App",
+        "NUFC TV ($/geo/R)",
+        "Palace TV (highlights)",
+        "BBC Sounds APP",
+        "BBC Radio Newcastle",
+        "FlashScore (audio)",
+        "BBC Match of the Day",
+        "BBC RADIO 5 LIVE",
+        "USA Network HD",
+        "World Feed",
+        "Palace TV+ ($/geo/R)",
+        "BBC (highlights)",
+        "BBC Radio 5 Sports Extra 3 and2more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1963,14 +2225,14 @@
       "time": "13:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "Premier Sports 2 HD",
-        "World Feed",
-        "DAZN Schweiz [$] (geo/R)",
-        "Premier Sports 2 HD (ROI only)",
-        "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)",
         "DAZN Deutsch ($/geo/R)",
-        "SportyNet"
+        "DAZN Schweiz [$] (geo/R)",
+        "LaLiga TV International HD",
+        "Premier Sports 2 HD",
+        "Premier Sports 2 HD (ROI only)",
+        "Premier Sports Player UK (£/geo/R)",
+        "SportyNet",
+        "World Feed"
       ],
       "commentators": [
         "ImpactPlayaz",
