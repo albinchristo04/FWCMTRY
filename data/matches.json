@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-27T10:12:28.927025+00:00",
+  "scraped_at": "2026-10-27T19:49:02.694057+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 65,
+  "total_matches": 105,
   "matches": [
     {
       "title": "BBC Sportscene",
@@ -75,9 +75,13 @@
       "time": "20:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC Radio 5 Sports Extra 2",
         "BBC Radio Scotland Extra",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
+        "Hearts TV",
+        "Sky Sports Football HD",
+        "Sky Sports News / HD",
         "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
@@ -85,6 +89,62 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331583-Hearts-v-Rangers"
+    },
+    {
+      "title": "Celtic v Dundee United",
+      "teams": [
+        "Celtic",
+        "Dundee United"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "BBC Radio 5 Sports Extra 3",
+        "BBC Radio Scotland (Online)",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/334069-Celtic-v-Dundee-United"
+    },
+    {
+      "title": "Dundee v Kilmarnock",
+      "teams": [
+        "Dundee",
+        "Kilmarnock"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "KillieTV"
+      ],
+      "commentators": [
+        "HWP",
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/334068-Dundee-v-Kilmarnock"
+    },
+    {
+      "title": "St Mirren v Hibernian",
+      "teams": [
+        "St Mirren",
+        "Hibernian"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "Hibs TV",
+        "St Mirren TV ($/geo/R)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/334067-St-Mirren-v-Hibernian"
     },
     {
       "title": "- OPEN ALL MICS -",
@@ -179,6 +239,57 @@
       "match_url": "https://icdb.tv/match/331609-Bayern-Munich-v-Magdeburg"
     },
     {
+      "title": "St Johnstone v Motherwell",
+      "teams": [
+        "St Johnstone",
+        "Motherwell"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "Saints TV ($/geo/R)"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/331605-St-Johnstone-v-Motherwell"
+    },
+    {
+      "title": "Aberdeen v Falkirk",
+      "teams": [
+        "Aberdeen",
+        "Falkirk"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "Scottish Premiership",
+      "channels": [
+        "Falkirk TV [$]"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/331602-Aberdeen-v-Falkirk"
+    },
+    {
+      "title": "Sunderland v Brentford",
+      "teams": [
+        "Sunderland",
+        "Brentford"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "Sky Sports News / HD"
+      ],
+      "commentators": [
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/331601-Sunderland-v-Brentford"
+    },
+    {
       "title": "Genoa v Juventus",
       "teams": [
         "Genoa",
@@ -188,11 +299,15 @@
       "time": "19:45",
       "tournament": "Italian Serie A",
       "channels": [
+        "DAZN 1 Italia HD",
         "DAZN 2 Bar Deutsch HD",
         "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Zona Gol Serie A - DAZN Italia"
       ],
       "commentators": [
+        "Guest-SC",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331586-Genoa-v-Juventus"
@@ -209,12 +324,37 @@
       "channels": [
         "DAZN 1 Bar Deutsch HD",
         "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Sky Sport 251 Italia HD",
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Calcio HD",
+        "Sky Sport Italia 4K UHD",
+        "Zona Gol Serie A - DAZN Italia"
       ],
       "commentators": [
+        "Guest-SC",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331585-Monza-v-Napoli"
+    },
+    {
+      "title": "- DAZN IT - v - Zona Serie A Eni Live -",
+      "teams": [
+        "- DAZN IT -",
+        "- Zona Serie A Eni Live -"
+      ],
+      "date": "28/10/2026",
+      "time": "19:30",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie A - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334383-DAZN-IT-v-Zona-Serie-A-Eni-Live"
     },
     {
       "title": "Manchester City v Brighton H.A.",
@@ -234,6 +374,57 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/331582-Manchester-City-v-Brighton-HA"
+    },
+    {
+      "title": "Juve Stabia v Hellas Verona",
+      "teams": [
+        "Juve Stabia",
+        "Hellas Verona"
+      ],
+      "date": "28/10/2026",
+      "time": "19:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/332457-Juve-Stabia-v-Hellas-Verona"
+    },
+    {
+      "title": "Carrarese v Arezzo",
+      "teams": [
+        "Carrarese",
+        "Arezzo"
+      ],
+      "date": "28/10/2026",
+      "time": "19:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/332456-Carrarese-v-Arezzo"
+    },
+    {
+      "title": "Pisa v Palermo",
+      "teams": [
+        "Pisa",
+        "Palermo"
+      ],
+      "date": "28/10/2026",
+      "time": "18:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/332455-Pisa-v-Palermo"
     },
     {
       "title": "Bayern Munich v Real Madrid",
@@ -262,13 +453,17 @@
       "time": "17:30",
       "tournament": "Italian Serie A",
       "channels": [
+        "DAZN 1 Italia HD",
         "DAZN 2 Bar Deutsch HD",
         "DAZN Deutsch ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "World Feed"
+        "World Feed",
+        "Zona Gol Serie A - DAZN Italia"
       ],
       "commentators": [
         "Crowe24",
+        "Guest-SC",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331572-AC-Milan-v-Bologna"
@@ -285,12 +480,39 @@
       "channels": [
         "DAZN 1 Bar Deutsch HD",
         "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (geo/R)"
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Sky Sport 251 Italia HD",
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Calcio HD",
+        "Sky Sport Italia 4K UHD",
+        "Sky Sport Uno Italia HD",
+        "Zona Gol Serie A - DAZN Italia"
       ],
       "commentators": [
+        "Guest-SC",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331571-Venezia-v-Inter-Milan"
+    },
+    {
+      "title": "Parma v Udinese",
+      "teams": [
+        "Parma",
+        "Udinese"
+      ],
+      "date": "28/10/2026",
+      "time": "17:30",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN 2 Italia HD",
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie A - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/331570-Parma-v-Udinese"
     },
     {
       "title": "Dynamo Dresden v Schalke 04",
@@ -371,6 +593,24 @@
       "match_url": "https://icdb.tv/match/331566-Freiburg-v-Wolfsburg"
     },
     {
+      "title": "- DAZN IT - v - Zona Serie A Eni Live -",
+      "teams": [
+        "- DAZN IT -",
+        "- Zona Serie A Eni Live -"
+      ],
+      "date": "28/10/2026",
+      "time": "16:30",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie A - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334382-DAZN-IT-v-Zona-Serie-A-Eni-Live"
+    },
+    {
       "title": "- SKY DE - v - KONFERENZ -",
       "teams": [
         "- SKY DE -",
@@ -397,17 +637,102 @@
       "time": "20:00",
       "tournament": "English League Cup",
       "channels": [
+        "BBC North West Tonight",
         "BBC RADIO 5 LIVE",
+        "BBC Radio Lancashire",
+        "BBC Radio London",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
+        "ITV EFL Carabao Cup Highlights",
+        "ITV News Granada Reports",
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "Soccer Special",
         "talkSPORT",
         "talkSPORT App"
       ],
       "commentators": [
+        "AnthonyB94",
         "Crowe24",
+        "M7",
+        "SonnyCorry",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/330589-Fleetwood-Town-v-Arsenal"
+    },
+    {
+      "title": "Barnet v York City",
+      "teams": [
+        "Barnet",
+        "York City"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "English League Two",
+      "channels": [
+        "BBC RADIO 5 LIVE"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/334393-Barnet-v-York-City"
+    },
+    {
+      "title": "Milton Keynes Dons v Bromley",
+      "teams": [
+        "Milton Keynes Dons",
+        "Bromley"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "English League One",
+      "channels": [
+        "BBC Radio London",
+        "BBC Three Counties Radio (FM)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/334388-Milton-Keynes-Dons-v-Bromley"
+    },
+    {
+      "title": "Luton Town v Doncaster Rovers",
+      "teams": [
+        "Luton Town",
+        "Doncaster Rovers"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "English League One",
+      "channels": [
+        "BBC Radio Sheffield",
+        "BBC Three Counties Radio",
+        "Soccer Special"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/334387-Luton-Town-v-Doncaster-Rovers"
+    },
+    {
+      "title": "Oxford United v Stockport County",
+      "teams": [
+        "Oxford United",
+        "Stockport County"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "English League One",
+      "channels": [
+        "BBC RADIO 5 LIVE"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331398-Oxford-United-v-Stockport-County"
     },
     {
       "title": "FC Cologne v Union Berlin",
@@ -419,9 +744,9 @@
       "time": "19:45",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "RTL+ Deutschland (geo/R)",
+        "World Feed",
         "Sky Sport 3 Deutsch HD",
-        "World Feed"
+        "RTL+ Deutschland (geo/R)"
       ],
       "commentators": [
         "Crowe24",
@@ -439,11 +764,11 @@
       "time": "19:45",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "RTL+ Deutschland (geo/R)",
-        "Servus TV Österreich HD",
+        "ZDF / HD",
         "Sky Sport 2 Deutsch HD",
         "Sky Sport Germany Konferenz",
-        "ZDF / HD"
+        "RTL+ Deutschland (geo/R)",
+        "Servus TV Österreich HD"
       ],
       "commentators": [
         "kurtogen"
@@ -460,9 +785,9 @@
       "time": "19:45",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "RTL+ Deutschland (geo/R)",
         "Sky Sport 8 Deutsch HD",
-        "Sky Sport Germany Konferenz"
+        "Sky Sport Germany Konferenz",
+        "RTL+ Deutschland (geo/R)"
       ],
       "commentators": [
         "kurtogen"
@@ -481,12 +806,45 @@
       "channels": [
         "RTL+ Deutschland (geo/R)",
         "Sky Sport 9 Deutsch HD",
-        "Sky Sport Germany Konferenz"
+        "Sky Sport Germany Konferenz",
+        "World Feed"
       ],
       "commentators": [
+        "Crowe24",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331388-Elversberg-v-Darmstadt-98"
+    },
+    {
+      "title": "Bradford City v Peterborough United",
+      "teams": [
+        "Bradford City",
+        "Peterborough United"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "English League Cup",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Radio 5 Sports Extra",
+        "BBC Radio Leeds",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "ITV EFL Carabao Cup Highlights",
+        "Sky Sports (highlights)",
+        "Sky Sports News / HD",
+        "Sky Sports+ Channel",
+        "Sky Sports+ [via APP]",
+        "Soccer Special",
+        "talkSPORT"
+      ],
+      "commentators": [
+        "AnthonyB94",
+        "Crowe24",
+        "M7",
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/331378-Bradford-City-v-Peterborough-United"
     },
     {
       "title": "Roma v Cagliari",
@@ -498,15 +856,104 @@
       "time": "19:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "DAZN Deutsch ($/geo/R)",
+        "DAZN 2 Bar Deutsch HD",
+        "World Feed",
         "DAZN Schweiz [$] (geo/R)",
-        "World Feed"
+        "DAZN Italia ($/geo/R)",
+        "DAZN 1 Italia HD",
+        "DAZN Deutsch ($/geo/R)",
+        "Zona Gol Serie A - DAZN Italia"
       ],
       "commentators": [
         "Crowe24",
+        "Guest-SC",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331377-Roma-v-Cagliari"
+    },
+    {
+      "title": "Torino v Como 1907",
+      "teams": [
+        "Torino",
+        "Como 1907"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "BBC Alba HD",
+        "BBC Sport Scotland Online",
+        "BBC iPlayer (geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "Sky Sport 251 Italia HD",
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Calcio HD",
+        "Sky Sport Italia 4K UHD",
+        "Zona Gol Serie A - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/331376-Torino-v-Como-1907"
+    },
+    {
+      "title": "Sheffield Wednesday v Cambridge United",
+      "teams": [
+        "Sheffield Wednesday",
+        "Cambridge United"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "English League One",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Radio Sheffield",
+        "Soccer Special"
+      ],
+      "commentators": [
+        "Crowe24",
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/327428-Sheffield-Wednesday-v-Cambridge-United"
+    },
+    {
+      "title": "Leicester City v Wigan Athletic",
+      "teams": [
+        "Leicester City",
+        "Wigan Athletic"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "English League One",
+      "channels": [
+        "BBC Radio Leicester",
+        "Foxes Hub",
+        "Soccer Special"
+      ],
+      "commentators": [
+        "Penfold1982",
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/326376-Leicester-City-v-Wigan-Athletic"
+    },
+    {
+      "title": "- DAZN IT - v - Zona Serie A Eni Live -",
+      "teams": [
+        "- DAZN IT -",
+        "- Zona Serie A Eni Live -"
+      ],
+      "date": "27/10/2026",
+      "time": "19:00",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie A - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334381-DAZN-IT-v-Zona-Serie-A-Eni-Live"
     },
     {
       "title": "Sky Soccer Special",
@@ -521,6 +968,136 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/334185-Sky-Soccer-Special"
+    },
+    {
+      "title": "Ascoli v Sampdoria",
+      "teams": [
+        "Ascoli",
+        "Sampdoria"
+      ],
+      "date": "27/10/2026",
+      "time": "19:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Destination Calcio (geo/R)",
+        "Fox Soccer Plus USA",
+        "World Feed",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "HWP",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/332454-Ascoli-v-Sampdoria"
+    },
+    {
+      "title": "Virtus Entella v Avellino",
+      "teams": [
+        "Virtus Entella",
+        "Avellino"
+      ],
+      "date": "27/10/2026",
+      "time": "19:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/332452-Virtus-Entella-v-Avellino"
+    },
+    {
+      "title": "Padova v SüdTirol",
+      "teams": [
+        "Padova",
+        "SüdTirol"
+      ],
+      "date": "27/10/2026",
+      "time": "19:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/332451-Padova-v-SdTirol"
+    },
+    {
+      "title": "LR Vicenza v Modena",
+      "teams": [
+        "LR Vicenza",
+        "Modena"
+      ],
+      "date": "27/10/2026",
+      "time": "19:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/332450-LR-Vicenza-v-Modena"
+    },
+    {
+      "title": "Mantova v Cremonese",
+      "teams": [
+        "Mantova",
+        "Cremonese"
+      ],
+      "date": "27/10/2026",
+      "time": "19:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "DAZN Free Italia (geo/r)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/332449-Mantova-v-Cremonese"
+    },
+    {
+      "title": "Blackpool v Aston Villa U-21",
+      "teams": [
+        "Blackpool",
+        "Aston Villa U-21"
+      ],
+      "date": "27/10/2026",
+      "time": "19:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "BBC Radio Lancashire"
+      ],
+      "commentators": [
+        "M7"
+      ],
+      "match_url": "https://icdb.tv/match/332448-Blackpool-v-Aston-Villa-U21"
+    },
+    {
+      "title": "Port Vale v Manchester City U-21",
+      "teams": [
+        "Port Vale",
+        "Manchester City U-21"
+      ],
+      "date": "27/10/2026",
+      "time": "19:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "BBC Radio Stoke"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331374-Port-Vale-v-Manchester-City-U21"
     },
     {
       "title": "Shrewsbury Town v Everton U-21",
@@ -538,6 +1115,118 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/331373-Shrewsbury-Town-v-Everton-U21"
+    },
+    {
+      "title": "- DAZN IT - v - ZONA SERIE B -",
+      "teams": [
+        "- DAZN IT -",
+        "- ZONA SERIE B -"
+      ],
+      "date": "27/10/2026",
+      "time": "18:55",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334384-DAZN-IT-v-ZONA-SERIE-B"
+    },
+    {
+      "title": "Sestao River v Espanyol",
+      "teams": [
+        "Sestao River",
+        "Espanyol"
+      ],
+      "date": "27/10/2026",
+      "time": "18:00",
+      "tournament": "Spanish Cup (Copa del Rey)",
+      "channels": [
+        "World Feed",
+        "ESPN+ USA ($/geo/R)"
+      ],
+      "commentators": [
+        "Mikhail17",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334030-Sestao-River-v-Espanyol"
+    },
+    {
+      "title": "UD Pinatar v Elche",
+      "teams": [
+        "UD Pinatar",
+        "Elche"
+      ],
+      "date": "27/10/2026",
+      "time": "18:00",
+      "tournament": "Spanish Cup (Copa del Rey)",
+      "channels": [
+        "World Feed",
+        "ESPN+ USA ($/geo/R)"
+      ],
+      "commentators": [
+        "Mikhail17",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/333505-UD-Pinatar-v-Elche"
+    },
+    {
+      "title": "Benevento v Catanzaro",
+      "teams": [
+        "Benevento",
+        "Catanzaro"
+      ],
+      "date": "27/10/2026",
+      "time": "18:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/332447-Benevento-v-Catanzaro"
+    },
+    {
+      "title": "AFC Wimbledon v Arsenal U-21",
+      "teams": [
+        "AFC Wimbledon",
+        "Arsenal U-21"
+      ],
+      "date": "27/10/2026",
+      "time": "18:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "Sky Sports+ [via APP]"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/331371-AFC-Wimbledon-v-Arsenal-U21"
+    },
+    {
+      "title": "Sassuolo v Lazio",
+      "teams": [
+        "Sassuolo",
+        "Lazio"
+      ],
+      "date": "27/10/2026",
+      "time": "17:30",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "World Feed",
+        "VG+ Sport Norge ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN 1 Italia HD",
+        "Paramount+ USA ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/331367-Sassuolo-v-Lazio"
     },
     {
       "title": "First Vienna v Rapid Vienna",
@@ -583,11 +1272,13 @@
       "time": "17:00",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "RTL+ Deutschland (geo/R)",
+        "World Feed",
         "Sky Sport 5 Deutsch HD",
-        "Sky Sport Germany Konferenz"
+        "Sky Sport Germany Konferenz",
+        "RTL+ Deutschland (geo/R)"
       ],
       "commentators": [
+        "HWP",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331366-Sonnenhof-Groaspach-v-Augsburg"
@@ -602,11 +1293,15 @@
       "time": "17:00",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "RTL+ Deutschland (geo/R)",
         "Sky Sport 2 Deutsch HD",
-        "Sky Sport Germany Konferenz"
+        "World Feed",
+        "Sky Sport Germany Konferenz",
+        "RTL+ Deutschland (geo/R)",
+        "Astro GO (geo/R)",
+        "Astro Football HD"
       ],
       "commentators": [
+        "HWP",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331365-RotWeiss-Essen-v-RB-Leipzig"
@@ -621,11 +1316,13 @@
       "time": "17:00",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "RTL+ Deutschland (geo/R)",
+        "World Feed",
         "Sky Sport 4 Deutsch HD",
-        "Sky Sport Germany Konferenz"
+        "Sky Sport Germany Konferenz",
+        "RTL+ Deutschland (geo/R)"
       ],
       "commentators": [
+        "HWP",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331364-Bochum-v-Mainz-05"
@@ -640,13 +1337,15 @@
       "time": "17:00",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
-        "RTL Deutschland HD",
-        "RTL Schweiz HD",
-        "RTL Österreich HD",
+        "World Feed",
         "Sky Sport 3 Deutsch HD",
-        "Sky Sport Germany Konferenz"
+        "Sky Sport Germany Konferenz",
+        "RTL Schweiz HD",
+        "RTL Deutschland HD",
+        "RTL Österreich HD"
       ],
       "commentators": [
+        "Crowe24",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331363-Hamburg-v-Eintracht-Frankfurt"
@@ -669,6 +1368,83 @@
       "match_url": "https://icdb.tv/match/334377-SKY-DE-v-KONFERENZ"
     },
     {
+      "title": "Shabab Al Ahli v Esteghlal Tehran",
+      "teams": [
+        "Shabab Al Ahli",
+        "Esteghlal Tehran"
+      ],
+      "date": "27/10/2026",
+      "time": "16:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "beIN Sports MENA English 1 HD",
+        "beIN Connect USA",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "Astro GO (geo/R)",
+        "SportKlub 3 Hrvatska",
+        "FanCode ($/geo/R)",
+        "Astro Arena Bola HD"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331890-Shabab-Al-Ahli-v-Esteghlal-Tehran"
+    },
+    {
+      "title": "Beijing Guoan v Jeonbuk Motors",
+      "teams": [
+        "Beijing Guoan",
+        "Jeonbuk Motors"
+      ],
+      "date": "27/10/2026",
+      "time": "12:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "SportKlub 1 Hrvatska HD",
+        "World Feed",
+        "beIN Sports MENA English 1 HD",
+        "beIN Connect USA",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "Astro GO (geo/R)",
+        "SportKlub 1 Slovenija HD",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331887-Beijing-Guoan-v-Jeonbuk-Motors"
+    },
+    {
+      "title": "Ratchaburi v Kashiwa Reysol",
+      "teams": [
+        "Ratchaburi",
+        "Kashiwa Reysol"
+      ],
+      "date": "27/10/2026",
+      "time": "12:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "beIN Connect USA",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "Astro GO (geo/R)",
+        "SportKlub 3 Hrvatska",
+        "SportKlub 3 Slovenija",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331886-Ratchaburi-v-Kashiwa-Reysol"
+    },
+    {
       "title": "Kyoto Sanga v Newcastle Jets",
       "teams": [
         "Kyoto Sanga",
@@ -678,19 +1454,94 @@
       "time": "10:00",
       "tournament": "AFC Champions League Elite",
       "channels": [
-        "Astro GO (geo/R)",
-        "FanCode ($/geo/R)",
         "SportKlub 1 Hrvatska HD",
-        "SportKlub 1 Slovenija HD",
         "World Feed",
+        "beIN Connect USA",
         "YouTube: The AFC Hub",
-        "beIN Connect USA"
+        "Astro GO (geo/R)",
+        "SportKlub 1 Slovenija HD",
+        "FanCode ($/geo/R)"
       ],
       "commentators": [
         "HWP",
         "Mikhail17"
       ],
       "match_url": "https://icdb.tv/match/331885-Kyoto-Sanga-v-Newcastle-Jets"
+    },
+    {
+      "title": "Shanghai Port v Công An Hà Nôi",
+      "teams": [
+        "Shanghai Port",
+        "Công An Hà Nôi"
+      ],
+      "date": "27/10/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "beIN Connect USA",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "SportKlub 6 Hrvatska",
+        "Astro Football HD",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331884-Shanghai-Port-v-Cng-An-H-Ni"
+    },
+    {
+      "title": "Johor Darul Ta'zim v Thai Port",
+      "teams": [
+        "Johor Darul Ta'zim",
+        "Thai Port"
+      ],
+      "date": "27/10/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "beIN Sports MENA English 1 HD",
+        "beIN Connect USA",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "Astro GO (geo/R)",
+        "SportKlub 4 Hrvatska",
+        "SportKlub 4 Slovenija",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331883-Johor-Darul-Tazim-v-Thai-Port"
+    },
+    {
+      "title": "Daejeon Citizen v Vissel Kobe",
+      "teams": [
+        "Daejeon Citizen",
+        "Vissel Kobe"
+      ],
+      "date": "27/10/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "World Feed",
+        "beIN Connect USA",
+        "YouTube: The AFC Hub",
+        "Paramount+ AUS ($/geo/R)",
+        "Astro GO (geo/R)",
+        "SportKlub 3 Hrvatska",
+        "SportKlub 3 Slovenija",
+        "FanCode ($/geo/R)"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331882-Daejeon-Citizen-v-Vissel-Kobe"
     },
     {
       "title": "Flamengo v Atlético Mineiro",
@@ -811,6 +1662,7 @@
         "DAZN Schweiz [$] (geo/R)",
         "ITV French Ligue 1 Highlights",
         "Ligue 1+ (UK/IRL)",
+        "Sky Switzerland",
         "SuperSport 2 Albania HD",
         "SuperSport Kickoff HD",
         "SuperSport MáXimo 360",
@@ -836,6 +1688,7 @@
         "5 News",
         "CBS Sports Golazo Network (US)",
         "FlashScore App",
+        "La Chaîne L'Équipe",
         "Paramount+ USA ($/geo/R)",
         "Sky News",
         "TV2 Play Norge ($/geo/R)",
@@ -847,6 +1700,7 @@
       "commentators": [
         "Bksm",
         "Crowe24",
+        "SuperBall",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/334184-France-Football-Ballon-dOr"
@@ -925,26 +1779,26 @@
       "time": "18:30",
       "tournament": "Türkiye Süper Lig",
       "channels": [
-        "beIN Connect Indonesia",
-        "SuperSport ESPN HD",
         "FlashScore Germany",
-        "beIN Connect Singapore",
-        "beIN Connect USA",
         "beIN Connect Philippines",
-        "beIN Connect New Zealand",
-        "beIN Sports US 4",
-        "SportKlub 3 Slovenija",
-        "ESPN Africa",
-        "beIN Connect Australia",
+        "FuboTV Canada ($/geo/R)",
+        "beIN Connect Malaysia",
+        "beIN Sports HK 1 HD",
+        "SuperSport ESPN HD",
         "Disney+ Caribbean [$]",
-        "beIN Sports US HD",
-        "beIN Connect Hong Kong",
-        "World Feed",
         "beIN Sports Philippines 3 HD",
-        "beIN Connect Thailand",
+        "SportKlub 3 Slovenija",
+        "beIN Sports US 4",
+        "beIN Connect USA",
+        "beIN Connect Indonesia",
         "beIN Connect Canada",
+        "beIN Connect Australia",
         "beIN Sports Singapore HD",
-        "beIN Sports Türkiye 1 HD and8more channels"
+        "beIN Connect Thailand",
+        "ESPN Africa",
+        "beIN Sports Thailand 3 HD",
+        "Fubo Sports USA ($/geo/R)",
+        "beIN Sports US HD and8more channels"
       ],
       "commentators": [
         "FlashscoreDE",
