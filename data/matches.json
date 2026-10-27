@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-27T03:39:54.663158+00:00",
+  "scraped_at": "2026-10-27T10:12:28.927025+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 40,
+  "total_matches": 65,
   "matches": [
     {
       "title": "BBC Sportscene",
@@ -17,6 +17,23 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/331759-BBC-Sportscene"
+    },
+    {
+      "title": "Santos v Palmeiras",
+      "teams": [
+        "Santos",
+        "Palmeiras"
+      ],
+      "date": "28/10/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/332458-Santos-v-Palmeiras"
     },
     {
       "title": "Liverpool v Chelsea",
@@ -58,12 +75,14 @@
       "time": "20:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC Sounds APP",
         "BBC Radio Scotland Extra",
-        "BBC Sport Online (Audio)"
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
-        "SonnyCorry"
+        "SonnyCorry",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331583-Hearts-v-Rangers"
     },
@@ -80,6 +99,122 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/333087-OPEN-ALL-MICS"
+    },
+    {
+      "title": "Holstein Kiel v Hoffenheim",
+      "teams": [
+        "Holstein Kiel",
+        "Hoffenheim"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 8 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331612-Holstein-Kiel-v-Hoffenheim"
+    },
+    {
+      "title": "Bayer Leverkusen v Nuremberg",
+      "teams": [
+        "Bayer Leverkusen",
+        "Nuremberg"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 7 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331611-Bayer-Leverkusen-v-Nuremberg"
+    },
+    {
+      "title": "Hannover 96 v Kaiserslautern",
+      "teams": [
+        "Hannover 96",
+        "Kaiserslautern"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 9 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331610-Hannover-96-v-Kaiserslautern"
+    },
+    {
+      "title": "Bayern Munich v Magdeburg",
+      "teams": [
+        "Bayern Munich",
+        "Magdeburg"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "ARD Das Erste / HD",
+        "RTL+ Deutschland (geo/R)",
+        "Servus TV Österreich HD",
+        "Sky Sport 2 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331609-Bayern-Munich-v-Magdeburg"
+    },
+    {
+      "title": "Genoa v Juventus",
+      "teams": [
+        "Genoa",
+        "Juventus"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN 2 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331586-Genoa-v-Juventus"
+    },
+    {
+      "title": "Monza v Napoli",
+      "teams": [
+        "Monza",
+        "Napoli"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331585-Monza-v-Napoli"
     },
     {
       "title": "Manchester City v Brighton H.A.",
@@ -101,6 +236,23 @@
       "match_url": "https://icdb.tv/match/331582-Manchester-City-v-Brighton-HA"
     },
     {
+      "title": "Bayern Munich v Real Madrid",
+      "teams": [
+        "Bayern Munich",
+        "Real Madrid"
+      ],
+      "date": "28/10/2026",
+      "time": "17:45",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "ZDF / HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331576-Bayern-Munich-v-Real-Madrid"
+    },
+    {
       "title": "AC Milan v Bologna",
       "teams": [
         "AC Milan",
@@ -110,12 +262,73 @@
       "time": "17:30",
       "tournament": "Italian Serie A",
       "channels": [
+        "DAZN 2 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331572-AC-Milan-v-Bologna"
+    },
+    {
+      "title": "Venezia v Inter Milan",
+      "teams": [
+        "Venezia",
+        "Inter Milan"
+      ],
+      "date": "28/10/2026",
+      "time": "17:30",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331571-Venezia-v-Inter-Milan"
+    },
+    {
+      "title": "Dynamo Dresden v Schalke 04",
+      "teams": [
+        "Dynamo Dresden",
+        "Schalke 04"
+      ],
+      "date": "28/10/2026",
+      "time": "17:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 3 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331569-Dynamo-Dresden-v-Schalke-04"
+    },
+    {
+      "title": "SSV Jeddeloh v Hertha Berlin",
+      "teams": [
+        "SSV Jeddeloh",
+        "Hertha Berlin"
+      ],
+      "date": "28/10/2026",
+      "time": "17:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 5 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331568-SSV-Jeddeloh-v-Hertha-Berlin"
     },
     {
       "title": "Paderborn v Stuttgart",
@@ -127,12 +340,52 @@
       "time": "17:00",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 4 Deutsch HD",
+        "Sky Sport Germany Konferenz",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331567-Paderborn-v-Stuttgart"
+    },
+    {
+      "title": "Freiburg v Wolfsburg",
+      "teams": [
+        "Freiburg",
+        "Wolfsburg"
+      ],
+      "date": "28/10/2026",
+      "time": "17:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 2 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331566-Freiburg-v-Wolfsburg"
+    },
+    {
+      "title": "- SKY DE - v - KONFERENZ -",
+      "teams": [
+        "- SKY DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "28/10/2026",
+      "time": "16:30",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334378-SKY-DE-v-KONFERENZ"
     },
     {
       "title": "Fleetwood Town v Arsenal",
@@ -166,12 +419,74 @@
       "time": "19:45",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 3 Deutsch HD",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331391-FC-Cologne-v-Union-Berlin"
+    },
+    {
+      "title": "Borussia Dortmund v Werder Bremen",
+      "teams": [
+        "Borussia Dortmund",
+        "Werder Bremen"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Servus TV Österreich HD",
+        "Sky Sport 2 Deutsch HD",
+        "Sky Sport Germany Konferenz",
+        "ZDF / HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331390-Borussia-Dortmund-v-Werder-Bremen"
+    },
+    {
+      "title": "Mönchengladbach v Karlsruhe",
+      "teams": [
+        "Mönchengladbach",
+        "Karlsruhe"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 8 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331389-Mnchengladbach-v-Karlsruhe"
+    },
+    {
+      "title": "Elversberg v Darmstadt 98",
+      "teams": [
+        "Elversberg",
+        "Darmstadt 98"
+      ],
+      "date": "27/10/2026",
+      "time": "19:45",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 9 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331388-Elversberg-v-Darmstadt-98"
     },
     {
       "title": "Roma v Cagliari",
@@ -183,10 +498,13 @@
       "time": "19:45",
       "tournament": "Italian Serie A",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331377-Roma-v-Cagliari"
     },
@@ -203,6 +521,176 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/334185-Sky-Soccer-Special"
+    },
+    {
+      "title": "Shrewsbury Town v Everton U-21",
+      "teams": [
+        "Shrewsbury Town",
+        "Everton U-21"
+      ],
+      "date": "27/10/2026",
+      "time": "19:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "BBC Radio Shropshire"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331373-Shrewsbury-Town-v-Everton-U21"
+    },
+    {
+      "title": "First Vienna v Rapid Vienna",
+      "teams": [
+        "First Vienna",
+        "Rapid Vienna"
+      ],
+      "date": "27/10/2026",
+      "time": "17:00",
+      "tournament": "Austrian Cup (ÖFB Cup)",
+      "channels": [
+        "ORF 1 Austria HD [s/cast]"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334380-First-Vienna-v-Rapid-Vienna"
+    },
+    {
+      "title": "Austria Vienna v Hartberg",
+      "teams": [
+        "Austria Vienna",
+        "Hartberg"
+      ],
+      "date": "27/10/2026",
+      "time": "17:00",
+      "tournament": "Austrian Cup (ÖFB Cup)",
+      "channels": [
+        "ORF 1 Austria HD [s/cast]"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334379-Austria-Vienna-v-Hartberg"
+    },
+    {
+      "title": "Sonnenhof Großaspach v Augsburg",
+      "teams": [
+        "Sonnenhof Großaspach",
+        "Augsburg"
+      ],
+      "date": "27/10/2026",
+      "time": "17:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 5 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331366-Sonnenhof-Groaspach-v-Augsburg"
+    },
+    {
+      "title": "Rot-Weiss Essen v RB Leipzig",
+      "teams": [
+        "Rot-Weiss Essen",
+        "RB Leipzig"
+      ],
+      "date": "27/10/2026",
+      "time": "17:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 2 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331365-RotWeiss-Essen-v-RB-Leipzig"
+    },
+    {
+      "title": "Bochum v Mainz 05",
+      "teams": [
+        "Bochum",
+        "Mainz 05"
+      ],
+      "date": "27/10/2026",
+      "time": "17:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL+ Deutschland (geo/R)",
+        "Sky Sport 4 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331364-Bochum-v-Mainz-05"
+    },
+    {
+      "title": "Hamburg v Eintracht Frankfurt",
+      "teams": [
+        "Hamburg",
+        "Eintracht Frankfurt"
+      ],
+      "date": "27/10/2026",
+      "time": "17:00",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "RTL Deutschland HD",
+        "RTL Schweiz HD",
+        "RTL Österreich HD",
+        "Sky Sport 3 Deutsch HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331363-Hamburg-v-Eintracht-Frankfurt"
+    },
+    {
+      "title": "- SKY DE - v - KONFERENZ -",
+      "teams": [
+        "- SKY DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "27/10/2026",
+      "time": "16:15",
+      "tournament": "German Cup (DFB-Pokal)",
+      "channels": [
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334377-SKY-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Kyoto Sanga v Newcastle Jets",
+      "teams": [
+        "Kyoto Sanga",
+        "Newcastle Jets"
+      ],
+      "date": "27/10/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "Astro GO (geo/R)",
+        "FanCode ($/geo/R)",
+        "SportKlub 1 Hrvatska HD",
+        "SportKlub 1 Slovenija HD",
+        "World Feed",
+        "YouTube: The AFC Hub",
+        "beIN Connect USA"
+      ],
+      "commentators": [
+        "HWP",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/331885-Kyoto-Sanga-v-Newcastle-Jets"
     },
     {
       "title": "Flamengo v Atlético Mineiro",
@@ -317,15 +805,22 @@
       "time": "19:30",
       "tournament": "French Ligue 1",
       "channels": [
+        "Amazon Prime UK [$]",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "ITV French Ligue 1 Highlights",
+        "Ligue 1+ (UK/IRL)",
+        "SuperSport 2 Albania HD",
+        "SuperSport Kickoff HD",
+        "SuperSport MáXimo 360",
         "World Feed",
         "beIN Sports Español",
-        "DAZN Schweiz [$] (geo/R)",
-        "beIN Sports Español (SAP)",
-        "SuperSport 2 Albania HD",
-        "DAZN Deutsch ($/geo/R)"
+        "beIN Sports Español (SAP)"
       ],
       "commentators": [
         "Crowe24",
+        "Mikhail17",
         "Yankees4life",
         "anarildoalia",
         "kurtogen"
@@ -430,28 +925,29 @@
       "time": "18:30",
       "tournament": "Türkiye Süper Lig",
       "channels": [
-        "beIN Connect USA",
-        "beIN Sports HK 1 HD",
-        "beIN Connect Thailand",
-        "beIN Sports US 4",
-        "beIN Sports US HD",
-        "World Feed",
-        "beIN Connect Malaysia",
-        "beIN Connect Singapore",
-        "SportKlub 3 Slovenija",
-        "beIN Connect Canada",
-        "beIN Connect Australia",
-        "Fubo Sports USA ($/geo/R)",
-        "FuboTV Canada ($/geo/R)",
-        "beIN Sports Thailand 3 HD",
-        "SportKlub 1 Hrvatska HD",
-        "beIN Connect Hong Kong",
         "beIN Connect Indonesia",
-        "beIN Sports Canada HD",
+        "SuperSport ESPN HD",
+        "FlashScore Germany",
+        "beIN Connect Singapore",
+        "beIN Connect USA",
+        "beIN Connect Philippines",
+        "beIN Connect New Zealand",
+        "beIN Sports US 4",
+        "SportKlub 3 Slovenija",
+        "ESPN Africa",
+        "beIN Connect Australia",
+        "Disney+ Caribbean [$]",
+        "beIN Sports US HD",
+        "beIN Connect Hong Kong",
+        "World Feed",
+        "beIN Sports Philippines 3 HD",
+        "beIN Connect Thailand",
+        "beIN Connect Canada",
         "beIN Sports Singapore HD",
-        "beIN Sports Australia 3 HD and7more channels"
+        "beIN Sports Türkiye 1 HD and8more channels"
       ],
       "commentators": [
+        "FlashscoreDE",
         "HWP",
         "windbuff"
       ],
@@ -624,9 +1120,9 @@
       "match_url": "https://icdb.tv/match/334203-The-EFL-Show"
     },
     {
-      "title": "Neftchi v Al Ittihad",
+      "title": "Neftchi Fergana v Al Ittihad",
       "teams": [
-        "Neftchi",
+        "Neftchi Fergana",
         "Al Ittihad"
       ],
       "date": "26/10/2026",
@@ -646,7 +1142,7 @@
         "Mikhail17",
         "apltle12"
       ],
-      "match_url": "https://icdb.tv/match/331873-Neftchi-v-Al-Ittihad"
+      "match_url": "https://icdb.tv/match/331873-Neftchi-Fergana-v-Al-Ittihad"
     },
     {
       "title": "Scottish Premiership Round-Up Show",
