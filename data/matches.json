@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-29T04:19:37.640136+00:00",
+  "scraped_at": "2026-10-29T11:18:06.769819+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 114,
+  "total_matches": 119,
   "matches": [
     {
       "title": "Corinthians v Mirassol",
@@ -152,9 +152,11 @@
       "channels": [
         "Premiere (Brazil)",
         "Rede 98",
-        "Rádio Itatiaia"
+        "Rádio Itatiaia",
+        "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
+        "kurtogen",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/334504-Atltico-Mineiro-v-Cruzeiro"
@@ -241,6 +243,23 @@
       "match_url": "https://icdb.tv/match/331700-Fiorentina-v-Atalanta"
     },
     {
+      "title": "Al Nassr v Al Kholood",
+      "teams": [
+        "Al Nassr",
+        "Al Kholood"
+      ],
+      "date": "29/10/2026",
+      "time": "18:00",
+      "tournament": "Saudi Pro League",
+      "channels": [
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331698-Al-Nassr-v-Al-Kholood"
+    },
+    {
       "title": "Austria Vienna v Juventus",
       "teams": [
         "Austria Vienna",
@@ -250,11 +269,13 @@
       "time": "17:45",
       "tournament": "UEFA Womens Champions League",
       "channels": [
-        "Disney+ UK & Ireland (£/€/geo/R)",
-        "Disney+ Europe (€/geo/R)"
+        "Disney+ Deutsch (€/geo/R)",
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331685-Austria-Vienna-v-Juventus"
     },
@@ -268,13 +289,32 @@
       "time": "17:30",
       "tournament": "Italian Serie A",
       "channels": [
-        "DAZN Italia ($/geo/R)",
-        "DAZN 1 Italia HD"
+        "DAZN 1 Italia HD",
+        "DAZN Italia ($/geo/R)"
       ],
       "commentators": [
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/331681-Frosinone-v-Lecce"
+    },
+    {
+      "title": "Werder Bremen v Hoffenheim",
+      "teams": [
+        "Werder Bremen",
+        "Hoffenheim"
+      ],
+      "date": "29/10/2026",
+      "time": "17:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334617-Werder-Bremen-v-Hoffenheim"
     },
     {
       "title": "Disney+ UWCL: The Hangout",
@@ -725,6 +765,7 @@
         "BBC iPlayer (geo/R)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/331759-BBC-Sportscene"
@@ -782,6 +823,9 @@
       "channels": [
         "105 FM",
         "Energia 97",
+        "Premier Sports 1 HD (ROI only)",
+        "Premier Sports 2 UK HD",
+        "Premier Sports Player UK (£/geo/R)",
         "Premiere (Brazil)",
         "Rádio BandNews FM",
         "Rádio Bandeirantes",
@@ -792,6 +836,7 @@
         "World Feed"
       ],
       "commentators": [
+        "Mikhail17",
         "apltle12",
         "kurtogen",
         "luca80sp"
@@ -870,6 +915,7 @@
       "tournament": "UEFA Womens Champions League",
       "channels": [
         "Disney+ Europe (€/geo/R)",
+        "Disney+ Italia ($/geo/R)",
         "Disney+ UK & Ireland (£/€/geo/R)",
         "SuperSport ESPN 2 HD",
         "UEFA (highlights)",
@@ -877,6 +923,7 @@
       ],
       "commentators": [
         "Crowe24",
+        "Guest-SC",
         "ImpactPlayaz",
         "Mikhail17"
       ],
@@ -892,26 +939,26 @@
       "time": "20:00",
       "tournament": "English League Cup",
       "channels": [
-        "ITV EFL Carabao Cup Highlights",
-        "Chelsea TV (Radio)",
-        "FlashScore (audio)",
-        "Sporty TV Africa HD",
-        "STV (Scotland) / HD",
-        "FlashScore App",
-        "Flashscore UK",
-        "ITV1 / HD",
-        "BBC Sport Online (Audio)",
-        "ITV X (geo/R)",
-        "talkSPORT App",
-        "STV Player (geo/R)",
-        "talkSPORT",
-        "V Sport 1 HD (Norge)",
-        "Sky Sports (highlights)",
         "Soccer Special",
-        "YouTube: EFL (Extended Highlights)",
-        "BBC RADIO 5 LIVE",
+        "Sporty TV Africa HD",
+        "ESPN (CentroAmérica)",
+        "ITV X (geo/R)",
+        "Sky Sports News / HD",
+        "FlashScore App",
+        "talkSPORT App",
+        "Sky Sport Premier League DE HD",
+        "BBC Sport Online (Audio)",
+        "Sky Sports Main Event UHD",
+        "BBC Radio London",
+        "ITV1 / HD",
+        "V Sport 1 HD (Norge)",
+        "BBC Sounds APP",
+        "STV Player (geo/R)",
+        "Sky Sports Main Event HD",
+        "ITV EFL Carabao Cup Highlights",
         "ESPN (South America)",
-        "ViaPlay Norge HD and6more channels"
+        "Flashscore UK",
+        "STV (Scotland) / HD and8more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -921,6 +968,7 @@
         "LukeA206",
         "SonnyCorry",
         "apltle12",
+        "kurtogen",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/331604-Liverpool-v-Chelsea"
@@ -935,20 +983,21 @@
       "time": "20:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "Sky Sports Football HD",
-        "Sportdigital FUSSBALL HD",
-        "World Feed",
+        "BBC (highlights)",
         "BBC RADIO 5 LIVE",
+        "BBC Radio 5 Sports Extra 2",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "BBC Sportscene",
-        "BBC Sounds APP",
-        "Sky Sports (highlights)",
-        "Radio Clyde 1",
         "BBC Radio Scotland Extra",
-        "Hearts TV",
+        "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "BBC Radio 5 Sports Extra 2"
+        "BBC Sportscene",
+        "Hearts TV",
+        "Radio Clyde 1",
+        "Sky Sports (highlights)",
+        "Sky Sports Football HD",
+        "Sky Sports News / HD",
+        "Sportdigital FUSSBALL HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -968,16 +1017,17 @@
       "time": "19:45",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC (highlights)",
         "BBC RADIO 5 LIVE",
+        "BBC Radio 5 Sports Extra 3",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "Soccer Special",
-        "BBC Sportscene",
-        "BBC Sounds APP",
         "BBC Radio Scotland (Online)",
-        "Radio Clyde 1",
+        "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "BBC Radio 5 Sports Extra 3"
+        "BBC Sportscene",
+        "Radio Clyde 1",
+        "Sky Sports News / HD",
+        "Soccer Special"
       ],
       "commentators": [
         "Crowe24",
@@ -996,11 +1046,12 @@
       "time": "19:45",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC (highlights)",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "Soccer Special",
         "BBC Sportscene",
-        "KillieTV"
+        "KillieTV",
+        "Sky Sports News / HD",
+        "Soccer Special"
       ],
       "commentators": [
         "HWP",
@@ -1018,14 +1069,16 @@
       "time": "19:45",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC (highlights)",
         "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "Hibs TV",
-        "Soccer Special",
         "BBC Sportscene",
+        "Hibs TV",
+        "Sky Sports News / HD",
+        "Soccer Special",
         "St Mirren TV ($/geo/R)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/334067-St-Mirren-v-Hibernian"
@@ -1168,11 +1221,13 @@
       "time": "19:45",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC (highlights)",
         "BBC Radio Scotland",
         "BBC Sportscene",
         "Falkirk TV [$]"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/331602-Aberdeen-v-Falkirk"
@@ -1188,6 +1243,7 @@
       "tournament": "English League Cup",
       "channels": [
         "BBC RADIO 5 LIVE",
+        "BBC Radio London",
         "BBC Radio Newcastle",
         "ITV EFL Carabao Cup Highlights",
         "Sky Sports (highlights)",
@@ -1267,6 +1323,25 @@
       "match_url": "https://icdb.tv/match/331599-Bournemouth-v-Aston-Villa"
     },
     {
+      "title": "Carlisle United v Harrogate Town",
+      "teams": [
+        "Carlisle United",
+        "Harrogate Town"
+      ],
+      "date": "28/10/2026",
+      "time": "19:45",
+      "tournament": "English National League 1",
+      "channels": [
+        "BBC Radio Cumbria",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331594-Carlisle-United-v-Harrogate-Town"
+    },
+    {
       "title": "St Johnstone v Motherwell",
       "teams": [
         "St Johnstone",
@@ -1276,11 +1351,13 @@
       "time": "19:45",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC (highlights)",
         "BBC Radio Scotland",
         "BBC Sportscene",
         "SaintsTV (St Johnstone)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/331591-St-Johnstone-v-Motherwell"
@@ -1479,24 +1556,24 @@
       "channels": [
         "Sky Sports+ Channel",
         "Disney+ Latin America [$]",
-        "BBC RADIO 5 LIVE",
-        "Soccer Special",
-        "V Sport 2 Norge HD",
-        "BBC Sport Online (Audio)",
-        "Sky Sports News / HD",
-        "talkSPORT 2",
-        "YouTube: Man City",
-        "BBC Radio 5 Sports Extra",
         "FlashScore App",
-        "BBC Sounds APP",
-        "City+",
-        "Recast: Manchester City [$]",
-        "Sky Sports (highlights)",
-        "Flashscore UK",
-        "talkSPORT",
-        "ITV EFL Carabao Cup Highlights",
         "FlashScore (audio)",
-        "ViaPlay Norge HD and3more channels"
+        "Sky Sports (highlights)",
+        "BBC RADIO 5 LIVE",
+        "talkSPORT App",
+        "Soccer Special",
+        "Recast: Manchester City [$]",
+        "BBC Sounds APP",
+        "YouTube: Man City",
+        "BBC Radio Manchester",
+        "BBC Radio 5 Sports Extra",
+        "ITV EFL Carabao Cup Highlights",
+        "BBC Sport Online (Audio)",
+        "City+",
+        "Sky Sports News / HD",
+        "ViaPlay Norge HD",
+        "V Sport 2 Norge HD",
+        "YouTube: EFL (Extended Highlights) and3more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1648,6 +1725,23 @@
       "match_url": "https://icdb.tv/match/334491-FC-Cajamarca-v-UT-Cajamarca"
     },
     {
+      "title": "Wolfsburg v Feyenoord",
+      "teams": [
+        "Wolfsburg",
+        "Feyenoord"
+      ],
+      "date": "28/10/2026",
+      "time": "18:00",
+      "tournament": "UEFA Womens Europa Cup",
+      "channels": [
+        "DF1 Deutschland HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334618-Wolfsburg-v-Feyenoord"
+    },
+    {
       "title": "Brazil v Poland",
       "teams": [
         "Brazil",
@@ -1724,18 +1818,19 @@
       "time": "17:45",
       "tournament": "UEFA Womens Champions League",
       "channels": [
-        "ZDF / HD",
-        "ESPN 2 Africa",
-        "World Feed",
-        "UEFA (highlights)",
-        "SuperSport ESPN 2 HD",
-        "Esport3 (Catalunya)",
-        "YouTube: ESPN Brasil",
         "3Cat (geo/R)",
         "Disney+ Brazil [$]",
-        "Disney+ UK & Ireland (£/€/geo/R)",
+        "Disney+ Deutsch (€/geo/R)",
+        "Disney+ España (€/geo/R)",
         "Disney+ Europe (€/geo/R)",
-        "Disney+ España (€/geo/R)"
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "ESPN 2 Africa",
+        "Esport3 (Catalunya)",
+        "SuperSport ESPN 2 HD",
+        "UEFA (highlights)",
+        "World Feed",
+        "YouTube: ESPN Brasil",
+        "ZDF / HD"
       ],
       "commentators": [
         "HWP",
@@ -1808,24 +1903,25 @@
       "time": "17:30",
       "tournament": "Italian Serie A",
       "channels": [
-        "DAZN 2 Bar Deutsch HD",
-        "World Feed",
-        "ESPN 2 (South America)",
-        "DAZN Schweiz [$] (geo/R)",
-        "Peacock USA ($/geo/R)",
-        "Telemundo (usa)",
-        "DAZN Worldwide ($/geo/R)",
-        "ESPN 3 (Argentina)",
-        "TNT Sports 1 HD (UK)",
-        "TNT Sports (highlights)",
-        "DAZN UK [$] (geo/R)",
-        "DAZN Italia ($/geo/R)",
-        "ESPN 5 (CentroAmérica)",
         "DAZN 1 Italia HD",
+        "DAZN 2 Bar Deutsch HD",
         "DAZN Deutsch ($/geo/R)",
-        "Zona Gol Serie A - DAZN Italia",
+        "DAZN Ireland ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "DAZN UK [$] (geo/R)",
+        "DAZN Worldwide ($/geo/R)",
+        "ESPN 2 (South America)",
+        "ESPN 3 (Argentina)",
+        "ESPN 5 (CentroAmérica)",
         "HBO Max (uk only) [$/geo/R]",
-        "DAZN Ireland ($/geo/R)"
+        "Peacock USA ($/geo/R)",
+        "Sky Switzerland",
+        "TNT Sports (highlights)",
+        "TNT Sports 1 HD (UK)",
+        "Telemundo (usa)",
+        "World Feed",
+        "Zona Gol Serie A - DAZN Italia"
       ],
       "commentators": [
         "Crowe24",
@@ -1846,26 +1942,26 @@
       "time": "17:30",
       "tournament": "Italian Serie A",
       "channels": [
-        "NBC Universo USA",
-        "ESPN (South America)",
-        "DAZN Deutsch ($/geo/R)",
-        "Sky Sport 251 Italia HD",
-        "Sky Sport Business Italia / HD",
-        "Inter TV (highlights)",
-        "DAZN 1 Bar Deutsch HD",
-        "DAZN Ireland ($/geo/R)",
-        "Sky Sport Calcio HD",
-        "Zona Gol Serie A - DAZN Italia",
-        "Sky Sport Italia 4K UHD",
-        "World Feed",
-        "Sky Sport Uno Italia HD",
         "Youtube: DAZN Football",
+        "Sky Sport 251 Italia HD",
+        "DAZN 1 Bar Deutsch HD",
         "Disney+ Central America [$]",
-        "DAZN Schweiz [$] (geo/R)",
+        "NBC Universo USA",
+        "Zona Gol Serie A - DAZN Italia",
+        "DAZN Ireland ($/geo/R)",
         "Inter [app] (geo/R)",
-        "DAZN UK [$] (geo/R)",
+        "DAZN Worldwide ($/geo/R)",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Italia ($/geo/R)",
-        "DAZN Worldwide ($/geo/R) and0more channels"
+        "Sky Sport Calcio HD",
+        "Inter TV (highlights)",
+        "DAZN Schweiz [$] (geo/R)",
+        "World Feed",
+        "DAZN UK [$] (geo/R)",
+        "Sky Sport Italia 4K UHD",
+        "Sky Sport Business Italia / HD",
+        "ESPN (South America)",
+        "Sky Sport Uno Italia HD and0more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -2032,12 +2128,12 @@
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
         "DAZN Canada ($/geo/R)",
-        "World Feed",
+        "DAZN New Zealand [$] (geo/R)",
+        "DFB Play TV (geo/R)",
+        "RTL+ Deutschland (geo/R)",
         "Sky Sport 3 Deutsch HD",
         "Sky Sport Germany Konferenz",
-        "RTL+ Deutschland (geo/R)",
-        "DAZN New Zealand [$] (geo/R)",
-        "DFB Play TV (geo/R)"
+        "World Feed"
       ],
       "commentators": [
         "HWP",
@@ -2234,12 +2330,36 @@
       "time": "16:00",
       "tournament": "AFC Champions League 2",
       "channels": [
-        "World Feed"
+        "Astro Arena Bola HD",
+        "Astro GO (geo/R)",
+        "World Feed",
+        "YouTube: The AFC Hub",
+        "beIN Connect USA"
       ],
       "commentators": [
+        "HWP",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/331899-Al-Nahda-v-Al-Rayyan"
+    },
+    {
+      "title": "Germany U-17 v Venezuela U-17",
+      "teams": [
+        "Germany U-17",
+        "Venezuela U-17"
+      ],
+      "date": "28/10/2026",
+      "time": "15:00",
+      "tournament": "FIFA U-17 Women's World Cup",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "FIFA+ on DAZN (geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334616-Germany-U17-v-Venezuela-U17"
     },
     {
       "title": "Viettel v FC Seoul",
