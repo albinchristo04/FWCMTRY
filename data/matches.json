@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-30T04:18:54.751703+00:00",
+  "scraped_at": "2026-10-30T11:10:40.547696+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 81,
+  "total_matches": 91,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -271,16 +271,16 @@
       "time": "15:00",
       "tournament": "English Premier League",
       "channels": [
-        "talkSPORT",
         "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "BBC World Service",
+        "City+",
         "NBCSN",
         "Peacock USA ($/geo/R)",
-        "BBC World Service",
-        "BBC Sounds APP",
-        "City+",
         "Recast: Manchester City [$]",
         "YouTube: Man City",
-        "BBC Sport Online (Audio)"
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
@@ -324,6 +324,25 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/332182-Hull-City-v-Ipswich-Town"
+    },
+    {
+      "title": "Coventry City v Sunderland",
+      "teams": [
+        "Coventry City",
+        "Sunderland"
+      ],
+      "date": "31/10/2026",
+      "time": "15:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "BBC Radio Newcastle",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/332181-Coventry-City-v-Sunderland"
     },
     {
       "title": "BBC Final Score",
@@ -457,6 +476,42 @@
       "match_url": "https://icdb.tv/match/334506-Corinthians-v-Mirassol"
     },
     {
+      "title": "Lille v Lens",
+      "teams": [
+        "Lille",
+        "Lens"
+      ],
+      "date": "30/10/2026",
+      "time": "20:05",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331948-Lille-v-Lens"
+    },
+    {
+      "title": "Sheffield United v Wrexham",
+      "teams": [
+        "Sheffield United",
+        "Wrexham"
+      ],
+      "date": "30/10/2026",
+      "time": "20:00",
+      "tournament": "English Championship",
+      "channels": [
+        "talkSPORT 2",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/331947-Sheffield-United-v-Wrexham"
+    },
+    {
       "title": "Villarreal v Espanyol",
       "teams": [
         "Villarreal",
@@ -466,30 +521,16 @@
       "time": "20:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "LaLiga TV International HD",
         "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/331946-Villarreal-v-Espanyol"
-    },
-    {
-      "title": "AlbinoLeffe v Pergolettese",
-      "teams": [
-        "AlbinoLeffe",
-        "Pergolettese"
-      ],
-      "date": "30/10/2026",
-      "time": "19:30",
-      "tournament": "Italian Serie C Girone A",
-      "channels": [
-        "Sky Sport MIX Italia HD"
-      ],
-      "commentators": [
-        "gio_cristiano"
-      ],
-      "match_url": "https://icdb.tv/match/334624-AlbinoLeffe-v-Pergolettese"
     },
     {
       "title": "AlbinoLeffe v Pergolettese",
@@ -508,6 +549,40 @@
         "gio_cristiano"
       ],
       "match_url": "https://icdb.tv/match/334623-AlbinoLeffe-v-Pergolettese"
+    },
+    {
+      "title": "Górnik Zabrze v Legia Warsaw",
+      "teams": [
+        "Górnik Zabrze",
+        "Legia Warsaw"
+      ],
+      "date": "30/10/2026",
+      "time": "19:30",
+      "tournament": "Polish Ekstraklasa",
+      "channels": [
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/332215-Grnik-Zabrze-v-Legia-Warsaw"
+    },
+    {
+      "title": "Elversberg v Mainz 05",
+      "teams": [
+        "Elversberg",
+        "Mainz 05"
+      ],
+      "date": "30/10/2026",
+      "time": "19:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331931-Elversberg-v-Mainz-05"
     },
     {
       "title": "Stenhousemuir v Livingston",
@@ -556,6 +631,109 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/330591-BBC-Premier-League-KickOff"
+    },
+    {
+      "title": "Fortuna Düsseldorf v Meppen",
+      "teams": [
+        "Fortuna Düsseldorf",
+        "Meppen"
+      ],
+      "date": "30/10/2026",
+      "time": "18:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333509-Fortuna-Dsseldorf-v-Meppen"
+    },
+    {
+      "title": "Le Havre v Paris St Germain",
+      "teams": [
+        "Le Havre",
+        "Paris St Germain"
+      ],
+      "date": "30/10/2026",
+      "time": "18:00",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331919-Le-Havre-v-Paris-St-Germain"
+    },
+    {
+      "title": "Arminia Bielefeld v Braunschweig",
+      "teams": [
+        "Arminia Bielefeld",
+        "Braunschweig"
+      ],
+      "date": "30/10/2026",
+      "time": "17:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 3 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331916-Arminia-Bielefeld-v-Braunschweig"
+    },
+    {
+      "title": "Energie Cottbus v Bochum",
+      "teams": [
+        "Energie Cottbus",
+        "Bochum"
+      ],
+      "date": "30/10/2026",
+      "time": "17:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 4 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331915-Energie-Cottbus-v-Bochum"
+    },
+    {
+      "title": "- SKY DE - v - KONFERENZ -",
+      "teams": [
+        "- SKY DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "30/10/2026",
+      "time": "17:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334738-SKY-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Brisbane Roar v Auckland FC",
+      "teams": [
+        "Brisbane Roar",
+        "Auckland FC"
+      ],
+      "date": "30/10/2026",
+      "time": "09:00",
+      "tournament": "Australian A League",
+      "channels": [
+        "Sportdigital FUSSBALL HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/331909-Brisbane-Roar-v-Auckland-FC"
     },
     {
       "title": "Atlético Nacional v Independiente Santa Fé",
@@ -876,7 +1054,6 @@
         "Sky Sports (highlights)",
         "Sky Sports News / HD",
         "Sky Sports+ [via APP]",
-        "World Feed",
         "talkSPORT",
         "talkSPORT App"
       ],
@@ -1185,10 +1362,9 @@
       "time": "12:15",
       "tournament": "AFC Champions League 2",
       "channels": [
-        "World Feed",
-        "beIN Connect USA",
+        "SportKlub 3 Hrvatska",
         "YouTube: The AFC Hub",
-        "SportKlub 3 Hrvatska"
+        "beIN Connect USA"
       ],
       "commentators": [
         "HWP"
