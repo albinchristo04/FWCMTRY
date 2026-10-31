@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-31T03:59:37.872362+00:00",
+  "scraped_at": "2026-10-31T10:43:49.476961+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 106,
+  "total_matches": 118,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -225,6 +225,25 @@
       "match_url": "https://icdb.tv/match/332561-Liverpool-v-Arsenal"
     },
     {
+      "title": "Eintracht Frankfurt v Hamburg",
+      "teams": [
+        "Eintracht Frankfurt",
+        "Hamburg"
+      ],
+      "date": "01/11/2026",
+      "time": "16:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Canada ($/geo/R)",
+        "USA Network HD",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/332554-Eintracht-Frankfurt-v-Hamburg"
+    },
+    {
       "title": "Hellas Verona v Carrarese",
       "teams": [
         "Hellas Verona",
@@ -284,6 +303,25 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/333541-Hearts-v-Hibernian"
+    },
+    {
+      "title": "Union Berlin v FC Cologne",
+      "teams": [
+        "Union Berlin",
+        "FC Cologne"
+      ],
+      "date": "01/11/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/332530-Union-Berlin-v-FC-Cologne"
     },
     {
       "title": "talkSPORT GameDay Live",
@@ -618,15 +656,23 @@
       "time": "19:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "BBC iPlayer (geo/R)",
         "BBC Sport Online",
-        "World Feed",
         "BBC Two / HD",
-        "DAZN Italia ($/geo/R)"
+        "BBC iPlayer (geo/R)",
+        "CBS Sports Golazo Network (US)",
+        "DAZN Italia ($/geo/R)",
+        "FuboTV Canada ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Peacock USA ($/geo/R)",
+        "TLN Canada",
+        "Telemundo (usa)",
+        "World Feed"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
-        "Guest-SC"
+        "Guest-SC",
+        "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/332230-AC-Milan-v-Inter-Milan"
     },
@@ -693,14 +739,15 @@
       "time": "17:30",
       "tournament": "Scottish League Cup",
       "channels": [
-        "Premier Sports 1 HD",
-        "BBC Sounds APP",
+        "BBC Radio 5 Sports Extra 3",
         "BBC Radio Scotland Extra",
+        "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "Premier Sports Player UK (£/geo/R)",
-        "BBC Radio 5 Sports Extra 3"
+        "Premier Sports 1 HD",
+        "Premier Sports Player UK (£/geo/R)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/333530-Rangers-v-Aberdeen"
@@ -723,6 +770,43 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/332222-Boston-United-v-Scunthorpe-United"
+    },
+    {
+      "title": "Bayern Munich v Borussia Dortmund",
+      "teams": [
+        "Bayern Munich",
+        "Borussia Dortmund"
+      ],
+      "date": "31/10/2026",
+      "time": "17:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "Telemundo (usa)",
+        "ZEE5",
+        "Unite8Sports 2",
+        "Bluu App (Caribbean)",
+        "CNBC USA HD",
+        "Fandango",
+        "TSN Malta 5 HD",
+        "Sky Sports Football HD",
+        "Flow Sports 1",
+        "Sky Sports (highlights)",
+        "World Feed",
+        "Bundesliga Tactical Feed",
+        "SABC 1 HD",
+        "Vision+ ($/geo/R)",
+        "Azam Sports 2 HD",
+        "beIN Connect Australia",
+        "RCTI / HD",
+        "beIN Connect New Zealand",
+        "ST World Football HD",
+        "Peacock USA ($/geo/R) and3more channels"
+      ],
+      "commentators": [
+        "Mikhail17",
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/332221-Bayern-Munich-v-Borussia-Dortmund"
     },
     {
       "title": "Real Betis v Málaga",
@@ -776,11 +860,18 @@
       "time": "17:00",
       "tournament": "Italian Serie A",
       "channels": [
+        "CBS (US)",
+        "DAZN 1 Italia HD",
         "DAZN Italia ($/geo/R)",
-        "DAZN 1 Italia HD"
+        "FuboTV Canada ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "TLN Canada",
+        "World Feed"
       ],
       "commentators": [
-        "Guest-SC"
+        "AndyRoo_0860",
+        "Guest-SC",
+        "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/332206-Udinese-v-Roma"
     },
@@ -937,10 +1028,13 @@
       "tournament": "English Championship",
       "channels": [
         "WBA Radio",
-        "WBA TV ($/geo/R)"
+        "WBA TV ($/geo/R)",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/334268-West-Ham-United-v-West-Bromwich-Albion"
     },
@@ -1128,6 +1222,21 @@
       "match_url": "https://icdb.tv/match/333249-BBC-Final-Score"
     },
     {
+      "title": "Goal Arena - The Bundesliga Konferenz",
+      "date": "31/10/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/334872-Goal-Arena-The-Bundesliga-Konferenz"
+    },
+    {
       "title": "talkSPORT GameDay Live",
       "date": "31/10/2026",
       "time": "14:30",
@@ -1141,6 +1250,101 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/333483-talkSPORT-GameDay-Live"
+    },
+    {
+      "title": "Augsburg v Freiburg",
+      "teams": [
+        "Augsburg",
+        "Freiburg"
+      ],
+      "date": "31/10/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/332175-Augsburg-v-Freiburg"
+    },
+    {
+      "title": "Bayer Leverkusen v Stuttgart",
+      "teams": [
+        "Bayer Leverkusen",
+        "Stuttgart"
+      ],
+      "date": "31/10/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/332174-Bayer-Leverkusen-v-Stuttgart"
+    },
+    {
+      "title": "Mönchengladbach v Paderborn",
+      "teams": [
+        "Mönchengladbach",
+        "Paderborn"
+      ],
+      "date": "31/10/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/332173-Mnchengladbach-v-Paderborn"
+    },
+    {
+      "title": "Schalke 04 v RB Leipzig",
+      "teams": [
+        "Schalke 04",
+        "RB Leipzig"
+      ],
+      "date": "31/10/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/332172-Schalke-04-v-RB-Leipzig"
+    },
+    {
+      "title": "Werder Bremen v Hoffenheim",
+      "teams": [
+        "Werder Bremen",
+        "Hoffenheim"
+      ],
+      "date": "31/10/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/332171-Werder-Bremen-v-Hoffenheim"
     },
     {
       "title": "Cremonese v Benevento",
@@ -1206,11 +1410,16 @@
       "time": "14:00",
       "tournament": "Italian Serie A",
       "channels": [
+        "CBS Sports Network USA",
+        "DAZN 1 Italia HD",
         "DAZN Italia ($/geo/R)",
-        "DAZN 1 Italia HD"
+        "FuboTV Canada ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "World Feed"
       ],
       "commentators": [
-        "Guest-SC"
+        "Guest-SC",
+        "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/332159-Bologna-v-Monza"
     },
@@ -1365,6 +1574,78 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/334742-Sky-Soccer-Saturday"
+    },
+    {
+      "title": "Macarthur FC v Western Sydney",
+      "teams": [
+        "Macarthur FC",
+        "Western Sydney"
+      ],
+      "date": "31/10/2026",
+      "time": "08:40",
+      "tournament": "Australian A League",
+      "channels": [
+        "10 Drama (AUS)",
+        "10 Streaming (geo/R)",
+        "Astro GO (geo/R)",
+        "ESPN Unlimited (US)",
+        "ESPN+ USA ($/geo/R)",
+        "FanCode ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ AUS ($/geo/R)",
+        "Sky Sport 3 NZ HD",
+        "TNT Sports 3 HD (UK)",
+        "TNT Sports 4 HD (UK)",
+        "YouTube: A-Leagues (geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/332113-Macarthur-FC-v-Western-Sydney"
+    },
+    {
+      "title": "Melbourne City v Sydney FC",
+      "teams": [
+        "Melbourne City",
+        "Sydney FC"
+      ],
+      "date": "31/10/2026",
+      "time": "06:00",
+      "tournament": "Australian A League",
+      "channels": [
+        "ESPN Unlimited (US)",
+        "ESPN+ USA ($/geo/R)",
+        "FanCode ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ AUS ($/geo/R)",
+        "Sky Sport 3 NZ HD",
+        "TNT Sports 3 HD (UK)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/332112-Melbourne-City-v-Sydney-FC"
+    },
+    {
+      "title": "Newcastle Jets v Wellington Phoenix",
+      "teams": [
+        "Newcastle Jets",
+        "Wellington Phoenix"
+      ],
+      "date": "31/10/2026",
+      "time": "04:00",
+      "tournament": "Australian A League",
+      "channels": [
+        "FanCode ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ AUS ($/geo/R)",
+        "Sky Sport 3 NZ HD",
+        "TNT Sports 1 HD (UK)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/332110-Newcastle-Jets-v-Wellington-Phoenix"
     },
     {
       "title": "Bucaramanga v Deportivo Pasto",
@@ -1571,6 +1852,7 @@
         "SuperSport Kickoff HD",
         "SuperSport Premier League HD",
         "TSN Malta 1 HD",
+        "Vidio",
         "World Feed",
         "beIN Sports Australia 3 HD",
         "beIN Sports MENA English 2 HD",
@@ -1695,22 +1977,25 @@
       "time": "19:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "DAZN Canada ($/geo/R)",
-        "TSN Malta 5 HD",
-        "BBC iPlayer (geo/R)",
-        "BBC Sport Online",
-        "World Feed",
-        "SporTV 3 Brazil HD",
-        "BBC (highlights)",
-        "BBC iPlayer 4K (geo/R)",
         "Azam Sports 2 HD",
+        "BBC (highlights)",
+        "BBC Sport Online",
+        "BBC iPlayer (geo/R)",
+        "BBC iPlayer 4K (geo/R)",
+        "DAZN Canada ($/geo/R)",
+        "Fandango",
+        "NBC Universo USA",
+        "Peacock USA ($/geo/R)",
         "ST World Football HD",
         "Sky Sport Bundesliga HD",
-        "Fandango"
+        "SporTV 3 Brazil HD",
+        "TSN Malta 5 HD",
+        "World Feed"
       ],
       "commentators": [
         "Mikhail17",
         "apltle12",
+        "bigddan11",
         "kurtogen",
         "luca80sp"
       ],
@@ -1951,13 +2236,15 @@
       "time": "17:00",
       "tournament": "Türkiye Süper Lig",
       "channels": [
-        "beIN Sports US 4",
+        "FlashScore Germany",
+        "SuperSport ESPN 2 HD",
         "World Feed",
         "beIN Sports Indonesia 2 HD",
-        "SuperSport ESPN 2 HD",
-        "beIN Sports Malaysia 2 HD"
+        "beIN Sports Malaysia 2 HD",
+        "beIN Sports US 4"
       ],
       "commentators": [
+        "FlashscoreDE",
         "Mikhail17",
         "apltle12"
       ],
@@ -2004,13 +2291,15 @@
       "time": "09:00",
       "tournament": "Australian A League",
       "channels": [
-        "Sportdigital FUSSBALL HD",
-        "Paramount+ AUS ($/geo/R)",
-        "Sky Sport 3 NZ HD",
         "Astro GO (geo/R)",
         "FanCode ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ AUS ($/geo/R)",
+        "Sky Sport 3 NZ HD",
+        "Sportdigital FUSSBALL HD",
         "TNT Sports 2 HD (UK)",
-        "HBO Max (uk only) [$/geo/R]"
+        "World Feed",
+        "YouTube: A-Leagues (geo/R)"
       ],
       "commentators": [
         "HWP",
