@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-01T19:22:22.819614+00:00",
+  "scraped_at": "2026-11-01T23:23:05.050037+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 237,
+  "total_matches": 261,
   "matches": [
     {
       "title": "Santos v Bragantino",
@@ -103,11 +103,15 @@
       "time": "19:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "DAZN Italia ($/geo/R)",
         "DAZN 1 Italia HD",
-        "Sky Sport Business Italia / HD"
+        "DAZN Italia ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Sky Sport Business Italia / HD",
+        "TNT Sports (highlights)",
+        "TNT Sports 1 HD (UK)"
       ],
       "commentators": [
+        "Crowe24",
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/332804-Atalanta-v-Parma"
@@ -239,6 +243,58 @@
       "match_url": "https://icdb.tv/match/334746-Sky-Sports-Ref-Watch"
     },
     {
+      "title": "Independiente Santa Fé v Once Caldas",
+      "teams": [
+        "Independiente Santa Fé",
+        "Once Caldas"
+      ],
+      "date": "02/11/2026",
+      "time": "01:15",
+      "tournament": "Colombian Cup (Copa Colombia)",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335058-Independiente-Santa-F-v-Once-Caldas"
+    },
+    {
+      "title": "Lanús v Gimnasia Mendoza",
+      "teams": [
+        "Lanús",
+        "Gimnasia Mendoza"
+      ],
+      "date": "01/11/2026",
+      "time": "23:45",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "TNT Sports Premium (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335062-Lans-v-Gimnasia-Mendoza"
+    },
+    {
+      "title": "Independiente Medellín v Alianza FC (COL)",
+      "teams": [
+        "Independiente Medellín",
+        "Alianza FC (COL)"
+      ],
+      "date": "01/11/2026",
+      "time": "23:10",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win Sports",
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335057-Independiente-Medelln-v-Alianza-FC-COL"
+    },
+    {
       "title": "BBC Match of the Day",
       "date": "01/11/2026",
       "time": "22:30",
@@ -253,6 +309,46 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/333251-BBC-Match-of-the-Day"
+    },
+    {
+      "title": "Washington Spirit v Chicago Red Stars",
+      "teams": [
+        "Washington Spirit",
+        "Chicago Red Stars"
+      ],
+      "date": "01/11/2026",
+      "time": "22:00",
+      "tournament": "National Women's Soccer League (NWSL)",
+      "channels": [
+        "ESPN Unlimited (US)",
+        "ESPN+ USA ($/geo/R)",
+        "NWSL+ International (geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/335096-Washington-Spirit-v-Chicago-Red-Stars"
+    },
+    {
+      "title": "Bay FC v San Diego Wave",
+      "teams": [
+        "Bay FC",
+        "San Diego Wave"
+      ],
+      "date": "01/11/2026",
+      "time": "22:00",
+      "tournament": "National Women's Soccer League (NWSL)",
+      "channels": [
+        "ESPN Unlimited (US)",
+        "ESPN+ USA ($/geo/R)",
+        "NWSL+ International (geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "bigddan11"
+      ],
+      "match_url": "https://icdb.tv/match/335095-Bay-FC-v-San-Diego-Wave"
     },
     {
       "title": "Houston Dash v Portland Thorns",
@@ -307,7 +403,8 @@
       "channels": [
         "ESPN Unlimited (US)",
         "ESPN+ USA ($/geo/R)",
-        "NWSL+ International (geo/R)"
+        "NWSL+ International (geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
@@ -326,12 +423,48 @@
       "channels": [
         "ESPN (US)",
         "ESPN Unlimited (US)",
-        "NWSL+ International (geo/R)"
+        "NWSL+ International (geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/335027-Gotham-FC-v-Utah-Royals"
+    },
+    {
+      "title": "Newell's Old Boys v Unión Santa Fe",
+      "teams": [
+        "Newell's Old Boys",
+        "Unión Santa Fe"
+      ],
+      "date": "01/11/2026",
+      "time": "21:30",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "Disney+ Latin America [$]",
+        "ESPN Premium (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335061-Newells-Old-Boys-v-Unin-Santa-Fe"
+    },
+    {
+      "title": "Belgrano v Barracas Central",
+      "teams": [
+        "Belgrano",
+        "Barracas Central"
+      ],
+      "date": "01/11/2026",
+      "time": "21:30",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "TNT Sports Premium (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335060-Belgrano-v-Barracas-Central"
     },
     {
       "title": "Grêmio v Atlético Mineiro",
@@ -369,12 +502,81 @@
       "time": "21:05",
       "tournament": "Colombian Primera A",
       "channels": [
+        "Win Sports",
         "Win+ Fútbol (Colombia)"
       ],
       "commentators": [
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/335056-Deportivo-Cali-v-Boyac-Chic"
+    },
+    {
+      "title": "TalkSport Trans Europe Express",
+      "date": "01/11/2026",
+      "time": "21:00",
+      "tournament": "European Football",
+      "channels": [
+        "talkRadio",
+        "talkSPORT",
+        "talkSPORT App"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/335083-TalkSport-Trans-Europe-Express"
+    },
+    {
+      "title": "Guayaquil City v Libertad (Ecuador)",
+      "teams": [
+        "Guayaquil City",
+        "Libertad (Ecuador)"
+      ],
+      "date": "01/11/2026",
+      "time": "21:00",
+      "tournament": "Ecuadorian Liga Pro Serie A",
+      "channels": [
+        "Radio Caravana",
+        "Radio Diblu FM",
+        "Zapping Sports (Ecuador)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335066-Guayaquil-City-v-Libertad-Ecuador"
+    },
+    {
+      "title": "Atlético Grau v Universitario Peru",
+      "teams": [
+        "Atlético Grau",
+        "Universitario Peru"
+      ],
+      "date": "01/11/2026",
+      "time": "20:30",
+      "tournament": "Peruvian Liga 1",
+      "channels": [
+        "L1Max (Peru)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335065-Atltico-Grau-v-Universitario-Peru"
+    },
+    {
+      "title": "Tenerife v Andorra",
+      "teams": [
+        "Tenerife",
+        "Andorra"
+      ],
+      "date": "01/11/2026",
+      "time": "20:00",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "**POSTPONED**"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/333809-Tenerife-v-Andorra"
     },
     {
       "title": "Athletic Bilbao v Real Sociedad",
@@ -386,12 +588,12 @@
       "time": "20:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "DAZN Italia ($/geo/R)",
+        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "World Feed",
-        "LaLiga TV International HD",
-        "DAZN Italia ($/geo/R)",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "Guest-SC",
@@ -414,6 +616,9 @@
         "DAZN Italia ($/geo/R)",
         "DAZN UK [$] (geo/R)",
         "DAZN Worldwide ($/geo/R)",
+        "FlashScore (audio)",
+        "FlashScore App",
+        "Flashscore UK",
         "FuboTV Canada ($/geo/R)",
         "HBO Max (uk only) [$/geo/R]",
         "Paramount+ USA ($/geo/R)",
@@ -429,9 +634,27 @@
         "Crowe24",
         "Guest-SC",
         "HWP",
+        "apltle12",
         "bigddan11"
       ],
       "match_url": "https://icdb.tv/match/332572-Juventus-v-Napoli"
+    },
+    {
+      "title": "Real Cundinamarca v Tigres FC",
+      "teams": [
+        "Real Cundinamarca",
+        "Tigres FC"
+      ],
+      "date": "01/11/2026",
+      "time": "19:00",
+      "tournament": "Colombian Categoría Primera B",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335059-Real-Cundinamarca-v-Tigres-FC"
     },
     {
       "title": "Londrina v América Mineiro",
@@ -485,6 +708,25 @@
       "match_url": "https://icdb.tv/match/334549-Palmeiras-v-Vasco-da-Gama"
     },
     {
+      "title": "Independiente del Valle v LDU Quito",
+      "teams": [
+        "Independiente del Valle",
+        "LDU Quito"
+      ],
+      "date": "01/11/2026",
+      "time": "18:30",
+      "tournament": "Ecuadorian Liga Pro Serie A",
+      "channels": [
+        "Mach Deportes",
+        "Radioactiva Ecuador",
+        "Zapping Sports (Ecuador)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335068-Independiente-del-Valle-v-LDU-Quito"
+    },
+    {
       "title": "Palermo v LR Vicenza",
       "teams": [
         "Palermo",
@@ -494,9 +736,9 @@
       "time": "18:30",
       "tournament": "Italian Serie BKT",
       "channels": [
+        "World Feed",
         "DAZN Italia ($/geo/R)",
-        "LaB Channel ($/geo/R)",
-        "World Feed"
+        "LaB Channel ($/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -505,14 +747,32 @@
       "match_url": "https://icdb.tv/match/332571-Palermo-v-LR-Vicenza"
     },
     {
+      "title": "Cusco v Sport Boys",
+      "teams": [
+        "Cusco",
+        "Sport Boys"
+      ],
+      "date": "01/11/2026",
+      "time": "18:15",
+      "tournament": "Peruvian Liga 1",
+      "channels": [
+        "L1Max (Peru)",
+        "YouTube: Fanatiz"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335064-Cusco-v-Sport-Boys"
+    },
+    {
       "title": "- German Cup Draw -",
       "date": "01/11/2026",
       "time": "18:15",
       "tournament": "German Cup (DFB-Pokal)",
       "channels": [
         "ARD Das Erste / HD",
-        "ARD Mediathek",
-        "ARD Sportschau"
+        "ARD Sportschau",
+        "ARD Mediathek"
       ],
       "commentators": [
         "RHJR"
@@ -546,19 +806,41 @@
       "time": "18:00",
       "tournament": "Argentinean Primera División",
       "channels": [
+        "ESPN 2 (South America)",
+        "ESPN 3 (México)",
+        "ESPN Premium (Argentina)",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
         "Premier Sports 1 UK HD",
         "Premier Sports Player UK (£/geo/R)",
         "Sporty TV",
         "Sporty TV Africa HD",
+        "TNT Sports Premium (Argentina)",
         "World Feed"
       ],
       "commentators": [
         "HWP",
-        "Mikhail17"
+        "Mikhail17",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/332765-Boca-Juniors-v-River-Plate"
+    },
+    {
+      "title": "Burgos v Castellón",
+      "teams": [
+        "Burgos",
+        "Castellón"
+      ],
+      "date": "01/11/2026",
+      "time": "17:30",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/333806-Burgos-v-Castelln"
     },
     {
       "title": "Elche v Valencia",
@@ -570,6 +852,7 @@
       "time": "17:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "Canal+ Sport 6 Polska HD",
         "DAZN Italia ($/geo/R)",
         "LaLiga TV International HD",
         "Premier Sports Player UK (£/geo/R)",
@@ -577,7 +860,8 @@
       ],
       "commentators": [
         "Guest-SC",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "Kamyk94"
       ],
       "match_url": "https://icdb.tv/match/332566-Elche-v-Valencia"
     },
@@ -623,30 +907,31 @@
       "time": "16:30",
       "tournament": "English Premier League",
       "channels": [
-        "BBC World Service",
-        "Cambodia",
-        "Arsenal.com",
-        "FlashScore App",
-        "Sky Sports Audio Description",
-        "Star Sports Select HD1",
-        "Flashscore UK",
-        "Sky Sports Main Event UHD",
-        "Hub Premier 1 HD",
-        "V Sport Premier League HD",
-        "beIN Sports MENA English 1 HD",
-        "LFC TV HD (highlights)",
-        "YouTube: Liverpool FC",
-        "talkSPORT",
-        "talkSPORT International",
+        "ViaPlay Sverige HD",
+        "LFC TV HD",
+        "Astro GO (geo/R)",
+        "BBC Match of the Day",
+        "Sport 24 At Sea HD",
+        "Premier League TV",
+        "Sky Sports Main Event HD",
+        "Laos)  [$] (geo/R)",
+        "FlashScore (audio)",
+        "Astro Premier League HD",
+        "Astro Grandstand HD",
+        "Astro Sports UHD",
+        "NBCSN",
+        "BBC Sport Online (Audio)",
+        "NOW Premier League TV (hk)",
+        "ViaPlay Norge HD",
         "SiriusXM FC",
-        "Canal+ France HD",
-        "beIN Sports MENA 1 HD",
-        "Premier League+ (Singapore)",
-        "SuperSport Premier League HD and42more channels"
+        "Sky Sport Business 2 Italia / HD",
+        "Sky Sports (highlights)",
+        "FuboTV Canada ($/geo/R) and44more channels"
       ],
       "commentators": [
         "AnthonyB94",
         "Crowe24",
+        "FlashscoreDE",
         "Guest-SC",
         "HWP",
         "SYLVESTRE",
@@ -771,19 +1056,19 @@
       "time": "16:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "Amazon Prime UK [$]",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "Azam Sports 2 HD",
         "DAZN Canada ($/geo/R)",
-        "OneSoccer",
-        "Peacock USA ($/geo/R)",
-        "Sky Sport MIX Italia HD",
         "TSN Malta 5 HD",
-        "USA Network App (USA)",
-        "USA Network HD",
         "World Feed",
+        "OneSoccer",
+        "Amazon Prime UK [$]",
+        "USA Network HD",
+        "Peacock USA ($/geo/R)",
+        "Azam Sports 2 HD",
         "beIN Connect Australia",
-        "beIN Connect New Zealand"
+        "beIN Connect New Zealand",
+        "Sky Sport MIX Italia HD",
+        "USA Network App (USA)",
+        "Amazon Prime Video Sport UK (Highlights)"
       ],
       "commentators": [
         "Guest-SC",
@@ -803,9 +1088,9 @@
       "time": "16:15",
       "tournament": "French Ligue 1",
       "channels": [
+        "World Feed",
         "Ligue 1+ ($/geo/R)",
-        "Ligue 1+ 2 ($/geo/R)",
-        "World Feed"
+        "Ligue 1+ 2 ($/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
@@ -841,16 +1126,52 @@
       "time": "16:15",
       "tournament": "French Ligue 1",
       "channels": [
+        "World Feed",
         "Ligue 1+ ($/geo/R)",
         "Ligue 1+ 2 ($/geo/R)",
-        "Ligue 1+ 3 ($/geo/R)",
-        "World Feed"
+        "Ligue 1+ 3 ($/geo/R)"
       ],
       "commentators": [
         "Guest-SC",
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/332233-Lyon-v-Angers"
+    },
+    {
+      "title": "Universidad Católica (Ecuador) v Aucas",
+      "teams": [
+        "Universidad Católica (Ecuador)",
+        "Aucas"
+      ],
+      "date": "01/11/2026",
+      "time": "16:00",
+      "tournament": "Ecuadorian Liga Pro Serie A",
+      "channels": [
+        "Mach Deportes",
+        "Teleamazonas",
+        "Zapping Sports (Ecuador)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335067-Universidad-Catlica-Ecuador-v-Aucas"
+    },
+    {
+      "title": "Moquegua v Los Chankas",
+      "teams": [
+        "Moquegua",
+        "Los Chankas"
+      ],
+      "date": "01/11/2026",
+      "time": "16:00",
+      "tournament": "Peruvian Liga 1",
+      "channels": [
+        "L1Max (Peru)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335063-Moquegua-v-Los-Chankas"
     },
     {
       "title": "Kasimpasa v Besiktas",
@@ -863,15 +1184,32 @@
       "tournament": "Türkiye Süper Lig",
       "channels": [
         "ESPN 2 Africa",
-        "SportKlub 4 Hrvatska",
-        "SportKlub 4 Slovenija",
+        "World Feed",
         "SuperSport ESPN 2 HD",
-        "World Feed"
+        "SportKlub 4 Hrvatska",
+        "SportKlub 4 Slovenija"
       ],
       "commentators": [
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/332550-Kasimpasa-v-Besiktas"
+    },
+    {
+      "title": "Ceuta v Sporting Gijón",
+      "teams": [
+        "Ceuta",
+        "Sporting Gijón"
+      ],
+      "date": "01/11/2026",
+      "time": "15:15",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/333802-Ceuta-v-Sporting-Gijn"
     },
     {
       "title": "Racing Santander v Real Madrid",
@@ -886,6 +1224,7 @@
         "DAZN Italia ($/geo/R)",
         "FlashScore (audio)",
         "FlashScore App",
+        "FlashScore Germany",
         "Flashscore UK",
         "LaLiga TV International HD",
         "Premier Sports 2 HD",
@@ -894,6 +1233,7 @@
         "World Feed"
       ],
       "commentators": [
+        "FlashscoreDE",
         "Guest-SC",
         "ImpactPlayaz",
         "apltle12"
@@ -910,18 +1250,18 @@
       "time": "15:00",
       "tournament": "Scottish League Cup",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Radio 5 Sports Extra 2",
-        "BBC Radio Scotland",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "Hearts TV",
-        "Hibs TV",
         "Premier Sports 1 HD",
-        "Premier Sports Player UK (£/geo/R)",
-        "Radio Clyde 1",
         "World Feed",
-        "talkSPORT"
+        "talkSPORT",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio Scotland",
+        "Hibs TV",
+        "BBC Sounds APP",
+        "Radio Clyde 1",
+        "Hearts TV",
+        "BBC Sport Online (Audio)",
+        "Premier Sports Player UK (£/geo/R)",
+        "BBC Radio 5 Sports Extra 2"
       ],
       "commentators": [
         "Crowe24",
@@ -940,8 +1280,8 @@
       "time": "15:00",
       "tournament": "Belgian Pro League",
       "channels": [
-        "DAZN (highlights)",
-        "DAZN 1 UK & Ireland HD"
+        "DAZN 1 UK & Ireland HD",
+        "DAZN (highlights)"
       ],
       "commentators": [
         "apltle12"
@@ -958,18 +1298,18 @@
       "time": "14:30",
       "tournament": "English Womens Super League",
       "channels": [
-        "BBC (highlights)",
-        "BBC RADIO 5 LIVE",
-        "BBC Sport Online",
-        "BBC Two / HD",
         "BBC iPlayer (geo/R)",
+        "BBC Sport Online",
+        "World Feed",
+        "talkSPORT",
+        "BBC RADIO 5 LIVE",
+        "BBC Two / HD",
+        "BBC (highlights)",
         "Blue Sport 6 Live HD",
         "CBS Sports Golazo Network (US)",
-        "Paramount+ USA ($/geo/R)",
         "Sky Sport 6 NZ HD",
-        "World Feed",
         "YouTube: Barclays Women's Super League",
-        "talkSPORT"
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1036,12 +1376,12 @@
       "time": "14:00",
       "tournament": "English League One",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Radio Sheffield",
-        "CBS Sports Network USA",
-        "Paramount+ USA ($/geo/R)",
         "World Feed",
-        "talkSPORT"
+        "talkSPORT",
+        "BBC Radio Sheffield",
+        "BBC RADIO 5 LIVE",
+        "CBS Sports Network USA",
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
         "Crowe24",
@@ -1093,15 +1433,15 @@
       "time": "14:00",
       "tournament": "English Womens Super League",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "Paramount+ USA ($/geo/R)",
-        "Sky Sport 4 NZ HD",
-        "Sky Sports (highlights)",
         "Sky Sports MIX UK HD",
-        "Sky Sports+ [via APP]",
         "World Feed",
+        "talkSPORT",
+        "BBC RADIO 5 LIVE",
+        "Sky Sports (highlights)",
+        "Sky Sport 4 NZ HD",
+        "Sky Sports+ [via APP]",
         "YouTube: Barclays Women's Super League",
-        "talkSPORT"
+        "Paramount+ USA ($/geo/R)"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1443,6 +1783,23 @@
       "match_url": "https://icdb.tv/match/332508-Salernitana-v-Savoia"
     },
     {
+      "title": "Eldense v Granada",
+      "teams": [
+        "Eldense",
+        "Granada"
+      ],
+      "date": "01/11/2026",
+      "time": "13:00",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/333799-Eldense-v-Granada"
+    },
+    {
       "title": "Trabzonspor v Gaziantep",
       "teams": [
         "Trabzonspor",
@@ -1492,20 +1849,21 @@
       "time": "13:00",
       "tournament": "Scottish Premiership",
       "channels": [
+        "BBC (highlights)",
+        "BBC RADIO 5 LIVE",
+        "BBC Radio 5 Sports Extra 2",
+        "BBC Radio Scotland",
+        "BBC Radio Scotland Extra",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "BBC Sportscene",
+        "Falkirk TV [$]",
+        "Sky Sports (highlights)",
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "World Feed",
-        "BBC RADIO 5 LIVE",
-        "BBC Radio Scotland",
-        "Sky Sports News / HD",
-        "BBC Sportscene",
-        "BBC Sounds APP",
-        "Sky Sports (highlights)",
-        "BBC Radio Scotland Extra",
-        "Falkirk TV [$]",
         "Sky Sports Main Event UHD",
-        "BBC Sport Online (Audio)",
-        "BBC Radio 5 Sports Extra 2"
+        "Sky Sports News / HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -1818,16 +2176,17 @@
       "time": "04:00",
       "tournament": "Australian A League",
       "channels": [
-        "Paramount+ AUS ($/geo/R)",
-        "Sky Sport 3 NZ HD",
+        "ESPN Unlimited (US)",
         "ESPN+ USA ($/geo/R)",
         "FanCode ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ AUS ($/geo/R)",
+        "Sky Sport 3 NZ HD",
         "TNT Sports 1 HD (UK)",
-        "TNT Sports 8 HD (UK)",
-        "ESPN Unlimited (US)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports 8 HD (UK)"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "HWP"
       ],
       "match_url": "https://icdb.tv/match/334939-Melbourne-Victory-v-Central-Coast-Mariners"
@@ -2232,17 +2591,19 @@
       "time": "20:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "World Feed",
+        "DAZN 1 Italia HD",
+        "DAZN Italia ($/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
         "ESPN (South America)",
         "ESPN Deportes",
-        "YouTube: FC Barcelona",
+        "FlashScore Germany",
         "LaLiga TV International HD",
-        "DAZN Italia ($/geo/R)",
-        "DAZN 1 Italia HD",
-        "Disney+ UK & Ireland (£/€/geo/R)"
+        "World Feed",
+        "YouTube: FC Barcelona"
       ],
       "commentators": [
         "AndyRoo_0860",
+        "FlashscoreDE",
         "Guest-SC",
         "ImpactPlayaz",
         "luca80sp"
@@ -2281,26 +2642,26 @@
       "time": "20:00",
       "tournament": "English Premier League",
       "channels": [
+        "BBC Radio WM",
         "Sky Sports Main Event HD",
-        "Sky Sports News / HD",
-        "BBC (highlights)",
-        "SiriusXM FC",
-        "Sky Sports Premier League HD",
         "Sky Sports Main Event UHD",
-        "Sky Sports (highlights)",
         "FOX (Central America) [$] (geo/R)",
-        "VillaTV",
+        "FlashScore (audio)",
         "talkRadio",
-        "talkSPORT International",
+        "talkSPORT App",
         "talkSPORT (Ireland)‎",
-        "World Feed",
-        "talkSPORT",
-        "Canal+ Foot HD",
-        "FlashScore App",
-        "YouTube: Aston Villa FC",
-        "Fulham FC TV ($/geo/R)",
         "BBC Match of the Day",
-        "NBCSN and6more channels"
+        "BBC RADIO 5 LIVE",
+        "Sky Sports (highlights)",
+        "Sky Sports News / HD",
+        "World Feed",
+        "Canal+ Foot HD",
+        "YouTube: talkSPORT",
+        "NBCSN",
+        "SiriusXM FC",
+        "VillaTV",
+        "Flashscore UK",
+        "Peacock USA ($/geo/R) and7more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -2347,26 +2708,26 @@
       "time": "19:45",
       "tournament": "Italian Serie A",
       "channels": [
-        "DAZN UK [$] (geo/R)",
-        "DAZN Ireland ($/geo/R)",
-        "The Commentary Hub",
-        "BBC Sport Online",
-        "FlashScore App",
-        "Sky Sport Uno Italia HD",
-        "BBC (highlights)",
-        "TLN Canada",
-        "ESPN 3 (South America)",
-        "World Feed",
-        "ESPN Mexico",
-        "DAZN France ($/geo/R)",
-        "DAZN Italia ($/geo/R)",
-        "Sky Sport 251 Italia HD",
-        "Sky Sport Business Italia / HD",
-        "BBC iPlayer (geo/R)",
         "Paramount+ USA ($/geo/R)",
+        "FlashScore (audio)",
+        "DAZN France ($/geo/R)",
+        "DAZN UK [$] (geo/R)",
+        "ESPN 2 (Argentina)",
+        "CBS Sports Golazo Network (US)",
+        "BBC (highlights)",
+        "Flashscore UK",
+        "DAZN Belgium ($/geo/R)",
+        "BBC iPlayer (geo/R)",
+        "BBC Sport Online",
+        "Sky Sport Business Italia / HD",
+        "ESPN Mexico",
         "Sky Sport Calcio HD",
-        "BBC Two / HD",
-        "FlashScore (audio) and9more channels"
+        "Sky Sport Italia 4K UHD",
+        "DAZN Ireland ($/geo/R)",
+        "TLN Canada",
+        "World Feed",
+        "FlashScore App",
+        "DAZN Worldwide ($/geo/R) and9more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -2714,26 +3075,26 @@
       "time": "17:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
-        "ESPN Peru",
-        "ST Sports Focus",
-        "ESPN 5 (Chile)",
-        "World Feed",
-        "beIN Connect Australia",
-        "Sky Sports Football HD",
-        "Sky Sport Business 2 Italia / HD",
+        "DAZN Canada ($/geo/R)",
+        "ESPN Paraguay",
+        "GTV (Indonesia)",
         "FlashScore (audio)",
+        "ST Sports Focus",
+        "Sky Sport Business 2 Italia / HD",
+        "ESPN 2 (Argentina)",
+        "CNBC USA HD",
+        "Telemundo (usa)",
+        "beIN Connect Australia",
+        "SABC 1 HD",
+        "ESPN Bolivia",
+        "ZEE5",
+        "Sky Sports (highlights)",
+        "ESPN (Colombia)",
+        "FOX (México) [$] (geo/R)",
         "Flashscore UK",
         "RCTI / HD",
-        "Fandango",
-        "beIN Connect New Zealand",
-        "SporTV Brazil HD",
-        "Bluu App (Caribbean)",
-        "FlashScore App",
-        "ESPN Uruguay",
-        "Sky Sports (highlights)",
-        "Bundesliga Tactical Feed",
-        "FOX+ (Mexico)",
-        "Azam Sports 2 HD and21more channels"
+        "Vision+ ($/geo/R)",
+        "Sky Sport Uno Italia HD and21more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -2778,26 +3139,26 @@
       "time": "17:30",
       "tournament": "English Premier League",
       "channels": [
-        "SpursPlay ($/geo/R)",
-        "Flashscore UK",
-        "Canal+ Foot HD",
-        "talkSPORT",
-        "talkSPORT (Ireland)‎",
-        "BBC Match of the Day",
-        "NBC App (USA)",
-        "FlashScore App",
-        "BBC Sounds APP",
-        "FlashScore (audio)",
-        "BBC Radio London (DAB)",
+        "World Feed",
         "NBC Universo USA",
-        "HBO Max Central America [$] (geo/R)",
+        "SiriusXM FC",
+        "FlashScore App",
+        "Sky Sports Main Event UHD",
+        "Sky Sports Main Event HD",
+        "FlashScore (audio)",
+        "talkSPORT International",
         "Sky Sports Audio Description",
-        "BBC Final Score",
-        "TNT (México) / HD",
-        "ESPN (Chile)",
-        "ESPN (Argentina)",
+        "talkSPORT (Ireland)‎",
+        "NBC App (USA)",
+        "BBC RADIO 5 LIVE",
+        "Sky Sports (highlights)",
+        "ESPN 2 (South America)",
         "Sky Sport Italia 4K UHD",
-        "BBC (highlights) and14more channels"
+        "BBC Radio London (DAB)",
+        "Sky Sport 256 Italia HD",
+        "talkSPORT",
+        "BBC (highlights)",
+        "BBC Sport Online (Audio) and14more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -3098,6 +3459,74 @@
       "match_url": "https://icdb.tv/match/332196-Rayo-Vallecano-v-Celta-Vigo"
     },
     {
+      "title": "Tranmere Rovers v Cheltenham",
+      "teams": [
+        "Tranmere Rovers",
+        "Cheltenham"
+      ],
+      "date": "31/10/2026",
+      "time": "15:00",
+      "tournament": "English League Two",
+      "channels": [
+        "ITV English Football League Highlights"
+      ],
+      "commentators": [
+        "LukeA206"
+      ],
+      "match_url": "https://icdb.tv/match/335094-Tranmere-Rovers-v-Cheltenham"
+    },
+    {
+      "title": "Accrington Stanley v Northampton Town",
+      "teams": [
+        "Accrington Stanley",
+        "Northampton Town"
+      ],
+      "date": "31/10/2026",
+      "time": "15:00",
+      "tournament": "English League Two",
+      "channels": [
+        "ITV English Football League Highlights"
+      ],
+      "commentators": [
+        "LukeA206"
+      ],
+      "match_url": "https://icdb.tv/match/335093-Accrington-Stanley-v-Northampton-Town"
+    },
+    {
+      "title": "Crewe Alexandra v Barnet",
+      "teams": [
+        "Crewe Alexandra",
+        "Barnet"
+      ],
+      "date": "31/10/2026",
+      "time": "15:00",
+      "tournament": "English League Two",
+      "channels": [
+        "ITV English Football League Highlights"
+      ],
+      "commentators": [
+        "LukeA206"
+      ],
+      "match_url": "https://icdb.tv/match/335092-Crewe-Alexandra-v-Barnet"
+    },
+    {
+      "title": "Wigan Athletic v Bromley",
+      "teams": [
+        "Wigan Athletic",
+        "Bromley"
+      ],
+      "date": "31/10/2026",
+      "time": "15:00",
+      "tournament": "English League One",
+      "channels": [
+        "ITV English Football League Highlights"
+      ],
+      "commentators": [
+        "LukeA206"
+      ],
+      "match_url": "https://icdb.tv/match/335090-Wigan-Athletic-v-Bromley"
+    },
+    {
       "title": "Barnsley v Oxford United",
       "teams": [
         "Barnsley",
@@ -3146,10 +3575,12 @@
       "time": "15:00",
       "tournament": "English League One",
       "channels": [
-        "BBC Three Counties Radio (FM)"
+        "BBC Three Counties Radio (FM)",
+        "ITV English Football League Highlights"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/334899-Wycombe-Wanderers-v-Burton-Albion"
     },
@@ -3183,10 +3614,12 @@
       "time": "15:00",
       "tournament": "English League Two",
       "channels": [
+        "ITV English Football League Highlights",
         "iFollow (Crawley Town)"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/334894-Oldham-Athletic-v-Crawley-Town"
     },
@@ -3240,10 +3673,12 @@
       "channels": [
         "BBC Final Score",
         "BBC RADIO 5 LIVE",
-        "BBC Radio Devon"
+        "BBC Radio Devon",
+        "ITV English Football League Highlights"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/334878-Salford-City-v-Exeter-City"
     },
@@ -3258,10 +3693,12 @@
       "tournament": "English League Two",
       "channels": [
         "BBC Radio Sheffield (FM)",
-        "BBC Radio Wiltshire"
+        "BBC Radio Wiltshire",
+        "ITV English Football League Highlights"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/334877-Swindon-Town-v-Rotherham-United"
     },
@@ -3275,10 +3712,12 @@
       "time": "15:00",
       "tournament": "English League Two",
       "channels": [
-        "BBC Radio Shropshire"
+        "BBC Radio Shropshire",
+        "ITV English Football League Highlights"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/334876-Shrewsbury-Town-v-Gillingham"
     },
@@ -3310,10 +3749,13 @@
       "time": "15:00",
       "tournament": "English League Two",
       "channels": [
-        "BBC Radio WM (DAB Birmingham)"
+        "BBC Radio WM (DAB Birmingham)",
+        "ITV English Football League Highlights",
+        "Saddlers+"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/334874-Colchester-United-v-Walsall"
     },
@@ -3372,10 +3814,12 @@
       "time": "15:00",
       "tournament": "English League One",
       "channels": [
+        "ITV English Football League Highlights",
         "iFollow (Mansfield Town)"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "LukeA206"
       ],
       "match_url": "https://icdb.tv/match/334743-Mansfield-Town-v-Notts-County"
     },
@@ -3784,26 +4228,26 @@
       "time": "15:00",
       "tournament": "English Premier League",
       "channels": [
-        "talkSPORT",
-        "talkSPORT International",
         "World Feed",
-        "Recast: Manchester City [$]",
-        "FOX (México) [$] (geo/R)",
-        "BBC Match of the Day",
-        "FOX+ (Mexico)",
-        "Flashscore UK",
-        "ESPN (South America)",
-        "Sky Sport Italia 4K UHD",
-        "Peacock USA ($/geo/R)",
-        "FlashScore App",
-        "YouTube: Man City",
-        "SiriusXM FC",
+        "BBC World Service",
         "City+",
-        "FlashScore (audio)",
+        "Recast: Manchester City [$]",
         "BBC Sport Online (Audio)",
-        "NBCSN",
+        "Sky Sport Italia 4K UHD",
+        "talkSPORT",
+        "BBC (highlights)",
+        "BBC Match of the Day",
+        "talkSPORT International",
+        "Premier Sports 1 HD (ROI only)",
+        "Sky Sports (highlights)",
+        "FlashScore (audio)",
+        "BBC Sounds APP",
+        "talkSPORT (Ireland)‎",
+        "FOX+ (Mexico)",
+        "YouTube: Man City",
         "BBC Final Score",
-        "Sky Sports (highlights) and10more channels"
+        "FlashScore App",
+        "Soccer Saturday and10more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -3828,26 +4272,26 @@
       "time": "15:00",
       "tournament": "English Premier League",
       "channels": [
-        "HBO Max Central America [$] (geo/R)",
-        "USA Network HD",
-        "talkSPORT International",
-        "BBC Radio Nottingham",
-        "FlashScore App",
-        "BBC (highlights)",
-        "World Feed",
+        "BBC RADIO 5 LIVE",
+        "NOW Premier League 3 (hk)",
+        "Hub Premier 2 HD ($/geo/R)",
         "USA Network App (USA)",
+        "BBC (highlights)",
+        "NBC Universo USA",
+        "Flashscore UK",
+        "TNT (México) / HD",
+        "BBC Match of the Day",
+        "talkSPORT International",
+        "USA Network HD",
+        "Soccer Saturday",
+        "World Feed",
+        "Sky Sports (highlights)",
+        "BBC Final Score",
+        "talkSPORT",
+        "BBC Radio Nottingham",
         "Sky Sport 258 Italia HD",
         "FlashScore (audio)",
-        "BBC Radio London",
-        "NBC Universo USA",
-        "Hub Premier 2 HD ($/geo/R)",
-        "BBC RADIO 5 LIVE",
-        "BBC Final Score",
-        "Soccer Saturday",
-        "Sky Sport 5 NZ HD",
-        "NOW Premier League 3 (hk)",
-        "BBC Match of the Day",
-        "Sky Sports (highlights) and4more channels"
+        "BBC Radio London and4more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -4586,13 +5030,36 @@
       "tournament": "English League Two",
       "channels": [
         "BBC Radio Humberside",
-        "BBC Radio York"
+        "BBC Radio York",
+        "EFL Goals: Leagues 1 & 2",
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
         "Crowe24",
+        "LukeA206",
         "Starkers1997"
       ],
       "match_url": "https://icdb.tv/match/332129-Grimsby-Town-v-York-City"
+    },
+    {
+      "title": "Port Vale v Rochdale",
+      "teams": [
+        "Port Vale",
+        "Rochdale"
+      ],
+      "date": "31/10/2026",
+      "time": "12:30",
+      "tournament": "English League Two",
+      "channels": [
+        "EFL Goals: Leagues 1 & 2",
+        "ITV English Football League Highlights",
+        "Sky Sports+ [via APP]"
+      ],
+      "commentators": [
+        "LukeA206"
+      ],
+      "match_url": "https://icdb.tv/match/332128-Port-Vale-v-Rochdale"
     },
     {
       "title": "Stoke City v Preston N.E.",
@@ -4680,30 +5147,31 @@
       "time": "12:30",
       "tournament": "English Premier League",
       "channels": [
-        "BBC Radio Manchester",
         "BBC Final Score",
-        "Laos) [$] (geo/R)",
-        "HBO Max (uk only) [$/geo/R]",
-        "TNT Sports 1 HD (UK)",
-        "MONOMAX (Thailand",
-        "Disney+ Caribbean [$]",
-        "FuboTV Canada ($/geo/R)",
-        "Sky Sport Uno Italia HD",
-        "Astro Premier League HD",
-        "NOW Premier League TV (hk)",
-        "TNT Sports (highlights)",
-        "Canal+ France HD",
-        "ESPN Extra (Caribbean)",
-        "BBC (highlights)",
+        "USA Network App (USA)",
+        "BBC Radio London",
+        "Disney+ Hotstar India [$] (geo/R)",
+        "Star Sports Select HD1",
+        "Laos)  [$] (geo/R)",
+        "talkSPORT App",
+        "FlashScore Germany",
+        "CazéTV",
+        "talkSPORT",
+        "SuperSport Premier League HD",
         "Flashscore UK",
-        "The Commentary Hub",
-        "talkSPORT International",
-        "Cambodia",
-        "talkSPORT (Ireland)‎ and37more channels"
+        "Sky Sport Business 2 Italia / HD",
+        "Sport 24 At Sea HD",
+        "beIN Sports MENA English 1 HD",
+        "FlashScore App",
+        "Astro Grandstand HD",
+        "HBO Max Central America [$] (geo/R)",
+        "FuboTV Canada ($/geo/R)",
+        "Astro Premier League HD and38more channels"
       ],
       "commentators": [
         "Cr17",
         "Crowe24",
+        "FlashscoreDE",
         "Guest-SC",
         "RussVMedia",
         "SonnyCorry",
