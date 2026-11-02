@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-02T04:20:35.723353+00:00",
+  "scraped_at": "2026-11-02T13:04:59.423697+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 125,
+  "total_matches": 126,
   "matches": [
     {
       "title": "Bodø/Glimt v Lille",
@@ -31,9 +31,11 @@
       "time": "20:00",
       "tournament": "UEFA Champions League",
       "channels": [
+        "Amazon Prime UK [$]",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "Paramount+ USA ($/geo/R)",
         "Premier Sports 1 HD (ROI only)",
-        "World Feed",
-        "Paramount+ USA ($/geo/R)"
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
@@ -69,13 +71,16 @@
       "tournament": "UEFA Champions League",
       "channels": [
         "BBC *RED Button HD",
-        "BBC iPlayer (geo/R)",
-        "talkSPORT",
-        "BBC RADIO 5 LIVE",
         "BBC Final Score",
-        "talkSPORT App",
+        "BBC RADIO 5 LIVE",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "BBC iPlayer (geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports (highlights)",
+        "TNT Sports 1 HD (UK)",
+        "talkSPORT",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24"
@@ -100,6 +105,20 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/332936-Blackburn-Rovers-v-Stoke-City"
+    },
+    {
+      "title": "TNT Goals Show Xtra",
+      "date": "03/11/2026",
+      "time": "19:30",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports 3 HD (UK)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/335127-TNT-Goals-Show-Xtra"
     },
     {
       "title": "Santos v Bragantino",
@@ -168,18 +187,18 @@
       "time": "20:00",
       "tournament": "English Premier League",
       "channels": [
-        "Sky Sports Main Event HD",
-        "Sky Sports Premier League HD",
-        "Sky Sport Italia 4K UHD",
-        "talkSPORT",
-        "SiriusXM FC",
         "BBC Radio Newcastle",
-        "talkSPORT International",
-        "talkSPORT App",
-        "USA Network HD",
-        "Sky Sports Main Event UHD",
+        "SiriusXM FC",
         "Sky Sport Calcio HD",
-        "USA Network App (USA)"
+        "Sky Sport Italia 4K UHD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports Premier League HD",
+        "USA Network App (USA)",
+        "USA Network HD",
+        "talkSPORT",
+        "talkSPORT App",
+        "talkSPORT International"
       ],
       "commentators": [
         "Crowe24",
@@ -1117,19 +1136,19 @@
       "time": "17:00",
       "tournament": "Italian Serie A",
       "channels": [
-        "Sky Sport Italia 4K UHD",
-        "World Feed",
-        "beIN Sports Australia 2 HD",
-        "Peacock USA ($/geo/R)",
-        "FuboTV Canada ($/geo/R)",
         "CBS Sports Golazo Network (US)",
-        "DAZN UK [$] (geo/R)",
+        "DAZN Ireland ($/geo/R)",
         "DAZN Italia ($/geo/R)",
-        "Sky Sport Calcio HD",
+        "DAZN UK [$] (geo/R)",
+        "FuboTV Canada ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Peacock USA ($/geo/R)",
         "Sky Sport 251 Italia HD",
         "Sky Sport Business Italia / HD",
-        "Paramount+ USA ($/geo/R)",
-        "DAZN Ireland ($/geo/R)"
+        "Sky Sport Calcio HD",
+        "Sky Sport Italia 4K UHD",
+        "World Feed",
+        "beIN Sports Australia 2 HD"
       ],
       "commentators": [
         "Guest-SC",
@@ -1149,26 +1168,26 @@
       "time": "16:30",
       "tournament": "English Premier League",
       "channels": [
-        "talkSPORT International",
-        "LFC TV HD (radio commentary)",
-        "BBC Sounds APP",
-        "Off the Ball",
-        "Sky Sports (highlights)",
-        "Sky Sports Premier League HD",
+        "Cambodia",
         "Astro GO (geo/R)",
-        "Star Sports Select HD1",
-        "NOW Premier League TV (hk)",
-        "Sky Sports News / HD",
-        "Newstalk 106-108FM",
+        "ViaPlay Norge HD",
+        "Sport 24 At Sea HD",
+        "Astro Grandstand HD",
+        "FlashScore App",
         "YouTube: Liverpool FC",
-        "Hub Premier 1 HD",
-        "Canal+ France HD",
-        "ViaPlay Nederland HD",
+        "Canal+ Foot HD",
+        "Sky Sports (highlights)",
+        "Arsenal App",
+        "Arsenal.com",
+        "Sky Sport 8 NZ HD",
+        "Peacock USA ($/geo/R)",
+        "Astro Premier League HD",
+        "LFC TV HD (radio commentary)",
+        "Sky Sports Main Event UHD",
+        "Premier League+ (Singapore)",
+        "V Sport Premium / HD (Sweden)",
         "FuboTV Canada ($/geo/R)",
-        "ViaPlay Suomi HD",
-        "Premier League TV",
-        "ESPN Extra (Caribbean)",
-        "FlashScore App and44more channels"
+        "FlashScore Germany and44more channels"
       ],
       "commentators": [
         "AnthonyB94",
@@ -1618,18 +1637,20 @@
       "time": "14:00",
       "tournament": "English League One",
       "channels": [
-        "World Feed",
-        "talkSPORT",
-        "BBC Radio Sheffield",
         "BBC RADIO 5 LIVE",
+        "BBC Radio Lancashire",
+        "BBC Radio Sheffield",
         "CBS Sports Network USA",
-        "Paramount+ USA ($/geo/R)"
+        "Paramount+ USA ($/geo/R)",
+        "World Feed",
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
         "HWP",
         "M7",
-        "apltle12"
+        "apltle12",
+        "ethanh05"
       ],
       "match_url": "https://icdb.tv/match/334780-Sheffield-Wednesday-v-Blackpool"
     },
@@ -1642,6 +1663,9 @@
       "date": "01/11/2026",
       "time": "14:00",
       "tournament": "German W/Cup (DFB-Pokal Frauen)",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "apltle12"
       ],
@@ -2047,6 +2071,9 @@
       "date": "01/11/2026",
       "time": "13:00",
       "tournament": "Türkiye Süper Lig",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "HWP"
       ],
@@ -2359,6 +2386,9 @@
       "date": "01/11/2026",
       "time": "07:30",
       "tournament": "South Korean K-League",
+      "channels": [
+        "World Feed"
+      ],
       "commentators": [
         "HWP"
       ],
