@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-03T05:17:49.590424+00:00",
+  "scraped_at": "2026-11-03T17:31:46.798207+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 68,
+  "total_matches": 79,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -177,9 +177,11 @@
       "time": "17:45",
       "tournament": "UEFA Champions League",
       "channels": [
-        "TNT Sports 1 HD (UK)",
+        "HBO Max (uk only) [$/geo/R]",
         "TNT Sports (highlights)",
-        "HBO Max (uk only) [$/geo/R]"
+        "TNT Sports 1 HD (UK)",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24"
@@ -213,11 +215,15 @@
       "time": "20:00",
       "tournament": "English Championship",
       "channels": [
+        "BBC Radio Solent",
         "WBA Radio",
-        "WBA TV ($/geo/R)"
+        "WBA TV ($/geo/R)",
+        "talkSPORT 2",
+        "talkSPORT AppListen to Radio"
       ],
       "commentators": [
-        "AnthonyB94"
+        "AnthonyB94",
+        "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/332944-West-Bromwich-Albion-v-Southampton"
     },
@@ -231,7 +237,7 @@
       "time": "20:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Canal+ Sport France HD",
+        "Canal+SportFrance HD",
         "Canal+ Live 2 France HD"
       ],
       "commentators": [
@@ -253,8 +259,9 @@
         "Amazon Prime Video Sport UK (Highlights)",
         "MUTV / HD (radio commentary)",
         "Paramount+ USA ($/geo/R)",
-        "Premier Sports 1 HD (ROI only)",
-        "World Feed"
+        "PremierSports1 HD (ROI only)",
+        "World Feed",
+        "talkSPORTSports event tickets"
       ],
       "commentators": [
         "AnthonyB94",
@@ -273,7 +280,8 @@
       "time": "20:00",
       "tournament": "UEFA Champions League",
       "channels": [
-        "Canal+ Live 1 France HD"
+        "Canal+ Live 1 France HD",
+        "Canal+ Foot HD"
       ],
       "commentators": [
         "Cr17"
@@ -298,13 +306,17 @@
         "BBC Sport Online (Audio)",
         "BBC iPlayer (geo/R)",
         "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ USA ($/geo/R)",
         "TNT Sports (highlights)",
         "TNT Sports 1 HD (UK)",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD",
         "talkSPORT",
         "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
+        "ImpactPlayaz",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/332937-Barcelona-v-Aston-Villa"
@@ -321,7 +333,7 @@
       "channels": [
         "Sky Sports (highlights)",
         "ITV English Football League Highlights",
-        "Sky Sports+ [via APP]"
+        "SkySports+[via APP]Live soccer scores"
       ],
       "commentators": [
         "Crowe24"
@@ -375,10 +387,12 @@
       "tournament": "English Championship",
       "channels": [
         "QPR+",
-        "Clarets+"
+        "Clarets+",
+        "BBC Radio Lancashire (FM)"
       ],
       "commentators": [
-        "AnthonyB94"
+        "AnthonyB94",
+        "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/332931-Queens-Park-Rangers-v-Burnley"
     },
@@ -426,6 +440,203 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/335131-Sky-Soccer-Special"
+    },
+    {
+      "title": "Shakhtar Donetsk v Sporting Lisbon",
+      "teams": [
+        "Shakhtar Donetsk",
+        "Sporting Lisbon"
+      ],
+      "date": "03/11/2026",
+      "time": "17:45",
+      "tournament": "UEFA Champions League",
+      "channels": [
+        "BBC (highlights)",
+        "BBC Match of the Day",
+        "DAZN Canada ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 1 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "SuperSport MáXimo 1 HD",
+        "SuperSport MáXimo 360",
+        "SuperSport Premier League HD",
+        "TNT Sports (highlights)",
+        "TNT Sports 4 HD (UK)",
+        "TNT Sports 9 HD (UK)",
+        "Virgin Media Play (geo/R)",
+        "Virgin Media Two HD",
+        "beIN Sports MENA English 2 HD"
+      ],
+      "commentators": [
+        "ImpactPlayaz",
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/332909-Shakhtar-Donetsk-v-Sporting-Lisbon"
+    },
+    {
+      "title": "Atlético Madrid U-19 v Bayern Munich U-19",
+      "teams": [
+        "Atlético Madrid U-19",
+        "Bayern Munich U-19"
+      ],
+      "date": "03/11/2026",
+      "time": "15:00",
+      "tournament": "UEFA Youth League (U-19)",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/332902-Atltico-Madrid-U19-v-Bayern-Munich-U19"
+    },
+    {
+      "title": "Manchester Utd U-19 v Roma U-19",
+      "teams": [
+        "Manchester Utd U-19",
+        "Roma U-19"
+      ],
+      "date": "03/11/2026",
+      "time": "13:00",
+      "tournament": "UEFA Youth League (U-19)",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/332900-Manchester-Utd-U19-v-Roma-U19"
+    },
+    {
+      "title": "Công An Hà Nôi v Kyoto Sanga",
+      "teams": [
+        "Công An Hà Nôi",
+        "Kyoto Sanga"
+      ],
+      "date": "03/11/2026",
+      "time": "12:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "SportKlub 3 Hrvatska",
+        "SportKlub 3 Slovenija",
+        "World Feed",
+        "YouTube: The AFC Hub"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/332899-Cng-An-H-Ni-v-Kyoto-Sanga"
+    },
+    {
+      "title": "Thai Port v Beijing Guoan",
+      "teams": [
+        "Thai Port",
+        "Beijing Guoan"
+      ],
+      "date": "03/11/2026",
+      "time": "12:15",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "SportKlub 1 Hrvatska HD",
+        "SportKlub 1 Slovenija HD",
+        "World Feed",
+        "YouTube: The AFC Hub"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/332898-Thai-Port-v-Beijing-Guoan"
+    },
+    {
+      "title": "Jeonbuk Motors v Johor Darul Ta'zim",
+      "teams": [
+        "Jeonbuk Motors",
+        "Johor Darul Ta'zim"
+      ],
+      "date": "03/11/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "Astro Arena Bola HD",
+        "Astro GO (geo/R)",
+        "SportKlub 1 Slovenija HD",
+        "SportKlub 3 Hrvatska",
+        "World Feed",
+        "YouTube: The AFC Hub"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/332896-Jeonbuk-Motors-v-Johor-Darul-Tazim"
+    },
+    {
+      "title": "Kashiwa Reysol v Daejeon Citizen",
+      "teams": [
+        "Kashiwa Reysol",
+        "Daejeon Citizen"
+      ],
+      "date": "03/11/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "Astro Arena Bola 2 HD",
+        "Astro GO (geo/R)",
+        "SportKlub 1 Hrvatska HD",
+        "SportKlub 3 Slovenija",
+        "World Feed",
+        "YouTube: The AFC Hub"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/332895-Kashiwa-Reysol-v-Daejeon-Citizen"
+    },
+    {
+      "title": "Vissel Kobe v Ratchaburi",
+      "teams": [
+        "Vissel Kobe",
+        "Ratchaburi"
+      ],
+      "date": "03/11/2026",
+      "time": "10:00",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "Astro GO (geo/R)",
+        "Astro Stadium HD",
+        "SportKlub 5 Slovenija",
+        "SportKlub 6 Hrvatska",
+        "Sporty TV",
+        "Sporty TV Africa HD",
+        "World Feed",
+        "YouTube: The AFC Hub"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/332894-Vissel-Kobe-v-Ratchaburi"
+    },
+    {
+      "title": "Newcastle Jets v Shanghai Port",
+      "teams": [
+        "Newcastle Jets",
+        "Shanghai Port"
+      ],
+      "date": "03/11/2026",
+      "time": "07:45",
+      "tournament": "AFC Champions League Elite",
+      "channels": [
+        "Astro GO (geo/R)",
+        "Astro Stadium HD",
+        "Paramount+ AUS ($/geo/R)",
+        "SportKlub 1 Slovenija HD",
+        "SportKlub 3 Hrvatska",
+        "World Feed",
+        "YouTube: The AFC Hub"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/332893-Newcastle-Jets-v-Shanghai-Port"
     },
     {
       "title": "Bucaramanga v Atlético Nacional",
@@ -507,6 +718,20 @@
       "match_url": "https://icdb.tv/match/335162-Unin-Magdalena-v-Envigado"
     },
     {
+      "title": "Extra Time",
+      "date": "02/11/2026",
+      "time": "23:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/335317-Extra-Time"
+    },
+    {
       "title": "Bragantino v Santos",
       "teams": [
         "Bragantino",
@@ -528,6 +753,20 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/334551-Bragantino-v-Santos"
+    },
+    {
+      "title": "The Final Word",
+      "date": "02/11/2026",
+      "time": "22:30",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/335316-The-Final-Word"
     },
     {
       "title": "Platense v Central Córdoba",
@@ -692,26 +931,26 @@
       "time": "20:00",
       "tournament": "English Premier League",
       "channels": [
-        "FlashScore (audio)",
-        "Sky Sports Main Event UHD",
-        "Flashscore UK",
-        "Sky Sports Premier League HD",
-        "Sky Sports Audio Description",
-        "Sky Sport Calcio HD",
-        "SiriusXM FC",
-        "Canal+ Foot HD",
-        "Sky Sport Italia 4K UHD",
-        "talkSPORT International",
         "USA Network App (USA)",
-        "talkSPORT",
-        "FlashScore App",
+        "Sky Sport Calcio HD",
         "BBC RADIO 5 LIVE",
+        "Flashscore UK",
+        "FlashScore (audio)",
         "BBC (highlights)",
-        "BBC Radio Merseyside",
+        "talkSPORT International",
+        "Sky Sports News / HD",
+        "Star Sports Select HD1",
+        "Sky Sports (highlights)",
         "talkSPORT App",
-        "Sky Sports Main Event HD",
-        "USA Network HD",
-        "Sky Sport Premier League DE HD and4more channels"
+        "FuboTV Canada ($/geo/R)",
+        "NOW Premier League TV (hk)",
+        "Sky Sports Audio Description",
+        "talkSPORT",
+        "BBC Radio Newcastle",
+        "Laos)  [$] (geo/R)",
+        "Cambodia",
+        "ESPN Extra (Caribbean)",
+        "SiriusXM FC and21more channels"
       ],
       "commentators": [
         "Crowe24",
