@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-06T00:54:07.815643+00:00",
+  "scraped_at": "2026-11-06T12:42:45.063747+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 88,
+  "total_matches": 118,
   "matches": [
     {
       "title": "BBC Match of the Day",
@@ -90,6 +90,27 @@
       "match_url": "https://icdb.tv/match/333620-Valencia-v-Real-Madrid"
     },
     {
+      "title": "Peterborough United v Reading",
+      "teams": [
+        "Peterborough United",
+        "Reading"
+      ],
+      "date": "07/11/2026",
+      "time": "20:00",
+      "tournament": "English FA Cup",
+      "channels": [
+        "TNT Sports 1 HD (UK)",
+        "TNT Sports 3 HD (UK)",
+        "TNT Sports (highlights)",
+        "HBO Max (uk only) [$/geo/R]"
+      ],
+      "commentators": [
+        "AnthonyB94",
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/333618-Peterborough-United-v-Reading"
+    },
+    {
       "title": "Roma v Sassuolo",
       "teams": [
         "Roma",
@@ -107,25 +128,24 @@
       "match_url": "https://icdb.tv/match/333619-Roma-v-Sassuolo"
     },
     {
-      "title": "Peterborough United v Reading",
+      "title": "Hertha Berlin v Wolfsburg",
       "teams": [
-        "Peterborough United",
-        "Reading"
+        "Hertha Berlin",
+        "Wolfsburg"
       ],
       "date": "07/11/2026",
       "time": "19:30",
-      "tournament": "English FA Cup",
+      "tournament": "German 2. Bundesliga",
       "channels": [
-        "HBO Max (uk only) [$/geo/R]",
-        "TNT Sports (highlights)",
-        "TNT Sports 1 HD (UK)",
-        "TNT Sports 3 HD (UK)"
+        "Nitro (Schweiz)",
+        "Nitro Deutschland HD",
+        "Nitro Österreich",
+        "Sky Sport Top Event HD"
       ],
       "commentators": [
-        "AnthonyB94",
-        "Crowe24"
+        "kurtogen"
       ],
-      "match_url": "https://icdb.tv/match/333618-Peterborough-United-v-Reading"
+      "match_url": "https://icdb.tv/match/334132-Hertha-Berlin-v-Wolfsburg"
     },
     {
       "title": "Aberdeen v Hibernian",
@@ -141,7 +161,10 @@
         "BBC Radio Scotland Extra",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "Hibs TV"
+        "Hibs TV",
+        "Premier Sports 1 HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "SonnyCorry"
@@ -196,6 +219,8 @@
       "time": "17:30",
       "tournament": "English FA Cup",
       "channels": [
+        "BBC (highlights)",
+        "BBC Match of the Day",
         "BBC Sport Online",
         "BBC Two / HD",
         "BBC iPlayer (geo/R)",
@@ -208,6 +233,24 @@
         "M7"
       ],
       "match_url": "https://icdb.tv/match/333614-Altrincham-v-Notts-County"
+    },
+    {
+      "title": "Stuttgart v Werder Bremen",
+      "teams": [
+        "Stuttgart",
+        "Werder Bremen"
+      ],
+      "date": "07/11/2026",
+      "time": "17:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga HD",
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333613-Stuttgart-v-Werder-Bremen"
     },
     {
       "title": "Nottingham Forest v Manchester City",
@@ -227,10 +270,15 @@
         "NBC USA HD",
         "Peacock USA ($/geo/R)",
         "Recast: Manchester City [$]",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "Sky Sports Premier League HD",
         "YouTube: Man City"
       ],
       "commentators": [
         "Crowe24",
+        "SonnyCorry",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/333612-Nottingham-Forest-v-Manchester-City"
@@ -253,6 +301,23 @@
       "match_url": "https://icdb.tv/match/333611-Parma-v-Bologna"
     },
     {
+      "title": "Preußen Münster v Duisburg",
+      "teams": [
+        "Preußen Münster",
+        "Duisburg"
+      ],
+      "date": "07/11/2026",
+      "time": "15:30",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333608-Preuen-Mnster-v-Duisburg"
+    },
+    {
       "title": "Espanyol v Deportivo A Coruña",
       "teams": [
         "Espanyol",
@@ -268,6 +333,25 @@
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/333831-Espanyol-v-Deportivo-A-Corua"
+    },
+    {
+      "title": "Gillingham v Barrow",
+      "teams": [
+        "Gillingham",
+        "Barrow"
+      ],
+      "date": "07/11/2026",
+      "time": "15:00",
+      "tournament": "English FA Cup",
+      "channels": [
+        "BBC Radio Kent",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/335637-Gillingham-v-Barrow"
     },
     {
       "title": "Leyton Orient v Harborough Town",
@@ -333,8 +417,8 @@
       "time": "15:00",
       "tournament": "Scottish Premiership",
       "channels": [
-        "DeeTV (Dundee)",
-        "SaintsTV (St Johnstone)"
+        "SaintsTV (St Johnstone)",
+        "DeeTV (Dundee)"
       ],
       "commentators": [
         "SonnyCorry"
@@ -368,14 +452,14 @@
       "time": "15:00",
       "tournament": "English Premier League",
       "channels": [
-        "BBC (highlights)",
         "BBC Match of the Day",
+        "Sky Sports News / HD",
         "BBC Radio Newcastle",
+        "BBC (highlights)",
+        "USA Network HD",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
-        "Sky Sports News / HD",
-        "USA Network App (USA)",
-        "USA Network HD"
+        "USA Network App (USA)"
       ],
       "commentators": [
         "Crowe24",
@@ -398,10 +482,12 @@
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
         "NBCSN",
-        "Peacock USA ($/geo/R)"
+        "Peacock USA ($/geo/R)",
+        "Sky Sports News / HD"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/333599-Arsenal-v-Hull-City"
     },
@@ -438,6 +524,78 @@
       "match_url": "https://icdb.tv/match/334799-talkSPORT-GameDay-Live"
     },
     {
+      "title": "Borussia Dortmund v Elversberg",
+      "teams": [
+        "Borussia Dortmund",
+        "Elversberg"
+      ],
+      "date": "07/11/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Bundesliga-Konferenz",
+        "Sky Sport Bundesliga 3 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333598-Borussia-Dortmund-v-Elversberg"
+    },
+    {
+      "title": "Paderborn v Eintracht Frankfurt",
+      "teams": [
+        "Paderborn",
+        "Eintracht Frankfurt"
+      ],
+      "date": "07/11/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Bundesliga-Konferenz",
+        "Sky Sport Bundesliga 4 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333597-Paderborn-v-Eintracht-Frankfurt"
+    },
+    {
+      "title": "Mainz 05 v Bayern Munich",
+      "teams": [
+        "Mainz 05",
+        "Bayern Munich"
+      ],
+      "date": "07/11/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Bundesliga-Konferenz",
+        "Sky Sport Bundesliga HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333596-Mainz-05-v-Bayern-Munich"
+    },
+    {
+      "title": "RB Leipzig v Augsburg",
+      "teams": [
+        "RB Leipzig",
+        "Augsburg"
+      ],
+      "date": "07/11/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Bundesliga-Konferenz",
+        "Sky Sport Bundesliga 2 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333595-RB-Leipzig-v-Augsburg"
+    },
+    {
       "title": "- OPEN ALL MICS -",
       "date": "07/11/2026",
       "time": "14:00",
@@ -450,6 +608,94 @@
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/334731-OPEN-ALL-MICS"
+    },
+    {
+      "title": "- MAGENTA SPORT - v - KONFERENZ -",
+      "teams": [
+        "- MAGENTA SPORT -",
+        "- KONFERENZ -"
+      ],
+      "date": "07/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335643-MAGENTA-SPORT-v-KONFERENZ"
+    },
+    {
+      "title": "- DAZN DE - v - KONFERENZ -",
+      "teams": [
+        "- DAZN DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "07/11/2026",
+      "time": "13:00",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335638-DAZN-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Waldhof Mannheim v Fortuna Cologne",
+      "teams": [
+        "Waldhof Mannheim",
+        "Fortuna Cologne"
+      ],
+      "date": "07/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335370-Waldhof-Mannheim-v-Fortuna-Cologne"
+    },
+    {
+      "title": "Bayer Leverkusen v Hamburg",
+      "teams": [
+        "Bayer Leverkusen",
+        "Hamburg"
+      ],
+      "date": "07/11/2026",
+      "time": "13:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335369-Bayer-Leverkusen-v-Hamburg"
+    },
+    {
+      "title": "Chemnitz v Greifswalder FC",
+      "teams": [
+        "Chemnitz",
+        "Greifswalder FC"
+      ],
+      "date": "07/11/2026",
+      "time": "13:00",
+      "tournament": "German Regionalliga: Nordost",
+      "channels": [
+        "MDR Fernsehen HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334127-Chemnitz-v-Greifswalder-FC"
     },
     {
       "title": "Málaga v Racing Santander",
@@ -468,6 +714,76 @@
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/333823-Mlaga-v-Racing-Santander"
+    },
+    {
+      "title": "Hansa Rostock v Sonnenhof Großaspach",
+      "teams": [
+        "Hansa Rostock",
+        "Sonnenhof Großaspach"
+      ],
+      "date": "07/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333584-Hansa-Rostock-v-Sonnenhof-Groaspach"
+    },
+    {
+      "title": "Wehen Wiesbaden v TSV Havelse",
+      "teams": [
+        "Wehen Wiesbaden",
+        "TSV Havelse"
+      ],
+      "date": "07/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333583-Wehen-Wiesbaden-v-TSV-Havelse"
+    },
+    {
+      "title": "Ingolstadt v Fortuna Düsseldorf",
+      "teams": [
+        "Ingolstadt",
+        "Fortuna Düsseldorf"
+      ],
+      "date": "07/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "BR Fernsehen HD",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333581-Ingolstadt-v-Fortuna-Dsseldorf"
+    },
+    {
+      "title": "Rot-Weiss Essen v Alemannia Aachen",
+      "teams": [
+        "Rot-Weiss Essen",
+        "Alemannia Aachen"
+      ],
+      "date": "07/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)",
+        "WDR Fernsehen HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333580-RotWeiss-Essen-v-Alemannia-Aachen"
     },
     {
       "title": "Manchester City v West Ham United",
@@ -530,6 +846,7 @@
       "commentators": [
         "Crowe24",
         "SonnyCorry",
+        "ZC2020",
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/333098-Leeds-United-v-Tottenham-Hotspur"
@@ -549,6 +866,96 @@
       "match_url": "https://icdb.tv/match/335477-Sky-Soccer-Saturday"
     },
     {
+      "title": "Nuremberg v Darmstadt 98",
+      "teams": [
+        "Nuremberg",
+        "Darmstadt 98"
+      ],
+      "date": "07/11/2026",
+      "time": "12:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 3 HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333572-Nuremberg-v-Darmstadt-98"
+    },
+    {
+      "title": "Holstein Kiel v Arminia Bielefeld",
+      "teams": [
+        "Holstein Kiel",
+        "Arminia Bielefeld"
+      ],
+      "date": "07/11/2026",
+      "time": "12:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 5 HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333571-Holstein-Kiel-v-Arminia-Bielefeld"
+    },
+    {
+      "title": "Osnabrück v Kaiserslautern",
+      "teams": [
+        "Osnabrück",
+        "Kaiserslautern"
+      ],
+      "date": "07/11/2026",
+      "time": "12:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 4 HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333570-Osnabrck-v-Kaiserslautern"
+    },
+    {
+      "title": "- SKY DE - v - KONFERENZ -",
+      "teams": [
+        "- SKY DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "07/11/2026",
+      "time": "11:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335640-SKY-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Freiburg v Nuremberg",
+      "teams": [
+        "Freiburg",
+        "Nuremberg"
+      ],
+      "date": "07/11/2026",
+      "time": "11:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335364-Freiburg-v-Nuremberg"
+    },
+    {
       "title": "Vitória v Fluminense",
       "teams": [
         "Vitória",
@@ -558,6 +965,7 @@
       "time": "23:00",
       "tournament": "Brazilian Série A",
       "channels": [
+        "Premiere (Brazil)",
         "Rádio Tupi"
       ],
       "commentators": [
@@ -595,6 +1003,7 @@
       "channels": [
         "BBC Radio Manchester",
         "Bolton FM",
+        "RamsTV",
         "Wanderers TV (Bolton Wanderers)"
       ],
       "commentators": [
@@ -613,13 +1022,19 @@
       "time": "20:00",
       "tournament": "English Premier League",
       "channels": [
+        "Sky Sports (highlights)",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD",
+        "Sky Sports Premier League HD",
         "USA Network App (USA)",
         "USA Network HD",
         "talkSPORT",
         "talkSPORT App"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/333095-Everton-v-Coventry-City"
     },
@@ -645,6 +1060,24 @@
         "apltle12"
       ],
       "match_url": "https://icdb.tv/match/333399-Oxford-City-v-Leicester-City"
+    },
+    {
+      "title": "Hamburg v Mönchengladbach",
+      "teams": [
+        "Hamburg",
+        "Mönchengladbach"
+      ],
+      "date": "06/11/2026",
+      "time": "19:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga HD",
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333390-Hamburg-v-Mnchengladbach"
     },
     {
       "title": "Raith Rovers v Dunfermline Athletic",
@@ -679,6 +1112,128 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/333255-BBC-Premier-League-KickOff"
+    },
+    {
+      "title": "Viktoria Cologne v Saarbrücken",
+      "teams": [
+        "Viktoria Cologne",
+        "Saarbrücken"
+      ],
+      "date": "06/11/2026",
+      "time": "18:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333550-Viktoria-Cologne-v-Saarbrcken"
+    },
+    {
+      "title": "Eintracht Frankfurt v Wolfsburg",
+      "teams": [
+        "Eintracht Frankfurt",
+        "Wolfsburg"
+      ],
+      "date": "06/11/2026",
+      "time": "17:30",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)",
+        "ZDF Sportstudio Online"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335362-Eintracht-Frankfurt-v-Wolfsburg"
+    },
+    {
+      "title": "Bayern Munich v Werder Bremen",
+      "teams": [
+        "Bayern Munich",
+        "Werder Bremen"
+      ],
+      "date": "06/11/2026",
+      "time": "17:30",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "DF1 Deutschland HD",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335361-Bayern-Munich-v-Werder-Bremen"
+    },
+    {
+      "title": "Dynamo Dresden v Greuther Fürth",
+      "teams": [
+        "Dynamo Dresden",
+        "Greuther Fürth"
+      ],
+      "date": "06/11/2026",
+      "time": "17:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 3 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333387-Dynamo-Dresden-v-Greuther-Frth"
+    },
+    {
+      "title": "Braunschweig v Energie Cottbus",
+      "teams": [
+        "Braunschweig",
+        "Energie Cottbus"
+      ],
+      "date": "06/11/2026",
+      "time": "17:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 4 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/333386-Braunschweig-v-Energie-Cottbus"
+    },
+    {
+      "title": "- SKY DE - v - KONFERENZ -",
+      "teams": [
+        "- SKY DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "06/11/2026",
+      "time": "17:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335639-SKY-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Fantasy Premier League Show",
+      "date": "06/11/2026",
+      "time": "10:30",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/335633-Fantasy-Premier-League-Show"
     },
     {
       "title": "Cruzeiro v Bahia",
@@ -910,26 +1465,26 @@
       "time": "20:00",
       "tournament": "UEFA Europa League",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "HBO Max (uk only) [$/geo/R]",
-        "Paramount+ USA ($/geo/R)",
         "BBC Radio Scotland Extra",
-        "FlashScore (audio)",
-        "BBC Sport Online (Audio)",
-        "Megogo Futbol 9 ($/geo/R)",
-        "TNT Sports (highlights)",
-        "RTL+ Deutschland (geo/R)",
-        "Flashscore UK",
-        "DAZN Canada ($/geo/R)",
-        "Premier Sports 1 HD (ROI only)",
-        "FlashScore App",
-        "BBC Sounds APP",
-        "talkSPORT",
-        "SuperSport Kickoff HD",
         "BBC Radio 5 Sports Extra",
+        "RTL+ Deutschland Konferenz",
+        "SuperSport Kickoff HD",
         "TSN Malta 3 HD",
+        "BBC Sounds APP",
+        "Flashscore UK",
+        "Megogo Futbol 9 ($/geo/R)",
+        "World Feed",
         "Stan Sport Australia ($/geo/R)",
-        "TNT Sports 3 HD (UK) and2more channels"
+        "Premier Sports 1 HD (ROI only)",
+        "DAZN Canada ($/geo/R)",
+        "FlashScore App",
+        "Paramount+ USA ($/geo/R)",
+        "talkSPORT",
+        "HBO Max (uk only) [$/geo/R]",
+        "FlashScore (audio)",
+        "TNT Sports 3 HD (UK)",
+        "RTL+ Deutschland (geo/R)",
+        "BBC Sport Online (Audio) and2more channels"
       ],
       "commentators": [
         "AndyRoo_0860",
@@ -1002,26 +1557,26 @@
       "time": "20:00",
       "tournament": "UEFA Europa League",
       "channels": [
-        "Premier Sports 2 HD (ROI only)",
         "DAZN Canada ($/geo/R)",
-        "FlashScore App",
-        "Sky Sport 4 Austria HD",
-        "Flashscore UK",
-        "TNT Sports 1 HD (UK)",
-        "BBC RADIO 5 LIVE",
-        "talkSPORT 2",
-        "RTL+ Deutschland Konferenz",
-        "talkSPORT App",
-        "SuperSport MáXimo 3A HD",
-        "RTL+ Deutschland (geo/R)",
+        "Stan Sport Australia ($/geo/R)",
         "TSN Malta 5 HD",
+        "RTL+ Deutschland (geo/R)",
+        "TNT Sports (highlights)",
+        "talkSPORT App",
         "Paramount+ USA ($/geo/R)",
-        "SuperSport Premier League HD",
+        "TNT Sports 1 HD (UK)",
+        "World Feed",
+        "Premier Sports 2 HD (ROI only)",
         "HBO Max (uk only) [$/geo/R]",
-        "Sky Sport Austria Konferenz",
+        "Sky Sport 4 Austria HD",
         "FlashScore (audio)",
-        "TNT Sports Ultimate 4K (UK)",
-        "Stan Sport Australia ($/geo/R) and4more channels"
+        "Sky Sport Austria Konferenz",
+        "Flashscore UK",
+        "talkSPORT 2",
+        "BBC Radio Newcastle",
+        "Megogo Futbol 7 ($/geo/R)",
+        "FlashScore App",
+        "RTL+ Deutschland Konferenz and4more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1404,26 +1959,26 @@
       "time": "17:45",
       "tournament": "UEFA Europa League",
       "channels": [
-        "SuperSport Premier League HD",
-        "SuperSport Kickoff HD",
-        "BBC RADIO 5 LIVE",
-        "DAZN Canada ($/geo/R)",
-        "talkSPORT App",
-        "Sky Sport Austria Konferenz",
-        "TNT Sports 1 HD (UK)",
-        "TSN Malta 3 HD",
-        "HBO Max (uk only) [$/geo/R]",
-        "Flashscore UK",
-        "TNT Sports (highlights)",
-        "talkSPORT",
-        "RTL+ Deutschland Konferenz",
+        "World Feed",
         "beIN Sports MENA English 1 HD",
+        "Flashscore UK",
         "FlashScore App",
+        "FlashScore (audio)",
+        "talkSPORT 2",
+        "TNT Sports Ultimate 4K (UK)",
+        "TNT Sports 1 HD (UK)",
+        "SuperSport Premier League HD",
+        "RTL+ Deutschland (geo/R)",
+        "talkSPORT App",
         "Sony Sports TEN 1 India HD",
-        "Sky Sport 3 Austria HD",
         "SuperSport MáXimo 2A HD",
         "Paramount+ USA ($/geo/R)",
-        "Stan Sport Australia ($/geo/R) and7more channels"
+        "Premier Sports 1 HD (ROI only)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Sky Sport 3 Austria HD",
+        "BBC Radio London",
+        "Sky Sport Austria Konferenz",
+        "talkSPORT and7more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -1555,22 +2110,23 @@
       "time": "17:45",
       "tournament": "UEFA Europa League",
       "channels": [
+        "BBC Radio Solent",
         "DAZN Canada ($/geo/R)",
+        "FlashScore (audio)",
+        "FlashScore App",
+        "Flashscore UK",
+        "HBO Max (uk only) [$/geo/R]",
+        "Megogo Futbol 8 ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Premier Sports 2 HD (ROI only)",
+        "RTL+ Deutschland (geo/R)",
+        "RTL+ Deutschland Konferenz",
+        "Stan Sport Australia ($/geo/R)",
+        "TNT Sports (highlights)",
+        "TNT Sports 2 HD (UK)",
         "TSN Malta 2 HD",
         "World Feed",
-        "talkSPORT",
-        "Premier Sports 2 HD (ROI only)",
-        "FlashScore (audio)",
-        "RTL+ Deutschland (geo/R)",
-        "Stan Sport Australia ($/geo/R)",
-        "Megogo Futbol 8 ($/geo/R)",
-        "RTL+ Deutschland Konferenz",
-        "Flashscore UK",
-        "TNT Sports 2 HD (UK)",
-        "TNT Sports (highlights)",
-        "Paramount+ USA ($/geo/R)",
-        "HBO Max (uk only) [$/geo/R]",
-        "FlashScore App"
+        "talkSPORT"
       ],
       "commentators": [
         "Crowe24",
