@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-11-11T12:25:32.858993+00:00",
+  "scraped_at": "2026-11-11T21:44:04.636435+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 22,
+  "total_matches": 33,
   "matches": [
+    {
+      "title": "- DAZN DE - v - KONFERENZ -",
+      "teams": [
+        "- DAZN DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "12/11/2026",
+      "time": "20:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336454-DAZN-DE-v-KONFERENZ"
+    },
     {
       "title": "Czechia v Spain",
       "teams": [
@@ -13,10 +31,15 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "DAZN Schweiz Konferenz",
+        "DAZN Schweiz [$] (geo/R)",
         "SuperSport 3 Albania HD"
       ],
       "commentators": [
-        "anarildoalia"
+        "anarildoalia",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334612-Czechia-v-Spain"
     },
@@ -30,22 +53,66 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "DAZN Schweiz Konferenz",
+        "DAZN Schweiz [$] (geo/R)",
+        "ITV (highlights)",
+        "ITV X (geo/R)",
+        "ITV1 / HD",
         "STV (Scotland) / HD",
         "STV Player (geo/R)",
         "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "ITV (highlights)",
-        "ITV1 / HD",
-        "talkSPORT App",
-        "BBC Sounds APP",
-        "ITV X (geo/R)",
-        "BBC Sport Online (Audio)"
+        "talkSPORT App"
       ],
       "commentators": [
         "Crowe24",
-        "apltle12"
+        "apltle12",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334611-England-v-Croatia"
+    },
+    {
+      "title": "Italy v France",
+      "teams": [
+        "Italy",
+        "France"
+      ],
+      "date": "12/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "DAZN Schweiz Konferenz",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334610-Italy-v-France"
+    },
+    {
+      "title": "Ivory Coast v Gambia",
+      "teams": [
+        "Ivory Coast",
+        "Gambia"
+      ],
+      "date": "12/11/2026",
+      "time": "19:00",
+      "tournament": "CAF African Cup of Nations",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335703-Ivory-Coast-v-Gambia"
     },
     {
       "title": "Barcelona v Arsenal",
@@ -67,6 +134,25 @@
       "match_url": "https://icdb.tv/match/334475-Barcelona-v-Arsenal"
     },
     {
+      "title": "Türkiye v Belgium",
+      "teams": [
+        "Türkiye",
+        "Belgium"
+      ],
+      "date": "12/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334606-Trkiye-v-Belgium"
+    },
+    {
       "title": "Benfica v Austria Vienna",
       "teams": [
         "Benfica",
@@ -76,10 +162,12 @@
       "time": "20:00",
       "tournament": "UEFA Womens Champions League",
       "channels": [
+        "Disney+ Deutsch (€/geo/R)",
         "**POSTPONED**"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334477-Benfica-v-Austria-Vienna"
     },
@@ -104,6 +192,40 @@
       "match_url": "https://icdb.tv/match/334476-Juventus-v-Lyon"
     },
     {
+      "title": "Tottenham Hotspur v Crystal Palace",
+      "teams": [
+        "Tottenham Hotspur",
+        "Crystal Palace"
+      ],
+      "date": "11/11/2026",
+      "time": "19:00",
+      "tournament": "English WSL PLayers Cup",
+      "channels": [
+        "YouTube: Barclays Women's Super League"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/336249-Tottenham-Hotspur-v-Crystal-Palace"
+    },
+    {
+      "title": "Liverpool v Aston Villa",
+      "teams": [
+        "Liverpool",
+        "Aston Villa"
+      ],
+      "date": "11/11/2026",
+      "time": "19:00",
+      "tournament": "English WSL PLayers Cup",
+      "channels": [
+        "LFC TV HD"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/336248-Liverpool-v-Aston-Villa"
+    },
+    {
       "title": "talkSPORT Kick Off",
       "date": "11/11/2026",
       "time": "19:00",
@@ -113,9 +235,43 @@
         "talkSPORT App"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/335494-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "Sheffield Wednesday v Accrington Stanley",
+      "teams": [
+        "Sheffield Wednesday",
+        "Accrington Stanley"
+      ],
+      "date": "11/11/2026",
+      "time": "19:00",
+      "tournament": "English League Trophy",
+      "channels": [
+        "BBC Radio Sheffield",
+        "Sky Sports+ [via APP]"
+      ],
+      "commentators": [
+        "AndyRoo_0860",
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/334357-Sheffield-Wednesday-v-Accrington-Stanley"
+    },
+    {
+      "title": "BBC Manchester Total Sport",
+      "date": "11/11/2026",
+      "time": "18:00",
+      "tournament": "Studio Coverage",
+      "channels": [
+        "BBC Radio Manchester",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/336453-BBC-Manchester-Total-Sport"
     },
     {
       "title": "Leuven v HB Køge",
@@ -128,9 +284,12 @@
       "tournament": "UEFA Womens Champions League",
       "channels": [
         "Disney+ Europe (€/geo/R)",
-        "Disney+ UK & Ireland (£/€/geo/R)"
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "World Feed",
+        "beIN Sports MENA English 2 HD"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/334474-Leuven-v-HB-Kge"
@@ -149,6 +308,23 @@
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/336443-Disney-UWCL-The-Hangout"
+    },
+    {
+      "title": "Germany U-17 v Azerbaijan U-17",
+      "teams": [
+        "Germany U-17",
+        "Azerbaijan U-17"
+      ],
+      "date": "11/11/2026",
+      "time": "10:00",
+      "tournament": "UEFA U-17 Championship 2027 Qualifiers",
+      "channels": [
+        "DFB-TV"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336345-Germany-U17-v-Azerbaijan-U17"
     },
     {
       "title": "Inter Milan v Manchester City",
@@ -185,13 +361,16 @@
       "time": "20:00",
       "tournament": "UEFA Womens Champions League",
       "channels": [
-        "World Feed",
+        "Disney+ Deutsch (€/geo/R)",
+        "Disney+ Europe (€/geo/R)",
         "Disney+ UK & Ireland (£/€/geo/R)",
-        "Disney+ Europe (€/geo/R)"
+        "World Feed",
+        "ZDF Sportstudio Online"
       ],
       "commentators": [
         "Crowe24",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334375-Paris-St-Germain-v-Bayern-Munich"
     },
@@ -205,15 +384,17 @@
       "time": "20:00",
       "tournament": "UEFA Womens Champions League",
       "channels": [
-        "World Feed",
-        "Disney+ UK & Ireland (£/€/geo/R)",
         "Disney+ Europe (€/geo/R)",
-        "Disney+ Italia ($/geo/R)"
+        "Disney+ Italia ($/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "RTS 2 Suisse HD",
+        "World Feed"
       ],
       "commentators": [
         "Crowe24",
         "Guest-SC",
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334374-Roma-v-Servette-Chnois"
     },
@@ -312,10 +493,12 @@
       "time": "19:00",
       "tournament": "English League Trophy",
       "channels": [
+        "BBC Radio Leeds (DAB)",
         "BBC Radio Leeds (Freeview)",
-        "BBC Radio Leeds (DAB)"
+        "Sky Sports+ [via APP]"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "JACKLUFC"
       ],
       "match_url": "https://icdb.tv/match/334363-Huddersfield-Town-v-Liverpool-U21"
@@ -366,6 +549,41 @@
         "RussVMedia"
       ],
       "match_url": "https://icdb.tv/match/334361-Mansfield-Town-v-Chesterfield"
+    },
+    {
+      "title": "Midtjylland v OB Odense",
+      "teams": [
+        "Midtjylland",
+        "OB Odense"
+      ],
+      "date": "10/11/2026",
+      "time": "18:00",
+      "tournament": "Danish A-Liga Women",
+      "channels": [
+        "TV2 Play Danmark ($/geo/R)",
+        "TV2 Sport X Dansk HD"
+      ],
+      "commentators": [
+        "Vallis"
+      ],
+      "match_url": "https://icdb.tv/match/335285-Midtjylland-v-OB-Odense"
+    },
+    {
+      "title": "Anaitasuna v Alavés",
+      "teams": [
+        "Anaitasuna",
+        "Alavés"
+      ],
+      "date": "10/11/2026",
+      "time": "18:00",
+      "tournament": "Spanish Cup (Copa del Rey)",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334060-Anaitasuna-v-Alavs"
     },
     {
       "title": "BK Häcken v Chelsea",
