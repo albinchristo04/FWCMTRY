@@ -1,8 +1,25 @@
 {
-  "scraped_at": "2026-11-11T00:25:09.945950+00:00",
+  "scraped_at": "2026-11-11T12:25:32.858993+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 19,
+  "total_matches": 22,
   "matches": [
+    {
+      "title": "Czechia v Spain",
+      "teams": [
+        "Czechia",
+        "Spain"
+      ],
+      "date": "12/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "SuperSport 3 Albania HD"
+      ],
+      "commentators": [
+        "anarildoalia"
+      ],
+      "match_url": "https://icdb.tv/match/334612-Czechia-v-Spain"
+    },
     {
       "title": "England v Croatia",
       "teams": [
@@ -13,16 +30,16 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP",
-        "BBC Sport Online (Audio)",
-        "ITV (highlights)",
-        "ITV X (geo/R)",
-        "ITV1 / HD",
         "STV (Scotland) / HD",
         "STV Player (geo/R)",
         "talkSPORT",
-        "talkSPORT App"
+        "BBC RADIO 5 LIVE",
+        "ITV (highlights)",
+        "ITV1 / HD",
+        "talkSPORT App",
+        "BBC Sounds APP",
+        "ITV X (geo/R)",
+        "BBC Sport Online (Audio)"
       ],
       "commentators": [
         "Crowe24",
@@ -41,7 +58,8 @@
       "tournament": "UEFA Womens Champions League",
       "channels": [
         "Disney+ España (€/geo/R)",
-        "Disney+ Europe (€/geo/R)"
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)"
       ],
       "commentators": [
         "ImpactPlayaz"
@@ -75,10 +93,13 @@
       "time": "20:00",
       "tournament": "UEFA Womens Champions League",
       "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/334476-Juventus-v-Lyon"
     },
@@ -95,6 +116,39 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/335494-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "Leuven v HB Køge",
+      "teams": [
+        "Leuven",
+        "HB Køge"
+      ],
+      "date": "11/11/2026",
+      "time": "17:45",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/334474-Leuven-v-HB-Kge"
+    },
+    {
+      "title": "Disney+ UWCL: The Hangout",
+      "date": "11/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "YouTube: ESPN UK"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/336443-Disney-UWCL-The-Hangout"
     },
     {
       "title": "Inter Milan v Manchester City",
