@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-13T00:53:21.944827+00:00",
+  "scraped_at": "2026-11-13T12:51:56.160095+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 55,
+  "total_matches": 60,
   "matches": [
     {
       "title": "Chapecoense v Vasco da Gama",
@@ -30,12 +30,15 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "RTÉ 2 Ireland / HD",
-        "RTÉ Player (geo/R)",
-        "RTÉ News"
+        "RTÉ News",
+        "RTÉ Player (geo/R)"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334870-Austria-v-Ireland"
     },
@@ -61,6 +64,25 @@
       "match_url": "https://icdb.tv/match/334869-Northern-Ireland-v-Ukraine"
     },
     {
+      "title": "Portugal v Denmark",
+      "teams": [
+        "Portugal",
+        "Denmark"
+      ],
+      "date": "14/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334868-Portugal-v-Denmark"
+    },
+    {
       "title": "talkSPORT Kick Off",
       "date": "14/11/2026",
       "time": "17:00",
@@ -74,6 +96,46 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/335670-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "Norway v Wales",
+      "teams": [
+        "Norway",
+        "Wales"
+      ],
+      "date": "14/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN 2 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334858-Norway-v-Wales"
+    },
+    {
+      "title": "Wolfsburg v Bayern Munich",
+      "teams": [
+        "Wolfsburg",
+        "Bayern Munich"
+      ],
+      "date": "14/11/2026",
+      "time": "16:55",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "ARD Das Erste / HD",
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335387-Wolfsburg-v-Bayern-Munich"
     },
     {
       "title": "Partick Thistle v Inverness CT",
@@ -177,6 +239,46 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/335669-talkSPORT-The-Saturday-Session"
+    },
+    {
+      "title": "Werder Bremen v Union Berlin",
+      "teams": [
+        "Werder Bremen",
+        "Union Berlin"
+      ],
+      "date": "14/11/2026",
+      "time": "13:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335386-Werder-Bremen-v-Union-Berlin"
+    },
+    {
+      "title": "Hoffenheim v Freiburg",
+      "teams": [
+        "Hoffenheim",
+        "Freiburg"
+      ],
+      "date": "14/11/2026",
+      "time": "11:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335385-Hoffenheim-v-Freiburg"
     },
     {
       "title": "Morocco v Niger",
@@ -505,15 +607,16 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN (highlights)",
         "DAZN Canada ($/geo/R)",
-        "World Feed",
+        "FlashScore App",
         "Fubo Sports USA ($/geo/R)",
-        "UEFA (highlights)",
-        "SuperSport LaLiga HD",
         "MONOMAX (Thailand",
         "Cambodia",
-        "Laos)  [$] (geo/R)",
-        "DAZN (highlights)"
+        "Laos) [$] (geo/R)",
+        "SuperSport LaLiga HD",
+        "UEFA (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Mikhail17",
@@ -531,28 +634,29 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "SuperSport Football Plus HD",
-        "MONOMAX (Thailand",
-        "SuperSport MáXimo 3A HD",
-        "FlashScore App",
-        "Cambodia",
-        "Laos)  [$] (geo/R)",
-        "Fubo Sports USA ($/geo/R)",
-        "DAZN Deutsch Konferenz",
-        "SuperSport 3 Albania HD",
         "DAZN Deutsch ($/geo/R)",
-        "TVE La 1 HD España",
-        "UEFA (highlights)",
-        "Sony Sports TEN 5 India HD",
-        "Amazon Prime UK [$]",
+        "Cambodia",
         "RTVE Play ($/geo/R)",
-        "SuperSport Grandstand HD",
-        "DAZN Canada ($/geo/R)",
-        "FOX ONE (USA) [$] (geo/R)",
+        "World Feed",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "MONOMAX (Thailand",
+        "Fubo Sports USA ($/geo/R)",
+        "FlashScore App",
+        "DAZN Schweiz Konferenz",
         "DAZN Schweiz [$] (geo/R)",
-        "Fox Soccer Plus USA and4more channels"
+        "DAZN Deutsch Konferenz",
+        "SuperSport Football Plus HD",
+        "Laos) [$] (geo/R)",
+        "DAZN (highlights)",
+        "Amazon Prime UK [$]",
+        "UEFA (highlights)",
+        "DAZN Canada ($/geo/R)",
+        "Fox Soccer Plus USA",
+        "FOX ONE (USA) [$] (geo/R)",
+        "SuperSport 3 Albania HD and4more channels"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "ImpactPlayaz",
         "Mikhail17",
         "anarildoalia",
@@ -571,28 +675,29 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "MONOMAX (Thailand",
-        "World Feed",
-        "BBC Sounds APP",
-        "beIN Sports MENA English 1 HD",
-        "BBC RADIO 5 LIVE",
-        "Fubo Sports USA ($/geo/R)",
-        "talkSPORT",
-        "SuperSport Premier League HD",
-        "UEFA (highlights)",
-        "ITV1 / HD",
-        "DAZN Canada ($/geo/R)",
-        "ITV X (geo/R)",
         "beIN Sports Australia 3 HD",
-        "DAZN Deutsch Konferenz",
+        "DAZN Canada ($/geo/R)",
         "FlashScore (audio)",
-        "beIN Sports Australia 2 HD",
+        "talkSPORT App",
+        "Fubo Sports USA ($/geo/R)",
+        "STV (Scotland) / HD",
         "Sony Sports TEN 1 India HD",
-        "FlashScore App",
+        "SuperSport Premier League HD",
+        "DAZN (highlights)",
+        "beIN Sports Australia 2 HD",
+        "Virgin Media Play (geo/R)",
+        "BBC Sport Online (Audio)",
+        "MONOMAX (Thailand",
+        "Cambodia",
+        "World Feed",
+        "DAZN Schweiz Konferenz",
+        "UEFA (highlights)",
         "DAZN Deutsch ($/geo/R)",
-        "Cambodia and14more channels"
+        "ITV (highlights)",
+        "Laos) [$] (geo/R) and14more channels"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Crowe24",
         "ImpactPlayaz",
         "Mikhail17",
@@ -612,28 +717,30 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "Amazon Prime UK [$]",
         "Sony Sports TEN 3 India HD",
-        "beIN Sports Australia 2 HD",
-        "beIN Sports MENA English 2 HD",
-        "SuperSport MáXimo 1 HD",
-        "Cambodia",
-        "RTS 2 Suisse HD",
-        "World Feed",
-        "FOX ONE (USA) [$] (geo/R)",
-        "DAZN (highlights)",
-        "DAZN Schweiz [$] (geo/R)",
-        "DAZN Canada ($/geo/R)",
-        "Fubo Sports USA ($/geo/R)",
-        "FlashScore App",
-        "SuperSport Kickoff HD",
-        "DAZN Deutsch ($/geo/R)",
+        "Fox Sports 1 USA HD",
+        "Sony Sports TEN 4 India HD",
         "SRF Zwei Schweiz HD",
-        "DAZN 1 Bar Deutsch HD",
+        "Fubo Sports USA ($/geo/R)",
+        "Puls 4 Österreich HD",
+        "beIN Sports MENA English 2 HD",
+        "RAI 1 Italia HD",
+        "World Feed",
+        "FlashScore App",
+        "DAZN Canada ($/geo/R)",
         "MONOMAX (Thailand",
-        "Sony Sports TEN 4 India HD and9more channels"
+        "UEFA (highlights)",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz Konferenz",
+        "SuperSport MáXimo 360",
+        "Amazon Prime UK [$]",
+        "Cambodia",
+        "SuperSport MáXimo 1 HD",
+        "Amazon Prime Video Sport UK (Highlights) and10more channels"
       ],
       "commentators": [
+        "AndyRoo_0860",
+        "Guest-SC",
         "Mikhail17",
         "apltle12",
         "kurtogen"
@@ -650,15 +757,16 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN (highlights)",
         "DAZN Canada ($/geo/R)",
-        "World Feed",
+        "FlashScore App",
         "Fubo Sports USA ($/geo/R)",
-        "UEFA (highlights)",
-        "SuperSport Football HD",
         "MONOMAX (Thailand",
         "Cambodia",
-        "Laos)  [$] (geo/R)",
-        "DAZN (highlights)"
+        "Laos) [$] (geo/R)",
+        "SuperSport Football HD",
+        "UEFA (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Mikhail17",
@@ -676,15 +784,16 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN (highlights)",
         "DAZN Canada ($/geo/R)",
-        "World Feed",
+        "FlashScore App",
         "Fubo Sports USA ($/geo/R)",
-        "UEFA (highlights)",
-        "SuperSport OTT 5",
         "MONOMAX (Thailand",
         "Cambodia",
-        "Laos)  [$] (geo/R)",
-        "DAZN (highlights)"
+        "Laos) [$] (geo/R)",
+        "SuperSport OTT 5",
+        "UEFA (highlights)",
+        "World Feed"
       ],
       "commentators": [
         "Mikhail17",
@@ -930,21 +1039,23 @@
       "time": "17:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN (highlights)",
         "DAZN Canada ($/geo/R)",
-        "World Feed",
-        "beIN Sports Australia 2 HD",
-        "Fubo Sports USA ($/geo/R)",
+        "FOX ONE (USA) [$] (geo/R)",
+        "FlashScore App",
         "Fox Soccer Plus USA",
-        "UEFA (highlights)",
-        "SuperSport OTT 5",
+        "Fubo Sports USA ($/geo/R)",
         "MONOMAX (Thailand",
         "Cambodia",
-        "Laos)  [$] (geo/R)",
-        "FOX ONE (USA) [$] (geo/R)",
-        "DAZN (highlights)"
+        "Laos) [$] (geo/R)",
+        "SuperSport OTT 5",
+        "UEFA (highlights)",
+        "World Feed",
+        "beIN Sports Australia 2 HD"
       ],
       "commentators": [
-        "Mikhail17"
+        "Mikhail17",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/334607-Armenia-v-Cyprus"
     },
@@ -958,28 +1069,29 @@
       "time": "17:00",
       "tournament": "UEFA Nations League",
       "channels": [
-        "MONOMAX (Thailand",
-        "Amazon Prime UK [$]",
-        "FOX ONE (USA) [$] (geo/R)",
-        "beIN Sports Australia 3 HD",
-        "Fubo Sports USA ($/geo/R)",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Canada ($/geo/R)",
+        "Laos) [$] (geo/R)",
         "DAZN 1 Bar Deutsch HD",
-        "Fox Sports 1 USA HD",
         "SuperSport Grandstand HD",
-        "SuperSport MáXimo 2A HD",
-        "Laos)  [$] (geo/R)",
-        "Sony Sports TEN 2 India HD",
         "World Feed",
-        "UEFA (highlights)",
-        "FlashScore App",
         "Amazon Prime Video Sport UK (Highlights)",
+        "Fox Sports 1 USA HD",
+        "FlashScore App",
+        "Cambodia",
+        "FOX ONE (USA) [$] (geo/R)",
+        "UEFA (highlights)",
         "DAZN (highlights)",
         "DAZN Schweiz [$] (geo/R)",
-        "Cambodia and1more channels"
+        "beIN Sports Australia 3 HD",
+        "Amazon Prime UK [$]",
+        "DAZN Canada ($/geo/R)",
+        "Fubo Sports USA ($/geo/R)",
+        "DAZN Deutsch ($/geo/R)",
+        "MONOMAX (Thailand",
+        "SuperSport MáXimo 2A HD",
+        "SuperSport Premier League HD and1more channels"
       ],
       "commentators": [
+        "AndyRoo_0860",
         "Mikhail17",
         "apltle12",
         "kurtogen"
