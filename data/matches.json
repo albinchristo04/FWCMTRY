@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-14T04:53:13.707809+00:00",
+  "scraped_at": "2026-11-14T11:56:35.942142+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 59,
+  "total_matches": 77,
   "matches": [
     {
       "title": "Belgium v Italy",
@@ -69,6 +69,26 @@
       "match_url": "https://icdb.tv/match/335003-Spain-v-England"
     },
     {
+      "title": "Internacional v Flamengo",
+      "teams": [
+        "Internacional",
+        "Flamengo"
+      ],
+      "date": "15/11/2026",
+      "time": "19:00",
+      "tournament": "Brazilian Women's Cup (Copa do Brasil Feminina)",
+      "channels": [
+        "GE TV",
+        "SporTV 2 Brazil HD",
+        "TV Globo",
+        "globoplay"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/336891-Internacional-v-Flamengo"
+    },
+    {
       "title": "Ravenna v Forli",
       "teams": [
         "Ravenna",
@@ -111,12 +131,50 @@
       "time": "23:30",
       "tournament": "Brazilian Série A",
       "channels": [
-        "beINSportsMENA 1 HD"
+        "Premiere (Brazil)",
+        "beIN Sports MENA 1 HD"
       ],
       "commentators": [
+        "luca80sp",
         "ysscores"
       ],
       "match_url": "https://icdb.tv/match/315967-Chapecoense-v-Vasco-da-Gama"
+    },
+    {
+      "title": "Mirassol v Atlético Mineiro",
+      "teams": [
+        "Mirassol",
+        "Atlético Mineiro"
+      ],
+      "date": "14/11/2026",
+      "time": "21:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Prime Vídeo Brasil",
+        "Rádio Itatiaia"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/336892-Mirassol-v-Atltico-Mineiro"
+    },
+    {
+      "title": "Sweden v Bosnia-Herzegovina",
+      "teams": [
+        "Sweden",
+        "Bosnia-Herzegovina"
+      ],
+      "date": "14/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Disney+ Brazil [$]",
+        "ESPN 3 (Brazil)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/336894-Sweden-v-BosniaHerzegovina"
     },
     {
       "title": "Austria v Ireland",
@@ -128,14 +186,16 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "RTÉ 2 Ireland / HD",
-        "RTÉ Player (geo/R)",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
+        "Diretta Gol - Sky Sport Calcio",
         "RTE Radio 1",
+        "RTÉ 2 Ireland / HD",
         "RTÉ News",
-        "DAZN Deutsch ($/geo/R)"
+        "RTÉ Player (geo/R)"
       ],
       "commentators": [
+        "Guest-SC",
         "ImpactPlayaz",
         "kurtogen"
       ],
@@ -151,14 +211,16 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC iPlayer (geo/R)",
-        "BBCSportOnline",
-        "BBC Two / HD",
+        "BBC (highlights)",
         "BBC Sport NI Online",
-        "BBC (highlights)Sports event calendar"
+        "BBC Sport Online",
+        "BBC Two / HD",
+        "BBC iPlayer (geo/R)",
+        "Diretta Gol - Sky Sport Calcio"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/334869-Northern-Ireland-v-Ukraine"
     },
@@ -173,13 +235,69 @@
       "tournament": "UEFA Nations League",
       "channels": [
         "DAZN 1 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "Diretta Gol - Sky Sport Calcio",
+        "Sky Sport Business Italia / HD",
+        "Sky Sport Uno Italia HD",
+        "TV8 Italia HD"
       ],
       "commentators": [
+        "Guest-SC",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334868-Portugal-v-Denmark"
+    },
+    {
+      "title": "Romania v Poland",
+      "teams": [
+        "Romania",
+        "Poland"
+      ],
+      "date": "14/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334867-Romania-v-Poland"
+    },
+    {
+      "title": "Sweden v Bosnia-Herzegovina",
+      "teams": [
+        "Sweden",
+        "Bosnia-Herzegovina"
+      ],
+      "date": "14/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334866-Sweden-v-BosniaHerzegovina"
+    },
+    {
+      "title": "Avaí v América Mineiro",
+      "teams": [
+        "Avaí",
+        "América Mineiro"
+      ],
+      "date": "14/11/2026",
+      "time": "19:30",
+      "tournament": "Brazilian Série B",
+      "channels": [
+        "Rádio Itatiaia"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/336893-Ava-v-Amrica-Mineiro"
     },
     {
       "title": "Hamilton Academical v Ross County",
@@ -196,6 +314,7 @@
         "BBC iPlayer (geo/R)"
       ],
       "commentators": [
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/334861-Hamilton-Academical-v-Ross-County"
@@ -216,6 +335,23 @@
       "match_url": "https://icdb.tv/match/335670-talkSPORT-Kick-Off"
     },
     {
+      "title": "Georgia v Hungary",
+      "teams": [
+        "Georgia",
+        "Hungary"
+      ],
+      "date": "14/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Sky Sport 255 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334859-Georgia-v-Hungary"
+    },
+    {
       "title": "Norway v Wales",
       "teams": [
         "Norway",
@@ -226,10 +362,12 @@
       "tournament": "UEFA Nations League",
       "channels": [
         "DAZN 2 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "DAZN Deutsch ($/geo/R)"
+        "Sky Sport Max Italia HD"
       ],
       "commentators": [
+        "Guest-SC",
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334858-Norway-v-Wales"
@@ -248,12 +386,31 @@
         "ARD Das Erste / HD",
         "DAZN Schweiz [$] (geo/R)",
         "Magenta Deutsch Sport ($/geo/R)",
-        "DAZN Deutsch ($/geo/R)Sports event calendar"
+        "DAZN Deutsch ($/geo/R)"
       ],
       "commentators": [
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335387-Wolfsburg-v-Bayern-Munich"
+    },
+    {
+      "title": "Telford United v Chelmsford City",
+      "teams": [
+        "Telford United",
+        "Chelmsford City"
+      ],
+      "date": "14/11/2026",
+      "time": "15:00",
+      "tournament": "English FA Trophy",
+      "channels": [
+        "BBC Radio Shropshire (DAB)",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/336895-Telford-United-v-Chelmsford-City"
     },
     {
       "title": "Partick Thistle v Inverness CT",
@@ -275,6 +432,61 @@
       "match_url": "https://icdb.tv/match/336369-Partick-Thistle-v-Inverness-CT"
     },
     {
+      "title": "Yeovil Town v Boreham Wood",
+      "teams": [
+        "Yeovil Town",
+        "Boreham Wood"
+      ],
+      "date": "14/11/2026",
+      "time": "15:00",
+      "tournament": "English National League 1",
+      "channels": [
+        "BBC Radio Somerset (FM)",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Green And White Radio"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/335564-Yeovil-Town-v-Boreham-Wood"
+    },
+    {
+      "title": "Southend United v Aldershot",
+      "teams": [
+        "Southend United",
+        "Aldershot"
+      ],
+      "date": "14/11/2026",
+      "time": "15:00",
+      "tournament": "English National League 1",
+      "channels": [
+        "BBC Radio Surrey (Online)",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/335562-Southend-United-v-Aldershot"
+    },
+    {
+      "title": "AFC Wimbledon v Blackpool",
+      "teams": [
+        "AFC Wimbledon",
+        "Blackpool"
+      ],
+      "date": "14/11/2026",
+      "time": "15:00",
+      "tournament": "English League One",
+      "channels": [
+        "BBC Radio Lancashire"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/334844-AFC-Wimbledon-v-Blackpool"
+    },
+    {
       "title": "Sheffield Wednesday v Plymouth Argyle",
       "teams": [
         "Sheffield Wednesday",
@@ -284,12 +496,84 @@
       "time": "15:00",
       "tournament": "English League One",
       "channels": [
-        "SoccerSaturday"
+        "Soccer Saturday",
+        "talkSPORT"
       ],
       "commentators": [
-        "LukeA206"
+        "LukeA206",
+        "M7"
       ],
       "match_url": "https://icdb.tv/match/334837-Sheffield-Wednesday-v-Plymouth-Argyle"
+    },
+    {
+      "title": "Wigan Athletic v Barnsley",
+      "teams": [
+        "Wigan Athletic",
+        "Barnsley"
+      ],
+      "date": "14/11/2026",
+      "time": "15:00",
+      "tournament": "English League One",
+      "channels": [
+        "BBC Radio Sheffield (FM)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/334834-Wigan-Athletic-v-Barnsley"
+    },
+    {
+      "title": "Bristol Rovers v Chesterfield",
+      "teams": [
+        "Bristol Rovers",
+        "Chesterfield"
+      ],
+      "date": "14/11/2026",
+      "time": "15:00",
+      "tournament": "English League Two",
+      "channels": [
+        "BBC Radio Bristol",
+        "BBC Radio Sheffield",
+        "BBC Radio Somerset (MW)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/334832-Bristol-Rovers-v-Chesterfield"
+    },
+    {
+      "title": "Shrewsbury Town v Oldham Athletic",
+      "teams": [
+        "Shrewsbury Town",
+        "Oldham Athletic"
+      ],
+      "date": "14/11/2026",
+      "time": "15:00",
+      "tournament": "English League Two",
+      "channels": [
+        "BBC Radio Shropshire"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/334825-Shrewsbury-Town-v-Oldham-Athletic"
+    },
+    {
+      "title": "Swindon Town v Grimsby Town",
+      "teams": [
+        "Swindon Town",
+        "Grimsby Town"
+      ],
+      "date": "14/11/2026",
+      "time": "15:00",
+      "tournament": "English League Two",
+      "channels": [
+        "BBC Radio Wiltshire"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/334824-Swindon-Town-v-Grimsby-Town"
     },
     {
       "title": "Y Felinheli v Llandudno",
@@ -333,10 +617,12 @@
       "time": "14:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "Sky Sport Max Italia HD",
         "SuperSport 2 Albania HD"
       ],
       "commentators": [
-        "anarildoalia"
+        "anarildoalia",
+        "gio_cristiano"
       ],
       "match_url": "https://icdb.tv/match/334821-Kosovo-v-Israel"
     },
@@ -350,13 +636,17 @@
       "time": "13:30",
       "tournament": "English Womens Super League",
       "channels": [
-        "talkSPORT 2",
-        "talkSPORT App",
+        "BBC One / HD",
+        "BBC Sport Online",
+        "BBC iPlayer (geo/R)",
         "City+",
-        "Recast: Manchester City [$]"
+        "Recast: Manchester City [$]",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "apltle12"
       ],
       "match_url": "https://icdb.tv/match/334820-Chelsea-v-Manchester-City"
     },
@@ -396,6 +686,27 @@
       "match_url": "https://icdb.tv/match/335386-Werder-Bremen-v-Union-Berlin"
     },
     {
+      "title": "Exeter City v Cheltenham",
+      "teams": [
+        "Exeter City",
+        "Cheltenham"
+      ],
+      "date": "14/11/2026",
+      "time": "12:30",
+      "tournament": "English League Two",
+      "channels": [
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
+        "Sky Sports News / HD"
+      ],
+      "commentators": [
+        "Crowe24",
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/334812-Exeter-City-v-Cheltenham"
+    },
+    {
       "title": "Hoffenheim v Freiburg",
       "teams": [
         "Hoffenheim",
@@ -414,6 +725,45 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335385-Hoffenheim-v-Freiburg"
+    },
+    {
+      "title": "Espanyol v Costa Adeje Tenerife",
+      "teams": [
+        "Espanyol",
+        "Costa Adeje Tenerife"
+      ],
+      "date": "14/11/2026",
+      "time": "11:00",
+      "tournament": "Spanish Liga F Femenino",
+      "channels": [
+        "3Cat (geo/R)",
+        "RTVE Play ($/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/335287-Espanyol-v-Costa-Adeje-Tenerife"
+    },
+    {
+      "title": "Japan v Brazil",
+      "teams": [
+        "Japan",
+        "Brazil"
+      ],
+      "date": "14/11/2026",
+      "time": "10:15",
+      "tournament": "Friendly International",
+      "channels": [
+        "GE TV",
+        "Rádio Itatiaia",
+        "SporTV Brazil HD",
+        "TV Globo",
+        "globoplay"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/336890-Japan-v-Brazil"
     },
     {
       "title": "Guatemala v Canada",
@@ -532,6 +882,7 @@
       "channels": [
         "DAZN (highlights)",
         "DAZN Canada ($/geo/R)",
+        "Diretta Gol - Sky Sport Calcio",
         "FlashScore App",
         "Fubo Sports USA ($/geo/R)",
         "MONOMAX (Thailand",
@@ -544,6 +895,7 @@
         "World Feed"
       ],
       "commentators": [
+        "Guest-SC",
         "Mikhail17",
         "apltle12"
       ],
@@ -563,6 +915,7 @@
         "Amazon Prime Video Sport UK (Highlights)",
         "DAZN (highlights)",
         "DAZN Canada ($/geo/R)",
+        "Diretta Gol - Sky Sport Calcio",
         "FlashScore App",
         "Fubo Sports USA ($/geo/R)",
         "MONOMAX (Thailand",
@@ -575,6 +928,7 @@
         "beIN Sports MENA English 2 HD"
       ],
       "commentators": [
+        "Guest-SC",
         "Mikhail17",
         "apltle12"
       ],
@@ -592,6 +946,7 @@
       "channels": [
         "DAZN (highlights)",
         "DAZN Canada ($/geo/R)",
+        "Diretta Gol - Sky Sport Calcio",
         "FlashScore App",
         "Fubo Sports USA ($/geo/R)",
         "MONOMAX (Thailand",
@@ -604,6 +959,7 @@
         "World Feed"
       ],
       "commentators": [
+        "Guest-SC",
         "Mikhail17",
         "apltle12"
       ],
@@ -621,6 +977,7 @@
       "channels": [
         "DAZN (highlights)",
         "DAZN Canada ($/geo/R)",
+        "Diretta Gol - Sky Sport Calcio",
         "FlashScore App",
         "Fubo Sports USA ($/geo/R)",
         "MONOMAX (Thailand",
@@ -633,6 +990,7 @@
         "World Feed"
       ],
       "commentators": [
+        "Guest-SC",
         "Mikhail17",
         "apltle12"
       ],
@@ -648,28 +1006,29 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "UEFA (highlights)",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "SuperSport MáXimo 2A HD",
-        "Fox Sports 1 USA HD",
-        "World Feed",
-        "DAZN Schweiz [$] (geo/R)",
-        "UEFA.TV [online] (geo/R)",
-        "DAZN (highlights)",
-        "FOX ONE (USA) [$] (geo/R)",
-        "DAZN Canada ($/geo/R)",
-        "Virgin Media Play (geo/R)",
-        "SuperSport Premier League HD",
-        "Amazon Prime UK [$]",
-        "MONOMAX (Thailand",
-        "FlashScore App",
         "Fubo Sports USA ($/geo/R)",
-        "Virgin Media Two HD",
+        "UEFA.TV [online] (geo/R)",
+        "DAZN 1 Bar Deutsch HD",
         "beIN Sports Australia 3 HD",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN 1 Bar Deutsch HD and4more channels"
+        "Diretta Gol - Sky Sport Calcio",
+        "FlashScore App",
+        "Virgin Media Two HD",
+        "Cambodia",
+        "Sony Sports TEN 1 India HD",
+        "DAZN Schweiz [$] (geo/R)",
+        "DAZN Canada ($/geo/R)",
+        "Laos) [$] (geo/R)",
+        "SuperSport MáXimo 2A HD",
+        "Amazon Prime UK [$]",
+        "UEFA (highlights)",
+        "Virgin Media Play (geo/R)",
+        "FOX ONE (USA) [$] (geo/R)",
+        "World Feed",
+        "MONOMAX (Thailand",
+        "SuperSport Premier League HD and5more channels"
       ],
       "commentators": [
+        "Guest-SC",
         "ImpactPlayaz",
         "Mikhail17",
         "apltle12",
@@ -687,29 +1046,30 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC iPlayer (geo/R)",
-        "DAZN Canada ($/geo/R)",
-        "BBC RADIO 5 LIVE",
         "Fubo Sports USA ($/geo/R)",
-        "FlashScore App",
-        "BBC Sport Online",
-        "FlashScore (audio)",
+        "BBC Radio 5 Sports Extra",
         "BBC Scotland / HD",
-        "Fox Soccer Plus USA",
+        "FlashScore (audio)",
         "BBC Two / HD",
-        "Flashscore UK",
+        "SuperSport MáXimo 360",
         "UEFA (highlights)",
         "BBC Sounds APP",
-        "BBC Radio 5 Sports Extra",
-        "UEFA.TV [online] (geo/R)",
-        "DAZN (highlights)",
-        "Cambodia",
-        "Sky Sports News / HD",
         "World Feed",
-        "MONOMAX (Thailand and10more channels"
+        "BBC Sport Online (Audio)",
+        "BBC Sport Scotland Online",
+        "Radio Clyde 1",
+        "SuperSport LaLiga HD",
+        "Diretta Gol - Sky Sport Calcio",
+        "BBC Reporting Scotland",
+        "Fox Soccer Plus USA",
+        "BBC Radio Scotland",
+        "DAZN Canada ($/geo/R)",
+        "Sky Sports News / HD",
+        "MONOMAX (Thailand and11more channels"
       ],
       "commentators": [
         "Crowe24",
+        "Guest-SC",
         "HWP",
         "Mikhail17",
         "SonnyCorry",
@@ -727,28 +1087,29 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "FlashScore App",
-        "RTVE Play ($/geo/R)",
         "beIN Sports Australia 2 HD",
-        "SuperSport Football Plus HD",
-        "SuperSport MáXimo 3A HD",
-        "UEFA (highlights)",
-        "UEFA.TV [online] (geo/R)",
-        "geo/R)",
-        "Sony Sports TEN 4 India HD",
-        "Cambodia",
-        "MONOMAX (Thailand",
-        "SuperSport MáXimo 1 HD",
-        "Sony Sports TEN 2 India HD",
-        "Fubo Sports USA ($/geo/R)",
-        "Amazon Prime UK [$]",
-        "DAZN (highlights)",
-        "DAZN Canada ($/geo/R)",
         "Sony Sports TEN 3 India HD",
+        "UEFA (highlights)",
         "Amazon Prime Video Sport UK (Highlights)",
-        "RTL Schweiz HD and7more channels"
+        "UEFA.TV [online] (geo/R)",
+        "SuperSport Football Plus HD",
+        "Fubo Sports USA ($/geo/R)",
+        "RTVE Play ($/geo/R)",
+        "Amazon Prime UK [$]",
+        "MONOMAX (Thailand",
+        "DAZN Deutsch [$] (delayed",
+        "Diretta Gol - Sky Sport Calcio",
+        "FlashScore App",
+        "SuperSport MáXimo 3A HD",
+        "Laos) [$] (geo/R)",
+        "SuperSport MáXimo 1 HD",
+        "RTL Schweiz HD",
+        "DAZN Schweiz [$] (geo/R)",
+        "Sky Sport Business Italia / HD",
+        "RTL Österreich HD and11more channels"
       ],
       "commentators": [
+        "Guest-SC",
         "ImpactPlayaz",
         "Mikhail17",
         "apltle12",
@@ -768,6 +1129,7 @@
       "channels": [
         "DAZN (highlights)",
         "DAZN Canada ($/geo/R)",
+        "Diretta Gol - Sky Sport Calcio",
         "FlashScore App",
         "Fubo Sports USA ($/geo/R)",
         "MONOMAX (Thailand",
@@ -779,6 +1141,7 @@
         "World Feed"
       ],
       "commentators": [
+        "Guest-SC",
         "Mikhail17",
         "apltle12"
       ],
@@ -794,27 +1157,29 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "Amazon Prime UK [$]",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "DAZN (highlights)",
-        "DAZN 2 Bar Deutsch HD",
-        "DAZN Canada ($/geo/R)",
-        "DAZN Deutsch ($/geo/R)",
-        "DAZN Schweiz [$] (delayed",
-        "geo/R)",
-        "FlashScore App",
-        "Fubo Sports USA ($/geo/R)",
-        "MONOMAX (Thailand",
-        "Cambodia",
-        "Laos) [$] (geo/R)",
-        "RTS 2 Suisse HD",
-        "SRF Zwei Schweiz HD",
-        "SuperSport Football HD",
         "UEFA (highlights)",
+        "Laos) [$] (geo/R)",
+        "DAZN (highlights)",
+        "DAZN Deutsch ($/geo/R)",
+        "Amazon Prime UK [$]",
+        "DAZN Canada ($/geo/R)",
+        "SuperSport Football HD",
+        "DAZN 2 Bar Deutsch HD",
+        "geo/R)",
+        "World Feed",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "FlashScore App",
+        "MONOMAX (Thailand",
+        "RTS 2 Suisse HD",
+        "Diretta Gol - Sky Sport Calcio",
+        "Fubo Sports USA ($/geo/R)",
         "UEFA.TV [online] (geo/R)",
-        "World Feed"
+        "SRF Zwei Schweiz HD",
+        "DAZN Schweiz [$] (delayed",
+        "Cambodia and0more channels"
       ],
       "commentators": [
+        "Guest-SC",
         "Mikhail17",
         "apltle12",
         "kurtogen"
@@ -1018,6 +1383,7 @@
         "MONOMAX (Thailand",
         "Cambodia",
         "Laos) [$] (geo/R)",
+        "Sky Sport Calcio HD",
         "Sony Sports TEN 2 India HD",
         "SuperSport MáXimo 2A HD",
         "SuperSport Premier League HD",
@@ -1027,6 +1393,7 @@
         "beIN Sports Australia 3 HD"
       ],
       "commentators": [
+        "Guest-SC",
         "Mikhail17",
         "apltle12"
       ],
