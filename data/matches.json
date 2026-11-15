@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-11-15T12:29:38.709223+00:00",
+  "scraped_at": "2026-11-15T20:08:34.043743+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 101,
+  "total_matches": 171,
   "matches": [
+    {
+      "title": "Perugia v Torres",
+      "teams": [
+        "Perugia",
+        "Torres"
+      ],
+      "date": "16/11/2026",
+      "time": "19:45",
+      "tournament": "Italian Serie C Girone B",
+      "channels": [
+        "Sky Sport 251 Italia HD",
+        "Sky Sport Max Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335126-Perugia-v-Torres"
+    },
     {
       "title": "Germany v Netherlands",
       "teams": [
@@ -13,12 +31,71 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "ARD Das Erste / HD",
+        "Diretta Gol - Sky Sport Calcio",
+        "Sky Sport Arena Italia HD",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "Guest-SC",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335125-Germany-v-Netherlands"
+    },
+    {
+      "title": "Gibraltar v Malta",
+      "teams": [
+        "Gibraltar",
+        "Malta"
+      ],
+      "date": "16/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335124-Gibraltar-v-Malta"
+    },
+    {
+      "title": "Greece v Serbia",
+      "teams": [
+        "Greece",
+        "Serbia"
+      ],
+      "date": "16/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335123-Greece-v-Serbia"
+    },
+    {
+      "title": "North Macedonia v Slovenia",
+      "teams": [
+        "North Macedonia",
+        "Slovenia"
+      ],
+      "date": "16/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335122-North-Macedonia-v-Slovenia"
     },
     {
       "title": "Switzerland v Scotland",
@@ -30,16 +107,42 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "BBC Radio 5 Sports Extra",
         "BBC Radio Scotland",
         "BBC Sounds APP",
-        "BBC Radio 5 Sports Extra",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (delayed",
+        "geo/R)",
+        "Diretta Gol - Sky Sport Calcio",
+        "RTS 2 Suisse HD",
+        "SRF Zwei Schweiz HD"
       ],
       "commentators": [
         "Crowe24",
-        "SonnyCorry"
+        "Guest-SC",
+        "SonnyCorry",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335121-Switzerland-v-Scotland"
+    },
+    {
+      "title": "Sorrento v Monopoli",
+      "teams": [
+        "Sorrento",
+        "Monopoli"
+      ],
+      "date": "16/11/2026",
+      "time": "19:30",
+      "tournament": "Italian Serie C Girone C",
+      "channels": [
+        "Sky Sport 252 Italia HD",
+        "Sky Sport MIX Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335120-Sorrento-v-Monopoli"
     },
     {
       "title": "talkSPORT Kick Off",
@@ -70,6 +173,282 @@
       "match_url": "https://icdb.tv/match/335471-BBC-Monday-Night-Club"
     },
     {
+      "title": "Stuttgart v Bayer Leverkusen",
+      "teams": [
+        "Stuttgart",
+        "Bayer Leverkusen"
+      ],
+      "date": "16/11/2026",
+      "time": "17:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335390-Stuttgart-v-Bayer-Leverkusen"
+    },
+    {
+      "title": "Estonia v Bulgaria",
+      "teams": [
+        "Estonia",
+        "Bulgaria"
+      ],
+      "date": "16/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335118-Estonia-v-Bulgaria"
+    },
+    {
+      "title": "Iceland v Luxembourg",
+      "teams": [
+        "Iceland",
+        "Luxembourg"
+      ],
+      "date": "16/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335117-Iceland-v-Luxembourg"
+    },
+    {
+      "title": "Lithuania v Liechtenstein",
+      "teams": [
+        "Lithuania",
+        "Liechtenstein"
+      ],
+      "date": "16/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335116-Lithuania-v-Liechtenstein"
+    },
+    {
+      "title": "Faroe Islands v Moldova",
+      "teams": [
+        "Faroe Islands",
+        "Moldova"
+      ],
+      "date": "16/11/2026",
+      "time": "15:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335115-Faroe-Islands-v-Moldova"
+    },
+    {
+      "title": "Kazakhstan v Slovakia",
+      "teams": [
+        "Kazakhstan",
+        "Slovakia"
+      ],
+      "date": "16/11/2026",
+      "time": "15:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335114-Kazakhstan-v-Slovakia"
+    },
+    {
+      "title": "Cobreloa v Puerto Montt",
+      "teams": [
+        "Cobreloa",
+        "Puerto Montt"
+      ],
+      "date": "15/11/2026",
+      "time": "22:00",
+      "tournament": "Chilean Primera B",
+      "channels": [
+        "HBO Max Chile [$/geo/R]",
+        "TNT Sports Premium (Chile)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337127-Cobreloa-v-Puerto-Montt"
+    },
+    {
+      "title": "San Marcos v San Luis (CHI)",
+      "teams": [
+        "San Marcos",
+        "San Luis (CHI)"
+      ],
+      "date": "15/11/2026",
+      "time": "22:00",
+      "tournament": "Chilean Primera B",
+      "channels": [
+        "HBO Max Chile [$/geo/R]",
+        "TNT Sports (Chile)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337126-San-Marcos-v-San-Luis-CHI"
+    },
+    {
+      "title": "Deportes Santa Cruz v Rangers de Talca",
+      "teams": [
+        "Deportes Santa Cruz",
+        "Rangers de Talca"
+      ],
+      "date": "15/11/2026",
+      "time": "22:00",
+      "tournament": "Chilean Primera B",
+      "channels": [
+        "HBO Max Chile [$/geo/R]"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337125-Deportes-Santa-Cruz-v-Rangers-de-Talca"
+    },
+    {
+      "title": "Unión San Felipe v Unión Española",
+      "teams": [
+        "Unión San Felipe",
+        "Unión Española"
+      ],
+      "date": "15/11/2026",
+      "time": "22:00",
+      "tournament": "Chilean Primera B",
+      "channels": [
+        "HBO Max Chile [$/geo/R]"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337122-Unin-San-Felipe-v-Unin-Espaola"
+    },
+    {
+      "title": "Magallanes v Antofagasta",
+      "teams": [
+        "Magallanes",
+        "Antofagasta"
+      ],
+      "date": "15/11/2026",
+      "time": "22:00",
+      "tournament": "Chilean Primera B",
+      "channels": [
+        "HBO Max Chile [$/geo/R]"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337121-Magallanes-v-Antofagasta"
+    },
+    {
+      "title": "Sporting Cristal v Alianza Atlético",
+      "teams": [
+        "Sporting Cristal",
+        "Alianza Atlético"
+      ],
+      "date": "15/11/2026",
+      "time": "22:00",
+      "tournament": "Peruvian Copa de la Liga",
+      "channels": [
+        "América Peru HD"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337110-Sporting-Cristal-v-Alianza-Atltico"
+    },
+    {
+      "title": "Juan Pablo II v Deportivo Garcilaso",
+      "teams": [
+        "Juan Pablo II",
+        "Deportivo Garcilaso"
+      ],
+      "date": "15/11/2026",
+      "time": "20:15",
+      "tournament": "Peruvian Liga 1",
+      "channels": [
+        "L1Max (Peru)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337112-Juan-Pablo-II-v-Deportivo-Garcilaso"
+    },
+    {
+      "title": "Godoy Cruz v Tristán Suárez",
+      "teams": [
+        "Godoy Cruz",
+        "Tristán Suárez"
+      ],
+      "date": "15/11/2026",
+      "time": "20:00",
+      "tournament": "Argentinean Prim B Nacional",
+      "channels": [
+        "LPF Play (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337113-Godoy-Cruz-v-Tristn-Surez"
+    },
+    {
+      "title": "NJ/NY Gotham v Kansas City",
+      "teams": [
+        "NJ/NY Gotham",
+        "Kansas City"
+      ],
+      "date": "15/11/2026",
+      "time": "20:00",
+      "tournament": "National Womens Soccer League (NWSL)",
+      "channels": [
+        "Sportdigital 1+ Deutsch HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336383-NJNY-Gotham-v-Kansas-City"
+    },
+    {
+      "title": "France v Türkiye",
+      "teams": [
+        "France",
+        "Türkiye"
+      ],
+      "date": "15/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Disney+ South America [$]"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337119-France-v-Trkiye"
+    },
+    {
       "title": "Belgium v Italy",
       "teams": [
         "Belgium",
@@ -79,12 +458,33 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "Disney+ South America [$]",
+        "Amazon Prime US [$]",
+        "Sky Sport Calcio (delayed)",
+        "UEFA.TV [online] (geo/R)",
+        "DAZN Schweiz Konferenz",
+        "World Feed",
+        "Laos)  [$] (geo/R)",
+        "Amazon Prime UK [$]",
+        "Fubo Sports USA ($/geo/R)",
+        "DAZN Deutsch ($/geo/R)",
+        "Sony Sports TEN 5 India HD",
+        "Cambodia",
+        "Amazon Prime Video Sport UK (Highlights)",
         "RAI 1 Italia HD",
-        "World Feed"
+        "SuperSport MáXimo 3A HD",
+        "MONOMAX (Thailand",
+        "SuperSport Football HD",
+        "DAZN Schweiz [$] (geo/R)",
+        "DAZN (highlights)",
+        "beIN Sports Australia 2 HD and4more channels"
       ],
       "commentators": [
         "Guest-SC",
-        "apltle12"
+        "Mikhail17",
+        "apltle12",
+        "kurtogen",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/335006-Belgium-v-Italy"
     },
@@ -98,12 +498,75 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "SuperSport 5 Albania HD"
+        "UEFA (highlights)",
+        "Fox Soccer Plus USA",
+        "MONOMAX (Thailand",
+        "Fubo Sports USA ($/geo/R)",
+        "DAZN Deutsch Konferenz",
+        "DAZN Schweiz Konferenz",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Cambodia",
+        "Amazon Prime UK [$]",
+        "UEFA.TV [online] (geo/R)",
+        "DAZN (highlights)",
+        "SuperSport 5 Albania HD",
+        "Diretta Gol - Sky Sport Calcio",
+        "Laos)  [$] (geo/R)",
+        "DAZN Canada ($/geo/R)",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "World Feed",
+        "SuperSport LaLiga HD",
+        "FOX ONE (USA) [$] (geo/R) and0more channels"
       ],
       "commentators": [
-        "anarildoalia"
+        "Guest-SC",
+        "Mikhail17",
+        "anarildoalia",
+        "apltle12",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335005-Croatia-v-Czechia"
+    },
+    {
+      "title": "France v Türkiye",
+      "teams": [
+        "France",
+        "Türkiye"
+      ],
+      "date": "15/11/2026",
+      "time": "19:45",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "Diretta Gol - Sky Sport Calcio",
+        "World Feed",
+        "UEFA.TV [online] (geo/R)",
+        "Amazon Prime UK [$]",
+        "Sony Sports TEN 4 India HD",
+        "Disney+ South America [$]",
+        "DAZN (highlights)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Fox Sports 2 USA HD",
+        "DAZN Deutsch Konferenz",
+        "Laos)  [$] (geo/R)",
+        "SuperSport Kickoff HD",
+        "DAZN Deutsch ($/geo/R)",
+        "UEFA (highlights)",
+        "SuperSport MáXimo 360",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "DAZN 2 Bar Deutsch HD",
+        "Sony Sports TEN 1 India HD",
+        "FOX ONE (USA) [$] (geo/R)",
+        "Cambodia and5more channels"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "Mikhail17",
+        "apltle12",
+        "kurtogen",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335004-France-v-Trkiye"
     },
     {
       "title": "Spain v England",
@@ -115,26 +578,55 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "STV (Scotland) / HD",
-        "STV Player (geo/R)",
-        "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "ITV (highlights)",
-        "ITV1 / HD",
-        "talkSPORT App",
+        "Sony Sports TEN 2 India HD",
+        "Rádio Bandeirantes",
         "BBC Sounds APP",
+        "beIN Sports Australia 3 HD",
+        "STV (Scotland) / HD",
+        "talkSPORT App",
+        "DAZN Schweiz [$] (geo/R)",
+        "DAZN Canada ($/geo/R)",
+        "Laos)  [$] (geo/R)",
+        "Virgin Media Two HD",
+        "beIN Sports MENA English 1 HD",
+        "DAZN Schweiz Konferenz",
+        "SuperSport Premier League HD",
+        "ITV1 / HD",
+        "Cambodia",
         "ITV X (geo/R)",
-        "RTS 2 Suisse HD",
-        "SRF Zwei Schweiz HD",
-        "BBC Sport Online (Audio)",
-        "talkRadio"
+        "UEFA.TV [online] (geo/R)",
+        "ESPN (South America)",
+        "RTVE Play ($/geo/R)",
+        "DAZN Deutsch Konferenz and27more channels"
       ],
       "commentators": [
         "Crowe24",
+        "Guest-SC",
+        "ImpactPlayaz",
+        "Mikhail17",
         "apltle12",
-        "kurtogen"
+        "kurtogen",
+        "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/335003-Spain-v-England"
+    },
+    {
+      "title": "- DAZN DE - v - KONFERENZ -",
+      "teams": [
+        "- DAZN DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "15/11/2026",
+      "time": "19:15",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/337120-DAZN-DE-v-KONFERENZ"
     },
     {
       "title": "Internacional v Flamengo",
@@ -147,14 +639,188 @@
       "tournament": "Brazilian Women's Cup (Copa do Brasil Feminina)",
       "channels": [
         "GE TV",
+        "N Sports",
+        "Rádio CBN",
+        "Rádio Gaúcha",
         "SporTV 2 Brazil HD",
         "TV Globo",
+        "Xsports (Brazil)",
         "globoplay"
       ],
       "commentators": [
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/336891-Internacional-v-Flamengo"
+    },
+    {
+      "title": "Comerciantes Unidos v Sport Boys",
+      "teams": [
+        "Comerciantes Unidos",
+        "Sport Boys"
+      ],
+      "date": "15/11/2026",
+      "time": "18:00",
+      "tournament": "Peruvian Liga 1",
+      "channels": [
+        "L1Max (Peru)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337111-Comerciantes-Unidos-v-Sport-Boys"
+    },
+    {
+      "title": "Eldense v Sabadell",
+      "teams": [
+        "Eldense",
+        "Sabadell"
+      ],
+      "date": "15/11/2026",
+      "time": "17:30",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/335002-Eldense-v-Sabadell"
+    },
+    {
+      "title": "Eibar v Cádiz",
+      "teams": [
+        "Eibar",
+        "Cádiz"
+      ],
+      "date": "15/11/2026",
+      "time": "17:30",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/335001-Eibar-v-Cdiz"
+    },
+    {
+      "title": "Deportivo A Coruña v Barcelona",
+      "teams": [
+        "Deportivo A Coruña",
+        "Barcelona"
+      ],
+      "date": "15/11/2026",
+      "time": "17:00",
+      "tournament": "Spanish Liga F Femenino",
+      "channels": [
+        "DAZN España ($/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/335305-Deportivo-A-Corua-v-Barcelona"
+    },
+    {
+      "title": "Belarus v Albania",
+      "teams": [
+        "Belarus",
+        "Albania"
+      ],
+      "date": "15/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN (highlights)",
+        "DAZN Canada ($/geo/R)",
+        "FOX ONE (USA) [$] (geo/R)",
+        "FlashScore App",
+        "Fox Soccer Plus USA",
+        "Fubo Sports USA ($/geo/R)",
+        "MONOMAX (Thailand",
+        "Cambodia",
+        "Laos)  [$] (geo/R)",
+        "Sky Sport Max Italia HD",
+        "Sony Sports TEN 2 India HD",
+        "SuperSport LaLiga HD",
+        "UEFA (highlights)",
+        "UEFA.TV [online] (geo/R)",
+        "World Feed",
+        "beIN Sports Australia 3 HD",
+        "beIN Sports MENA English 1 HD"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "Mikhail17",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334999-Belarus-v-Albania"
+    },
+    {
+      "title": "Finland v San Marino",
+      "teams": [
+        "Finland",
+        "San Marino"
+      ],
+      "date": "15/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN (highlights)",
+        "DAZN Canada ($/geo/R)",
+        "FlashScore App",
+        "Fubo Sports USA ($/geo/R)",
+        "MONOMAX (Thailand",
+        "Cambodia",
+        "Laos)  [$] (geo/R)",
+        "Sky Sport 257 Italia HD",
+        "SuperSport MáXimo 1 HD",
+        "SuperSport MáXimo 2A HD",
+        "SuperSport Premier League HD",
+        "UEFA (highlights)",
+        "UEFA.TV [online] (geo/R)",
+        "World Feed",
+        "beIN Sports Australia 2 HD"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "Mikhail17",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334998-Finland-v-San-Marino"
+    },
+    {
+      "title": "Barletta v Team Altamura",
+      "teams": [
+        "Barletta",
+        "Team Altamura"
+      ],
+      "date": "15/11/2026",
+      "time": "16:30",
+      "tournament": "Italian Serie C Girone C",
+      "channels": [
+        "Sky Sport 254 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334997-Barletta-v-Team-Altamura"
+    },
+    {
+      "title": "Cosenza v Casertana",
+      "teams": [
+        "Cosenza",
+        "Casertana"
+      ],
+      "date": "15/11/2026",
+      "time": "16:30",
+      "tournament": "Italian Serie C Girone C",
+      "channels": [
+        "Sky Sport 255 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334996-Cosenza-v-Casertana"
     },
     {
       "title": "Ravenna v Forli",
@@ -166,13 +832,221 @@
       "time": "16:30",
       "tournament": "Italian Serie C Girone B",
       "channels": [
+        "CBS Sports Golazo Network (US)",
+        "D Sports (South America)",
+        "OneFootball [app] ($/geo/R)",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Sport 251 Italia HD",
         "Sky Sport Calcio HD",
-        "Sky Sport 251 Italia HD"
+        "Sky Sports (highlights)",
+        "World Feed",
+        "YouTube: Sky Sports Football [$]"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "Mikhail17",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/334995-Ravenna-v-Forli"
+    },
+    {
+      "title": "Pergolettese v Pro Vercelli",
+      "teams": [
+        "Pergolettese",
+        "Pro Vercelli"
+      ],
+      "date": "15/11/2026",
+      "time": "16:30",
+      "tournament": "Italian Serie C Girone A",
+      "channels": [
+        "Sky Sport 256 Italia HD"
       ],
       "commentators": [
         "Guest-SC"
       ],
-      "match_url": "https://icdb.tv/match/334995-Ravenna-v-Forli"
+      "match_url": "https://icdb.tv/match/334994-Pergolettese-v-Pro-Vercelli"
+    },
+    {
+      "title": "Juventus U-23 v Treviso",
+      "teams": [
+        "Juventus U-23",
+        "Treviso"
+      ],
+      "date": "15/11/2026",
+      "time": "16:30",
+      "tournament": "Italian Serie C Girone A",
+      "channels": [
+        "Sky Sport 252 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334993-Juventus-U23-v-Treviso"
+    },
+    {
+      "title": "Cittadella v Folgore Caratese",
+      "teams": [
+        "Cittadella",
+        "Folgore Caratese"
+      ],
+      "date": "15/11/2026",
+      "time": "16:30",
+      "tournament": "Italian Serie C Girone A",
+      "channels": [
+        "Sky Sport 253 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334992-Cittadella-v-Folgore-Caratese"
+    },
+    {
+      "title": "Arsenal v London City",
+      "teams": [
+        "Arsenal",
+        "London City"
+      ],
+      "date": "15/11/2026",
+      "time": "16:30",
+      "tournament": "English Womens Super League",
+      "channels": [
+        "Sky Sport 5 NZ HD",
+        "SuperSport Kickoff HD",
+        "Sky Sports Main Event UHD",
+        "TSN Malta 1 HD",
+        "Sky Sports Premier League HD",
+        "Stan Sport Australia ($/geo/R)",
+        "Sky Sports (highlights)",
+        "W-Sport HD",
+        "Sportdigital 1+ Deutsch HD",
+        "BBC RADIO 5 LIVE",
+        "Sky One UK HD",
+        "Sky Sports Main Event HD",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)",
+        "Sky UK Ultra HD 1",
+        "BBC Radio 5 Sports Extra",
+        "YouTube: Barclays Women's Super League",
+        "Sky Sports News / HD",
+        "beIN Sports 3 HD (Astro)",
+        "Paramount+ USA ($/geo/R) and1more channels"
+      ],
+      "commentators": [
+        "AndyRoo_0860",
+        "Crowe24",
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334860-Arsenal-v-London-City"
+    },
+    {
+      "title": "Santiago Wanderers v Deportes Copiapó",
+      "teams": [
+        "Santiago Wanderers",
+        "Deportes Copiapó"
+      ],
+      "date": "15/11/2026",
+      "time": "16:00",
+      "tournament": "Chilean Primera B",
+      "channels": [
+        "HBO Max Chile [$/geo/R]",
+        "TNT Sports Premium (Chile)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337128-Santiago-Wanderers-v-Deportes-Copiap"
+    },
+    {
+      "title": "Granada v Las Palmas",
+      "teams": [
+        "Granada",
+        "Las Palmas"
+      ],
+      "date": "15/11/2026",
+      "time": "15:15",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334984-Granada-v-Las-Palmas"
+    },
+    {
+      "title": "Nuremberg v FC Cologne",
+      "teams": [
+        "Nuremberg",
+        "FC Cologne"
+      ],
+      "date": "15/11/2026",
+      "time": "15:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)",
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335389-Nuremberg-v-FC-Cologne"
+    },
+    {
+      "title": "RB Leipzig v Eintracht Frankfurt",
+      "teams": [
+        "RB Leipzig",
+        "Eintracht Frankfurt"
+      ],
+      "date": "15/11/2026",
+      "time": "15:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "World Feed",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)",
+        "DAZN Deutsch ($/geo/R)"
+      ],
+      "commentators": [
+        "apltle12",
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335388-RB-Leipzig-v-Eintracht-Frankfurt"
+    },
+    {
+      "title": "Borussia Dortmund v Schalke 04",
+      "teams": [
+        "Borussia Dortmund",
+        "Schalke 04"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "German Womens Regionalliga",
+      "channels": [
+        "DFB-TV",
+        "WDR Fernsehen HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/337123-Borussia-Dortmund-v-Schalke-04"
+    },
+    {
+      "title": "Hamburg v Hajduk Split",
+      "teams": [
+        "Hamburg",
+        "Hajduk Split"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "Friendly Club Match",
+      "channels": [
+        "Sky Sport News Deutsch HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336483-Hamburg-v-Hajduk-Split"
     },
     {
       "title": "talkSPORT The Sunday Session",
@@ -190,6 +1064,23 @@
       "match_url": "https://icdb.tv/match/335983-talkSPORT-The-Sunday-Session"
     },
     {
+      "title": "Como 1907 v Como Women",
+      "teams": [
+        "Como 1907",
+        "Como Women"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "Italian Womens Serie A",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335572-Como-1907-v-Como-Women"
+    },
+    {
       "title": "Inter Milan v Juventus",
       "teams": [
         "Inter Milan",
@@ -199,12 +1090,372 @@
       "time": "14:00",
       "tournament": "Italian Womens Serie A",
       "channels": [
+        "World Feed",
         "RAI 2 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/335571-Inter-Milan-v-Juventus"
+    },
+    {
+      "title": "Aston Villa v Birmingham City",
+      "teams": [
+        "Aston Villa",
+        "Birmingham City"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "English Womens Super League",
+      "channels": [
+        "Sky Sports Premier League HD",
+        "Sportdigital 1+ Deutsch HD",
+        "World Feed",
+        "Sky Sports (highlights)",
+        "Stan Sport Australia ($/geo/R)",
+        "Sky Sport 3 NZ HD",
+        "YouTube: Barclays Women's Super League",
+        "Paramount+ USA ($/geo/R)",
+        "Sky Mix HD UK"
+      ],
+      "commentators": [
+        "AndyRoo_0860",
+        "Crowe24",
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/334983-Aston-Villa-v-Birmingham-City"
+    },
+    {
+      "title": "Burnley v Southampton",
+      "teams": [
+        "Burnley",
+        "Southampton"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "English WSL 2",
+      "channels": [
+        "YouTube: Barclays Women's Super League 2"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/334981-Burnley-v-Southampton"
+    },
+    {
+      "title": "Nottingham Forest v Leicester City",
+      "teams": [
+        "Nottingham Forest",
+        "Leicester City"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "English WSL 2",
+      "channels": [
+        "YouTube: Barclays Women's Super League 2"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/334980-Nottingham-Forest-v-Leicester-City"
+    },
+    {
+      "title": "Sunderland v Newcastle United",
+      "teams": [
+        "Sunderland",
+        "Newcastle United"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "English WSL 2",
+      "channels": [
+        "YouTube: Barclays Women's Super League 2"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/334979-Sunderland-v-Newcastle-United"
+    },
+    {
+      "title": "Watford v Ipswich Town",
+      "teams": [
+        "Watford",
+        "Ipswich Town"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "English WSL 2",
+      "channels": [
+        "YouTube: Barclays Women's Super League 2"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/334978-Watford-v-Ipswich-Town"
+    },
+    {
+      "title": "Wolves v Durham",
+      "teams": [
+        "Wolves",
+        "Durham"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "English WSL 2",
+      "channels": [
+        "YouTube: Barclays Women's Super League 2"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/334977-Wolves-v-Durham"
+    },
+    {
+      "title": "Cyprus v Montenegro",
+      "teams": [
+        "Cyprus",
+        "Montenegro"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN (highlights)",
+        "DAZN Canada ($/geo/R)",
+        "FOX ONE (USA) [$] (geo/R)",
+        "FlashScore App",
+        "Fox Sports 2 USA HD",
+        "Fubo Sports USA ($/geo/R)",
+        "MONOMAX (Thailand",
+        "Cambodia",
+        "Laos)  [$] (geo/R)",
+        "Sky Sport Max Italia HD",
+        "SuperSport MáXimo 1 HD",
+        "SuperSport MáXimo 2A HD",
+        "SuperSport Premier League HD",
+        "UEFA (highlights)",
+        "UEFA.TV [online] (geo/R)",
+        "World Feed",
+        "beIN Sports Australia 3 HD"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "Mikhail17",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334976-Cyprus-v-Montenegro"
+    },
+    {
+      "title": "Latvia v Armenia",
+      "teams": [
+        "Latvia",
+        "Armenia"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "DAZN (highlights)",
+        "DAZN Canada ($/geo/R)",
+        "FOX ONE (USA) [$] (geo/R)",
+        "FlashScore App",
+        "Fox Soccer Plus USA",
+        "Fubo Sports USA ($/geo/R)",
+        "MONOMAX (Thailand",
+        "Cambodia",
+        "Laos)  [$] (geo/R)",
+        "Sky Sport 257 Italia HD",
+        "Sony Sports TEN 2 India HD",
+        "SuperSport LaLiga HD",
+        "UEFA (highlights)",
+        "UEFA.TV [online] (geo/R)",
+        "World Feed",
+        "beIN Sports Australia 2 HD",
+        "beIN Sports MENA English 1 HD"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "Mikhail17",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334975-Latvia-v-Armenia"
+    },
+    {
+      "title": "West Ham United v Charlton Athletic",
+      "teams": [
+        "West Ham United",
+        "Charlton Athletic"
+      ],
+      "date": "15/11/2026",
+      "time": "14:00",
+      "tournament": "English Womens Super League",
+      "channels": [
+        "Sky Sports MIX UK HD",
+        "World Feed",
+        "Stan Sport Australia ($/geo/R)",
+        "Sky Sport 6 NZ HD",
+        "Sky Go UK [online]",
+        "YouTube: Barclays Women's Super League",
+        "Paramount+ USA ($/geo/R)",
+        "YouTube: Sky Sports WSL"
+      ],
+      "commentators": [
+        "AndyRoo_0860",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334972-West-Ham-United-v-Charlton-Athletic"
+    },
+    {
+      "title": "Cavese v Crotone",
+      "teams": [
+        "Cavese",
+        "Crotone"
+      ],
+      "date": "15/11/2026",
+      "time": "13:30",
+      "tournament": "Italian Serie C Girone C",
+      "channels": [
+        "Sky Sport 256 Italia HD"
       ],
       "commentators": [
         "Guest-SC"
       ],
-      "match_url": "https://icdb.tv/match/335571-Inter-Milan-v-Juventus"
+      "match_url": "https://icdb.tv/match/334971-Cavese-v-Crotone"
+    },
+    {
+      "title": "Potenza v Scafatese",
+      "teams": [
+        "Potenza",
+        "Scafatese"
+      ],
+      "date": "15/11/2026",
+      "time": "13:30",
+      "tournament": "Italian Serie C Girone C",
+      "channels": [
+        "Sky Sport 254 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334970-Potenza-v-Scafatese"
+    },
+    {
+      "title": "Salernitana v Catania",
+      "teams": [
+        "Salernitana",
+        "Catania"
+      ],
+      "date": "15/11/2026",
+      "time": "13:30",
+      "tournament": "Italian Serie C Girone C",
+      "channels": [
+        "Sky Sport Calcio HD",
+        "Sky Sport 251 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334969-Salernitana-v-Catania"
+    },
+    {
+      "title": "Guidonia Montecelio v Ostia Mare",
+      "teams": [
+        "Guidonia Montecelio",
+        "Ostia Mare"
+      ],
+      "date": "15/11/2026",
+      "time": "13:30",
+      "tournament": "Italian Serie C Girone B",
+      "channels": [
+        "Sky Sport 255 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334968-Guidonia-Montecelio-v-Ostia-Mare"
+    },
+    {
+      "title": "Pescara v Sambenedettese",
+      "teams": [
+        "Pescara",
+        "Sambenedettese"
+      ],
+      "date": "15/11/2026",
+      "time": "13:30",
+      "tournament": "Italian Serie C Girone B",
+      "channels": [
+        "Sky Sport 252 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334967-Pescara-v-Sambenedettese"
+    },
+    {
+      "title": "Spezia v Vado",
+      "teams": [
+        "Spezia",
+        "Vado"
+      ],
+      "date": "15/11/2026",
+      "time": "13:30",
+      "tournament": "Italian Serie C Girone B",
+      "channels": [
+        "Sky Sport 253 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334966-Spezia-v-Vado"
+    },
+    {
+      "title": "BBC 5 Live Sport",
+      "date": "15/11/2026",
+      "time": "13:10",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/337108-BBC-5-Live-Sport"
+    },
+    {
+      "title": "Tenerife v Ceuta",
+      "teams": [
+        "Tenerife",
+        "Ceuta"
+      ],
+      "date": "15/11/2026",
+      "time": "13:00",
+      "tournament": "Spanish La Liga 2",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/334965-Tenerife-v-Ceuta"
+    },
+    {
+      "title": "Eilenburg v Chemnitz",
+      "teams": [
+        "Eilenburg",
+        "Chemnitz"
+      ],
+      "date": "15/11/2026",
+      "time": "12:00",
+      "tournament": "German Regional Cup",
+      "channels": [
+        "LVZ Live Sport [$]"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336380-Eilenburg-v-Chemnitz"
     },
     {
       "title": "Celtic v Rangers",
@@ -216,15 +1467,92 @@
       "time": "12:00",
       "tournament": "Scottish SWPL 1",
       "channels": [
-        "Sky Sports (highlights)",
         "Sky Sports Football HD",
-        "Sky Sports News / HD"
+        "Sky Sports News / HD",
+        "Sky Sports (highlights)"
       ],
       "commentators": [
         "Crowe24",
+        "HWP",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/334963-Celtic-v-Rangers"
+    },
+    {
+      "title": "Sassuolo v Ternana",
+      "teams": [
+        "Sassuolo",
+        "Ternana"
+      ],
+      "date": "15/11/2026",
+      "time": "11:30",
+      "tournament": "Italian Womens Serie A",
+      "channels": [
+        "World Feed",
+        "DAZN Italia ($/geo/R)",
+        "DAZN 1 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/335569-Sassuolo-v-Ternana"
+    },
+    {
+      "title": "Giugliano v Savoia",
+      "teams": [
+        "Giugliano",
+        "Savoia"
+      ],
+      "date": "15/11/2026",
+      "time": "11:30",
+      "tournament": "Italian Serie C Girone C",
+      "channels": [
+        "Sky Sport Arena Italia HD",
+        "Sky Sport 258 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334962-Giugliano-v-Savoia"
+    },
+    {
+      "title": "Novara v Lecco",
+      "teams": [
+        "Novara",
+        "Lecco"
+      ],
+      "date": "15/11/2026",
+      "time": "11:30",
+      "tournament": "Italian Serie C Girone A",
+      "channels": [
+        "Sky Sport Calcio HD",
+        "Sky Sport 257 Italia HD"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/334961-Novara-v-Lecco"
+    },
+    {
+      "title": "Real Sociedad v Athletic Bilbao",
+      "teams": [
+        "Real Sociedad",
+        "Athletic Bilbao"
+      ],
+      "date": "15/11/2026",
+      "time": "11:00",
+      "tournament": "Spanish Liga F Femenino",
+      "channels": [
+        "Esport3 (Catalunya)",
+        "RTVE Play ($/geo/R)",
+        "Teledeporte España",
+        "3Cat (geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/335294-Real-Sociedad-v-Athletic-Bilbao"
     },
     {
       "title": "Sky Sunday Supplement",
@@ -375,9 +1703,11 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Prime Vídeo Brasil",
-        "Rádio Itatiaia"
+        "Rádio Itatiaia",
+        "Sportdigital FUSSBALL HD"
       ],
       "commentators": [
+        "kurtogen",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/336892-Mirassol-v-Atltico-Mineiro"
@@ -454,26 +1784,26 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "UEFA (highlights)",
+        "RTÉ News",
+        "Flashscore UK",
+        "DAZN Canada ($/geo/R)",
+        "RTÉ Player (geo/R)",
+        "DAZN Österreich [$] (delayed",
+        "Diretta Gol - Sky Sport Calcio",
         "Cambodia",
         "MONOMAX (Thailand",
-        "Fubo Sports USA ($/geo/R)",
+        "World Feed",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "DAZN Deutsch ($/geo/R)",
+        "SuperSport Kickoff HD",
+        "RTÉ 2 Ireland / HD",
+        "geo/R)",
         "FlashScore App",
         "Amazon Prime UK [$]",
-        "Laos)  [$] (geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "RTE Radio 1",
+        "Fubo Sports USA ($/geo/R)",
+        "DAZN (highlights)",
         "UEFA.TV [online] (geo/R)",
-        "geo/R)",
-        "Flashscore UK",
-        "RTÉ News",
-        "DAZN Österreich [$] (delayed",
-        "Amazon Prime Video Sport UK (Highlights)",
-        "SuperSport Kickoff HD",
-        "DAZN Canada ($/geo/R)",
-        "DAZN Deutsch ($/geo/R)",
-        "RTÉ 2 Ireland / HD",
-        "World Feed and4more channels"
+        "FlashScore (audio) and5more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -494,26 +1824,26 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN Canada ($/geo/R)",
+        "BBC (highlights)",
+        "FlashScore App",
+        "SuperSport Football HD",
+        "MONOMAX (Thailand",
+        "BBC Sport NI Online",
+        "BBC iPlayer (geo/R)",
+        "BBC Radio Foyle",
+        "Sony Sports TEN 5 India HD",
+        "Flashscore UK",
+        "Diretta Gol - Sky Sport Calcio",
+        "BBC Sport Online (Audio)",
+        "BBC Sport Online",
+        "BBC Radio Ulster",
+        "Cambodia",
+        "BBC Radio 5 Sports Extra",
+        "BBC RADIO 5 LIVE",
         "UEFA.TV [online] (geo/R)",
         "DAZN (highlights)",
-        "MONOMAX (Thailand",
-        "BBC Radio Ulster",
-        "BBC Radio 5 Sports Extra",
-        "BBC iPlayer (geo/R)",
-        "BBC (highlights)",
-        "Laos)  [$] (geo/R)",
-        "World Feed",
-        "BBC Sport Online (Audio)",
-        "BBC Two / HD",
-        "Cambodia",
-        "BBC RADIO 5 LIVE",
-        "Fubo Sports USA ($/geo/R)",
-        "BBC Sport NI Online",
-        "BBC Sounds APP",
-        "DAZN Canada ($/geo/R)",
-        "BBC Sport Online",
-        "Sony Sports TEN 5 India HD",
-        "FlashScore (audio) and6more channels"
+        "World Feed and7more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -533,26 +1863,26 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "beIN Sports Australia 3 HD",
-        "DAZN (highlights)",
-        "Virgin Media Play (geo/R)",
-        "FOX ONE (USA) [$] (geo/R)",
-        "MONOMAX (Thailand",
-        "Sky Sport Business Italia / HD",
-        "TV8 Italia HD",
-        "Laos)  [$] (geo/R)",
-        "UEFA (highlights)",
-        "World Feed",
-        "DAZN Deutsch ($/geo/R)",
-        "UEFA.TV [online] (geo/R)",
-        "Fox Sports 2 USA HD",
-        "DAZN Canada ($/geo/R)",
-        "Diretta Gol - Sky Sport Calcio",
-        "Amazon Prime UK [$]",
-        "SuperSport MáXimo 3A HD",
-        "DAZN 1 Bar Deutsch HD",
+        "Fubo Sports USA ($/geo/R)",
         "DAZN Schweiz [$] (geo/R)",
-        "beIN Sports MENA English 1 HD and10more channels"
+        "MONOMAX (Thailand",
+        "beIN Sports Australia 3 HD",
+        "DAZN Deutsch ($/geo/R)",
+        "TV8 Italia HD",
+        "DAZN Canada ($/geo/R)",
+        "DAZN (highlights)",
+        "Laos)  [$] (geo/R)",
+        "DAZN 1 Bar Deutsch HD",
+        "SuperSport MáXimo 3A HD",
+        "UEFA (highlights)",
+        "SuperSport Premier League HD",
+        "Fox Sports 2 USA HD",
+        "Virgin Media Two HD",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "Sky Sport Uno Italia HD",
+        "Amazon Prime UK [$]",
+        "SuperSport MáXimo 1 HD",
+        "Virgin Media Play (geo/R) and10more channels"
       ],
       "commentators": [
         "Guest-SC",
@@ -698,10 +2028,14 @@
       "time": "19:00",
       "tournament": "CAF African Cup of Nations",
       "channels": [
+        "DAZN 2 Bar Deutsch HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "World Feed"
       ],
       "commentators": [
-        "HWP"
+        "HWP",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335725-Algeria-v-Togo"
     },
@@ -859,6 +2193,24 @@
       "match_url": "https://icdb.tv/match/334973-Brighton-HA-v-Liverpool"
     },
     {
+      "title": "Portugal U-19 v Germany U-19",
+      "teams": [
+        "Portugal U-19",
+        "Germany U-19"
+      ],
+      "date": "14/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA U-19 Championship Qualifiers",
+      "channels": [
+        "Sky Sport News Deutsch HD",
+        "YouTube: German Football (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336377-Portugal-U19-v-Germany-U19"
+    },
+    {
       "title": "Washington Spirit v Utah Royals",
       "teams": [
         "Washington Spirit",
@@ -868,15 +2220,17 @@
       "time": "17:00",
       "tournament": "National Womens Soccer League (NWSL)",
       "channels": [
-        "World Feed",
         "CBS (US)",
+        "NWSL+ International (geo/R)",
+        "Sportdigital 1+ Deutsch HD",
         "Stan Sport Australia ($/geo/R)",
         "TNT Sports 2 HD (UK)",
-        "NWSL+ International (geo/R)"
+        "World Feed"
       ],
       "commentators": [
         "AndyRoo_0860",
-        "apltle12"
+        "apltle12",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/336376-Washington-Spirit-v-Utah-Royals"
     },
@@ -894,6 +2248,23 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/335670-talkSPORT-Kick-Off"
+    },
+    {
+      "title": "Fiorentina v Lazio",
+      "teams": [
+        "Fiorentina",
+        "Lazio"
+      ],
+      "date": "14/11/2026",
+      "time": "17:00",
+      "tournament": "Italian Womens Serie A",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335567-Fiorentina-v-Lazio"
     },
     {
       "title": "Georgia v Hungary",
@@ -940,26 +2311,26 @@
       "time": "17:00",
       "tournament": "UEFA Nations League",
       "channels": [
+        "World Feed",
         "BBC Sport Online",
-        "TV2 Play Norge ($/geo/R)",
-        "BBC (highlights)",
-        "DAZN Schweiz [$] (geo/R)",
-        "beIN Sports Australia 3 HD",
-        "BBC RADIO 5 LIVE",
-        "BBC Sounds APP",
-        "NRK Sport",
-        "FOX ONE (USA) [$] (geo/R)",
-        "Flashscore UK",
-        "DAZN Deutsch ($/geo/R)",
-        "Cambodia",
-        "FlashScore (audio)",
         "BBC Radio Wales",
-        "DAZN 2 Bar Deutsch HD",
-        "BBC Two / HD",
+        "BBC (highlights)",
+        "beIN Sports Australia 3 HD",
+        "DAZN Canada ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "TV2 Direkte Norge HD",
         "BBC Radio 5 Sports Extra",
+        "beIN Sports MENA English 1 HD",
+        "DAZN Deutsch ($/geo/R)",
         "SuperSport Premier League HD",
-        "DAZN (highlights)",
-        "SuperSport MáXimo 1 HD and17more channels"
+        "BBC Two / HD",
+        "Fubo Sports USA ($/geo/R)",
+        "UEFA (highlights)",
+        "FOX ONE (USA) [$] (geo/R)",
+        "FlashScore (audio)",
+        "NRK Sport",
+        "MONOMAX (Thailand",
+        "Flashscore UK and18more channels"
       ],
       "commentators": [
         "Bksm",
@@ -1787,6 +3158,24 @@
       "match_url": "https://icdb.tv/match/336332-Sky-Soccer-Saturday"
     },
     {
+      "title": "Roma v Parma",
+      "teams": [
+        "Roma",
+        "Parma"
+      ],
+      "date": "14/11/2026",
+      "time": "14:00",
+      "tournament": "Italian Womens Serie A",
+      "channels": [
+        "DAZN 1 Italia HD",
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335553-Roma-v-Parma"
+    },
+    {
       "title": "Kosovo v Israel",
       "teams": [
         "Kosovo",
@@ -1835,27 +3224,29 @@
       "time": "13:30",
       "tournament": "English Womens Super League",
       "channels": [
-        "BBC iPlayer (geo/R)",
-        "BBC Sport Online",
-        "BBC One / HD",
-        "World Feed",
-        "talkSPORT 2",
-        "talkSPORT",
-        "BBC RADIO 5 LIVE",
-        "Soccer Saturday",
-        "talkSPORT App",
         "BBC (highlights)",
-        "City+",
-        "Recast: Manchester City [$]",
+        "BBC One / HD",
+        "BBC RADIO 5 LIVE",
+        "BBC Sport Online",
+        "BBC iPlayer (geo/R)",
         "CBS Sports Golazo Network (US)",
+        "CFC+ ($/geo/R)",
         "Chelsea App",
+        "City+",
         "Paramount+ USA ($/geo/R)",
-        "CFC+ ($/geo/R)"
+        "Recast: Manchester City [$]",
+        "Soccer Saturday",
+        "Sportdigital 1+ Deutsch HD",
+        "World Feed",
+        "talkSPORT",
+        "talkSPORT 2",
+        "talkSPORT App"
       ],
       "commentators": [
         "AndyRoo_0860",
         "Crowe24",
-        "apltle12"
+        "apltle12",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334820-Chelsea-v-Manchester-City"
     },
@@ -1961,6 +3352,23 @@
         "Guest-SC"
       ],
       "match_url": "https://icdb.tv/match/334814-Renate-v-Desenzano"
+    },
+    {
+      "title": "1860 Munich v Unterhaching",
+      "teams": [
+        "1860 Munich",
+        "Unterhaching"
+      ],
+      "date": "14/11/2026",
+      "time": "13:00",
+      "tournament": "German Regionalliga: Bayern",
+      "channels": [
+        "BR Fernsehen HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336367-1860-Munich-v-Unterhaching"
     },
     {
       "title": "talkSPORT The Saturday Session",
@@ -2073,6 +3481,23 @@
       "match_url": "https://icdb.tv/match/334812-Exeter-City-v-Cheltenham"
     },
     {
+      "title": "Stahl Riesa v FSV Zwickau",
+      "teams": [
+        "Stahl Riesa",
+        "FSV Zwickau"
+      ],
+      "date": "14/11/2026",
+      "time": "12:00",
+      "tournament": "German Regional Cup",
+      "channels": [
+        "LVZ Live Sport [$]"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336365-Stahl-Riesa-v-FSV-Zwickau"
+    },
+    {
       "title": "Napoli v AC Milan",
       "teams": [
         "Napoli",
@@ -2150,6 +3575,23 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/336890-Japan-v-Brazil"
+    },
+    {
+      "title": "Germany U-17 v Lithuania U-19",
+      "teams": [
+        "Germany U-17",
+        "Lithuania U-19"
+      ],
+      "date": "14/11/2026",
+      "time": "10:00",
+      "tournament": "UEFA U-17 Championship 2027 Qualifiers",
+      "channels": [
+        "YouTube: German Football (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336767-Germany-U17-v-Lithuania-U19"
     },
     {
       "title": "Guatemala v Canada",
