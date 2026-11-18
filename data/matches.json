@@ -1,8 +1,25 @@
 {
-  "scraped_at": "2026-11-18T13:40:09.778167+00:00",
+  "scraped_at": "2026-11-18T22:29:02.721053+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 63,
+  "total_matches": 80,
   "matches": [
+    {
+      "title": "Vitória v Bragantino",
+      "teams": [
+        "Vitória",
+        "Bragantino"
+      ],
+      "date": "19/11/2026",
+      "time": "22:30",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Premiere (Brazil)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337510-Vitria-v-Bragantino"
+    },
     {
       "title": "Vasco da Gama v Internacional",
       "teams": [
@@ -15,6 +32,7 @@
       "channels": [
         "Energia 97",
         "Premiere (Brazil)",
+        "Rádio Gaúcha",
         "Rádio Tupi",
         "SporTV Brazil HD"
       ],
@@ -35,12 +53,33 @@
       "channels": [
         "BBC RADIO 5 LIVE",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/335468-Arsenal-v-Lyon"
+    },
+    {
+      "title": "Barcelona v Servette Chênois",
+      "teams": [
+        "Barcelona",
+        "Servette Chênois"
+      ],
+      "date": "19/11/2026",
+      "time": "20:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ España (€/geo/R)",
+        "Disney+ Europe (€/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/335467-Barcelona-v-Servette-Chnois"
     },
     {
       "title": "talkSPORT Kick Off",
@@ -57,6 +96,39 @@
       "match_url": "https://icdb.tv/match/336464-talkSPORT-Kick-Off"
     },
     {
+      "title": "Austria Vienna v Bayern Munich",
+      "teams": [
+        "Austria Vienna",
+        "Bayern Munich"
+      ],
+      "date": "19/11/2026",
+      "time": "17:45",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/335463-Austria-Vienna-v-Bayern-Munich"
+    },
+    {
+      "title": "Disney+ UWCL: The Hangout",
+      "date": "19/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "YouTube: ESPN UK"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/337512-Disney-UWCL-The-Hangout"
+    },
+    {
       "title": "Grêmio v Bahia",
       "teams": [
         "Grêmio",
@@ -67,7 +139,8 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Premiere (Brazil)",
-        "Rádio Gaúcha"
+        "Rádio Gaúcha",
+        "Rádio Sociedade da Bahia"
       ],
       "commentators": [
         "luca80sp"
@@ -84,35 +157,26 @@
       "time": "00:30",
       "tournament": "Brazilian Série A",
       "channels": [
+        "105 FM",
         "Energia 97",
         "L1Max (Peru)",
         "Premiere (Brazil)",
         "Rádio BandNews FM",
         "Rádio Bandeirantes",
+        "Rádio CBN",
+        "Rádio CBN SP",
+        "Rádio Jovem Pan",
+        "Rádio NovaBrasil",
+        "Rádio Roquette-Pinto",
         "Rádio TMC",
-        "Rádio Tupi"
+        "Rádio TMC Rio",
+        "Rádio Tupi",
+        "Win+ Fútbol (Colombia)"
       ],
       "commentators": [
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/337367-Corinthians-v-Botafogo"
-    },
-    {
-      "title": "United States v Haiti",
-      "teams": [
-        "United States",
-        "Haiti"
-      ],
-      "date": "19/11/2026",
-      "time": "00:00",
-      "tournament": "CONCACAF Nations League",
-      "channels": [
-        "Canal GOAT (Brazil)"
-      ],
-      "commentators": [
-        "luca80sp"
-      ],
-      "match_url": "https://icdb.tv/match/337372-United-States-v-Haiti"
     },
     {
       "title": "Flamengo v Athletico Paranaense",
@@ -125,7 +189,11 @@
       "tournament": "Brazilian Série A",
       "channels": [
         "Premiere (Brazil)",
+        "Rádio CBN",
+        "Rádio Jovem Pan",
+        "Rádio Roquette-Pinto",
         "Rádio TMC Curitiba",
+        "Rádio TMC Rio",
         "Rádio Tupi",
         "SporTV 4K (Brazil)",
         "SporTV Brazil HD"
@@ -145,11 +213,16 @@
       "time": "23:30",
       "tournament": "Brazilian Série A",
       "channels": [
+        "ECDF 4 en Vivo ($/geo/R)",
         "Energia 97",
         "Premiere (Brazil)",
         "Rede 98",
         "Rádio BandNews FM",
-        "Rádio TMC Minas"
+        "Rádio CBN",
+        "Rádio Itatiaia",
+        "Rádio Jovem Pan",
+        "Rádio TMC Minas",
+        "Win Sports"
       ],
       "commentators": [
         "luca80sp"
@@ -166,6 +239,7 @@
       "time": "23:00",
       "tournament": "Brazilian Série A",
       "channels": [
+        "Liberal+",
         "Premiere (Brazil)"
       ],
       "commentators": [
@@ -183,14 +257,112 @@
       "time": "22:30",
       "tournament": "Brazilian Série A",
       "channels": [
+        "105 FM",
+        "CazéTV",
         "Energia 97",
+        "Premiere (Brazil)",
+        "RecordTV",
         "Rádio Bandeirantes",
-        "Rádio TMC Curitiba"
+        "Rádio TMC Curitiba",
+        "Win+ Fútbol (Colombia)"
       ],
       "commentators": [
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/337366-Coritiba-v-Santos"
+    },
+    {
+      "title": "BBC Euro Leagues",
+      "date": "18/11/2026",
+      "time": "21:00",
+      "tournament": "European Football",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/337501-BBC-Euro-Leagues"
+    },
+    {
+      "title": "Juventus v Leuven",
+      "teams": [
+        "Juventus",
+        "Leuven"
+      ],
+      "date": "18/11/2026",
+      "time": "20:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Brazil [$]",
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "ESPN 4 (Brazil)",
+        "World Feed"
+      ],
+      "commentators": [
+        "ImpactPlayaz",
+        "apltle12",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337511-Juventus-v-Leuven"
+    },
+    {
+      "title": "Alianza Atlético v Melgar",
+      "teams": [
+        "Alianza Atlético",
+        "Melgar"
+      ],
+      "date": "18/11/2026",
+      "time": "20:00",
+      "tournament": "Peruvian Liga 1",
+      "channels": [
+        "L1Max (Peru)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337509-Alianza-Atltico-v-Melgar"
+    },
+    {
+      "title": "Geraldinos e Arquibaldos",
+      "date": "18/11/2026",
+      "time": "20:00",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Rádio Tupi"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/337504-Geraldinos-e-Arquibaldos"
+    },
+    {
+      "title": "Chelsea v Paris St Germain",
+      "teams": [
+        "Chelsea",
+        "Paris St Germain"
+      ],
+      "date": "18/11/2026",
+      "time": "20:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "BBC RADIO 5 LIVE",
+        "Disney+ Brazil [$]",
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "ESPN (Brazil)",
+        "World Feed",
+        "talkSPORT"
+      ],
+      "commentators": [
+        "Crowe24",
+        "ImpactPlayaz",
+        "apltle12",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335399-Chelsea-v-Paris-St-Germain"
     },
     {
       "title": "Fortuna Düsseldorf v Duisburg",
@@ -208,6 +380,62 @@
         "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/337333-Fortuna-Dsseldorf-v-Duisburg"
+    },
+    {
+      "title": "London City Lionesses v Brighton H.A.",
+      "teams": [
+        "London City Lionesses",
+        "Brighton H.A."
+      ],
+      "date": "18/11/2026",
+      "time": "19:00",
+      "tournament": "English WSL PLayers Cup",
+      "channels": [
+        "YouTube: Barclays Women's Super League"
+      ],
+      "commentators": [
+        "AndyRoo_0860"
+      ],
+      "match_url": "https://icdb.tv/match/337231-London-City-Lionesses-v-Brighton-HA"
+    },
+    {
+      "title": "Nottingham Forest v Liverpool",
+      "teams": [
+        "Nottingham Forest",
+        "Liverpool"
+      ],
+      "date": "18/11/2026",
+      "time": "19:00",
+      "tournament": "English WSL PLayers Cup",
+      "channels": [
+        "All Red Video ($/geo/R)",
+        "Forest TV ($/geo/R)",
+        "LFC TV HD",
+        "YouTube: Liverpool FC"
+      ],
+      "commentators": [
+        "AndyRoo_0860",
+        "RussVMedia"
+      ],
+      "match_url": "https://icdb.tv/match/337230-Nottingham-Forest-v-Liverpool"
+    },
+    {
+      "title": "Manchester United v Everton",
+      "teams": [
+        "Manchester United",
+        "Everton"
+      ],
+      "date": "18/11/2026",
+      "time": "19:00",
+      "tournament": "English WSL PLayers Cup",
+      "channels": [
+        "MUTV / HD",
+        "YouTube: Manchester United Women"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/337229-Manchester-United-v-Everton"
     },
     {
       "title": "talkSPORT Kick Off",
@@ -250,12 +478,81 @@
       "time": "17:45",
       "tournament": "UEFA Womens Champions League",
       "channels": [
+        "World Feed",
+        "UEFA (highlights)",
+        "City+",
+        "beIN Sports MENA English 2 HD",
+        "beIN Sports Malaysia 3 HD",
+        "Recast: Manchester City [$]",
+        "YouTube: ESPN Brasil",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "Disney+ Europe (€/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz",
+        "Mikhail17",
+        "apltle12",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335397-BK-Hcken-v-Manchester-City"
+    },
+    {
+      "title": "Real Madrid v Inter Milan",
+      "teams": [
+        "Real Madrid",
+        "Inter Milan"
+      ],
+      "date": "18/11/2026",
+      "time": "17:45",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "World Feed",
+        "Esport3 (Catalunya)",
+        "ESPN 4 (Brazil)",
+        "3Cat (geo/R)",
+        "Disney+ Brazil [$]",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ España (€/geo/R)"
+      ],
+      "commentators": [
+        "ImpactPlayaz",
+        "apltle12",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/335396-Real-Madrid-v-Inter-Milan"
+    },
+    {
+      "title": "Disney+ UWCL: The Hangout",
+      "date": "18/11/2026",
+      "time": "17:00",
+      "tournament": "UEFA Womens Champions League",
+      "channels": [
+        "Disney+ Europe (€/geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
+        "YouTube: ESPN UK"
+      ],
+      "commentators": [
+        "ImpactPlayaz"
+      ],
+      "match_url": "https://icdb.tv/match/337502-Disney-UWCL-The-Hangout"
+    },
+    {
+      "title": "Nicaragua v Montserrat",
+      "teams": [
+        "Nicaragua",
+        "Montserrat"
+      ],
+      "date": "18/11/2026",
+      "time": "03:00",
+      "tournament": "CONCACAF Nations League",
+      "channels": [
         "World Feed"
       ],
       "commentators": [
         "apltle12"
       ],
-      "match_url": "https://icdb.tv/match/335397-BK-Hcken-v-Manchester-City"
+      "match_url": "https://icdb.tv/match/336506-Nicaragua-v-Montserrat"
     },
     {
       "title": "Mexico v Jamaica",
@@ -270,11 +567,15 @@
         "Amazon Prime Mexico [$]",
         "Azteca 7",
         "Canal 5 Mexico HD",
-        "ClaroSports(Mexico)",
-        "TUDN Español USA",
-        "Univision USA"
+        "Claro Sports (Mexico)",
+        "TUDN (usa)",
+        "Univision USA",
+        "World Feed",
+        "YouTube: Plaza Sports"
       ],
       "commentators": [
+        "Beaty",
+        "apltle12",
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/337350-Mexico-v-Jamaica"
@@ -295,6 +596,47 @@
         "luca80sp"
       ],
       "match_url": "https://icdb.tv/match/337344-America-Cali-v-Inter-Bogot"
+    },
+    {
+      "title": "El Salvador v St Martin",
+      "teams": [
+        "El Salvador",
+        "St Martin"
+      ],
+      "date": "18/11/2026",
+      "time": "01:00",
+      "tournament": "CONCACAF Nations League",
+      "channels": [
+        "World Feed"
+      ],
+      "commentators": [
+        "apltle12"
+      ],
+      "match_url": "https://icdb.tv/match/336504-El-Salvador-v-St-Martin"
+    },
+    {
+      "title": "United States v Haiti",
+      "teams": [
+        "United States",
+        "Haiti"
+      ],
+      "date": "18/11/2026",
+      "time": "00:00",
+      "tournament": "CONCACAF Nations League",
+      "channels": [
+        "Canal GOAT (Brazil)",
+        "HBO Max USA [$] (geo/R)",
+        "TBS USA",
+        "World Feed",
+        "truTV (USA)"
+      ],
+      "commentators": [
+        "AndyRoo_0860",
+        "Beaty",
+        "apltle12",
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337372-United-States-v-Haiti"
     },
     {
       "title": "Bragantino v Corinthians",
@@ -434,6 +776,19 @@
       "match_url": "https://icdb.tv/match/337365-Santos-v-So-Paulo"
     },
     {
+      "title": "Geraldinos e Arquibaldos",
+      "date": "17/11/2026",
+      "time": "20:00",
+      "tournament": "Brazilian Série A",
+      "channels": [
+        "Rádio Tupi"
+      ],
+      "commentators": [
+        "Mikhail17"
+      ],
+      "match_url": "https://icdb.tv/match/337503-Geraldinos-e-Arquibaldos"
+    },
+    {
       "title": "St Kitts & Nevis v Bonaire",
       "teams": [
         "St Kitts & Nevis",
@@ -510,26 +865,26 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "beIN Sports Australia 2 HD",
-        "Amazon Prime UK [$]",
-        "NRK Sport",
         "Amazon Prime Video Sport UK (Highlights)",
+        "SuperSport MáXimo 2A HD",
+        "DAZN Schweiz [$] (geo/R)",
+        "ESPN (Brazil)",
+        "NRK Sport",
+        "DAZN (highlights)",
+        "Cambodia",
+        "UEFA.TV [online] (geo/R)",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Canada ($/geo/R)",
+        "UEFA (highlights)",
+        "Disney+ Brazil [$]",
+        "Fubo Sports USA ($/geo/R)",
         "SuperSport Football Plus HD",
         "FOX ONE (USA) [$] (geo/R)",
-        "MONOMAX (Thailand",
-        "ESPN (Brazil)",
-        "Disney+ Brazil [$]",
-        "DAZN (highlights)",
-        "Laos) [$] (geo/R)",
-        "World Feed",
-        "TV2 Play Norge ($/geo/R)",
-        "SuperSport MáXimo 2A HD",
-        "UEFA (highlights)",
         "Fox Sports 1 USA HD",
         "DAZN 1 Bar Deutsch HD",
-        "FlashScore App",
-        "UEFA.TV [online] (geo/R)",
-        "DAZN Schweiz [$] (geo/R) and5more channels"
+        "TV2 Direkte Norge HD",
+        "TV2 Play Norge ($/geo/R)",
+        "FlashScore App and5more channels"
       ],
       "commentators": [
         "Bksm",
@@ -550,26 +905,26 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "FlashScore (audio)",
-        "BBC One Northern Ireland HD",
-        "Flashscore UK",
-        "BBC Sounds APP",
-        "Virgin Media Three",
-        "BBC Radio Ulster",
-        "DAZN Canada ($/geo/R)",
-        "MONOMAX (Thailand",
-        "SuperSport Action HD",
-        "FOX ONE (USA) [$] (geo/R)",
-        "BBC RADIO 5 LIVE",
-        "BBC Three HD",
         "Virgin Media Play (geo/R)",
-        "UEFA (highlights)",
-        "Fox Sports 2 USA HD",
-        "Cambodia",
-        "BBC iPlayer (geo/R)",
+        "BBC Sounds APP",
+        "BBC Sport NI Online",
+        "MONOMAX (Thailand",
         "World Feed",
-        "BBC Sport Online (Audio)",
-        "BBC (highlights) and8more channels"
+        "FlashScore (audio)",
+        "SuperSport Action HD",
+        "Laos) [$] (geo/R)",
+        "UEFA (highlights)",
+        "BBC One Northern Ireland HD",
+        "BBC (highlights)",
+        "BBC RADIO 5 LIVE",
+        "DAZN (highlights)",
+        "BBC Radio Ulster",
+        "BBC Three HD",
+        "BBC iPlayer (geo/R)",
+        "UEFA.TV [online] (geo/R)",
+        "Fubo Sports USA ($/geo/R)",
+        "Cambodia",
+        "DAZN Canada ($/geo/R) and8more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -589,26 +944,26 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "Laos) [$] (geo/R)",
-        "RTÉ 2 Ireland / HD",
-        "Amazon Prime UK [$]",
-        "DAZN Canada ($/geo/R)",
-        "RTÉ Player (geo/R)",
         "World Feed",
+        "Amazon Prime UK [$]",
         "Off the Ball",
-        "SuperSport Extra HD",
-        "Newstalk 106-108FM",
-        "DAZN (highlights)",
-        "Fubo Sports USA ($/geo/R)",
-        "Flashscore UK",
-        "MONOMAX (Thailand",
-        "Megogo Futbol 8 ($/geo/R)",
-        "UEFA (highlights)",
         "FlashScore (audio)",
-        "Cambodia",
-        "FlashScore App",
+        "Amazon Prime Video Sport UK (Highlights)",
+        "Megogo Futbol 8 ($/geo/R)",
+        "DAZN Canada ($/geo/R)",
+        "UEFA.TV [online] (geo/R)",
+        "DAZN (highlights)",
+        "Newstalk 106-108FM",
+        "SuperSport Extra HD",
+        "Flashscore UK",
         "RTÉ News",
-        "UEFA.TV [online] (geo/R) and2more channels"
+        "Fubo Sports USA ($/geo/R)",
+        "SuperSport 2 Albania HD",
+        "Laos) [$] (geo/R)",
+        "UEFA (highlights)",
+        "RTÉ 2 Ireland / HD",
+        "Cambodia",
+        "MONOMAX (Thailand and2more channels"
       ],
       "commentators": [
         "Crowe24",
@@ -629,26 +984,26 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
+        "DAZN (highlights)",
+        "beIN Sports MENA English 2 HD",
+        "Cambodia",
+        "MONOMAX (Thailand",
         "DAZN Canada ($/geo/R)",
+        "FlashScore App",
+        "geo/R)",
+        "UEFA (highlights)",
+        "DAZN Schweiz [$] (geo/R)",
         "ESPN 4 (Brazil)",
         "Disney+ Brazil [$]",
-        "Laos) [$] (geo/R)",
-        "UEFA.TV [online] (geo/R)",
-        "SuperSport Extra 2",
-        "World Feed",
-        "MONOMAX (Thailand",
-        "beIN Sports MENA English 2 HD",
-        "Fubo Sports USA ($/geo/R)",
-        "Amazon Prime US [$]",
-        "Megogo Futbol 7 ($/geo/R)",
-        "DAZN (highlights)",
         "DAZN Deutsch ($/geo/R)",
+        "UEFA.TV [online] (geo/R)",
         "DAZN Österreich [$] (delayed",
-        "FlashScore App",
-        "UEFA (highlights)",
-        "geo/R)",
+        "Amazon Prime US [$]",
+        "World Feed",
+        "Laos) [$] (geo/R)",
         "ORF 1 Austria HD",
-        "Cambodia and1more channels"
+        "Megogo Futbol 7 ($/geo/R)",
+        "SuperSport Extra 2 and1more channels"
       ],
       "commentators": [
         "Mikhail17",
@@ -733,26 +1088,26 @@
       "time": "19:45",
       "tournament": "UEFA Nations League",
       "channels": [
-        "BBC RADIO 5 LIVE",
         "DAZN 2 Bar Deutsch HD",
-        "BBC iPlayer (geo/R)",
-        "BBC Sport Online (Audio)",
-        "BBC Radio 5 Sports Extra",
-        "DAZN Canada ($/geo/R)",
-        "DAZN (highlights)",
-        "UEFA (highlights)",
+        "beIN Sports MENA English 1 HD",
         "Fubo Sports USA ($/geo/R)",
-        "SporTV Brazil HD",
-        "Laos) [$] (geo/R)",
-        "DAZN Schweiz [$] (geo/R)",
-        "BBC Sport Online",
-        "UEFA.TV [online] (geo/R)",
+        "DAZN Canada ($/geo/R)",
+        "BBC RADIO 5 LIVE",
         "MONOMAX (Thailand",
+        "BBC Radio 5 Sports Extra",
+        "BBC iPlayer (geo/R)",
+        "BBC Sounds APP",
         "SuperSport MáXimo 360",
-        "Sony Sports TEN 4 India HD",
-        "SuperSport MáXimo 1 HD",
-        "FlashScore App",
-        "BBC One Wales HD and10more channels"
+        "DAZN Schweiz [$] (geo/R)",
+        "Cambodia",
+        "UEFA (highlights)",
+        "DAZN Deutsch ($/geo/R)",
+        "BBC Radio Wales",
+        "Laos) [$] (geo/R)",
+        "DAZN (highlights)",
+        "SuperSport Premier League HD",
+        "World Feed",
+        "BBC Sport Online and10more channels"
       ],
       "commentators": [
         "Crowe24",
