@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-20T01:38:58.923460+00:00",
+  "scraped_at": "2026-11-20T13:49:26.142039+00:00",
   "source": "https://icdb.tv/",
-  "total_matches": 63,
+  "total_matches": 120,
   "matches": [
     {
       "title": "Atlético Mineiro v Boca Juniors",
@@ -34,9 +34,9 @@
       "time": "22:30",
       "tournament": "CONMEBOL Copa Sudamericana",
       "channels": [
+        "beIN Sports Australia 3 HD",
         "SBT (Brazil)",
-        "beIN Connect USA",
-        "beIN Sports Australia 3 HD"
+        "beIN Connect USA"
       ],
       "commentators": [
         "Mikhail17"
@@ -83,11 +83,15 @@
       "time": "20:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Disney+ UK & Ireland (£/€/geo/R)",
         "LaLiga TV International HD",
-        "Disney+ UK & Ireland (£/€/geo/R)"
+        "World Feed"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/336057-Real-Madrid-v-Celta-Vigo"
     },
@@ -104,12 +108,53 @@
         "BBC Radio 5 Sports Extra 2",
         "BBC Radio Scotland Extra",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Sport Online (Audio)",
+        "Sky Sports Football HD",
+        "Sky Sports News / HD"
       ],
       "commentators": [
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/335915-Motherwell-v-Rangers"
+    },
+    {
+      "title": "Lille v Lyon",
+      "teams": [
+        "Lille",
+        "Lyon"
+      ],
+      "date": "21/11/2026",
+      "time": "19:45",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335909-Lille-v-Lyon"
+    },
+    {
+      "title": "Napoli v Torino",
+      "teams": [
+        "Napoli",
+        "Torino"
+      ],
+      "date": "21/11/2026",
+      "time": "19:45",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN Playmakers Italia",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335908-Napoli-v-Torino"
     },
     {
       "title": "Sion v Servette",
@@ -130,6 +175,43 @@
       "match_url": "https://icdb.tv/match/336173-Sion-v-Servette"
     },
     {
+      "title": "St Pauli v Bochum",
+      "teams": [
+        "St Pauli",
+        "Bochum"
+      ],
+      "date": "21/11/2026",
+      "time": "19:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Nitro (Schweiz)",
+        "Nitro Deutschland HD",
+        "Nitro Österreich",
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335907-St-Pauli-v-Bochum"
+    },
+    {
+      "title": "Empoli v Pisa",
+      "teams": [
+        "Empoli",
+        "Pisa"
+      ],
+      "date": "21/11/2026",
+      "time": "18:30",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335829-Empoli-v-Pisa"
+    },
+    {
       "title": "Dundee v Hearts",
       "teams": [
         "Dundee",
@@ -139,10 +221,10 @@
       "time": "17:45",
       "tournament": "Scottish Premiership",
       "channels": [
-        "BBC Radio 5 Sports Extra 2",
-        "BBC Radio Scotland Extra",
         "BBC Sounds APP",
-        "BBC Sport Online (Audio)"
+        "BBC Radio Scotland Extra",
+        "BBC Sport Online (Audio)",
+        "BBC Radio 5 Sports Extra 2"
       ],
       "commentators": [
         "SonnyCorry"
@@ -159,6 +241,8 @@
       "time": "17:30",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
         "LaLiga TV International HD",
         "Premier Sports 2 HD",
         "Premier Sports 2 HD (ROI only)",
@@ -166,9 +250,28 @@
         "World Feed"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/336051-Sevilla-v-Real-Betis"
+    },
+    {
+      "title": "Schalke 04 v Stuttgart",
+      "teams": [
+        "Schalke 04",
+        "Stuttgart"
+      ],
+      "date": "21/11/2026",
+      "time": "17:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga HD",
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335897-Schalke-04-v-Stuttgart"
     },
     {
       "title": "Newcastle United v Arsenal",
@@ -183,18 +286,99 @@
         "Arsenal App",
         "Arsenal.com",
         "BBC RADIO 5 LIVE",
+        "BBC Radio Newcastle",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
+        "NUFC TV",
+        "Sky Sport Premier League DE HD",
+        "Sky Sports (highlights)",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
         "Sky Sports News / HD",
+        "Sky Sports Premier League HD",
         "USA Network App (USA)",
         "USA Network HD"
       ],
       "commentators": [
         "Crowe24",
         "Mikhail17",
-        "SonnyCorry"
+        "SonnyCorry",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335894-Newcastle-United-v-Arsenal"
+    },
+    {
+      "title": "Parma v Roma",
+      "teams": [
+        "Parma",
+        "Roma"
+      ],
+      "date": "21/11/2026",
+      "time": "17:00",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN 1 Italia HD",
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Italia ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC",
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335889-Parma-v-Roma"
+    },
+    {
+      "title": "Nice v Paris St Germain",
+      "teams": [
+        "Nice",
+        "Paris St Germain"
+      ],
+      "date": "21/11/2026",
+      "time": "16:15",
+      "tournament": "French Ligue 1",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335879-Nice-v-Paris-St-Germain"
+    },
+    {
+      "title": "Catanzaro v Palermo",
+      "teams": [
+        "Catanzaro",
+        "Palermo"
+      ],
+      "date": "21/11/2026",
+      "time": "16:15",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335835-Catanzaro-v-Palermo"
+    },
+    {
+      "title": "Alemannia Aachen v Waldhof Mannheim",
+      "teams": [
+        "Alemannia Aachen",
+        "Waldhof Mannheim"
+      ],
+      "date": "21/11/2026",
+      "time": "15:30",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336545-Alemannia-Aachen-v-Waldhof-Mannheim"
     },
     {
       "title": "Rayo Vallecano v Valencia",
@@ -206,12 +390,43 @@
       "time": "15:15",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "LaLiga TV International HD"
+        "LaLiga TV International HD",
+        "World Feed"
       ],
       "commentators": [
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/336050-Rayo-Vallecano-v-Valencia"
+    },
+    {
+      "title": "Goal Rush",
+      "date": "21/11/2026",
+      "time": "15:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Sky Sport Premier League DE HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/337647-Goal-Rush"
+    },
+    {
+      "title": "Grimsby Town v Rotherham United",
+      "teams": [
+        "Grimsby Town",
+        "Rotherham United"
+      ],
+      "date": "21/11/2026",
+      "time": "15:00",
+      "tournament": "English League Two",
+      "channels": [
+        "BBC Radio Humberside"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/337636-Grimsby-Town-v-Rotherham-United"
     },
     {
       "title": "Celtic v St Mirren",
@@ -250,6 +465,42 @@
       "match_url": "https://icdb.tv/match/337165-Hibernian-v-Dundee-United"
     },
     {
+      "title": "Aldershot v Scunthorpe United",
+      "teams": [
+        "Aldershot",
+        "Scunthorpe United"
+      ],
+      "date": "21/11/2026",
+      "time": "15:00",
+      "tournament": "English National League 1",
+      "channels": [
+        "BBC Radio Humberside (DAB)",
+        "BBC Sounds APP",
+        "BBC Sport Online (Audio)"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/336394-Aldershot-v-Scunthorpe-United"
+    },
+    {
+      "title": "Bolton Wanderers v Portsmouth",
+      "teams": [
+        "Bolton Wanderers",
+        "Portsmouth"
+      ],
+      "date": "21/11/2026",
+      "time": "15:00",
+      "tournament": "English Championship",
+      "channels": [
+        "BBC Radio Manchester"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/336279-Bolton-Wanderers-v-Portsmouth"
+    },
+    {
       "title": "Bournemouth v Nottingham Forest",
       "teams": [
         "Bournemouth",
@@ -264,10 +515,11 @@
         "Hub Premier 4 HD ($/geo/R)",
         "MONOMAX (Thailand",
         "Cambodia",
-        "Laos) [$] (geo/R)",
+        "Laos)  [$] (geo/R)",
         "NBCSN",
         "Peacock USA ($/geo/R)",
         "Premier League+ (Singapore)",
+        "Sky Sport MIX Deutsch HD",
         "Sky Sport Select NZ HD",
         "Sky Sports (highlights)",
         "Sky Sports News / HD",
@@ -276,7 +528,8 @@
       ],
       "commentators": [
         "Mikhail17",
-        "SonnyCorry"
+        "SonnyCorry",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335856-Bournemouth-v-Nottingham-Forest"
     },
@@ -290,11 +543,13 @@
       "time": "15:00",
       "tournament": "English Premier League",
       "channels": [
+        "Sky Sports News / HD",
         "USA Network App (USA)",
         "USA Network HD"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/335855-Tottenham-Hotspur-v-Ipswich-Town"
     },
@@ -311,6 +566,7 @@
         "BBC RADIO 5 LIVE",
         "BBC Sounds APP",
         "BBC Sport Online (Audio)",
+        "LUTV ($/geo/R)",
         "NBCSN",
         "Peacock USA ($/geo/R)"
       ],
@@ -329,9 +585,11 @@
       "time": "15:00",
       "tournament": "English Premier League",
       "channels": [
+        "BBC Radio Newcastle",
         "Sky Sports News / HD"
       ],
       "commentators": [
+        "Crowe24",
         "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/335853-Aston-Villa-v-Sunderland"
@@ -395,16 +653,37 @@
       "time": "14:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
+        "DAZN Bundesliga-Konferenz",
         "DAZN Canada ($/geo/R)",
         "Fandango",
+        "Sky Sport Bundesliga 4 HD",
         "Sky Sports (highlights)",
         "World Feed"
       ],
       "commentators": [
         "HWP",
-        "Mikhail17"
+        "Mikhail17",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335841-Union-Berlin-v-RB-Leipzig"
+    },
+    {
+      "title": "Bayer Leverkusen v Paderborn",
+      "teams": [
+        "Bayer Leverkusen",
+        "Paderborn"
+      ],
+      "date": "21/11/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Bundesliga-Konferenz",
+        "Sky Sport Bundesliga 2 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335840-Bayer-Leverkusen-v-Paderborn"
     },
     {
       "title": "Mönchengladbach v Borussia Dortmund",
@@ -416,16 +695,55 @@
       "time": "14:30",
       "tournament": "German 1. Bundesliga",
       "channels": [
+        "DAZN Bundesliga-Konferenz",
         "DAZN Canada ($/geo/R)",
         "Fandango",
+        "Sky Sport Bundesliga HD",
         "Sky Sports (highlights)",
         "World Feed"
       ],
       "commentators": [
         "Crowe24",
-        "Mikhail17"
+        "Mikhail17",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/335839-Mnchengladbach-v-Borussia-Dortmund"
+    },
+    {
+      "title": "Eintracht Frankfurt v Hoffenheim",
+      "teams": [
+        "Eintracht Frankfurt",
+        "Hoffenheim"
+      ],
+      "date": "21/11/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Bundesliga-Konferenz",
+        "Sky Sport Bundesliga 3 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335838-Eintracht-Frankfurt-v-Hoffenheim"
+    },
+    {
+      "title": "Elversberg v Freiburg",
+      "teams": [
+        "Elversberg",
+        "Freiburg"
+      ],
+      "date": "21/11/2026",
+      "time": "14:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Bundesliga-Konferenz",
+        "Sky Sport Bundesliga 5 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335837-Elversberg-v-Freiburg"
     },
     {
       "title": "São Paulo v Santos",
@@ -462,6 +780,95 @@
       "match_url": "https://icdb.tv/match/336447-OPEN-ALL-MICS"
     },
     {
+      "title": "Carrarese v Virtus Entella",
+      "teams": [
+        "Carrarese",
+        "Virtus Entella"
+      ],
+      "date": "21/11/2026",
+      "time": "14:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335834-Carrarese-v-Virtus-Entella"
+    },
+    {
+      "title": "SüdTirol v Cremonese",
+      "teams": [
+        "SüdTirol",
+        "Cremonese"
+      ],
+      "date": "21/11/2026",
+      "time": "14:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335833-SdTirol-v-Cremonese"
+    },
+    {
+      "title": "Modena v Juve Stabia",
+      "teams": [
+        "Modena",
+        "Juve Stabia"
+      ],
+      "date": "21/11/2026",
+      "time": "14:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335832-Modena-v-Juve-Stabia"
+    },
+    {
+      "title": "Ascoli v LR Vicenza",
+      "teams": [
+        "Ascoli",
+        "LR Vicenza"
+      ],
+      "date": "21/11/2026",
+      "time": "14:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335828-Ascoli-v-LR-Vicenza"
+    },
+    {
+      "title": "Sampdoria v Benevento",
+      "teams": [
+        "Sampdoria",
+        "Benevento"
+      ],
+      "date": "21/11/2026",
+      "time": "14:00",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335826-Sampdoria-v-Benevento"
+    },
+    {
       "title": "Como 1907 v Cagliari",
       "teams": [
         "Como 1907",
@@ -471,12 +878,158 @@
       "time": "14:00",
       "tournament": "Italian Serie A",
       "channels": [
-        "Como TV ($/geo/R)"
+        "Como TV ($/geo/R)",
+        "DAZN 2 Italia HD",
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie A - DAZN Italia"
       ],
       "commentators": [
+        "Guest-SC",
         "Mikhail17"
       ],
       "match_url": "https://icdb.tv/match/335822-Como-1907-v-Cagliari"
+    },
+    {
+      "title": "Lazio v Lecce",
+      "teams": [
+        "Lazio",
+        "Lecce"
+      ],
+      "date": "21/11/2026",
+      "time": "14:00",
+      "tournament": "Italian Serie A",
+      "channels": [
+        "DAZN 1 Italia HD",
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie A - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335821-Lazio-v-Lecce"
+    },
+    {
+      "title": "- DAZN IT - v - ZONA SERIE B -",
+      "teams": [
+        "- DAZN IT -",
+        "- ZONA SERIE B -"
+      ],
+      "date": "21/11/2026",
+      "time": "13:55",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Italia ($/geo/R)",
+        "Zona Gol Serie B - DAZN Italia"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/337633-DAZN-IT-v-ZONA-SERIE-B"
+    },
+    {
+      "title": "- MAGENTA SPORT - v - KONFERENZ -",
+      "teams": [
+        "- MAGENTA SPORT -",
+        "- KONFERENZ -"
+      ],
+      "date": "21/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/337644-MAGENTA-SPORT-v-KONFERENZ"
+    },
+    {
+      "title": "- DAZN DE - v - KONFERENZ -",
+      "teams": [
+        "- DAZN DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "21/11/2026",
+      "time": "13:00",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/337640-DAZN-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Hoffenheim II v Preußen Münster",
+      "teams": [
+        "Hoffenheim II",
+        "Preußen Münster"
+      ],
+      "date": "21/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336538-Hoffenheim-II-v-Preuen-Mnster"
+    },
+    {
+      "title": "Fortuna Cologne v Meppen",
+      "teams": [
+        "Fortuna Cologne",
+        "Meppen"
+      ],
+      "date": "21/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336537-Fortuna-Cologne-v-Meppen"
+    },
+    {
+      "title": "Fortuna Düsseldorf v Sonnenhof Großaspach",
+      "teams": [
+        "Fortuna Düsseldorf",
+        "Sonnenhof Großaspach"
+      ],
+      "date": "21/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336536-Fortuna-Dsseldorf-v-Sonnenhof-Groaspach"
+    },
+    {
+      "title": "FC Cologne v Werder Bremen",
+      "teams": [
+        "FC Cologne",
+        "Werder Bremen"
+      ],
+      "date": "21/11/2026",
+      "time": "13:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336393-FC-Cologne-v-Werder-Bremen"
     },
     {
       "title": "Alavés v Deportivo A Coruña",
@@ -488,14 +1041,50 @@
       "time": "13:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
-        "Premier Sports 1 HD",
         "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports 1 HD",
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
         "ImpactPlayaz"
       ],
       "match_url": "https://icdb.tv/match/336049-Alavs-v-Deportivo-A-Corua"
+    },
+    {
+      "title": "Jahn Regensburg v Würzburger Kickers",
+      "teams": [
+        "Jahn Regensburg",
+        "Würzburger Kickers"
+      ],
+      "date": "21/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "BR Fernsehen HD",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335805-Jahn-Regensburg-v-Wrzburger-Kickers"
+    },
+    {
+      "title": "SC Verl v Rot-Weiss Essen",
+      "teams": [
+        "SC Verl",
+        "Rot-Weiss Essen"
+      ],
+      "date": "21/11/2026",
+      "time": "13:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335804-SC-Verl-v-RotWeiss-Essen"
     },
     {
       "title": "Millwall v Queens Park Rangers",
@@ -509,8 +1098,8 @@
       "channels": [
         "Sky Sports Football HD",
         "Sky Sports Main Event HD",
-        "Sky Sports Main Event UHD",
-        "World Feed"
+        "World Feed",
+        "Sky Sports Main Event UHD"
       ],
       "commentators": [
         "Mikhail17",
@@ -528,8 +1117,30 @@
       "time": "12:30",
       "tournament": "English Premier League",
       "channels": [
+        "HBO Max (uk only) [$/geo/R]",
+        "TNT Sports (highlights)",
+        "TNT Sports 1 HD (UK)",
+        "TNT Sports Ultimate 4K (UK)"
+      ],
+      "commentators": [
+        "Crowe24",
+        "SonnyCorry"
+      ],
+      "match_url": "https://icdb.tv/match/335785-Manchester-City-v-Fulham"
+    },
+    {
+      "title": "Manchester City v Fulham",
+      "teams": [
+        "Manchester City",
+        "Fulham"
+      ],
+      "date": "21/11/2026",
+      "time": "12:30",
+      "tournament": "English Premier League",
+      "channels": [
         "City+",
         "Recast: Manchester City [$]",
+        "Sky Sport Premier League DE HD",
         "USA Network App (USA)",
         "USA Network HD",
         "YouTube: Man City",
@@ -539,7 +1150,8 @@
       ],
       "commentators": [
         "Crowe24",
-        "apltle12"
+        "apltle12",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/334739-Manchester-City-v-Fulham"
     },
@@ -575,6 +1187,164 @@
       "match_url": "https://icdb.tv/match/337567-Sky-Soccer-Saturday"
     },
     {
+      "title": "Nuremberg v Braunschweig",
+      "teams": [
+        "Nuremberg",
+        "Braunschweig"
+      ],
+      "date": "21/11/2026",
+      "time": "12:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 5 HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335780-Nuremberg-v-Braunschweig"
+    },
+    {
+      "title": "Hannover 96 v Greuther Fürth",
+      "teams": [
+        "Hannover 96",
+        "Greuther Fürth"
+      ],
+      "date": "21/11/2026",
+      "time": "12:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 4 HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335779-Hannover-96-v-Greuther-Frth"
+    },
+    {
+      "title": "Wolfsburg v Holstein Kiel",
+      "teams": [
+        "Wolfsburg",
+        "Holstein Kiel"
+      ],
+      "date": "21/11/2026",
+      "time": "12:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 3 HD",
+        "Sky Sport Germany Konferenz"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335778-Wolfsburg-v-Holstein-Kiel"
+    },
+    {
+      "title": "- SKY DE - v - KONFERENZ -",
+      "teams": [
+        "- SKY DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "21/11/2026",
+      "time": "11:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/337641-SKY-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Eintracht Frankfurt v Hamburg",
+      "teams": [
+        "Eintracht Frankfurt",
+        "Hamburg"
+      ],
+      "date": "21/11/2026",
+      "time": "11:00",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336169-Eintracht-Frankfurt-v-Hamburg"
+    },
+    {
+      "title": "Deportivo Cali v Millonarios",
+      "teams": [
+        "Deportivo Cali",
+        "Millonarios"
+      ],
+      "date": "21/11/2026",
+      "time": "01:40",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337659-Deportivo-Cali-v-Millonarios"
+    },
+    {
+      "title": "Bucaramanga v America Cali",
+      "teams": [
+        "Bucaramanga",
+        "America Cali"
+      ],
+      "date": "20/11/2026",
+      "time": "23:35",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337658-Bucaramanga-v-America-Cali"
+    },
+    {
+      "title": "Vélez Sarsfield v Belgrano",
+      "teams": [
+        "Vélez Sarsfield",
+        "Belgrano"
+      ],
+      "date": "20/11/2026",
+      "time": "23:00",
+      "tournament": "Argentinean Primera División",
+      "channels": [
+        "TNT Sports Premium (Argentina)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337661-Vlez-Sarsfield-v-Belgrano"
+    },
+    {
+      "title": "Independiente Medellín v Independiente Santa Fé",
+      "teams": [
+        "Independiente Medellín",
+        "Independiente Santa Fé"
+      ],
+      "date": "20/11/2026",
+      "time": "21:30",
+      "tournament": "Colombian Primera A",
+      "channels": [
+        "Win+ Fútbol (Colombia)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337657-Independiente-Medelln-v-Independiente-Santa-F"
+    },
+    {
       "title": "Athletic Bilbao v Espanyol",
       "teams": [
         "Athletic Bilbao",
@@ -584,13 +1354,17 @@
       "time": "20:00",
       "tournament": "Spanish La Liga (Primera)",
       "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "LaLiga TV International HD",
         "Premier Sports 1 HD",
         "Premier Sports 1 HD (ROI only)",
-        "LaLiga TV International HD",
-        "Premier Sports Player UK (£/geo/R)"
+        "Premier Sports Player UK (£/geo/R)",
+        "World Feed"
       ],
       "commentators": [
-        "ImpactPlayaz"
+        "ImpactPlayaz",
+        "kurtogen"
       ],
       "match_url": "https://icdb.tv/match/336048-Athletic-Bilbao-v-Espanyol"
     },
@@ -604,12 +1378,52 @@
       "time": "20:00",
       "tournament": "English League One",
       "channels": [
+        "Sky Sports Football HD",
+        "Sky Sports Main Event HD",
+        "Sky Sports Main Event UHD",
         "World Feed"
       ],
       "commentators": [
-        "Crowe24"
+        "Crowe24",
+        "SonnyCorry"
       ],
       "match_url": "https://icdb.tv/match/335632-Barnsley-v-Sheffield-Wednesday"
+    },
+    {
+      "title": "Hellas Verona v Cesena",
+      "teams": [
+        "Hellas Verona",
+        "Cesena"
+      ],
+      "date": "20/11/2026",
+      "time": "19:30",
+      "tournament": "Italian Serie BKT",
+      "channels": [
+        "DAZN Free Italia (geo/r)",
+        "DAZN Italia ($/geo/R)"
+      ],
+      "commentators": [
+        "Guest-SC"
+      ],
+      "match_url": "https://icdb.tv/match/335827-Hellas-Verona-v-Cesena"
+    },
+    {
+      "title": "Bayern Munich v FC Cologne",
+      "teams": [
+        "Bayern Munich",
+        "FC Cologne"
+      ],
+      "date": "20/11/2026",
+      "time": "19:30",
+      "tournament": "German 1. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga HD",
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335614-Bayern-Munich-v-FC-Cologne"
     },
     {
       "title": "Inverness CT v Ayr United",
@@ -658,6 +1472,248 @@
         "Crowe24"
       ],
       "match_url": "https://icdb.tv/match/336643-BBC-Premier-League-KickOff"
+    },
+    {
+      "title": "BBC WM Sport",
+      "date": "20/11/2026",
+      "time": "18:00",
+      "tournament": "Studio Coverage",
+      "channels": [
+        "BBC Radio WM",
+        "BBC Sounds APP"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/337646-BBC-WM-Sport"
+    },
+    {
+      "title": "TSV Havelse v Viktoria Cologne",
+      "teams": [
+        "TSV Havelse",
+        "Viktoria Cologne"
+      ],
+      "date": "20/11/2026",
+      "time": "18:00",
+      "tournament": "German 3. Liga",
+      "channels": [
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336526-TSV-Havelse-v-Viktoria-Cologne"
+    },
+    {
+      "title": "Union Berlin v Bayer Leverkusen",
+      "teams": [
+        "Union Berlin",
+        "Bayer Leverkusen"
+      ],
+      "date": "20/11/2026",
+      "time": "17:30",
+      "tournament": "German Frauen Bundesliga",
+      "channels": [
+        "DAZN Deutsch ($/geo/R)",
+        "DAZN Schweiz [$] (geo/R)",
+        "Magenta Deutsch Sport ($/geo/R)"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/336166-Union-Berlin-v-Bayer-Leverkusen"
+    },
+    {
+      "title": "Arminia Bielefeld v Magdeburg",
+      "teams": [
+        "Arminia Bielefeld",
+        "Magdeburg"
+      ],
+      "date": "20/11/2026",
+      "time": "17:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 4 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335602-Arminia-Bielefeld-v-Magdeburg"
+    },
+    {
+      "title": "Darmstadt 98 v Heidenheim",
+      "teams": [
+        "Darmstadt 98",
+        "Heidenheim"
+      ],
+      "date": "20/11/2026",
+      "time": "17:30",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Bundesliga 3 HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/335601-Darmstadt-98-v-Heidenheim"
+    },
+    {
+      "title": "Independiente del Valle v Macará",
+      "teams": [
+        "Independiente del Valle",
+        "Macará"
+      ],
+      "date": "20/11/2026",
+      "time": "17:00",
+      "tournament": "Ecuadorian Liga Pro Serie A",
+      "channels": [
+        "Mach Deportes"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337664-Independiente-del-Valle-v-Macar"
+    },
+    {
+      "title": "- SKY DE - v - KONFERENZ -",
+      "teams": [
+        "- SKY DE -",
+        "- KONFERENZ -"
+      ],
+      "date": "20/11/2026",
+      "time": "17:00",
+      "tournament": "German 2. Bundesliga",
+      "channels": [
+        "Sky Sport Top Event HD"
+      ],
+      "commentators": [
+        "kurtogen"
+      ],
+      "match_url": "https://icdb.tv/match/337639-SKY-DE-v-KONFERENZ"
+    },
+    {
+      "title": "Italy U-17 v Jamaica U-17",
+      "teams": [
+        "Italy U-17",
+        "Jamaica U-17"
+      ],
+      "date": "20/11/2026",
+      "time": "15:00",
+      "tournament": "FIFA U-17 World Cup 2026",
+      "channels": [
+        "D Sports+ (South America)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337660-Italy-U17-v-Jamaica-U17"
+    },
+    {
+      "title": "Spain U-17 v China U-17",
+      "teams": [
+        "Spain U-17",
+        "China U-17"
+      ],
+      "date": "20/11/2026",
+      "time": "14:00",
+      "tournament": "FIFA U-17 World Cup 2026",
+      "channels": [
+        "D Sports 2 (South America)"
+      ],
+      "commentators": [
+        "luca80sp"
+      ],
+      "match_url": "https://icdb.tv/match/337656-Spain-U17-v-China-U17"
+    },
+    {
+      "title": "Welcome to the Weekend",
+      "date": "20/11/2026",
+      "time": "12:00",
+      "tournament": "English Premier League",
+      "channels": [
+        "Premier League TV",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/337638-Welcome-to-the-Weekend"
+    },
+    {
+      "title": "- UNL DRAW -",
+      "date": "20/11/2026",
+      "time": "11:00",
+      "tournament": "UEFA Nations League",
+      "channels": [
+        "UEFA.com",
+        "World Feed"
+      ],
+      "commentators": [
+        "Crowe24"
+      ],
+      "match_url": "https://icdb.tv/match/337637-UNL-DRAW"
+    },
+    {
+      "title": "Vissel Kobe v Mito Hollyhock",
+      "teams": [
+        "Vissel Kobe",
+        "Mito Hollyhock"
+      ],
+      "date": "20/11/2026",
+      "time": "10:00",
+      "tournament": "Japanese J1 League",
+      "channels": [
+        "Stan Sport Australia ($/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/335584-Vissel-Kobe-v-Mito-Hollyhock"
+    },
+    {
+      "title": "Kashiwa Reysol v JEF United Chiba",
+      "teams": [
+        "Kashiwa Reysol",
+        "JEF United Chiba"
+      ],
+      "date": "20/11/2026",
+      "time": "10:00",
+      "tournament": "Japanese J1 League",
+      "channels": [
+        "Stan Sport Australia ($/geo/R)",
+        "World Feed"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/335583-Kashiwa-Reysol-v-JEF-United-Chiba"
+    },
+    {
+      "title": "Western Sydney v Adelaide United",
+      "teams": [
+        "Western Sydney",
+        "Adelaide United"
+      ],
+      "date": "20/11/2026",
+      "time": "08:40",
+      "tournament": "Australian A League",
+      "channels": [
+        "ESPN Unlimited (US)",
+        "ESPN+ USA ($/geo/R)",
+        "HBO Max (uk only) [$/geo/R]",
+        "Paramount+ AUS ($/geo/R)",
+        "SEN 1170",
+        "SEN 693",
+        "Sky Sport 3 NZ HD",
+        "TNT Sports 1 HD (UK)",
+        "World Feed",
+        "YouTube: A-Leagues (geo/R)"
+      ],
+      "commentators": [
+        "HWP"
+      ],
+      "match_url": "https://icdb.tv/match/335581-Western-Sydney-v-Adelaide-United"
     },
     {
       "title": "Seattle Sounders v Real Salt Lake",
